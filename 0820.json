@@ -5,7 +5,7 @@
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=直播文件地址base64编码"
+"proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="
 ]}]}],
 
 "sites":[
