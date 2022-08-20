@@ -714,7 +714,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 大立電視 (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華藏衛視 (1080p) [Not 24/7],http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 
-纪录片频道, #genre#
+纪录片频道,#genre#
 [BD]Animal Planet@@4,https://epg.pm/stream/7b9d48651ab225dc7fff2db64d18ad712ac659e828656416a389d3c829db937d.m3u8
 [BD]BBC EARTH,https://epg.pm/stream/184b926b1a9d8a236299a9d307ed48978e6db907dd0399c35e90ac071b9e7034.m3u8
 [BD]Animal Planet HD,https://epg.pm/stream/c3b5796451e753900ce8f3ad8cd00108813c7d4aa28a0782c0c839f3bdb97dd4.m3u8
@@ -867,7 +867,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [VGA]65號[853*480],https://epg.pm/stream/cb57c399b900ea3c52d24e78aa64f8d2bef98326099f5f73a568252a5115eda3.mkv
 [SD]Rai Storia (576p) [Geo-blocked],https://epg.pm/stream/84aa5824df811f72665d78fce62001917b35cb1faf342f99c57b5878a77d1409.htm
 
-电影频道, #genre#
+电影频道,#genre#
 [BD]AXN@@5,https://epg.pm/stream/71622e591307784f95aed7fd32067c2ae5cd0417e250f8252dac674acc08b76b.m3u8
 [BD]AXN@@4,https://epg.pm/stream/caad271a528aa9c62a067096dcd235ab9b28efe750706f965a95cff0181e30a7.m3u8
 [BD]HBO,https://epg.pm/stream/6cb2a11426ac010f2a437de8809bef60da86820d8438b1509b11b8f0efd3afb5.m3u8
@@ -900,7 +900,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [BD]AXN,https://epg.pm/stream/a59d6cb405e1534423c14dcff56b6d780a9c47a1dd94d5e225837a71ec9f8e20.m3u8
 [HD]Cinemax@@1,https://epg.pm/stream/9a98cf82d8b96fd1dc50eced7cc0dccbe1b3aa95289c6ea1b8674486a84c285c.m3u8
 
-新闻频道, #genre#
+新闻频道,#genre#
 [BD]Al Jazeera (English),https://epg.pm/stream/d18561e288165baeda595f19dc9a855256e46d449f9a946e6c62fe30b0f57e42.m3u8
 [BD]CNA,https://epg.pm/stream/c0849f17256eeb0ced9e89289cbc03181ed9c21f1a29632b4259ffe073f09119.m3u8
 [BD]CNA,https://epg.pm/stream/5efcd1c56b02a715db063151db2be5d04255022db6977a0cbea62c67b9cf6209.m3u8
@@ -962,7 +962,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [SD]CNBC@@1,https://epg.pm/stream/0a78f0f172bba5a2d3638f69c9b471257ccbd3a2eac25545ff4b58fc0a86c4f2.m3u8
 [BD]Al Jazeera,https://epg.pm/stream/6fd6e3cab8cdbb4e7eae22ce7c3341587d2c30677f2d016ee39becc207c3ebd7.m3u8
 
-中文电影频道, #genre#
+中文电影频道,#genre#
 [BD]TVB星河@@2,https://epg.pm/stream/6bd74aac4579af5cd9e6da6184ac41a4622b250cfe66366264a39b75c8e37988.m3u8
 [BD]纬来戏剧@@3,https://epg.pm/stream/eed77240b52dbb9b930eb6095e183488b03c1a1673053e002ba52495935afeca.m3u8
 [BD]黑莓电影@@29,https://epg.pm/stream/491f3f429ba14a73c2dbc92f9323fcec83e142ba4f54c6385267036ab2e55b8b.m3u8
@@ -1058,7 +1058,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [HD]蜡笔小新,https://epg.pm/stream/8d0f10c742b08b29c153a6c666d33a9b6116bfa8c6818a14a2a07154c7d3dca2.php
 [HD]成龙,https://epg.pm/stream/ace4d04fb3ddfdf8c2cdd4a74d631fe920975755cf236b61f02ba5d3b5464246.xs
 
-中文纪录片, #genre#
+中文纪录片,#genre#
 [BD]CCTV9,https://epg.pm/stream/d0f70b1a94244e8e00447a3f2337485984cafc50b052029c377453cfecb8a20b.m3u8
 [BD]幸福空間居家,https://epg.pm/stream/21e185c94b818951de92718177967c8e4c20248fe444b70af74da3acc5db5d97.m3u8
 [HD]CCTV-9记录,https://epg.pm/stream/936e325335295d188ff1bb718acaf32946c3c4ea43d4d1b9bc22a23cfb156010.m3u8
@@ -1081,7 +1081,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [SD]CCTV-9纪录@@10,https://epg.pm/stream/3837b4edd99eb1c586b602db2a621ca0a547feafc2dce70c2e87d9c4597a54f9.m3u8
 [BD]精品纪录,https://epg.pm/stream/830b441e1c23ddebd4a2e3bf9ca9ffb3e79c07382a21bde9b80fa4ccb5921792.m3u8
 
-华语新闻, #genre#
+华语新闻,#genre#
 [BD]CCTV13,https://epg.pm/stream/2a97a2345277990affff00e2e166020d279d504453416c0f808a5209417d0551.m3u8
 [BD]CCTV2@@70,https://epg.pm/stream/4c8d4ddcd06943b049efa142e81055cae0b55455d4eb5340867d54a26f798a78.m3u8
 [BD]中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
@@ -1216,7 +1216,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [HD]華視新聞資訊,https://epg.pm/stream/0252625d69b7653f37ee802a133e615b2477c6f885b90f5d730cce625e87265f.php
 [HD]TVBS新聞@@4,https://epg.pm/stream/9feb60eac49f3c025cc6395da8ac343adeac1b0f0188c99df11c595259740f9e.php
 
-英文体育, #genre#
+英文体育,#genre#
 [BD]Red Bull TV,https://epg.pm/stream/ea7699aa505e65ef49f7f7593adbc652ae2412c21134c60e55c1f2a2c6c305d3.m3u8
 [HD]Red Bull TV,https://epg.pm/stream/a42b5dfc8f49c548f7934329f742b9231a4a078aeb0fb86b1e1d0fb92d96db28.m3u8
 [BD]Red Bull TV@@2,https://epg.pm/stream/b474bd5d4d800f9d917fb3e7f07dc5860cc9d6812504caf02464201283a539d7.m3u8
@@ -1233,7 +1233,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [HD]Red Bull TV,https://epg.pm/stream/ef30b01322270572b7d80a800493aa1a8ecc4061bc49035f3164c14749823bb6.m3u8
 [VGA]50號[853*480],https://epg.pm/stream/ada1b70b2009ff99509383a9ada4390e4b1e0a682d7ad7120d8c4fb4109a024c.mkv
 
-中文体育, #genre#
+中文体育,#genre#
 [BD]北京冬奥纪实,https://epg.pm/stream/586e9e58cc1f03fc29cc8a9d8ee8d18ef5b1cae25c8eb26ac09648a48b137bff.m3u8
 [BD]新视觉,https://epg.pm/stream/605141856b9aeac269bfd752bdc43554f939eb45df2b00760054a680eb690858.m3u8
 [BD]新视觉@@3,https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
@@ -1266,7 +1266,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [BD]山东体育@@2,https://epg.pm/stream/4a89fe9fb08315e25f1dff6182c085e2b976662259c614d3d3e2a76b01dca7f5.m3u8
 [HD]智林体育台,https://epg.pm/stream/e77f21e913be392fdb3d79179cd46f298fb7ff3e1281338a2b670679c8024cbe.php
 
-日本, #genre#
+日本,#genre#
 [BD]NHK WORLD JAPAN HD,https://epg.pm/stream/316b18ca7c6c4b2d63c29e0aa3d9803e02940e9e5586c161b55b3d5deda15916.m3u8
 [BD]Shop Channel (1080p) [Not 24/7],https://epg.pm/stream/eb7ab6d74ffb3acbc79fdce327a661fab638b99a412389585da539174ba7bd40.m3u8
 [HD]CNN,https://epg.pm/stream/06d254e8b9b629bc7db8717e35cd3df8d9bc4440ca93291c200215805587c6e7.m3u8
@@ -1314,7 +1314,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [VGA]23號[853*480],https://epg.pm/stream/7150540cbd2fbf4f165df9b9d8f368b3f0dfe90d0e703da49d96aeeadeb7214a.mkv
 [SD]Fuji TV,https://epg.pm/stream/456f102655ea0f461cbac245115b8384ef189c1b4785d30286ecf6634b0be941.m3u8
 
-越南, #genre#
+越南,#genre#
 [BD]Antv@@1,https://epg.pm/stream/db411880c639ff55e03244be60143c6d0a1372e8f4db06348e57c485788a39ff.m3u8
 [SD]HTV1,https://epg.pm/stream/8e07f44fad958efe42c88fdd89adbbfe3664508751d353c01ccf5ee641033782.m3u8
 [BD]VTV9 HD@@1,https://epg.pm/stream/6d2542abd04130606ed503175f9432681acafe1d1ba6bbfa050302480a63a0ef.m3u8
