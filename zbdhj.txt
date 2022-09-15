@@ -1314,70 +1314,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 [VGA]23號[853*480],https://epg.pm/stream/7150540cbd2fbf4f165df9b9d8f368b3f0dfe90d0e703da49d96aeeadeb7214a.mkv
 [SD]Fuji TV,https://epg.pm/stream/456f102655ea0f461cbac245115b8384ef189c1b4785d30286ecf6634b0be941.m3u8
 
-越南,#genre#
-[BD]Antv@@1,https://epg.pm/stream/db411880c639ff55e03244be60143c6d0a1372e8f4db06348e57c485788a39ff.m3u8
-[SD]HTV1,https://epg.pm/stream/8e07f44fad958efe42c88fdd89adbbfe3664508751d353c01ccf5ee641033782.m3u8
-[BD]VTV9 HD@@1,https://epg.pm/stream/6d2542abd04130606ed503175f9432681acafe1d1ba6bbfa050302480a63a0ef.m3u8
-[HD]Hải Phòng+,https://epg.pm/stream/2339e7fd65d358b377b8e8bc5c638aceba83fcfc032cc7acfd67664315c17bea.m3u8
-[HD]VTC4 (720p),https://epg.pm/stream/a08a6ec36b8e765b9e421145840a0de52d1759ca24dc59ef378365c186a14ecd.m3u8
-[HD]Đồng Nai,https://epg.pm/stream/8cbde8d2916eae0815f45d31630b2bcf8815f815aad2a2da9f96fa244f78b6fb.m3u8
-[SD]HTV1,https://epg.pm/stream/d8b7cffb1c6a9e428a8f1974d79d97a0f17a05c8655a7272cfd27ab586cbc1cb.m3u8
-[SD]HTV1,https://epg.pm/stream/09286e36a70913230ca59ddd255405ffceecac86abf11de3ffe9cffba96070f2.m3u8
-[SD]LONG AN 34,https://epg.pm/stream/e727f31dcb8fdb6a531cb20ae2ecdfbac7af9292f68836c9dfcd349cd9500f6d.m3u8
-[SD]HTV3 (576p),https://epg.pm/stream/f15d8c8827c32fc17d6d1ae2b443194939deadfdde9705590aba76b4e038e6c4.m3u8
-[SD]HTV3 - DREAMS TV,https://epg.pm/stream/d6d2d087c4c3f980559c48f67d539130cfd02cf4a80d9e4f13002cda03a43afb.m3u8
-[SD]VTC2 (720p),https://epg.pm/stream/9c9fcbbd2d924b71e3189c465d175a8b72b6cedf43a800aee1ebf9a0e081c5f9.m3u8
-[BD]SCTV6,https://epg.pm/stream/50dfdd2c7c5f5aa520c6d654687d3767f8449d702f1982eb01603404eb933a3b.m3u8
-[BD]ANTV@@2,https://epg.pm/stream/eb89fdaf2c0d5154e9f0b46c0b03cb0dbe175e346b17eff91d45d73d03a641a3.m3u8
-[BD]ANTV HD,https://epg.pm/stream/f544060000baf0a47a7fe3455493a6a6a440390f1081fa46fafbfda1f221747a.m3u8
-[BD]Bạc Liêu,https://epg.pm/stream/60ac5b12519bbf1062db20a79c6928b465dce431ce13e398e99132831ca95d56.m3u8
-[BD]HTV2 HD,https://epg.pm/stream/6507e608ad999982034b15ad1ef0ba2910e9c11bc953b30ac18d8a0da27786e5.m3u8
-[BD]SCTV6 HD,https://epg.pm/stream/df4688dda249bd0bb8ec2d3d50b537fd3182889611ad412e0a30ea3097a9b344.m3u8
-[BD]LSTV,https://epg.pm/stream/15e442a1a20f16d12016bb0ac9ca505b4378baabdad90bbea469ecd13965c953.m3u8
-[BD]HTV2 HD,https://epg.pm/stream/c9749f37d61a7626ef5736b2c0df60d9092c69d4fa3dfc9b13116c6fb9cad522.m3u8
-[BD]SCTV6 HD,https://epg.pm/stream/c1bf95306ae06fd069ac3465dc6e03275c0b1bd72da3d3e96b1bb6fe602d1f6b.m3u8
-[SD]HTV1,https://epg.pm/stream/94ee826e5190d7e85fa7e8ff4e6e22ee1921a53195fb3b0f728e2a667d49f436.m3u8
-[BD]HTV2 HD - FPT,https://epg.pm/stream/0ce397ea7453670f4a083044621fe7201b975f9bc9d0e86f139e158cb7a72d04.m3u8
-[SD]HTV3,https://epg.pm/stream/276165294289e6eb2156c47a8e17ed5a8c4cd6abec2c4c225ff552ed6192b06b.m3u8
-[SD]HTV3,https://epg.pm/stream/2c8b62eb9ca819b0062494180d77530f0d47a72afb8adfa64b00e3ab03a1db61.m3u8
-[BD]VTC4,https://epg.pm/stream/b91e5c4d7c3e57732523a5041d505a7216334eabc764367db275649659fee4d5.m3u8
-[SD]HTV3,https://epg.pm/stream/788a407592cbf9f2b3616077c70eb113e882be680fc29a16c2c14ec6a9fb02b9.m3u8
-[SD]HTV3,https://epg.pm/stream/e17880976537f151758e16c584a1496d9b2caaa78326840bd9376b7da1927bbd.m3u8
-[SD]CAN THO,https://epg.pm/stream/8b45edc614b520a6c60f4170fbd8a020734778f53766540215c6126ac0a629fe.m3u8
-[BD]SCTV6 HD - Kênh Phim FILM360,https://epg.pm/stream/e0d56b5888912e56e2aecd94ef5a4f765e1f2e44f86607119dbb38d8ed30b9f6.m3u8
-[HD]Hải Phòng+,https://epg.pm/stream/487d7e5a11dc54d812f83458cbbca3d2919f0ae8cd966341f1fa7e2387716feb.m3u8
-[HD]HTV2,https://epg.pm/stream/7fa52b85edaba030842826051e0e4869d0b8bef670fb1ccafeb48883363451d9.m3u8
-[SD]HTV1,https://epg.pm/stream/1955d2b317a906f09e121e9a9a6f3ce72e4c40f3e417e24d93490cfcbdd50adc.m3u8
-[HD]VTC4@@2,https://epg.pm/stream/bfc4d60077e48ca0ec83226170d897df2702ceae7633d7cd94f2b70cfe5dfbbc.m3u8
-[HD]GIA LAI,https://epg.pm/stream/5ae9d063bb3ab69b8cc04e1ba09514c5ed2f16f53d7afc8708c426c48aeec6e2.m3u8
-[HD]GIA LAI,https://epg.pm/stream/8f5d6ae94d4e1ffb219345d70d45c4036144a37d54a864011c954388a0cfce24.m3u8
-[HD]HTV2,https://epg.pm/stream/07a40fc4b92b43de5e5cf13fa2eb6667263a13398d843f7444984a8497f7e7f3.m3u8
-[SD]HTV1 (576p),https://epg.pm/stream/37a964b32024d385c55482a93d8b739db49a6ab3158605b0cb1f5c4d2ce0f4f7.m3u8
-[BD]VTV9,https://epg.pm/stream/160f727726e768977fcc99295796121ef43074076ccbaaebd3debf43f072f513.m3u8
-[SD]CAN THO,https://epg.pm/stream/0b11502b647753fdcd0d30a951a7ab2ffcbf07d6a9db6277ccc0f17a343801bc.m3u8
-[SD]HTV3,https://epg.pm/stream/70e1cabd35b1c7452b738bd17a0e4473c3db03fb325e587ffe1a4434d36ee0bf.m3u8
-[SD]HTV4,https://epg.pm/stream/074a488b1603125224af4e7f55130f23fc6f9a4dd28b528aac8665160724fa19.m3u8
-[SD]VTC6,https://epg.pm/stream/3872d278bbe4dbe7f424a99726d02e502bd6a7e26c28f0c43b814fd81812ccbf.m3u8
-[SD]VTC5,https://epg.pm/stream/23718190d0abca00c002272fd079db670765f6414562bfdcaac1c078df8f39b5.m3u8
-[SD]LONG AN 34,https://epg.pm/stream/4fea3f7afe5330f1405cc6c9a007f1b9170c4cd885eedd60cf0630688e16ac53.m3u8
-[SD]VTC7 - TODAY TV HD,https://epg.pm/stream/46e3d9c06e58df7340ff01a2224de3f0dbcf0e094fe0e79e96a9aaf8e1c7a54d.m3u8
-[SD]VTC7,https://epg.pm/stream/aa93874e1293c6e05666ce1495be80434340e48813c7339609aa65cc2c8727c3.m3u8
-[SD]HTV4 (576p),https://epg.pm/stream/6b20224821934d829f433da6a3c5459a56e3beb1cdbc43eb47a4c42a19fc1640.m3u8
-[SD]HTV3,https://epg.pm/stream/e54ff0611999e87660fc6e13994e1287a31933520144b88650f4b4b8f520a35f.m3u8
-[SD]HTV4,https://epg.pm/stream/5189063c652703d4f065a15ff8e5bfb84b3870406b6dc2de4d4e6f3a16c9210a.m3u8
-[SD]HTV4,https://epg.pm/stream/e74569c08accaff89c92a5f23f951c5dd0d91d11e2cbc1e4c5a77b6ead0db1b1.m3u8
-[SD]SCTV8 - ViTV,https://epg.pm/stream/df160b7996e2323408278cff5b30fe34bf2000d72150b7c76b8a63089202a591.m3u8
-[SD]SCTV8 - ViTV,https://epg.pm/stream/3225ed7edd19820c5efbec1b73299f5e6b6cca6e32ae96a3e0f0830316e08a27.m3u8
-[SD]VTC5 (576p),https://epg.pm/stream/1656e7c4a40502f8ae6637e8aff3bebd875fe38b2a81873441aff8deeb5e9f53.m3u8
-[SD]VTC8,https://epg.pm/stream/2db228b436b4532299dd71af2a66ec63fb22c4e7a5a0b74b97e287e6c39ea00d.m3u8
-[SD]HTV4,https://epg.pm/stream/13bb42a8df51b3207a6c374e41c0c5e94133c5b1e3facca39c9686961eb74dfc.m3u8
-[SD]K+ (Indonesian subtitle) (576p),https://epg.pm/stream/1c29e0a0f597e22b3e6239a8ef6b9337295aef207dd49408d00034604540b744.m3u8
-[SD]VTC6 (576p),https://epg.pm/stream/ec8cf279dbf99ed1692e8fc1d47d2755addddea56acb8e5a96f909070d3e9bab.m3u8
-[VGA]ANTV (480p) [Geo-blocked],https://epg.pm/stream/640448cc5e5e54509c064391d2e0976decc13c489f5d63d0eecf027bfb77dcfc.m3u8
-[VGA]TN2 HD • KHOA GIÁO & GIẢI TRÍ,https://epg.pm/stream/60a815bf2639d06e6945b4f98664d60b3552ff89afe639dbb801116f4394bd8d.m3u8
-[SD]VTC2,https://epg.pm/stream/8f611346677654b266ec4defa1d44df75ec7075c6384f73177b624016021a54e.m3u8
-[SD]Antv@@1,https://epg.pm/stream/e5b843f19357c3c1af4e8182b9737496d08acf85c8d9fad3ccc2ca6b833d0b87.m3u8
-
 
 ❤️央视频道,#genre#
 CCTV-1,http://39.135.32.236:6610/PLTV/77777777/224/3221225654/index.m3u8?
@@ -5416,6 +5352,8 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
 🎈韩国频道,#genre#
+TVN,http://appleiptv.com:80/3903/3903/16978
+TVN_Movies,http://appleiptv.com:80/3903/3903/16979
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -6426,6 +6364,658 @@ Pluto (US) Wings (D),http://appleiptv.com:80/3903/3903/162840
 Pluto (US) World Poker Tour (D),http://appleiptv.com:80/3903/3903/162842
 Pluto (US) Yu-Gi-Oh (D),http://appleiptv.com:80/3903/3903/162843
 
+📺｜US-2,#genre#
+US: NBC HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217635
+US: ABC HARTFORD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199125
+US: NBC BUFFALO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199132
+US: NBC CHARLOTTE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199131
+US: NBC CHICAGO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199130
+US: NBC CLEVELAND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199129
+US: NBC DETROIT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199127
+US: NBC E,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199126
+US: NBC JACKSONVILLE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199124
+US: NBC LOS ANGELES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199123
+US: NBC NEW YORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199112
+US: NBC ORLANDO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199122
+US: NBC PITTSBURGH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199120
+US: NBC PORTLAND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199119
+US: NBC SACRAMENTO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199118
+US: NBC SAN DIEGO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199117
+US: NBC SAN FRANCISCO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199116
+US: NBC SPORTS BAY AREA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199115
+US: NBC SPORTS NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199114
+US: NBC ST LOUIS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/199113
+NHL Network HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192654
+NHL NETWORK SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192655
+US: NFL Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/216832
+USA: NFL REDZONE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/216833
+flowsports RUSH Event 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553604
+flowsports RUSH Event 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553605
+flowsports RUSH Event 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553606
+flowsports RUSH Event 4,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553607
+flowsports RUSH Event 6,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553609
+flowsports RUSH Event 7,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553610
+flowsports RUSH Event 8,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553611
+flowsports RUSH Event 9,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553612
+flowsports RUSH Event 10,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553613
+US: ACC Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553726
+US: Altitude Sports,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553727
+US: AT&T Sportsnet Pittsburgh,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553728
+US: AT&T Sportsnet Rocky Mountain,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553729
+US: AT&T Sportsnet Southwest,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553730
+US: Bally Sports Arizona,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553731
+US: Bally Sports Carolinas,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553732
+US: Bally Sports Cincinnati,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553733
+US: Bally Sports Deportes,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553734
+US: Bally Sports Detroit,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553735
+US: Bally Sports Florida,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553736
+US: Bally Sports Midwest,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553737
+US: Bally Sports New Orleans,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553738
+US: Bally Sports North,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553739
+US: Bally Sports Ohio,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553740
+US: Bally Sports Ohio Plus,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553741
+US: Bally Sports Oklahoma,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553742
+US: Bally Sports San Diego,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553743
+US: Bally Sports SoCal,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553744
+US: Bally Sports Soccer Plus,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553745
+US: Bally Sports South,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553746
+US: Bally Sports Southeast Carolinas,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553747
+US: Bally Sports Southeast Georgia,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553748
+US: Bally Sports Southeast Tennessee,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553749
+US: Bally Sports Southwest Plus,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553750
+US: Bally Sports Sun,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553751
+US: Bally Sports West,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553752
+US: Bally Sports Wisconsin,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553753
+US: Bein Sports,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553754
+US: Big Ten Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553755
+US: CBS Sports Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553756
+US: Eleven Sports,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553757
+US: ESPN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553758
+US: ESPN 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553759
+US: ESPN 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553760
+US: ESPN NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553761
+US: ESPN U,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553762
+US: Fox College Sports Pacific,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553763
+US: Fox Sports 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553764
+US: Fox Sports 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553765
+US: GINX eSPORTS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553766
+US: Golf Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553767
+US: Longhorn Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553768
+US: Marquee Sports Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553769
+US: MASN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553770
+US: MASN 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553771
+US: MLB NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553773
+US: MOTOR TREND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553774
+US: MSG,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553775
+US: MSG+,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553776
+US: NBA TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553777
+US: NBC Miami,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553778
+US: NBC NY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553779
+US: NBC Sports Bay Area,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553780
+US: NBC Sports Boston,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553781
+US: NBC Sports California,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553782
+US: NBC Sports Chicago,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553783
+US: NBC Sports Philly,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553784
+US: NBC Sports Washington,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553785
+US: NESN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553786
+US: NESN PLUS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553787
+US: NFL Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553788
+US: NHL Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553789
+US: Olympic Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553790
+US: PAC 12 Arizona,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553791
+US: PAC 12 Bay Area,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553792
+US: PAC 12 Los Angeles,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553793
+US: PAC 12 Mountain,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553794
+US: PAC 12 Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553795
+US: PAC 12 Oregon,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553796
+US: SEC NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553797
+US: SNY (Sportsnet NY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553798
+US: SPECTRUM SPORTSNET (DODGERS),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553799
+US: SPECTRUM SPORTSNET (LAKERS),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553800
+US: Sportsman Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553801
+US: STADIUM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553802
+US: Tennis Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553803
+US: TVG,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553804
+US: TVG2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553805
+US: UFC Fight Pass 24/7,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553806
+US: Willow Cricket,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553807
+US: World Fishing Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553808
+US: WWE NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553809
+US: Yes Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553810
+US: Bally Sports Indiana,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553811
+US: Bally Sports Kanas City,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553812
+US: Bally Sports Prime Ticket,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553813
+US: Billiard TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553814
+US: NFL Redzone,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553815
+NBA: Atlanta,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553864
+NBA: Boston,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553865
+NBA: Brooklyn,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553866
+NBA: Charlotte,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553867
+NBA: Chicago,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553868
+NBA: Cleavland,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553869
+NBA: Dallas,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553870
+NBA: Denver,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553871
+NBA: Detroit,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553872
+NBA: Golden State,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553873
+NBA: Houston,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553874
+NBA: Indiana,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553875
+NBA: LA Clippers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553876
+NBA: LA Lakers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553877
+NBA: Memphis,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553878
+NBA: Miami,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553879
+NBA: Milwaukee,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553880
+NBA: Minnesota,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553881
+NBA: New Orleans,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553882
+NBA: New York Knicks,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553883
+NBA: Oklahoma City,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553884
+NBA: Orlando,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553885
+NBA: Philadelphia,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553886
+NBA: Phoenix,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553887
+NBA: Portland,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553888
+NBA: Sacramento,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553889
+NBA: San Antonio,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553890
+NBA: Toronto,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553891
+NBA: Utah,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553892
+NBA: Washington,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553893
+US: A&E,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553614
+US: ABC NY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553615
+US: Adult Swim,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553616
+US: AMC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553617
+US: AMERICAN HEROES CHANNEL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553618
+US: ANIMAL PLANET,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553619
+US: AWE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553620
+US: AXS TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553621
+US: BET,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553622
+US: BOUNCE TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553623
+US: BUZZR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553625
+US: CBN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553626
+US: CBS East,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553627
+US: CMT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553628
+US: Comedy Central,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553629
+US: COMET,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553630
+US: Cooking Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553631
+US: COURT TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553632
+US: COZI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553633
+US: CW 57,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553634
+US: Dabl,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553635
+US: Discovery,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553636
+US: Discovery Family,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553637
+US: DIY (MAGNOLIA NETWORK),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553638
+US: Dog TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553639
+US: E! Entertainment,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553640
+US: FOOD NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553641
+US: FOX 29,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553642
+US: FREEFORM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553643
+US: FUSE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553644
+US: FUSION,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553645
+US: FX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553646
+US: FXX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553647
+US: FYI Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553648
+US: Game Show Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553649
+US: GRIT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553650
+US: Hallmark Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553651
+US: Hallmark Drama,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553652
+US: HGTV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553653
+US: History Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553654
+US: IFC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553655
+US: Investigation Discovery,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553656
+US: ION TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553657
+US: KION 5,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553658
+US: LAFF TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553659
+US: Logo,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553660
+US: ME TV (West),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553661
+US: MTV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553662
+US: MTV 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553663
+US: NASA TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553664
+US: National Geographic,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553665
+US: National Geographic Wild,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553666
+US: Outdoor TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553667
+US: OWN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553668
+US: Oxygen,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553669
+US: Oxygen (West),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553670
+US: Paramount Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553671
+US: PBS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553672
+US: PIXL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553673
+US: Pursuit Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553674
+US: QVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553675
+US: REELZ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553676
+US: REVOLT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553677
+US: SMITHSONIAN CHANNEL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553678
+US: SYFY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553679
+US: TASTEMADE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553680
+US: TBS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553681
+US: TLC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553682
+US: TNT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553683
+US: TNT West,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553684
+US: TruTV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553686
+US: TV LAND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553687
+US: TV ONE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553688
+US: USA Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553689
+US: USA Network (West),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553690
+US: VH1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553691
+US: Viceland,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553692
+US: WE TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553693
+US: WGN 9 Chicago,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553694
+US: WGN AMERICA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553695
+US: Antenna TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553696
+US: BBC America,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553697
+US: BET HER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553698
+US: BET Jams,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553699
+US: CLEO TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553700
+US: COWBOY CHANNEL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553701
+US: DESTINATION AMERICA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553702
+US: Discovery ID,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553703
+US: Discovery Life,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553704
+US: DISCOVERY SCIENCE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553705
+US: EWTN Africa,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553706
+US: Get TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553707
+US: Ishwars,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553708
+US: INSP TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553709
+US: Jewelry TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553710
+US: KCAL 9,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553711
+US: LAW & CRIME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553712
+US: LIfetime Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553713
+US: Lifetime Real Women,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553714
+US: MTV Classic,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553715
+US: MTV Live,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553716
+US: Outside TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553717
+US: Ovation,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553718
+US: PEOPLE TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553719
+US: Red Bull TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553720
+US: RIDE TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553721
+US: START TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553722
+US: TBN TV (Trinity Broadcasting Network),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553723
+US: TV LAND (West),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553725
+MLB 01 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217758
+MLB 02 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217759
+MLB 03 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217760
+MLB 04 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217761
+MLB 05 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217762
+MLB 06 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217763
+MLB 07 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217764
+MLB 08 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217765
+MLB 09 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217766
+MLB 10 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217767
+MLB 11 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217768
+MLB 12 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217769
+MLB 13 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217770
+MLB 14 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217771
+MLB 15 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217772
+MLB 16 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217773
+MLB 17 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217774
+MLB 18 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217775
+MLB 19 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217776
+MLB 20 HD |,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217777
+MLB NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217757
+MLB: Arizona Diamondbacks,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217779
+MLB: Atlanta Braves,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217778
+MLB: Baltimore Orioles,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217780
+MLB: Boston Red Sox,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217781
+MLB: Chicago Cubs,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217782
+MLB: Chicago White Sox,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217783
+MLB: Cincinnati Reds,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217784
+MLB: Cleveland Indians,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217785
+MLB: Colorado Rockies,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217786
+MLB: Detroit Tigers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217787
+MLB: Houston Astros,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217788
+MLB: Kansas City Royals,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217789
+MLB: Los Angeles Angels,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217790
+MLB: Los Angeles Dodgers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217791
+MLB: Miami Marlins,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217792
+MLB: Milwaukee Brewers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217793
+MLB: Minnesota Twins,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217794
+MLB: New York Mets,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217795
+MLB: New York Yankees,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217796
+MLB: Oakland Athletics,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217797
+MLB: Philadelphia Phillies,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217798
+MLB: Pittsburgh Pirates,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217799
+MLB: San Diego Padres,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217800
+MLB: San Francisco Giants,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217801
+MLB: Seattle Mariners,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217802
+MLB: St. Louis Cardinals,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217803
+MLB: Tampa Bay Rays,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217804
+MLB: Texas Rangers,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217805
+MLB: Toronto Blue Jays,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217806
+MLB: Washington Nationals,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217807
+MLB:Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217808
+PAC-12 Arizona,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217810
+PAC-12 Bay Area,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217809
+PAC-12 Los Angeles,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217811
+PAC-12 Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217813
+PAC-12 Oregon,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217812
+PAC-12 Washington,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/217814
+USA Bet (East),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210165
+USA Bet (West),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210166
+Usa Bet Her,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210167
+USA Bet Jam,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210168
+USA Bet Soul,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210169
+Usa ShoBet,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/210170
+USA | NHL Networkⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/536640
+USA | NHL Networkⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/536641
+US: ABC News Live,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553816
+US: Al Jazeera,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553817
+US: BBC World News,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553818
+US: CHEDDAR NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553819
+US: CHEDDAR NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553820
+US: CNBC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553821
+US: CNBC World,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553822
+US: CNN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553823
+US: FOX BUSINESS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553824
+US: FOX NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553825
+US: HLN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553826
+US: MSNBC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553827
+US: NEWSMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553828
+US: RFD-TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553829
+US: RT News,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553830
+US: The Weather Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553831
+US: WEATHER NATION,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553832
+US: Bloomberg TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553833
+US: C-SPAN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553834
+US: C-SPAN 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553835
+US: C-SPAN 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553836
+US: CNBC WORLD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553837
+US: ONE AMERICA NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553838
+US HD: LAW AND CRIME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539229
+US HD: H2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539231
+US HD: DISCOVERY VELOCITY (MOTORTREND),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539233
+US HD: DISCOVERY TURBO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539234
+US HD: JUSTICE CENTRAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539238
+US HD: America's Test Kitchen,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539248
+US HD: WGN AMERICA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/539249
+US: Hallmark Movies & Mysteries,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553504
+US: CINEMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553505
+US: CINEMAX 5STARMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553506
+US: CINEMAX ACTIONMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553507
+US: CINEMAX MOREMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553508
+US: CINEMAX OUTERMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553510
+US: CINEMAX THRILLERMAX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553511
+US: EPIX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553512
+US: EPIX 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553513
+US: EPIX Drive-In,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553514
+US: EPIX Hits,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553515
+US: FXM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553516
+US: HBO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553517
+US: HBO 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553518
+US: HBO Comedy,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553519
+US: HBO Family,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553520
+US: HBO Signature,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553521
+US: HBO Zone,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553522
+US: HDnet Movies,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553523
+US: Showtime 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553525
+US: Showtime Extreme,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553526
+US: Showtime Family Zone,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553527
+US: Showtime Next,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553528
+US: Showtime Showcase,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553529
+US: Showtime Women,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553530
+US: SHOxBET,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553531
+US: Starz,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553532
+US: Starz Cinema,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553533
+US: Starz Comedy,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553534
+US: Starz Edge,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553535
+US: Starz Encore,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553536
+US: Starz Encore Action,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553537
+US: Starz Encore Black,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553538
+US: Starz Encore Classic,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553539
+US: Starz Encore Family,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553540
+US: Starz Encore Suspense,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553541
+US: Starz Encore Westerns,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553542
+US: Starz In Black,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553543
+US: Starz Kids & Family,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553544
+US: Starz West,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553545
+US: Sundance TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553546
+US: Turner Classic Movies,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553547
+USA: Lifetime Movie Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553548
+USA | Cinemax Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553549
+USA | Cinemax MoreMaxⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553550
+USA | EPIXⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553551
+USA | EPIX Drive Inⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553552
+USA | EPIX Hitsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553553
+USA | EPIX2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553554
+USA | Showtime Extreme Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553555
+USA | SHOxBET Westⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553556
+USA | Starz Westⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553557
+USA | Showtime Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553558
+USA | Starz Encore Westerns Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553560
+USA | Starz Encore Suspense Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553561
+USA | Starz Encore Family Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553562
+USA | Starz Encore Classic Eastⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553563
+USA | Starz Cinema Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553564
+USA | Starz Encore Action Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553565
+USA | Starz Encore Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553566
+USA | Starz Kids&Family Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553567
+USA | Starz in Black Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553568
+USA | Starz Edge Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553569
+USA | Showtime Women Eastⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553570
+USA | Starz Comedy Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553571
+USA | Starz Eastⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553572
+USA | Showtime Showcase Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553573
+USA | Showtime Next Eastⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553574
+USA | Showtime Family Zoneⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553575
+USA | HBO Zoneⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553576
+USA | HBO Westⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553577
+USA | HBO Comedyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553578
+USA | HBO Signatureⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553579
+USA | HBO Familyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553580
+USA | HBO 2 Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553581
+USA | HBO Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553582
+USA | Cinemax 5StarMaxⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553583
+USA | Cinemax Westⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553584
+USA | ScreenPixⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553585
+USA | ScreenPix Westernsⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553586
+USA | ScreenPix Actionⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553587
+USA | ScreenPix Voicesⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553588
+USA | SHOxBET Eastⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553589
+USA | Cinemax MovieMaxⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/553590
+ESPN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/176426
+USA-ESPN 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/176427
+USA-ESPN NEWS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/176428
+USA-ESPN U,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/176429
+ESPN UHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192474
+ESPN HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192475
+ESPN SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192476
+ESPN 2 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192477
+ESPN 2 SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192478
+ESPN DEPORTES HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192479
+ESPN DEPORTES SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192480
+ESPN NEWS HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192481
+ESPN NEWS SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192482
+ESPN U UHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192483
+ESPN U HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/192484
+ESPN PLUS 00: Inoue v Donaire,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551529
+ESPN PLUS 01:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551530
+ESPN PLUS 02:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551531
+ESPN PLUS 03:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551532
+ESPN PLUS 04:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551533
+ESPN PLUS 05: Nottingham Forest vs. Arsenal (3rd Round) (FA Cup) 17:10,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551534
+ESPN PLUS 06: Wolverhampton Wanderers vs. Sheffield United (3rd Round) (FA Cup)  14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551535
+ESPN PLUS 07:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551536
+ESPN PLUS 08:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551537
+ESPN PLUS 09: Tottenham Hotspur vs. Morecambe (3rd Round) (FA Cup) 14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551538
+ESPN PLUS 10: West Ham United vs. Leeds United (3rd Round) (FA Cup) 14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551539
+ESPN PLUS 11: Liverpool vs. Shrewsbury Town (3rd Round) (FA Cup) 14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551540
+ESPN PLUS 12:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551541
+ESPN PLUS 13: Cardiff City vs. Preston North End (3rd Round) (FA Cup)  14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551542
+ESPN PLUS 14: Charlton Athletic vs. Norwich City (3rd Round) (FA Cup) 14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551543
+ESPN PLUS 15: Stoke City vs. Leyton Orient (3rd Round) (FA Cup) 14:00,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551544
+ESPN PLUS 16:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551545
+ESPN PLUS 17:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551546
+ESPN PLUS 18:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551547
+ESPN PLUS 19:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551548
+ESPN PLUS 20:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551549
+ESPN PLUS 21:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551550
+ESPN PLUS 22:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551551
+ESPN PLUS 23:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551552
+ESPN PLUS 24:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551553
+ESPN PLUS 25:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551554
+ESPN PLUS 26:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551555
+ESPN PLUS 27:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551556
+ESPN PLUS 28:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551557
+ESPN PLUS 29:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551558
+ESPN PLUS 30:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551559
+ESPN PLUS 31:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551560
+ESPN PLUS 32:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551561
+ESPN PLUS 33:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551562
+ESPN PLUS 34:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551563
+ESPN PLUS 35:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551564
+ESPN PLUS 36:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551565
+ESPN PLUS 37:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551566
+ESPN PLUS 38:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551567
+ESPN PLUS 39:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551568
+ESPN PLUS 40:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551569
+ESPN PLUS 41:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551570
+ESPN PLUS 42:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551571
+ESPN PLUS 43:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551572
+ESPN PLUS 44:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551573
+ESPN PLUS 45:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551574
+ESPN PLUS 46:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551575
+ESPN PLUS 47:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551576
+ESPN PLUS 48:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551577
+ESPN PLUS 49:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551578
+ESPN PLUS 50:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551579
+ESPN PLUS 51:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551580
+ESPN PLUS 52:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551581
+ESPN PLUS 53:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551582
+ESPN PLUS 54:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551583
+ESPN PLUS 55:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551584
+ESPN PLUS 56:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551585
+ESPN PLUS 57:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551586
+ESPN PLUS 58:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551587
+ESPN PLUS 59:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551588
+ESPN PLUS 60:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551589
+ESPN PLUS 61:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551590
+ESPN PLUS 62:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551591
+ESPN PLUS 63:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551592
+ESPN PLUS 64:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551593
+ESPN PLUS 65:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551594
+ESPN PLUS 66:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551595
+ESPN PLUS 67:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551596
+ESPN PLUS 68:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551597
+ESPN PLUS 69:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551598
+ESPN PLUS 70:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551599
+ESPN PLUS 71:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551600
+ESPN PLUS 72:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551601
+ESPN PLUS 73:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551602
+ESPN PLUS 74:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551603
+ESPN PLUS 75:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551604
+ESPN PLUS 76:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551605
+ESPN PLUS 77:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551606
+ESPN PLUS 78:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551607
+ESPN PLUS 79:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551608
+ESPN PLUS 80:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551609
+ESPN PLUS 81:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551610
+ESPN PLUS 82:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551611
+ESPN PLUS 83:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551612
+ESPN PLUS 84:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551613
+ESPN PLUS 85:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551614
+ESPN PLUS 86:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551615
+ESPN PLUS 87:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551616
+ESPN PLUS 88:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551617
+ESPN PLUS 89:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551618
+ESPN PLUS 90:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551619
+ESPN PLUS 92:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551621
+ESPN PLUS 93:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551622
+ESPN PLUS 94:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551623
+ESPN PLUS 95:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551624
+ESPN PLUS 96:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551625
+ESPN PLUS 97:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551626
+ESPN PLUS 98:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551627
+ESPN PLUS 99:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551628
+ESPN PLUS 100:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551629
+ESPN PLUS 101:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551630
+ESPN PLUS 102:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551631
+ESPN PLUS 103:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551632
+ESPN PLUS 104:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551633
+ESPN PLUS 105:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551634
+ESPN PLUS 106:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551635
+ESPN PLUS 107:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551636
+ESPN PLUS 108:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551637
+ESPN PLUS 109:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551638
+ESPN PLUS 110:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551639
+ESPN PLUS 111:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551640
+ESPN PLUS 112:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551641
+ESPN PLUS 113:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551642
+ESPN PLUS 114:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551643
+ESPN PLUS 115:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551644
+ESPN PLUS 116:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551645
+ESPN PLUS 117:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551646
+ESPN PLUS 118:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551647
+ESPN PLUS 119:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551648
+ESPN PLUS 120:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551649
+ESPN PLUS 121:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551650
+ESPN PLUS 122:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551651
+ESPN PLUS 123:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551652
+ESPN PLUS 124:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551653
+ESPN PLUS 125:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551654
+ESPN PLUS 126:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551655
+ESPN PLUS 127:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551656
+ESPN PLUS 128:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551657
+ESPN PLUS 129:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551658
+ESPN PLUS 130:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551659
+ESPN PLUS 131:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551660
+ESPN PLUS 132:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551661
+ESPN PLUS 133:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551662
+ESPN PLUS 134:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551663
+ESPN PLUS 135:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551664
+ESPN PLUS 136:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551665
+ESPN PLUS 137:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551666
+ESPN PLUS 138:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551667
+ESPN PLUS 139:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551668
+ESPN PLUS 140:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551669
+ESPN PLUS 141:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551670
+ESPN PLUS 142:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551671
+ESPN PLUS 143:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551672
+ESPN PLUS 144:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551673
+ESPN PLUS 145:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551674
+ESPN PLUS 146:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551675
+ESPN PLUS 147:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551676
+ESPN PLUS 148:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551677
+ESPN PLUS 149:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551678
+ESPN PLUS 150:,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/551679
+
+📺｜Peacock,#genre#
+Peacock Live | WWE Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557380
+Peacock Live | Premier League,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557381
+Peacock PremierLeague,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557421
+Peacock Live | NBC Sports,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557382
+Peacock NBCSports,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557420
+Peacock Live | NBC News Chicago,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557383
+Peacock Live | NBC News LA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557384
+Peacock Live | NBC News New York,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557385
+Peacock Live | NBC News Boston,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557386
+Peacock Live | NBC News Philadelphia,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557387
+Peacock Live | NBC News Florida,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557388
+Peacock Live | NBC News Now,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557389
+Peacock Live | Golf Pass,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557390
+Peacock Live | Today All Day,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557391
+Peacock Live | Dateline 24/7,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557392
+Peacock Live | NFL Network Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557393
+Peacock Live | SNL Vault,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557394
+Peacock Live | Fallon Tonight,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557395
+Peacock Live | Telemundo Al Dia,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557396
+Peacock Live | Loop Country,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557397
+Peacock Live | Loop Classic,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557398
+Peacock Live | Loop Latino,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557399
+Peacock Live | Circle,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557400
+Peacock Live | NBC LX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557401
+Peacock Live | LOL Network,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557402
+Peacock Live | AFV Family,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557403
+Peacock Live | The Bob Ross Channel,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557404
+Peacock Live | This Old House,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557405
+Peacock Live | Rotten Tomatoes,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557406
+Peacock 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557407
+Peacock 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557408
+Peacock 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557409
+Peacock 4,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557410
+Peacock 5,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557411
+Peacock 6,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557412
+Peacock 7,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557413
+Peacock 8,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557414
+Peacock 9,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557415
+Peacock 10,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557416
+Peacock 11,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557417
+Peacock 12,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557418
+Peacock 13,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/557419
+
 📺｜CA,#genre#
 CA SUPER SPORTS CH 464 (Backup),http://appleiptv.com:80/3903/3903/31732
 CA SUPER SPORTS CH 465 (Backup),http://appleiptv.com:80/3903/3903/31733
@@ -6994,6 +7584,677 @@ FR Voyage,http://appleiptv.com:80/3903/3903/83123
 FR W9 HD,http://appleiptv.com:80/3903/3903/83124
 FR Weo HD,http://appleiptv.com:80/3903/3903/83125
 
+📺｜FR-2,#genre#
+FR: TV5 Monde FR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554930
+FR: TF1 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554931
+FR: FRANCE 3 SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554933
+FR: FRANCE 4 SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554934
+FR: FRANCE 5 SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554935
+FR: TF1 FILM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554936
+FR: FRANCE O SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554937
+FR: M6 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554938
+FR: W9 SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554939
+FR: CHERIE 25 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554940
+FR: TV BREIZH HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554941
+FR: ARTE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554942
+FR: CANAL+,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554943
+FR: CANAL+ SPORT HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554945
+FR: CANAL+ SERIES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554946
+FR: CANAL+ CINEMA HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554947
+FR: OCS CITY HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554948
+FR: CANAL+ FAMILY HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554949
+FR: OCS_CHOC_HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554950
+FR: OCS GEANTS HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554951
+FR: CINE CLASSIC HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554953
+FR: CINE EMOTION HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554955
+FR: CINE+ FRISSON HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554957
+FR: CINE+ PREMIER HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554958
+FR: CINE+ POLAR-HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554959
+FR: CNEWS SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554960
+FR: PARIS PREMIERE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554961
+FR: TIJI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554962
+FR: CANAL J HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554963
+FR: NICKELODEON JUN HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554964
+FR: NICKELODEON HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554965
+FR: NICKELODEON 4 TEEN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554966
+FR: DISNEY XD HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554968
+FR: DISNEY JUNIOR HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554969
+FR: DISNEY CINEMA HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554970
+FR: Gulli,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554971
+FR: PIWI HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554973
+FR: NRJ12,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554975
+FR: TMC FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554977
+FR: E! ENTERTAINEMENT-HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554979
+FR: RMC Sports 4 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554980
+FR: ACTION HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554981
+FR: RTL9-HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554982
+FR: SYFY HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554983
+FR: RMC DECOUVERTE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554986
+FR: TOUTE L'HISTOIRE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554987
+FR: L'EQUIPE21 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554989
+FR: PLANETE+ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554991
+FR: CHASSE & PECHE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554994
+FR: SCIENCES & VIE HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554995
+FR: NAT GEO HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/554997
+FR: PLANETE + A&E,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555000
+FR: PLANETE + CI HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555002
+FR: TFX SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555004
+FR: 13EME RUE FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555005
+FR: EUROSPORT2 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555006
+FR: BEIN SPORT 2 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555013
+FR: BEIN SPORT 1 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555014
+FR: BEIN SPORT 3 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555015
+FR: EQUIDIA.LIFE-HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555016
+FR: RMC SPORT 3 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555018
+FR: RMC SPORT 2 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555019
+FR: RMC SPORT 1 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555020
+FR: INFOSPORT + HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555023
+FR: TOONAMI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555024
+FR: LCI HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555026
+FR: AB3 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555028
+FR: BFM-PARIS FR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555029
+FR: FRANCE INFO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555030
+FR: COMEDIE+ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555032
+FR: 6TER SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555037
+FR: LCP,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555038
+FR: Canal Decale,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555040
+FR: Novelas,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555042
+FR: Discovery Science HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555043
+FR: TELEFOOT STADIUM 4 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555048
+FR: FOOT+24,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555056
+FR: TELEFOOT HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555057
+FR: CARTOON NETWORK HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555058
+FR: Orange Cine 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555059
+FR: Orange Cine 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555060
+FR: Orange Cine 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555061
+FR: Orange Cine 4,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555062
+FR: Orange Cine 5 ACTION HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555063
+FR: NRJ 12 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555069
+FR: TRACE TROPICAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555072
+FR: TRACE LATINA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555076
+FR: TRACE AFRIKORA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555080
+FR: i24 News,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555082
+FR: Golf HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555083
+FR: Foot+ 24/24 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555084
+FR: MOTORSPORT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555086
+FR: TRACE TOCA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555087
+FR: TRACE AFRICA FRANCE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555088
+FR: AMAZON PRIME 3 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555091
+FR: France 24,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555097
+FR: RMC SPORT 6 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555099
+FR: RMC SPORT 7 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/555100
+
+📺｜DE,#genre#
+DE | Sky Cinema +1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549845
+DE | Sky Cinema +24ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549846
+DE | Sky Cinema 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549847
+DE | Sky Cinema Emotionⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549848
+DE | Sky Cinema Nostalgieⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549849
+DE | Sky Cinema Thriller,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549850
+DE | Sky Cinema Action,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549851
+DE | Sky Cinema Best of,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549852
+DE | Sky Cinema Classicsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549853
+DE | Sky Cinema Familyⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549854
+DE | Sky Cinema Funⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549855
+DE | Sky Cinema Premieren +24ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549856
+DE | Sky Cinema Premierenⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549857
+DE | Sky Cinema Specialⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549858
+DE | Sky Krimiⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549859
+DE | Sky Cinema Premierenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549860
+DE | Sky Cinema Premierenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549861
+DE | Sky Cinema Premieren +24ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549862
+DE | Sky Cinema Premieren +24ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549863
+DE | Sky Cinema Best ofⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549864
+DE | Sky Cinema Best ofⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549865
+DE | Sky Cinema Specialⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549866
+DE | Sky Cinema Specialⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549867
+DE | Sky Cinema Familyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549868
+DE | Sky Cinema Familyⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549869
+DE | Sky Cinema Funⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549870
+DE | Sky Cinema Classicsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549871
+DE | Sky Cinema Actionⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549872
+DE | Sky Cinema Actionⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549873
+DE | Sky Cinema Thrillerⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549874
+DE | Sky Cinema Thrillerⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549875
+DE | Sky Select Programmübersichtⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549876
+DE | Sky Select 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549877
+DE | Sky Select 2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549878
+DE | Sky Select 3ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549879
+DE | Sky Select 4ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549880
+DE | Sky Select 5ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549881
+DE | Sky Select 6ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549882
+DE | Sky Select 7ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549883
+DE | Sky Select 8ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549884
+DE | Sky Select 9ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549885
+DE | Eagle Cinema Mythologieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549886
+DE | Eagle Cinema Biografieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549887
+DE | Eagle Cinema Geschichteⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549888
+DE | Eagle Cinema Komodieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549889
+DE | Eagle Cinema 007ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549890
+DE | Eagle Cinema Abenteuerⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549891
+DE | Eagle Cinema Aktionⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549892
+DE | Eagle Cinema Animationⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549893
+DE | Eagle Cinema Familieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549894
+DE | Eagle Cinema Dramaⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549895
+DE | Eagle Cinema Thrillerⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549896
+DE | Eagle Cinema Kinosaalⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549897
+DE | Eagle Cinema SciFiⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549898
+DE | Eagle Cinema Premiereⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549899
+DE | Sky Popcorn Select 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549900
+DE | Sky Popcorn Select 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549901
+DE | Sky Popcorn Select 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549902
+DE | Sky Popcorn Select 4ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549903
+DE | Sky Popcorn Select 5ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549904
+DE | Sky Popcorn Select 6ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549905
+DE | HyperCinema 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549906
+DE | HyperCinema 2ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549907
+DE | HyperCInema 3ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549908
+DE | HyperCinema 4ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549909
+DE | HyperCinema 6ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549910
+DE | HyperCinema 7ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549911
+DE | HyperCinema 8ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549912
+DE | HyperCinema 9ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549913
+DE | HyperCinema 10ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549914
+DE | HyperCinema Boxsetⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549915
+DE | HyperCinema INFOⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549916
+DE | HyperCinema 5ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549917
+DE | Sky Sport 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549918
+DE | Sky Sport 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549919
+DE | Sky Sport News,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549920
+DE | Spiegel Geschichteⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549921
+DE | Sport1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549922
+DE | Sky Sport 1ⓧ HD (backup),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549923
+DE | Sky Sport 2ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549924
+DE | Sky Sport News FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549925
+DE | Sky Sport News,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549926
+DE | Sky Sport 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549927
+DE | Sky Sport 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549928
+DE | Sky Sport 2ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549929
+DE | Sky Sport 2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549930
+DE | Sky Sport 3ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549931
+DE | Sky Sport 3ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549932
+DE | Sky Sport 4ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549933
+DE | Sky Sport 4ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549934
+DE | Sky Sport 5ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549935
+DE | Sky Sport 5ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549936
+DE | Sky Sport 6ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549937
+DE | Sky Sport 6ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549938
+DE | Sky Sport 7ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549939
+DE | Sky Sport 7ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549940
+DE | Sky Sport 8ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549941
+DE | eSports1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549942
+DE | Eurosport 2ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549943
+DE | Eurosport 2ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549944
+DE | Eurosport 2 Xtraⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549945
+DE | Motorvision TVⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549946
+DE | Sport1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549947
+DE | Sky Sport F1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549948
+DE | Sky Sport F1ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549949
+DE | Sky Sport Newsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549950
+DE | DAZN 1 Barⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549951
+DE | DAZN 1 Barⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549952
+DE | DAZN 2 Barⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549953
+DE | DAZN 2 Barⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549954
+DE | Eurosport 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549955
+DE | Eurosport 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549956
+DE | Eurosport 2ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549957
+DE | Eurosport 2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549958
+DE | Eurosport 2 Xtraⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549959
+DE | Eurosport 2 Xtraⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549960
+DE | Rocket Beans TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549961
+DE | FC Bayern TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549962
+DE | Motorvision TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549963
+DE | Sport1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549964
+DE | Sport1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549965
+DE | Sport 1+ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549966
+DE | Sky Bundesliga 1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549967
+DE | Sky Bundesliga 2ⓧ SD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549968
+DE | Sky Bundesliga 3ⓧ SD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549969
+DE | Sky Bundesliga 4ⓧ SD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549970
+DE | Sky Bundesliga 5ⓧ SD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549971
+DE | Sky Bundesliga 6ⓧ SD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549972
+DE | Sky Sport 9ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549973
+DE | Sky Sport 10ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549974
+DE | Sky Sport 11ⓧ FHD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549975
+DE | Sport1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549976
+DE | Sky Bundesliga 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549977
+DE | Sky Bundesliga 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549978
+DE | Sky Bundesliga 2ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549979
+DE | Sky Bundesliga 2ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549980
+DE | Sky Bundesliga 3 FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549981
+DE | Sky Bundesliga 3 HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549982
+DE | Sky Bundesliga 4ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549983
+DE | Sky Bundesliga 4ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549984
+DE | Sky Bundesliga 5ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549985
+DE | Sky Bundesliga 5ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549986
+DE | Sky Bundesliga 6ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549987
+DE | Sky Bundesliga 6ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549988
+DE | Sky Bundesliga 7ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549989
+DE | Sky Bundesliga 7ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549990
+DE | Sky Bundesliga 8ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549991
+DE | Sky Bundesliga 8ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549992
+DE | Sky Bundesliga 9ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549993
+DE | Sky Bundesliga 9ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549994
+DE | Sky Bundesliga 10ⓧ FHD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549995
+DE | Sky Bundesliga 10ⓧ HD (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549996
+DE | Super RTLⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549997
+DE | Sportdigitalⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549998
+DE | Sky Sport 8ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/549999
+DE | Sky Sport 9ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550000
+DE | Sky Sport 10ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550001
+DE | Sky Sport 11ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550002
+DE | Sky Sport Kompakt 4ⓧ (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550003
+DE | Sky Sport Kompakt 3ⓧ (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550004
+DE | Sky Sport Kompakt 2ⓧ (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550005
+DE | Sky Sport Kompakt 1ⓧ (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550006
+DE | FC Bayern TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550007
+DE | eSports1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550008
+DE | Sport 1+ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550009
+DE | SportDigital Fussballⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550010
+DE | Auto Motor Sportⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550011
+DE | European League of Football TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550012
+DE | NBA TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550013
+DE | DAZN 1 Barⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550014
+DE | DAZN 2 Barⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550015
+DE | FLYERALARM Frauen Bundesliga 1 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550016
+DE | FLYERALARM Frauen-Bundesliga 2 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550017
+DE | FLYERALARM Frauen-Bundesliga 3 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550018
+DE | FLYERALARM Frauen-Bundesliga 4 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550019
+DE | Sky Bundesliga 1ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550020
+DE | Sky Bundesliga 2ⓧ HEVC (Match time only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550021
+DE | Magenta BBL 1ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550022
+DE | Magenta BBL 2ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550023
+DE | Magenta BBL 3ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550024
+DE | Magenta BBL 4ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550025
+DE | Magenta Eishockey 1ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550026
+DE | Magenta Eishockey 2ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550027
+DE | Magenta Eishockey 3ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550028
+DE | Magenta Eishockey 4ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550029
+DE | Magenta Eishockey 5ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550030
+DE | Magenta Eishockey 6ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550031
+DE | Magenta Eishockey 7ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550032
+DE | Magenta Sport (3.Liga) 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550033
+DE | Magenta Sport (3.Liga) 2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550034
+DE | Magenta Sport (3.Liga) 3ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550035
+DE | Magenta Sport (3.Liga) 4ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550036
+DE | Magenta Sport (3.Liga) 5ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550037
+DE | Magenta Sport (3.Liga) 6ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550038
+DE | Magenta Sport (3.Liga) 7ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550039
+DE | Magenta Sport (3.Liga) 8ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550040
+DE | Magenta BBL 5 HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550041
+DE | Magenta BBL 6 HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550042
+DE | Magenta BBL 7 HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550043
+DE | Magenta BBL 8 HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550044
+DE | Magenta Fußball 1ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550045
+DE | Magenta Fußball 2ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550046
+DE | Magenta Fußball 3ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550047
+DE | Magenta Fußball 4ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550048
+DE | Magenta Fußball 5ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550049
+DE | Magenta Fußball 6ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550050
+DE | Magenta Fußball 7ⓧ HD (ONLY ON MATCHDAY),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550051
+DE | Magenta Eishockey 8ⓧ HD (Only on Matchday),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550052
+DE | FLYERALARM Frauen-Bundesliga 5 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550053
+DE | FLYERALARM Frauen-Bundesliga 6 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550054
+DE | FLYERALARM Frauen-Bundesliga 7 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550055
+DE | FLYERALARM Frauen-Bundesliga 8 FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550056
+DE | Crime+Investigationⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550057
+DE | Spiegel Geschichteⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550058
+DE | Animal Planetⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550059
+DE | Doxx HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550060
+DE | National Geographicⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550061
+DE | National Geographicⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550062
+DE | N-tvⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550063
+DE | N24 Dokuⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550064
+DE | National Geographicⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550065
+DE | Nat Geo Wildⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550066
+DE | Nat Geo Wildⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550067
+DE | Nat Geo Wildⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550068
+DE | Discoveryⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550069
+DE | Discoveryⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550070
+DE | Discoveryⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550071
+DE | Historyⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550072
+DE | Historyⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550073
+DE | Historyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550074
+DE | Spiegel TV Wissenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550075
+DE | Spiegel Geschichteⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550076
+DE | Crime+Investigationⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550077
+DE | Kabel.1 Dokuⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550078
+DE | N24 Dokuⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550079
+DE | ZDF infoⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550080
+DE | N-tvⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550081
+DE | Weltⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550082
+DE | QVC Zweiⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550083
+DE | QVCⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550084
+DE | QVC Styleⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550085
+DE | Sky Natureⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550086
+DE | Sky Documentariesⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550087
+DE | Crime+Investigationⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550088
+DE | Animal Planetⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550089
+DE | Boomerangⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550090
+DE | Cartoon Networkⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550091
+DE | Nickelodeonⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550092
+DE | Cartoon Networkⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550093
+DE | Disney Channelⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550094
+DE | Disney Channelⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550095
+DE | Disney Juniorⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550096
+DE | Nickelodeonⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550097
+DE | Tom & Jerryⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550098
+DE | Baby TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550099
+DE | Disney Channelⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550100
+DE | Nick Musicⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550101
+DE | Nickelodeonⓧ AT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550102
+DE | Nicktoonsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550103
+DE | Boomerangⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550104
+DE | Cartoon Networkⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550105
+DE | Nick Jrⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550106
+DE | Disney Juniorⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550107
+DE | Disney Channelⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550108
+DE | Juniorⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550109
+DE | Das Erste (ARD)ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550110
+DE | ZDFⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550111
+DE | Sat.1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550112
+DE | Sat.1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550113
+DE | Kabel.1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550114
+DE | Kabel.1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550115
+DE | Pro7ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550116
+DE | Pro7ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550117
+DE | RTLⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550118
+DE | RTLⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550119
+DE | RTL Zweiⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550120
+DE | RTL Zweiⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550121
+DE | Sixxⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550122
+DE | Sixxⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550123
+DE | VOXⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550124
+DE | VOXⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550125
+DE | VOXupⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550126
+DE | Comedy Centralⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550127
+DE | Comedy Centralⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550128
+DE | Pro7 Funⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550129
+DE | Pro7 Funⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550130
+DE | Pro7 Maxxⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550131
+DE | Pro7 Maxxⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550132
+DE | RTL Crimeⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550133
+DE | RTL Passionⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550134
+DE | RTL Livingⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550135
+DE | Nitroⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550136
+DE | Nitroⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550137
+DE | Sat.1 Goldⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550138
+DE | Sat.1 Goldⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550139
+DE | Sat.1 emotionsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550140
+DE | Kabel Eins Classicsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550141
+DE | Tele 5ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550142
+DE | ServusTv Deutschlandⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550143
+DE | Oneⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550144
+DE | ZDF Neoⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550145
+DE | 3satⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550146
+DE | SWRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550147
+DE | WDRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550148
+DE | NDRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550149
+DE | MDRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550150
+DE | RBB Berlinⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550151
+DE | HRⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550152
+DE | SRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550153
+DE | BRⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550154
+DE | KiKaⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550155
+DE | Super RTLⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550156
+DE | TOGGO plusⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550157
+DE | Euronewsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550158
+DE | Tagesschau24ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550159
+DE | HGTVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550160
+DE | DMAXⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550161
+DE | DMAXⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550162
+DE | TLCⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550163
+DE | Arteⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550164
+DE | Welt der Wunderⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550165
+DE | Anixeⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550166
+DE | Anixe Serieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550167
+DE | CNBC Europeⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550168
+DE | Kronehit TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550169
+DE | E! Entertainmentⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550170
+DE | Sky 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550171
+DE | Sky 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550172
+DE | Sky Krimiⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550173
+DE | Sky Krimiⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550174
+DE | Sky Atlanticⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550175
+DE | Sky Atlanticⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550176
+DE | Sky Serien & Showsⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550177
+DE | Sky Serien & Showsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550178
+DE | Foxⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550179
+DE | Foxⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550180
+DE | WarnerTV Comedyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550181
+DE | WarnerTV Comedyⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550182
+DE | WarnerTV Filmⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550183
+DE | WarnerTV Serieⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550184
+DE | WarnerTV Serieⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550185
+DE | 13th Streetⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550186
+DE | 13th Streetⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550187
+DE | Universal TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550188
+DE | Universal TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550189
+DE | SYFYⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550190
+DE | SYFYⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550191
+DE | SONY AXNⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550192
+DE | SONY Channelⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550193
+DE | Phoenixⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550194
+DE | Silverline Movie Channelⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550195
+DE | Heimatkanalⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550196
+DE | Kinowelt TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550197
+DE | Romance TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550198
+DE | Classicaⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550199
+DE | Eat Club TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550200
+DE | J. S. Bach-Stiftungⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550201
+DE | MTV 80sⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550202
+DE | Bildⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550203
+DE | Deluxe Loungeⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550204
+DE | Jukeboxⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550205
+DE | MTVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550206
+DE | Comedy Central +1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550207
+DE | pearl.tv Shopⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550208
+DE | Pro7ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550209
+DE | RTLⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550210
+DE | RTL Zweiⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550211
+DE | Sat.1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550212
+DE | Sixxⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550213
+DE | Kabel 1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550214
+DE | Das Erste (ARD)ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550215
+DE | ZDFⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550216
+DE | Motor Racingⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550217
+DE | Weltⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550218
+DE | TLCⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550219
+DE | Arteⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550220
+DE | Phoenixⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550221
+DE | ZDF Infoⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550222
+DE | ZDF Neoⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550223
+DE | RTLplusⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550224
+DE | ARD alphaⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550225
+DE | Fix & Foxiⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550226
+DE | Sky Comedyⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550227
+DE | Sky Krimiⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550228
+DE | RTL Crimeⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550229
+DE | RTL Passionⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550230
+DE | Kabel Eins Classicsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550231
+DE | SONY AXNⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550232
+DE | Anixeⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550233
+DE | E! Entertainmentⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550234
+DE | Bon Gustoⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550235
+DE | RTL Livingⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550236
+DE | 1-2-3 TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550237
+DE | Alex Berlinⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550238
+DE | Allgäu TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550239
+DE | Astro TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550240
+DE | Baden TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550241
+DE | FC Bayern TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550242
+DE | Bibel TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550243
+DE | BLK Regional TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550244
+DE | Bundestag TV1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550245
+DE | Bundestag TV2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550246
+DE | BW Family TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550247
+DE | Campus TV Magdeburgⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550248
+DE | Chemnitz TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550249
+DE | Corona Virus Statsⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550250
+DE | Der Aktionär TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550251
+DE | Deutsche Welle TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550252
+DE | Deutsches Musik Fernsehenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550253
+DE | Die Neue Zeit TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550254
+DE | Eagle Peppa Wutzⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550255
+DE | Elbekanal TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550256
+DE | EWTNⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550257
+DE | BW Family TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550258
+DE | UHD1 by ASTRAⓧ 4K,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550259
+DE | Filstalwelleⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550260
+DE | FOLXⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550261
+DE | WarnerTV Filmⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550262
+DE | Fix & Foxi SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550263
+DE | Franken Fernsehenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550264
+DE | TV Halleⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550265
+DE | HSE24ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550266
+DE | Isar TV Landshutⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550267
+DE | KaufBei TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550268
+DE | KiNOBOX 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550269
+DE | KiNOBOX 2ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550270
+DE | KiNOBOX 4ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550271
+DE | KiNOBOX 5ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550272
+DE | KiNOBOX 6ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550273
+DE | KiNOBOX 7ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550274
+DE | KiNOBOX 8ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550275
+DE | KiNOBOX 9ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550276
+DE | KiNOBOX 10ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550277
+DE | Kultur MDⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550278
+DE | Light Channel TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550279
+DE | MainFrankenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550280
+DE | MDF.1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550281
+DE | MDR Sachsenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550282
+DE | MDR Thüringenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550283
+DE | MediaShop TVⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550284
+DE | MTV Clubⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550285
+DE | München TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550286
+DE | MusicTopⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550287
+DE | Nautical Channelⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550288
+DE | Niederbayern TV Deggendorfⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550289
+DE | Niederbayern TV Landshutⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550290
+DE | Niederbayern TV Passauⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550291
+DE | HSE Trendⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550292
+DE | NOA 4ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550293
+DE | Oberlausitz TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550294
+DE | Health TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550295
+DE | OK Dessauⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550296
+DE | OK Magdeburgⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550297
+DE | OK Merseburgⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550298
+DE | OK Salzwedelⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550299
+DE | OK Stendalⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550300
+DE | OK Weinstrasseⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550301
+DE | OK Wernigerodeⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550302
+DE | WTV Wettinⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550303
+DE | OK Kaiserslauternⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550304
+DE | One Musicⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550305
+DE | Hip Tripsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550306
+DE | PDC-TV 1ⓧ FHD (Event only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550307
+DE | PDC-TV 2ⓧ FHD (Event only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550308
+DE | PDC-TV 3ⓧ FHD (Event only),http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550309
+DE | PunktUMⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550310
+DE | RAN 1ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550311
+DE | RBB Brandenburgⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550312
+DE | RBWⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550313
+DE | Regio TV Bodenseeⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550314
+DE | Regio TV Schwabenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550315
+DE | Regio TV Stuttgartⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550316
+DE | RFHⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550317
+DE | RFOⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550318
+DE | Rhein Neckar Fernsehenⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550319
+DE | RiC TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550320
+DE | Yogamourⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550321
+DE | TVAⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550322
+DE | TV Ingolstadtⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550323
+DE | TV Kielⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550324
+DE | Waidwerkⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550325
+DE | Seen Luft 24ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550326
+DE | XITEⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550327
+DE | Oneⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550328
+DE | Pro7 Maxxⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550329
+DE | RTL Crimeⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550330
+DE | Super RTLⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550331
+DE | Kinowelt TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550332
+DE | VOXⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550333
+DE | Nitroⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550334
+DE | Tele 5ⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550335
+DE | ServusTv Deutschlandⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550336
+DE | SWRⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550337
+DE | NDRⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550338
+DE | NDR Schleswig-Holsteinⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550339
+DE | NDR Niedersachsenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550340
+DE | HSE24 Extraⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550341
+DE | Radio Weser TV Bremenⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550342
+DE | 13th Streetⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550343
+DE | Das Erste (ARD)ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550344
+DE | DMAXⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550345
+DE | E! Entertainmentⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550346
+DE | Foxⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550347
+DE | Kabel.1ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550348
+DE | KiKAⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550349
+DE | Nitroⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550350
+DE | Pro7 Maxxⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550351
+DE | Pro7ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550352
+DE | RTLⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550353
+DE | RTL Zweiⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550354
+DE | SAT.1 Goldⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550355
+DE | Sat.1ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550356
+DE | Sixxⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550357
+DE | Sky Atlanticⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550358
+DE | Sky 1ⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550359
+DE | Sky Serien & Showsⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550360
+DE | SYFYⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550361
+DE | TLCⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550362
+DE | WarnerTV Comedyⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550363
+DE | WarnerTV Filmⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550364
+DE | WarnerTV Serieⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550365
+DE | VOXⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550366
+DE | Weltⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550367
+DE | ZDFⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550368
+DE | Beauty TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550369
+DE | KiKAⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550370
+DE | KiKAⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550371
+DE | Euronewsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550372
+DE | Spiegel TV Wissenⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550373
+DE | MTV 80sⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550374
+DE | MTV 90sⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550375
+DE | MTVⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550376
+DE | MTV Liveⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550377
+DE | MTVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550378
+DE | MTV Hitsⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550379
+DE | N-tvⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550380
+DE | N-tvⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550381
+DE | Tagesschau24ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550382
+DE | DMAXⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550383
+DE | TLCⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550384
+DE | Arteⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550385
+DE | Anixe Serieⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550386
+DE | Sky 1ⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550387
+DE | MTV Baseⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550388
+DE | Sky Cinema Funⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550389
+DE | Sky Cinema Actionⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550390
+DE | Sky Atlanticⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550391
+DE | Sky Cinema Emotionⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550392
+DE | Universal TVⓧ HEVC,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550393
+DE | GoldStar TVⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550394
+DE | Bon Gustoⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550395
+DE | SYFYⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550396
+DE | DAZN Event 1ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550397
+DE | SONY AXNⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550398
+DE | sonnenklar.TVⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550399
+DE | Deluxe Musicⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550400
+DE | pearl.tv Shopⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550401
+DE | Sat.1 emotionsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550402
+DE | Sat.1 Goldⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550403
+DE | ZDFⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550404
+DE | ZDF Neoⓧ SD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550405
+DE | RTL Westⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550406
+DE | Bibel TV Impulsⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550407
+DE | Bibel TV Musikⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550408
+DE | Channel 21ⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550409
+DE | Kabel.1 Dokuⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550410
+DE | Sky Crimeⓧ FHD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550411
+DE | Vevo Popⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550412
+DE | Qwest TV Classicalⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/550413
+
 📺｜Adult,#genre#
 Adult Balkan Erotic,http://appleiptv.com:80/3903/3903/28610
 Adult Barely Legal,http://appleiptv.com:80/3903/3903/28611
@@ -7272,3 +8533,394 @@ Adult Fap TV Parody,http://appleiptv.com:80/3903/3903/161628
 Adult Fap TV Teens (D),http://appleiptv.com:80/3903/3903/161629
 Adult Fap TV Lesbian (D),http://appleiptv.com:80/3903/3903/161630
 Adult Brazzers TV Europe (D),http://appleiptv.com:80/3903/3903/161632
+
+📺｜Adult-2,#genre#
+AdultIPTV.net Anal,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62772
+AdultIPTV.net Big Dick,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62773
+AdultIPTV.net Big Tits,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62774
+AdultIPTV.net Blonde,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62775
+AdultIPTV.net Blowjob,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62776
+AdultIPTV.net Brunette,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62777
+AdultIPTV.net Compilation,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62778
+AdultIPTV.net Cuckold,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62779
+AdultIPTV.net Fetish,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62780
+AdultIPTV.net Gangbang,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62781
+AdultIPTV.net Gay,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62782
+AdultIPTV.net Hardcore,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62783
+AdultIPTV.net Interracial,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62784
+AdultIPTV.net Latina,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62785
+AdultIPTV.net Lesbian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62786
+AdultIPTV.net Live Cams,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62771
+AdultIPTV.net MILF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62787
+AdultIPTV.net Pornstar,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62788
+AdultIPTV.net POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62789
+AdultIPTV.net Rough,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62790
+AdultIPTV.net Russian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62791
+AdultIPTV.net Teen,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62792
+AdultIPTV.net Threesome,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/62793
+Miami TV Jenny Live,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362576
+Miami TV Latino,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362577
+PORNBOXⓧ: ASMR FANTASY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362748
+PORNBOXⓧ: ATK GIRLFRIENDS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362749
+PORNBOXⓧ: BABES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362750
+PORNBOXⓧ: BABESALICIOUS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362752
+PORNBOXⓧ: BAD DADDY POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362753
+PORNBOXⓧ: BAEB,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362754
+PORNBOXⓧ: BANGBUS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362755
+PORNBOXⓧ: BELLESA FILMS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362756
+PORNBOXⓧ: BIG NATURALS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362757
+PORNBOXⓧ: BIG TITS AT SCHOOL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362758
+PORNBOXⓧ: BITCHES ABROAD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362759
+PORNBOXⓧ: BLACK GFS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362760
+PORNBOXⓧ: BLACK IS BETTER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362761
+PORNBOXⓧ: BLACKED,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362762
+PORNBOXⓧ: BLACKED RAW,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362763
+PORNBOXⓧ: BLOW ME POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362764
+PORNBOXⓧ: BRATTY SIS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362765
+PORNBOXⓧ: BRAZZERS EN ESPANOL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362766
+PORNBOXⓧ: BROKEN BABES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362767
+PORNBOXⓧ: BROKEN MILF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362768
+PORNBOXⓧ: CUM 4K,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362769
+PORNBOXⓧ: CUM FIESTA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362770
+PORNBOXⓧ: DAD CRUSH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362771
+PORNBOXⓧ: DAY WITH A PORNSTAR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362773
+PORNBOXⓧ: DDF NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362776
+PORNBOXⓧ: DEEPER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362774
+PORNBOXⓧ: DFD BUSTY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362775
+PORNBOXⓧ: DIGITAL PLAYGROUND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362777
+PORNBOXⓧ: DOG FART NETWORK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362778
+PORNBOXⓧ: DON'T BREAK ME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362779
+PORNBOXⓧ: ELEGANT ANAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362780
+PORNBOXⓧ: ERITO,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362781
+PORNBOXⓧ: EROTIC SPICE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362782
+PORNBOXⓧ: EXXXTRA SMALL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362784
+PORNBOXⓧ: FAKE AGENT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362785
+PORNBOXⓧ: FAKE AGENT UK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362786
+PORNBOXⓧ: FAKE DRIVING SCHOOL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362788
+PORNBOXⓧ: FAKE HOSPITAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362789
+PORNBOXⓧ: FAKE HOSTEL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362790
+PORNBOXⓧ: FAKE TAXI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362791
+PORNBOXⓧ: FAMILY SINNERS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362792
+PORNBOXⓧ: FAMILY STROKES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362793
+PORNBOXⓧ: FAMILY XXX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362794
+PORNBOXⓧ: FEMALE AGENT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362795
+PORNBOXⓧ: FEMALE FAKE TAXI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362796
+PORNBOXⓧ: FEVER FILMS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362797
+PORNBOXⓧ: FIRST ANAL QUEST,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362798
+PORNBOXⓧ: FITNESS ROOMS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362799
+PORNBOXⓧ: FORGIVE ME FATHER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362800
+PORNBOXⓧ: GF REGENVE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362801
+PORNBOXⓧ: GIRLS GONE PINK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362802
+PORNBOXⓧ: GOTMYLF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362803
+PORNBOXⓧ: HENTAI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362804
+PORNBOXⓧ: HER LIMIT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362805
+PORNBOXⓧ: HOT WIFE XXX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362806
+PORNBOXⓧ: I KNOW THAT GIRL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362807
+PORNBOXⓧ: JAPAN LUST,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362808
+PORNBOXⓧ: JAYS POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362810
+PORNBOXⓧ: JESH BY JESH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362811
+PORNBOXⓧ: KINKY SPA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362812
+PORNBOXⓧ: LETS DO IT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362813
+PORNBOXⓧ: LIFE SELECTOR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362814
+PORNBOXⓧ: LOVE HER ASS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362815
+PORNBOXⓧ: MASSAGE ROOMS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362816
+PORNBOXⓧ: MEAN GIRLS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362817
+PORNBOXⓧ: MIKES APARTMENT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362818
+PORNBOXⓧ: MILE HIGH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362819
+PORNBOXⓧ: MILF HUNTER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362820
+PORNBOXⓧ: MOFOS B SIDES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362821
+PORNBOXⓧ: MOM KNOWS BEST,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362823
+PORNBOXⓧ: MOM TEACH SEX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362824
+PORNBOXⓧ: MONEY TALKS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362825
+PORNBOXⓧ: MR LUCKY POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362826
+PORNBOXⓧ: MY 18 TEENS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362827
+PORNBOXⓧ: MY DIRT HOBBY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362828
+PORNBOXⓧ: MY FAMILY PIES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362829
+PORNBOXⓧ: MY FRIENDS HOT MOM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362830
+PORNBOXⓧ: MY LIFE IN MIAMI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362831
+PORNBOXⓧ: MY PERVY FAMILY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362832
+PORNBOXⓧ: MY VERY FIRST TIME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362833
+PORNBOXⓧ: MYLF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362834
+PORNBOXⓧ: NANNY SPY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362835
+PORNBOXⓧ: NAUGHTY AMERICA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362836
+PORNBOXⓧ: NF BUSTY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362837
+PORNBOXⓧ: NUBILE FILMS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362838
+PORNBOXⓧ: OFFICE OBSESSION,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362839
+PORNBOXⓧ: PERV MOM,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362840
+PORNBOXⓧ: PERVS ON PATROL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362841
+PORNBOXⓧ: PORNO ACADEMIE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362842
+PORNBOXⓧ: POVD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362843
+PORNBOXⓧ: PRESTIGE JAPAN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362844
+PORNBOXⓧ: PRIVATE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362846
+PORNBOXⓧ: PROPERTY SEX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362847
+PORNBOXⓧ: PUBLIC AGENT,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362848
+PORNBOXⓧ: PUBLIC PICKUPS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362849
+PORNBOXⓧ: PURE18,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362850
+PORNBOXⓧ: RAW ATTACK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362851
+PORNBOXⓧ: REAL EX GIRLFRIENDS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362852
+PORNBOXⓧ: REAL SENSUAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362853
+PORNBOXⓧ: RK PRIME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362854
+PORNBOXⓧ: SELL YOUR GF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362855
+PORNBOXⓧ: SEX WORKING,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362856
+PORNBOXⓧ: SHARE MY BF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362857
+PORNBOXⓧ: SIS LOVES ME,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362858
+PORNBOXⓧ: STEP MOM LESSONS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362859
+PORNBOXⓧ: STEPSIBLINGS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362860
+PORNBOXⓧ: STRANDED TEENS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362861
+PORNBOXⓧ: SWALLOW SALON,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362862
+PORNBOXⓧ: THE INNOCENCE OF YOUTH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362863
+PORNBOXⓧ: TINY 4K,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362864
+PORNBOXⓧ: TONIGHTS GIRLFRIEND,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362865
+PORNBOXⓧ: TURNING TWISTYS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362866
+PORNBOXⓧ: TUSHY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362867
+PORNBOXⓧ: TWISTYS ORIGINAL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362868
+PORNBOXⓧ: VIXEN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362869
+PORNBOXⓧ: VLOG XXX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362870
+PORNBOXⓧ: WE LIVE TOGETHER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362871
+PORNBOXⓧ: WHEN GIRLS PLAY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362872
+RedTraffic Big Ass,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362578
+RedTraffic Big Dick,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362579
+RedTraffic Big Tits,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362580
+RedTraffic Blowjob,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362581
+RedTraffic Cuckold,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362582
+RedTraffic Fetish,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362583
+RedTraffic Hardcore,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362584
+RedTraffic Interracial,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362585
+RedTraffic Latina,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362586
+RedTraffic Lesbian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362587
+RedTraffic Milf,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362588
+RedTraffic Pornstars,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362589
+RedTraffic POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362590
+RedTraffic Russian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362591
+RedTraffic Teen,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362592
+RedTraffic Threesome,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362593
+STARS EXCLUSIVEⓧ: ABELLA DANGER,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362873
+STARS EXCLUSIVEⓧ: ADRIANA CHECHIK,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362874
+STARS EXCLUSIVEⓧ: ALINA LOPEZ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362875
+STARS EXCLUSIVEⓧ: ANGELA WHITE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362876
+STARS EXCLUSIVEⓧ: ARIANA MARIE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362877
+STARS EXCLUSIVEⓧ: AUGUST AMES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362878
+STARS EXCLUSIVEⓧ: BRANDI LOVE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362880
+STARS EXCLUSIVEⓧ: DANI DANIELS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362881
+STARS EXCLUSIVEⓧ: DANI JENSEN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362882
+STARS EXCLUSIVEⓧ: ELSA JEAN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362883
+STARS EXCLUSIVEⓧ: EMILY WILLIS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362884
+STARS EXCLUSIVEⓧ: EVA LOVIA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362885
+STARS EXCLUSIVEⓧ: GINA VALENTINA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362886
+STARS EXCLUSIVEⓧ: JANICE GRIFFITH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362887
+STARS EXCLUSIVEⓧ: JESSA RHODES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362888
+STARS EXCLUSIVEⓧ: LANA RHOADES,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362889
+STARS EXCLUSIVEⓧ: LENA PAUL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362890
+STARS EXCLUSIVEⓧ: LISA ANN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362891
+STARS EXCLUSIVEⓧ: MADISON IVY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362892
+STARS EXCLUSIVEⓧ: NICOLE ANISTON,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362894
+STARS EXCLUSIVEⓧ: UMA JOLIE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362896
+VERIFIED AMATEURSⓧ: CHESSIE RAE,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362901
+VERIFIED AMATEURSⓧ: DIANA DANIELS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362902
+VERIFIED AMATEURSⓧ: ELLAKAI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362903
+VERIFIED AMATEURSⓧ: FIAMURR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362904
+VERIFIED AMATEURSⓧ: KRISS KISS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362905
+VERIFIED AMATEURSⓧ: LUXURYGIRL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362907
+VERIFIED AMATEURSⓧ: MIKANIKA69,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362908
+VERIFIED AMATEURSⓧ: MINI DIVA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362909
+VERIFIED AMATEURSⓧ: MOLLYREDWOLF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362910
+VERIFIED AMATEURSⓧ: NOFACEGIRL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362911
+VERIFIED AMATEURSⓧ: NOTSOAMATEUR,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362912
+VERIFIED AMATEURSⓧ: NYNA FERRAGNI,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362913
+VERIFIED AMATEURSⓧ: PURPLE BITCH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362914
+VERIFIED AMATEURSⓧ: REISLIN,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362915
+VERIFIED AMATEURSⓧ: SECRETCRUSH,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362916
+VERIFIED AMATEURSⓧ: SOLAZOLA,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362918
+VERIFIED AMATEURSⓧ: SWEET BUNNY,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362919
+VERIFIED AMATEURSⓧ: TESSA WINTERS,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362920
+VERIFIED AMATEURSⓧ: TINNA ANGEL,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362921
+VERIFIED AMATEURSⓧ: YINYLEON,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362922
+Visit-X TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362594
+Visit-X TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362595
+Visit-X TV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362596
+XXX : Blue Hustler,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362525
+XXX : Hustler HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362523
+XXX : Leo TV - Nights Only,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362526
+XXX : Man-X (GAY) - Nights Only,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362532
+XXX : Penthouse Gold,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362531
+XXX : Penthouse Quickies,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362529
+XXX : Penthouse Quickies CZ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362528
+XXX : Private  HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362522
+XXX : Vivid Red HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362520
+XXX : Vivid Touch,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362519
+XXX Anal,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362545
+XXX Asian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362546
+XXX Big Ass,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362547
+XXX Big Dick,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362548
+XXX Big Tits,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362549
+XXX Blonde,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362550
+XXX Blowjob,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362551
+XXX Brunette,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362552
+XXX Compilation,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362553
+XXX Cuckold,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362554
+XXX Fetish,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362555
+XXX Gangbang,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362556
+XXX GANGBANG,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362570
+XXX Gay,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362557
+XXX Hardcore,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362558
+XXX Interracial,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362559
+XXX Latina,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362560
+XXX Lesbian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362561
+XXX Live Cams,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362562
+XXX MILF,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362563
+XXX Pornstar,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362564
+XXX POV,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362565
+XXX Rough,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362566
+XXX Russian,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362567
+XXX SEX,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362571
+XXX Teen,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362568
+XXX Threesome,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362569
+XXX | Adult Timeⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362924
+XXX | Adultⓧ 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362942
+XXX | Adultⓧ 10,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362937
+XXX | Adultⓧ 11,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362935
+XXX | Adultⓧ 12,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362934
+XXX | Adultⓧ 13,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362928
+XXX | Adultⓧ 14,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362936
+XXX | Adultⓧ 15,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362938
+XXX | Adultⓧ 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362930
+XXX | Adultⓧ 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362939
+XXX | Adultⓧ 4,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362932
+XXX | Adultⓧ 5,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362929
+XXX | Adultⓧ 6,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362927
+XXX | Adultⓧ 7,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362933
+XXX | Adultⓧ 8,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362940
+XXX | Adultⓧ 9,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362941
+XXX | Alba XXX 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362619
+XXX | Alba XXX 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362620
+XXX | Alba XXX 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362621
+XXX | Alba XXX 4ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362622
+XXX | Alba XXX 5ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362623
+XXX | Alba XXX 6ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362624
+XXX | AST TV1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362626
+XXX | AST TV2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362627
+XXX | Babes 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362631
+XXX | Babesⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362628
+XXX | Balkan Erotic HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362629
+XXX | Balkan Eroticⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362923
+XXX | Bang Brosⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362630
+XXX | Bangerzⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362632
+XXX | Barely Legal TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362633
+XXX | Beate Uhseⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362656
+XXX | Blacked 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362625
+XXX | Blacked 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362635
+XXX | Blacked Rawⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362634
+XXX | Blue Hustlerⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362636
+XXX | Brazzers HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362638
+XXX | Brazzers TV Europeⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362639
+XXX | Brazzers TV Europeⓧ HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362637
+XXX | Cento x centoⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362640
+XXX | Cherry Pimpsⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362674
+XXX | Czech Massageⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362658
+XXX | Dancing Bearⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362646
+XXX | Digital Playgroundⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362647
+XXX | Dorcel Clubⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362648
+XXX | Dorcel TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362649
+XXX | Dorcel XXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362650
+XXX | dusk HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362542
+XXX | Duskⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362651
+XXX | ENO 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362720
+XXX | ENO 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362721
+XXX | ENO 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362722
+XXX | ENO 4ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362723
+XXX | ENO 5ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362724
+XXX | ENO 6ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362925
+XXX | ENO 7ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362926
+XXX | EroXXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362653
+XXX | EroXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362652
+XXX | Evil Angelⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362654
+XXX | Extreme,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362655
+XXX | Fake Taxiⓧ 1,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362659
+XXX | Fake Taxiⓧ 2,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362661
+XXX | Fake Taxiⓧ 3,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362660
+XXX | fap-tv-2 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362541
+XXX | fap-tv-3 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362540
+XXX | fap-tv-4 HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362539
+XXX | fap-tv-anal HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362537
+XXX | fap-tv-compilation HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362533
+XXX | fap-tv-lesbian HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362535
+XXX | fap-tv-parody HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362536
+XXX | fap-tv-teens HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362534
+XXX | Fast Boyzⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362670
+XXX | Female Fake Taxiⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362673
+XXX | Filmax 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362642
+XXX | Filmax 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362643
+XXX | Filmax 4ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362644
+XXX | Filmax 5ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362645
+XXX | Girls do pornⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362678
+XXX | Hard Xⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362679
+XXX | Hot Guys Fuckⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362681
+XXX | Hot HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362680
+XXX | Hot XXLⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362682
+XXX | hustler HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362544
+XXX | Hustler HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362683
+XXX | Hustler TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362684
+XXX | Japan HDVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362685
+XXX | Jasmin TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362686
+XXX | Lesbian Affairⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362687
+XXX | Mega 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362672
+XXX | Mega 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362666
+XXX | Mega 5ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362669
+XXX | Mega 6ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362671
+XXX | Mega 7ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362668
+XXX | Meiden van Hollandⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362688
+XXX | Miami TV Latinoⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362689
+XXX | MILF TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362690
+XXX | Moms Teach Sexⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362700
+XXX | Net XXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362692
+XXX | NetXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362728
+XXX | nuart HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362543
+XXX | Nuartⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362693
+XXX | Nubile Filmsⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362694
+XXX | Nubiles TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362695
+XXX | O-la-laⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362696
+XXX | oh-ah HD,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362538
+XXX | Passie XXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362725
+XXX | Passion XXX 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362676
+XXX | Passion XXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362697
+XXX | Penthouse Goldⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362698
+XXX | Penthouse Passionⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362662
+XXX | Penthouse Quickiesⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362699
+XXX | Pink 0 Clubⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362701
+XXX | Pink Erotic 1ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362702
+XXX | Pink Erotic 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362703
+XXX | Pink Erotic 3ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362704
+XXX | Pink Erotic 4ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362705
+XXX | Pink Erotic 6ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362707
+XXX | Pink Erotic 7ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362708
+XXX | Playboy TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362711
+XXX | Playhouseⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362712
+XXX | Private HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362714
+XXX | Pure Tabooⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362734
+XXX | Reality Kingsⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362716
+XXX | Redlight HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362717
+XXX | Russkaya Nochⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362719
+XXX | Sexationⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362726
+XXX | Sexmexⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362727
+XXX | Sextremeⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362729
+XXX | Shalun TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362730
+XXX | Sinful XXX 2ⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362731
+XXX | Sinful XXXⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362732
+XXX | Tabooⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362715
+XXX | Teen Fidelityⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362733
+XXX | Trans Angelsⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362718
+XXX | Tushy HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362736
+XXX | TushyRAWⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362737
+XXX | U Bangⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362738
+XXX | Venusⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362739
+XXX | VISIT-X TVⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362931
+XXX | Vivid Redⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362740
+XXX | Vivid TV Europeⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362741
+XXX | Vixen HDⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362742
+XXX | Wank it Nowⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362743
+XXX | White Boxxxⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362657
+XXX | X MOⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362713
+XXX | XXLⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362745
+XXX | XY Maxⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362747
+XXX | XY Mixⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362746
+XXX | XY Plusⓧ,http://primerugby.does-it.net:8080/russd1@hotmail.com/Russeld/362744
