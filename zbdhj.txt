@@ -7333,41 +7333,6 @@ FR Voyage,http://appleiptv.com:80/3903/3903/83123
 FR W9 HD,http://appleiptv.com:80/3903/3903/83124
 FR Weo HD,http://appleiptv.com:80/3903/3903/83125
 
-📺｜Premier League,#genre#
-Premier League & EFL ▬,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/16510
-iFollow 1 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23925
-iFollow 10 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23916
-iFollow 11 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23915
-iFollow 12 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23914
-iFollow 13 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23913
-iFollow 14 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23912
-iFollow 15 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23911
-iFollow 16 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23910
-iFollow 17 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23909
-iFollow 18 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23908
-iFollow 19 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23907
-iFollow 2 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23924
-iFollow 20 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23906
-iFollow 3 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23923
-iFollow 4 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23922
-iFollow 5 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23921
-iFollow 6 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23920
-iFollow 7 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23919
-iFollow 8 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23918
-iFollow 9 UK,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/23917
-EPL 1 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19032
-EPL 2 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19033
-EPL 3 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19034
-EPL 4 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19035
-EPL 5 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19036
-EPL 6 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19037
-EPL 7 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19089
-EPL 8 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/19090
-EPL 9 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/28167
-EPL 10 [spark],http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/28168
-Spark 1 UEFA FHD,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/88676
-Spark 2 UEFA FHD,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/88677
-Spark 3 UEFA FHD,http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/88678
 
 📺｜Sports,#genre#
 Model,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
