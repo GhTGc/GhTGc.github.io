@@ -3131,7 +3131,343 @@ Premier Football TH 4,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115523
 Premier Football TH 4-X,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115524
 Premier Football TH 5,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115525
 
+🐾🦚UNITED SKY SELECT,#genre#
+UNITED SKY SELECT HD 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91685.ts
+UNITED SKY SELECT HD 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91684.ts
+UNITED SKY SELECT HD 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91683.ts
+UNITED SKY SELECT HD 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91686.ts
+UNITED SKY SELECT HD 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91687.ts
+UNITED SKY SELECT HD 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91688.ts
+UNITED SKY SELECT HD 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91689.ts
+UNITED SKY SELECT HD 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91690.ts
+UNITED SKY SELECT HD 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91691.ts
+UNITED SKY SELECT HD 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/91692.ts
+
+🐾🦚Netflix,#genre#
+DE: Netflix 1 ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132684.ts
+DE: Netflix 2 ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132685.ts
+DE: Netflix 3 ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132686.ts
+DE: Netflix 4 ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132687.ts
+DE: Netflix 5 ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132688.ts
+DE: Netflix  Krımı ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132671.ts
+DE: Netflix  Action ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132672.ts
+DE: Netflix  Drama ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132673.ts
+DE: Netflix  Horror ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132674.ts
+DE: Netflix  Thriller ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132675.ts
+DE: Netflix Familie ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132676.ts
+DE: Netflix  Komodie ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132678.ts
+DE: Netflix  Animation ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132679.ts
+DE: Netflix  Fantasy ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132677.ts
+DE: Netflix  Romantısch ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132681.ts
+DE: Netflix  Abenteuer ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132680.ts
+DE: Netflix  Scıence-Fıctıon ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132682.ts
+DE: Netflix  Dokumentarfilm ʜᴅ,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132683.ts
+
+🐾🦚BlueTV 4K,#genre#
+DE: BlueTV 4K ACTION,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132690.ts
+DE: BlueTV 4K DRAMA,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132691.ts
+DE: BlueTV 4K HORROR,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132692.ts
+DE: BlueTV 4K KOMÖDIE,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132693.ts
+DE: BlueTV 4K ROMANTISCH,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132694.ts
+DE: BlueTV 4K SCI-FI,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132695.ts
+DE: BlueTV 4K THRILLER,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132696.ts
+DE: BlueTV 4K FANTASY,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132697.ts
+DE: BlueTV 4K ABENTEUER,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132698.ts
+DE: BlueTV 4K MYSTERY,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132701.ts
+DE: BlueTV 4K FAMILIE,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132700.ts
+DE: BlueTV 4K BOLLYWOOD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132699.ts
+DE: BlueTV 4K KRIMI,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/132702.ts
+
+🐾🦚DE Sport1,#genre#
+DE: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2549.ts
+DE: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2550.ts
+DE: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2552.ts
+DE: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2551.ts
+DE: EuroSport 2 Xtra,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2553.ts
+DE: EuroSport 2 Xtra,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2554.ts
+DE: Sky Sport News HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2509.ts
+DE: Sky Sport 1[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2526.ts
+DE: Sky Sport 1[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2527.ts
+DE: Sky Sport 2[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2528.ts
+DE: Sky Sport 2[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2529.ts
+DE: Sky Sport 3[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/56206.ts
+DE: Sky Sport 3[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2530.ts
+DE: Sky Sport 4[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2531.ts
+DE: Sky Sport 4[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2532.ts
+DE: Sky Sport 5[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2533.ts
+DE: Sky Sport 5[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2534.ts
+DE: Sky Sport 6[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2535.ts
+DE: Sky Sport 6[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2536.ts
+DE: Sky Sport 7[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2537.ts
+DE: Sky Sport 7[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2538.ts
+DE: Sky Sport 8[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2539.ts
+DE: Sky Sport 8[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2540.ts
+DE: Sky Sport 9[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2541.ts
+DE: Sky Sport 9[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2542.ts
+DE: Sky Sport 10[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/56213.ts
+DE: Sky Sport 10[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2543.ts
+DE: Sky Sport Bundesliga 1[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2511.ts
+DE: Sky Sport Bundesliga 1[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2510.ts
+DE: Sky Sport Bundesliga 2[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2513.ts
+DE: Sky Sport Bundesliga 2[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2512.ts
+DE: Sky Sport Bundesliga 3[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2515.ts
+DE: Sky Sport Bundesliga 3[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2514.ts
+DE: Sky Sport Bundesliga 4[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2517.ts
+DE: Sky Sport Bundesliga 4[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2516.ts
+DE: Sky Sport Bundesliga 5[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2518.ts
+DE: Sky Sport Bundesliga 5[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2519.ts
+DE: Sky Sport Bundesliga 6[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2520.ts
+DE: Sky Sport Bundesliga 6[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2521.ts
+DE: Sky Sport Bundesliga 7[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2522.ts
+DE: Sky Sport Bundesliga 8[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2523.ts
+DE: Sky Sport Bundesliga 9[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2524.ts
+DE: Sky Sport Bundesliga 10[Live Events Only],http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2525.ts
+DE: Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2555.ts
+DE: Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2556.ts
+DE: Sport1+ HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2557.ts
+DE: Sky Sport F1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/89760.ts
+DE: Sky Sport F1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/89761.ts
+DE: Sportdigital,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2559.ts
+DE: Sportdigital,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2558.ts
+DE: Auto Motor und Sport FHD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2560.ts
+DE: FC Bayern TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2544.ts
+DE: FC Bayern TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2545.ts
+DE: Motorvision TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2562.ts
+DE: ORF Sport + HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/2548.ts
+
+🐾🦚DE Sport2,#genre#
+DE: Sky Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111329.ts
+DE: Sky Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111320.ts
+DE: Sky Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111358.ts
+DE: Sky Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111377.ts
+DE: Sky Sport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111330.ts
+DE: Sky Sport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111321.ts
+DE: Sky Sport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111359.ts
+DE: Sky Sport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111378.ts
+DE: Sky Sport 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111360.ts
+DE: Sky Sport 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111379.ts
+DE: Sky Sport 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111361.ts
+DE: Sky Sport 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111380.ts
+DE: Sky Sport 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111362.ts
+DE: Sky Sport 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111381.ts
+DE: Sky Sport 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111363.ts
+DE: Sky Sport 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111382.ts
+DE: Sky Sport 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111364.ts
+DE: Sky Sport 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111383.ts
+DE: Sky Sport 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111365.ts
+DE: Sky Sport 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111384.ts
+DE: Sky Sport 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111398.ts
+DE: Sky Sport 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111385.ts
+DE: Sky Sport 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111399.ts
+DE: Sky Sport 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111386.ts
+DE: Sky Sport 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111366.ts
+DE: Sky Sport 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111387.ts
+DE: Sky Sport Austria 1 HD (h265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111328.ts
+DE: Sky Sport F1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111336.ts
+DE: Sky Sport F1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111337.ts
+DE: Sky Sport NEWS HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111319.ts
+DE: Sky Sport News HD (H265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111318.ts
+DE: Sky Sport Golf,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134410.ts
+DE: Sky Sport Golf,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134409.ts
+DE: Sky Sport Tennis,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134412.ts
+DE: Sky Sport Tennis,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134411.ts
+DE: Sky Sport Top Event,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134414.ts
+DE: Sky Sport Top Event,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134413.ts
+DE: Sky Sport Mix,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134416.ts
+DE: Sky Sport Mix,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134415.ts
+DE: Sky Sport Premier League,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134830.ts
+DE: Sky Sport Premier League,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/134831.ts
+DE: Sky Sport Austria 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111343.ts
+DE: Sky Sport Austria 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103627.ts
+DE: Sky Sport Austria 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103628.ts
+DE: Sky Sport Austria 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111344.ts
+DE: Sky Sport Austria 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103630.ts
+DE: Sky Sport Austria 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103629.ts
+DE: Sky Sport Austria 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111345.ts
+DE: Sky Sport Austria 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103631.ts
+DE: Sky Sport Austria 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103632.ts
+DE: Sky Sport Austria 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111346.ts
+DE: Sky Sport Austria 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103633.ts
+DE: Sky Sport Austria 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/103634.ts
+DE: Sky Sport Austria 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111347.ts
+DE: Sky Sport Austria 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/106483.ts
+DE: Sky Sport Austria 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/106482.ts
+DE: Sky Sport Austria 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111348.ts
+DE: Sky Sport Austria 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/106481.ts
+DE: Sky Sport Austria 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111349.ts
+DE: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111334.ts
+DE: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111340.ts
+DE: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111325.ts
+DE: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111335.ts
+DE: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111341.ts
+DE: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111326.ts
+DE: EuroSport 2 Xtra,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111342.ts
+DE: EuroSport 2 Xtra,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111327.ts
+DE: Telekom Fußball 1 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38838.ts
+DE: Telekom Fußball 2 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38839.ts
+DE: Telekom Fußball 3 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38840.ts
+DE: Telekom Fußball 4 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38841.ts
+DE: Telekom Fußball 5 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38842.ts
+DE: Telekom Fußball 6 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38843.ts
+DE: Telekom Fußball 7 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38844.ts
+DE: Telekom Fußball 8 HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/38845.ts
+DE: Telekom Basketball (BBL) 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126171.ts
+DE: Telekom Basketball (BBL) 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126172.ts
+DE: Telekom Basketball (BBL) 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126173.ts
+DE: Magenta Sport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126150.ts
+DE: Magenta Sport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126151.ts
+DE: Magenta Sport 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126152.ts
+DE: Magenta Sport 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126153.ts
+DE: Magenta Sport 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126154.ts
+DE: Magenta Sport 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126155.ts
+DE: Magenta Sport 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126156.ts
+DE: Magenta Sport 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126157.ts
+DE: Magenta Sport 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126158.ts
+DE: Magenta Sport 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126159.ts
+DE: Magenta Sport 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126160.ts
+DE: Magenta Sport 12,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126161.ts
+DE: Magenta Sport 13,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126162.ts
+DE: Magenta Sport 14,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126163.ts
+DE: Magenta Sport 15,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126164.ts
+DE: Magenta Sport 16,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126165.ts
+DE: Magenta Sport 17,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126166.ts
+DE: Magenta Sport 19,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126167.ts
+DE: Magenta Sport 18,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126168.ts
+DE: Magenta Sport 20,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126169.ts
+DE: EUROSport 360  HD 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126174.ts
+DE: EUROSport 360 HD 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126175.ts
+DE: EUROSport 360 HD 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126176.ts
+DE: EUROSport 360 HD 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126177.ts
+DE: EUROSport 360 HD 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126178.ts
+DE: EUROSport 360 HD 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126179.ts
+DE: EUROSport 360 HD 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126180.ts
+DE: EUROSport 360 HD 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126181.ts
+DE: EUROSport 360 HD 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126182.ts
+DE: EUROSport 360 HD 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126183.ts
+DE: EUROSport 360 HD 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126184.ts
+DE: EUROSport 360 HD 12,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126185.ts
+DE: EUROSport 360 HD 13,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126186.ts
+DE: EUROSport 360 HD 14,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126187.ts
+DE: EUROSport 360 HD 15,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126188.ts
+DE: EUROSport 360 HD 16,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/126189.ts
+DE: RTL+ Sport EVENT 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127328.ts
+DE: RTL+ Sport EVENT 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127329.ts
+DE: RTL+ Sport EVENT 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127330.ts
+DE: RTL+ Sport EVENT 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127331.ts
+DE: RTL+ Sport EVENT 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127332.ts
+DE: RTL+ Sport EVENT 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127333.ts
+DE: RTL+ Sport EVENT 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127334.ts
+DE: RTL+ Sport EVENT 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127335.ts
+DE: RTL+ Sport EVENT 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127336.ts
+DE: RTL+ Sport EVENT 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/127337.ts
+DE: DAZN 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111332.ts
+DE: DAZN 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111323.ts
+DE: DAZN 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111338.ts
+DE: DAZN 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/90712.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/5038.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/51770.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/5039.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111333.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111324.ts
+DE: DAZN 2 Bar,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111339.ts
+DE: ORF Sport+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111351.ts
+DE: ORF Sport+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111352.ts
+DE: Sport1+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111353.ts
+DE: Sport1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111355.ts
+DE: Sport1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111354.ts
+DE: Sport1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111356.ts
+DE: BUNDESLIGA 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111331.ts
+DE: BUNDESLIGA 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111367.ts
+DE: BUNDESLIGA 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111322.ts
+DE: BUNDESLIGA 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111388.ts
+DE: BUNDESLIGA 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111389.ts
+DE: BUNDESLIGA 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111368.ts
+DE: BUNDESLIGA 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111369.ts
+DE: BUNDESLIGA 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111390.ts
+DE: BUNDESLIGA 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111370.ts
+DE: BUNDESLIGA 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111391.ts
+DE: BUNDESLIGA 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111371.ts
+DE: BUNDESLIGA 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111392.ts
+DE: BUNDESLIGA 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111372.ts
+DE: BUNDESLIGA 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111393.ts
+DE: BUNDESLIGA 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111373.ts
+DE: BUNDESLIGA 7,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111394.ts
+DE: BUNDESLIGA 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111374.ts
+DE: BUNDESLIGA 8,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111395.ts
+DE: BUNDESLIGA 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111375.ts
+DE: BUNDESLIGA 9,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111396.ts
+DE: BUNDESLIGA 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111376.ts
+DE: BUNDESLIGA 10,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111397.ts
+DE: MOTORVISION TV (HD),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111357.ts
+DE: SportDIGITAL HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111350.ts
+
+🐾🦚PT Sport,#genre#
+PT: ELEVEN SportS 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74428.ts
+PT: ELEVEN SportS 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74427.ts
+PT: ELEVEN SportS 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4616.ts
+PT: ELEVEN SportS 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74426.ts
+PT: ELEVEN SportS 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4617.ts
+PT: ELEVEN SportS 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74430.ts
+PT: ELEVEN SportS 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4619.ts
+PT: ELEVEN SportS 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74429.ts
+PT: ELEVEN SportS 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4618.ts
+PT: ELEVEN SportS 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74433.ts
+PT: ELEVEN SportS 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74432.ts
+PT: ELEVEN SportS 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4620.ts
+PT: ELEVEN SportS 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4621.ts
+PT: ELEVEN SportS 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4622.ts
+PT: ELEVEN SportS 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4623.ts
+PT: ELEVEN SportS 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4624.ts
+PT: ELEVEN SportS 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4625.ts
+PT: ELEVEN SportS 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4626.ts
+PT: ELEVEN SportS 6,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4627.ts
+PT: Sport TV +,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74415.ts
+PT: Sport TV +,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4548.ts
+PT: Sport TV +,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4549.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74418.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74416.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74417.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4550.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4551.ts
+PT: Sport TV 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4552.ts
+PT: Sport TV 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74420.ts
+PT: Sport TV 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74419.ts
+PT: Sport TV 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4553.ts
+PT: Sport TV 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4554.ts
+PT: Sport TV 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4555.ts
+PT: Sport TV 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4556.ts
+PT: Sport TV 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74422.ts
+PT: Sport TV 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4558.ts
+PT: Sport TV 3,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4557.ts
+PT: Sport TV 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4560.ts
+PT: Sport TV 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74423.ts
+PT: Sport TV 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4559.ts
+PT: Sport TV 4,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4561.ts
+PT: Sport TV 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74425.ts
+PT: Sport TV 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4562.ts
+PT: Sport TV 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74424.ts
+PT: Sport TV 5,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4563.ts
+PT: Sport TV NBA HD,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4564.ts
+PT: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74434.ts
+PT: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4573.ts
+PT: EuroSport 1,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4572.ts
+PT: EuroSport 2,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4574.ts
+PT: Sporting TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4567.ts
+PT: Sporting TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4566.ts
+PT: CANAL 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4615.ts
+PT: CANAL 11,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74409.ts
+PT: SportING TV 1 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74410.ts
+PT: Sport TV NBA ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/74414.ts
+PT: PFC,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4576.ts
+PT: Porto Canal,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4565.ts
+PT: Real Madrid TV,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/4568.ts
+
+
 🐾🦚Discovery,#genre#
+HISTORY HD (H265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111288.ts
+HISTORY HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111289.ts
+Discovery HD (H265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111290.ts
+Discovery HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111291.ts
 Discovery Channel HD US,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19390
 Discovery Science FHD US,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15175
 Discovery Life HD US,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11912
@@ -3253,6 +3589,41 @@ Animal Planet HD IN,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136613
 Animal Planet HD CZ,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36831
 
 🐾🦚National Geographic,#genre#
+NAT GEO WILD HD (H265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111292.ts
+NAT GEO WILD HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111293.ts
+NAT GEO HD (H265),http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111294.ts
+NAT GEO HD+,http://udashboard.vip:8080/live/ManuelCaldas/iAfFX5GQX/111295.ts
+Nat Geo Wild TR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14192
+Nat Geo Wild FHD RO [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34066
+Nat Geo Wild HD RO [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30511
+Nat Geo Wild FHD RO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36102
+Nat Geo FHD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48838
+Nat Geo HD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48841
+Nat Geo Wild FHD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48839
+Nat Geo Wild HD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48840
+Nat Geo Wild HD BR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46567
+Nat Geo Wild CA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/170102
+Nat Geo Wild RU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19119
+Nat Geo FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45826
+Nat Geo LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45825
+Nat Geo Wild FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45831
+Nat Geo WILD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45830
+Nat Geo Mundo FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45829
+Nat Geo Mundo LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/133886
+Nat Geo HD BG,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/49912
+Nat Geo Wild HD BG,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/49913
+Nat Geo Wild Sl,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/199860
+Nat Geo HD TH [Thai],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115733
+Nat Geo Wild HD TH,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115735
+Nat Geo Wild FHD FI [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30513
+Nat Geo People HD TR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14193
+Nat Geo Wild HD DE,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/202091
+Nat Geo Wild FHD DE,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11724
+Nat Geo HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/20843
+Nat Geo HD HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/20840
+Nat Geo Wild HD HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34067
+Nat Geo Wild PT,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69044
+Nat Geo Wild HD NL,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12086
 National Geographic HD US,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24795
 National Geographic CA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/170101
 National Geographic RU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19115
@@ -3285,37 +3656,6 @@ National Geographic Wild HD US,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/2
 National Geographic Wild FR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/22955
 National 24 Plus HD RO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23289
 National TV RO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36101
-Nat Geo Wild TR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14192
-Nat Geo Wild FHD RO [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34066
-Nat Geo Wild HD RO [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30511
-Nat Geo Wild FHD RO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36102
-Nat Geo FHD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48838
-Nat Geo HD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48841
-Nat Geo Wild FHD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48839
-Nat Geo Wild HD ES,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48840
-Nat Geo Wild HD BR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46567
-Nat Geo Wild CA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/170102
-Nat Geo Wild RU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19119
-Nat Geo FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45826
-Nat Geo LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45825
-Nat Geo Wild FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45831
-Nat Geo WILD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45830
-Nat Geo Mundo FHD LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45829
-Nat Geo Mundo LAM,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/133886
-Nat Geo HD BG,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/49912
-Nat Geo Wild HD BG,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/49913
-Nat Geo Wild Sl,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/199860
-Nat Geo HD TH [Thai],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115733
-Nat Geo Wild HD TH,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115735
-Nat Geo Wild FHD FI [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30513
-Nat Geo People HD TR,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14193
-Nat Geo Wild HD DE,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/202091
-Nat Geo Wild FHD DE,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11724
-Nat Geo HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/20843
-Nat Geo HD HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/20840
-Nat Geo Wild HD HU,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34067
-Nat Geo Wild PT,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69044
-Nat Geo Wild HD NL,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12086
 
 🐾🦚BBC,#genre#
 BBC Earth FHD DK [Multi-Sub],http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/21237
