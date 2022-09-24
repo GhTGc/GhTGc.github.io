@@ -1979,6 +1979,10 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 
+🐾🦚红牛频道,#genre#
+红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
+红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25084
+
 🐾🦚美国频道,#genre#
 A&E,http://abc123.digital:8080/Legend/legendrestream0429/418298
 LOGO,http://abc123.digital:8080/Legend/legendrestream0429/418353
