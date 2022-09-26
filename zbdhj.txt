@@ -3161,6 +3161,8 @@ BBC World News NO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/38231
 
 
 📺｜Adults 1_7788,#genre#
+FEMJOY,http://5.61.54.61/iptv/A8GNCVWLMQQ8MM/6212/index.m3u8
+FEMJOY,http://5.61.54.61/iptv/4VFATKFTVSB7Y7/6212/index.m3u8
 ALBA XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447589
 ALBA XXX 4 HD,http://abc123.digital:8080/Legend/legendrestream0429/447590
 ALBA XXX 5 HD,http://abc123.digital:8080/Legend/legendrestream0429/447591
