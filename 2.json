@@ -3,8 +3,6 @@
  "dr_count": 42,
  "mode": 2,
  "spider": "https://ghtgc.github.io/custom_spider2.jar",
- # 直播
- "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHRnYy5naXRodWIuaW8vemJkaGoudHh0"]}]}],
  "drives": [
   {
    "name": "🦀9T(Adult)",
@@ -3777,7 +3775,7 @@
     {
      "name": "直播",
      "urls": [
-      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9kcnB5Lm93ZW4xMDA4Ni5yZXBsLmNvL2xpdmVz"
+      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHRnYy5naXRodWIuaW8vemJkaGoudHh0"
      ]
     }
    ]
