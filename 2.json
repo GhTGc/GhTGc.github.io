@@ -2,7 +2,7 @@
  "wallpaper": "https://drpy.owen10086.repl.co/pics",
  "dr_count": 42,
  "mode": 2,
- "spider": "https://drpy.owen10086.repl.co/files/custom_spider.jar",
+ "spider": "https://ghtgc.github.io/custom_spider2.jar",
  # 直播
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHRnYy5naXRodWIuaW8vemJkaGoudHh0"]}]}],
  "drives": [
