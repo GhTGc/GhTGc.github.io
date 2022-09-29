@@ -1982,16 +1982,27 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 🐾🦚红牛频道,#genre#
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25084
+红牛TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
 
 🐾🦚美国频道,#genre#
 A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2987.ts
 A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2988.ts
-HBO HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2893.ts
-HBO 2 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
-HBO ZONE HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
-HBO SIGNATURE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
-HBO FAMILY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
-HBO COMEDY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
+WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
+WWE,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2373
+FIGHT BOX,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/530
+Paramount Network,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/14839
+HBO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2893.ts
+HBO,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2336
+HBO 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
+HBO 2,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/5844
+HBO Zone,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
+HBO Zone,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6328
+HBO Signature,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
+HBO Signature,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6305
+HBO Family,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
+HBO Family,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/760
+HBO Comedy,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
+HBO Comedy,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2335
 CINEMAXX MORE MAXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
 CINEMAX THRILLERMAX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2955.ts
 CINEMAX OUTER MAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2956.ts
@@ -2119,8 +2130,9 @@ VH1 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2789.ts
 USA NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2790.ts
 UNIVISION TDN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2791.ts
 UNIVISION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2792.ts
-UNIVERSAL KIDS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
-UNIVERSAL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
+Universal Premiere,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/291223
+Universal KIDS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
+Universal HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
 UNIMAS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2795.ts
 TVONE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2796.ts
 TVG HORSE RACING,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2797.ts
@@ -2158,7 +2170,6 @@ SEC NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2830.
 RT NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2831.ts
 REVOLT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2832.ts
 REELZ,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2833.ts
-RED BULL TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
 QVC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2835.ts
 PURSUIT CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2836.ts
 POP,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2837.ts
@@ -2214,7 +2225,6 @@ TSN Sport 4 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2
 TSN Sport 3 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2677.ts
 TSN Sport 2 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2678.ts
 TSN Sport 1 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2679.ts
-WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
 NBC UNIVERSO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2684.ts
 NBC Sports Philadelphia HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2685.ts
 NBC Sports Northwest HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2686.ts
