@@ -1984,297 +1984,475 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25084
 
 🐾🦚美国频道,#genre#
-A&E,http://abc123.digital:8080/Legend/legendrestream0429/418298
-LOGO,http://abc123.digital:8080/Legend/legendrestream0429/418353
-DISCOVERY CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418319
-NAT GEO WILD,http://abc123.digital:8080/Legend/legendrestream0429/418339
-NATIONAL GEOGRAPHIC,http://abc123.digital:8080/Legend/legendrestream0429/418258
-OUTDOOR CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418338
-PARAMOUNT NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418382
-HBO,http://abc123.digital:8080/Legend/legendrestream0429/418279
-HBO 2,http://abc123.digital:8080/Legend/legendrestream0429/418365
-HBO FAMILY,http://abc123.digital:8080/Legend/legendrestream0429/418300
-HBO Family US,http://abc123.digital:8080/Legend/legendrestream0429/418398
-HBO Family West US,http://abc123.digital:8080/Legend/legendrestream0429/418399
-HBO LATINO,http://abc123.digital:8080/Legend/legendrestream0429/418324
-HBO SIGNATURE,http://abc123.digital:8080/Legend/legendrestream0429/418345
-HBO Signature US,http://abc123.digital:8080/Legend/legendrestream0429/418400
-HBO Signature West US,http://abc123.digital:8080/Legend/legendrestream0429/418401
-HBO Zone West US,http://abc123.digital:8080/Legend/legendrestream0429/418402
-FOX NEWS,http://abc123.digital:8080/Legend/legendrestream0429/418380
-CBS NEWS,http://abc123.digital:8080/Legend/legendrestream0429/418321
-ABC NEWS LIVE,http://abc123.digital:8080/Legend/legendrestream0429/418316
-CNN,http://abc123.digital:8080/Legend/legendrestream0429/418286
-CNBC,http://abc123.digital:8080/Legend/legendrestream0429/418356
-NBC,http://abc123.digital:8080/Legend/legendrestream0429/418359
-NEWSMAX,http://abc123.digital:8080/Legend/legendrestream0429/418263
-AMC,http://abc123.digital:8080/Legend/legendrestream0429/418334
-AMERICAN HEROES,http://abc123.digital:8080/Legend/legendrestream0429/418301
-AXS TV,http://abc123.digital:8080/Legend/legendrestream0429/418378
-BABY TV,http://abc123.digital:8080/Legend/legendrestream0429/418276
-BBC AMERICA,http://abc123.digital:8080/Legend/legendrestream0429/418307
-BBC WORLD NEWS,http://abc123.digital:8080/Legend/legendrestream0429/418394
-beIN SPORTS,http://abc123.digital:8080/Legend/legendrestream0429/418383
-BET,http://abc123.digital:8080/Legend/legendrestream0429/418273
-BIG TEN NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418261
-BLOOMBERG TV,http://abc123.digital:8080/Legend/legendrestream0429/418360
-BOOMERANG,http://abc123.digital:8080/Legend/legendrestream0429/418379
-BUZZR,http://abc123.digital:8080/Legend/legendrestream0429/418285
-CARTOON NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418346
-CHEDDAR NEWS,http://abc123.digital:8080/Legend/legendrestream0429/418336
-CINEMAX,http://abc123.digital:8080/Legend/legendrestream0429/418397
-CINEMAX 5 STARMAX,http://abc123.digital:8080/Legend/legendrestream0429/418314
-CINEMAX MOREMAX,http://abc123.digital:8080/Legend/legendrestream0429/418364
-CMT,http://abc123.digital:8080/Legend/legendrestream0429/418313
-COMEDY CENTRAL,http://abc123.digital:8080/Legend/legendrestream0429/418289
-COMET,http://abc123.digital:8080/Legend/legendrestream0429/418297
-COOKING CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418392
-DESTINATION AMERICA,http://abc123.digital:8080/Legend/legendrestream0429/418329
-DISNEY CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418265
-E!,http://abc123.digital:8080/Legend/legendrestream0429/418385
-EPIX,http://abc123.digital:8080/Legend/legendrestream0429/418304
-EPIX 2,http://abc123.digital:8080/Legend/legendrestream0429/418342
-EPIX DRIVE-IN,http://abc123.digital:8080/Legend/legendrestream0429/418271
-EPIX HITS,http://abc123.digital:8080/Legend/legendrestream0429/418330
-ESPN,http://abc123.digital:8080/Legend/legendrestream0429/418363
-ESPN 2,http://abc123.digital:8080/Legend/legendrestream0429/418290
-ESPN NEWS,http://abc123.digital:8080/Legend/legendrestream0429/418310
-ESPN U,http://abc123.digital:8080/Legend/legendrestream0429/418355
-FOOD NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418386
-FOX SPORTS 1,http://abc123.digital:8080/Legend/legendrestream0429/418264
-FOX SPORTS 2,http://abc123.digital:8080/Legend/legendrestream0429/418280
-FREE SPEECH TV,http://abc123.digital:8080/Legend/legendrestream0429/418262
-FREEFORM,http://abc123.digital:8080/Legend/legendrestream0429/418377
-FUSE,http://abc123.digital:8080/Legend/legendrestream0429/418274
-FX,http://abc123.digital:8080/Legend/legendrestream0429/418292
-FXM,http://abc123.digital:8080/Legend/legendrestream0429/418315
-FXX,http://abc123.digital:8080/Legend/legendrestream0429/418303
-FYI,http://abc123.digital:8080/Legend/legendrestream0429/418389
-GOLF CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418381
-GREAT AMERICAN COUNTRY,http://abc123.digital:8080/Legend/legendrestream0429/418333
-GRIT,http://abc123.digital:8080/Legend/legendrestream0429/418328
-GSN,http://abc123.digital:8080/Legend/legendrestream0429/418395
-HALLMARK CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418308
-HALLMARK DRAMA,http://abc123.digital:8080/Legend/legendrestream0429/418335
-HALLMARK MOVIES & MYSTERIES,http://abc123.digital:8080/Legend/legendrestream0429/418294
-HDNET MOVIES,http://abc123.digital:8080/Legend/legendrestream0429/418347
-HGTV,http://abc123.digital:8080/Legend/legendrestream0429/418388
-HISTORY,http://abc123.digital:8080/Legend/legendrestream0429/418352
-HLN,http://abc123.digital:8080/Legend/legendrestream0429/418357
-IFC,http://abc123.digital:8080/Legend/legendrestream0429/418368
-INDIEPLEX,http://abc123.digital:8080/Legend/legendrestream0429/418323
-INVESTIGATION DISCOVERY,http://abc123.digital:8080/Legend/legendrestream0429/418260
-LAW & CRIME,http://abc123.digital:8080/Legend/legendrestream0429/418358
-LIFETIME,http://abc123.digital:8080/Legend/legendrestream0429/418272
-LIFETIME MOVIE NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418366
-LONGHORN NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418295
-MAGNOLIA NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418351
-MLB NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418369
-MOTORTREND,http://abc123.digital:8080/Legend/legendrestream0429/418362
-MOVIEPLEX,http://abc123.digital:8080/Legend/legendrestream0429/418372
-MSNBC,http://abc123.digital:8080/Legend/legendrestream0429/418354
-MTV,http://abc123.digital:8080/Legend/legendrestream0429/418306
-MTV2,http://abc123.digital:8080/Legend/legendrestream0429/418361
-NBA TV,http://abc123.digital:8080/Legend/legendrestream0429/418266
-NFL NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418331
-NHL NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418376
-NICK JR.,http://abc123.digital:8080/Legend/legendrestream0429/418375
-NICKTOONS,http://abc123.digital:8080/Legend/legendrestream0429/418287
-OLYMPIC CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418309
-OXYGEN,http://abc123.digital:8080/Legend/legendrestream0429/418311
-PURSUIT CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418341
-REELZ,http://abc123.digital:8080/Legend/legendrestream0429/418390
-RETROPLEX,http://abc123.digital:8080/Legend/legendrestream0429/418340
-SCIENCE,http://abc123.digital:8080/Legend/legendrestream0429/418370
-SEC NETWORK,http://abc123.digital:8080/Legend/legendrestream0429/418302
-SHOWTIME,http://abc123.digital:8080/Legend/legendrestream0429/418327
-SHOWTIME 2,http://abc123.digital:8080/Legend/legendrestream0429/418293
-SHOWTIME EXTREME,http://abc123.digital:8080/Legend/legendrestream0429/418384
-SHOWTIME FAMILY ZONE,http://abc123.digital:8080/Legend/legendrestream0429/418325
-SHOWTIME NEXT,http://abc123.digital:8080/Legend/legendrestream0429/418350
-SHOWTIME SHOWCASE,http://abc123.digital:8080/Legend/legendrestream0429/418349
-SHOWTIME WOMEN,http://abc123.digital:8080/Legend/legendrestream0429/418268
-SHOx BET,http://abc123.digital:8080/Legend/legendrestream0429/418373
-SPORTSMAN CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418344
-STARZ,http://abc123.digital:8080/Legend/legendrestream0429/418275
-STARZ CINEMA,http://abc123.digital:8080/Legend/legendrestream0429/418267
-STARZ COMEDY,http://abc123.digital:8080/Legend/legendrestream0429/418367
-STARZ EDGE,http://abc123.digital:8080/Legend/legendrestream0429/418270
-STARZ ENCORE,http://abc123.digital:8080/Legend/legendrestream0429/418387
-STARZ Encore,http://abc123.digital:8080/Legend/legendrestream0429/418408
-STARZ ENCORE ACTION,http://abc123.digital:8080/Legend/legendrestream0429/418332
-STARZ ENCORE BLACK,http://abc123.digital:8080/Legend/legendrestream0429/418277
-STARZ ENCORE CLASSIC,http://abc123.digital:8080/Legend/legendrestream0429/418282
-STARZ ENCORE FAMILY,http://abc123.digital:8080/Legend/legendrestream0429/418281
-STARZ ENCORE SUSPENSE,http://abc123.digital:8080/Legend/legendrestream0429/418259
-STARZ ENCORE WESTERNS,http://abc123.digital:8080/Legend/legendrestream0429/418320
-STARZ IN BLACK,http://abc123.digital:8080/Legend/legendrestream0429/418283
-STARZ KIDS & FAMILY,http://abc123.digital:8080/Legend/legendrestream0429/418269
-STARZEncore Action US,http://abc123.digital:8080/Legend/legendrestream0429/418403
-STARZEncore Black US,http://abc123.digital:8080/Legend/legendrestream0429/418404
-STARZEncore Classic US,http://abc123.digital:8080/Legend/legendrestream0429/418405
-STARZEncore Family US,http://abc123.digital:8080/Legend/legendrestream0429/418406
-STARZEncore Suspense US,http://abc123.digital:8080/Legend/legendrestream0429/418407
-STARZEncore West,http://abc123.digital:8080/Legend/legendrestream0429/418409
-SUNDANCE,http://abc123.digital:8080/Legend/legendrestream0429/418348
-SYFY,http://abc123.digital:8080/Legend/legendrestream0429/418299
-TASTEMADE,http://abc123.digital:8080/Legend/legendrestream0429/418318
-TBS,http://abc123.digital:8080/Legend/legendrestream0429/418317
-TCM,http://abc123.digital:8080/Legend/legendrestream0429/418393
-TEENNICK,http://abc123.digital:8080/Legend/legendrestream0429/418312
-TENNIS CHANNEL,http://abc123.digital:8080/Legend/legendrestream0429/418374
-TLC,http://abc123.digital:8080/Legend/legendrestream0429/418322
-TNT,http://abc123.digital:8080/Legend/legendrestream0429/418284
-TRU TV,http://abc123.digital:8080/Legend/legendrestream0429/418278
-TV LAND,http://abc123.digital:8080/Legend/legendrestream0429/418391
-USA,http://abc123.digital:8080/Legend/legendrestream0429/418296
-VH1,http://abc123.digital:8080/Legend/legendrestream0429/418371
-VICE,http://abc123.digital:8080/Legend/legendrestream0429/418305
-WE TV,http://abc123.digital:8080/Legend/legendrestream0429/418396
-WEATHER NATION,http://abc123.digital:8080/Legend/legendrestream0429/418343
-WILLOW CRICKET,http://abc123.digital:8080/Legend/legendrestream0429/418337
+A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2987.ts
+A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2988.ts
+HBO HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2893.ts
+HBO 2 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
+HBO ZONE HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
+HBO SIGNATURE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
+HBO FAMILY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
+HBO COMEDY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
+CINEMAXX MORE MAXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
+CINEMAX THRILLERMAX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2955.ts
+CINEMAX OUTER MAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2956.ts
+CINEMAX MOVIEMAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2957.ts
+CINEMAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2958.ts
+CINEMAX ACTION MAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2959.ts
+ABC EAST HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2986.ts
+YES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2989.ts
+VELOCITY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2990.ts
+US- USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2991.ts
+US- DESTINATION-AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2992.ts
+TBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2993.ts
+SONY-MOVIE-CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2994.ts
+SCIENCE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2995.ts
+OWN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2996.ts
+NBCWASH,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2997.ts
+NBCSN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2998.ts
+MY50,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3000.ts
+long,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3002.ts
+ID,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3003.ts
+GINX-TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3004.ts
+FOXLIFE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3005.ts
+FOX29,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3006.ts
+FOX-Life,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3007.ts
+fcsc,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3008.ts
+fcsa,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3009.ts
+ESPN-DEPORTES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3010.ts
+epix3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3011.ts
+ELEVEN-NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3012.ts
+ELEVEN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3013.ts
+DFAM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3014.ts
+cinemax-west,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3015.ts
+BBC-WORLD-NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3016.ts
+AHC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3017.ts
+abc-portland,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3018.ts
+HISTORY CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2886.ts
+HISTORY 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2887.ts
+HGTV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2888.ts
+HGTV FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2889.ts
+HEROS & ICONS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2890.ts
+HALLMARK MOVIES & MYSTERIES HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2897.ts
+HALLMARK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2898.ts
+HALLMARK DRAMA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2899.ts
+GRIT TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2900.ts
+GOLF CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2901.ts
+GAME SHOW NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2902.ts
+FYI NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2904.ts
+FXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2905.ts
+FXM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2906.ts
+FX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2907.ts
+FUSION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2908.ts
+FUSE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2909.ts
+FREEFORM HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2910.ts
+FOX SPORTS 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2911.ts
+FOX SPORTS 1 FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2912.ts
+FOX SPORTS 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2913.ts
+Fox Soccer Plus,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2914.ts
+FOX NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2915.ts
+FOX DEPORTES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2916.ts
+Fox College Pacific,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2917.ts
+Fox College Central,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2918.ts
+Fox College Atlantic,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2919.ts
+FOX BUSINESS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2920.ts
+FOX 50,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2921.ts
+FOX 5 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2922.ts
+FOOD NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2923.ts
+FANTASY SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2924.ts
+ESPN U,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2925.ts
+ESPN NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2926.ts
+ESPN 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2927.ts
+ESPN HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2928.ts
+EPIX HITS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2929.ts
+EPIX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2930.ts
+EPIX 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2931.ts
+ELEVEN SPORTS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2932.ts
+E!,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2934.ts
+DOG TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2935.ts
+DIY NETWORK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2936.ts
+DISNEY XD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2937.ts
+DISNEY JNR,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2938.ts
+DISNEY CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2939.ts
+DISCOVERY SCIENCE HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2940.ts
+DISCOVERY LIFE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2941.ts
+DISCOVERY FAMILY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2942.ts
+DISCOVERY CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2943.ts
+DESTINATION AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2944.ts
+CRIME AND INVESTIGATION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2945.ts
+COZI TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2946.ts
+COUNTRY NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2947.ts
+COOKING CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2948.ts
+COMET TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2949.ts
+COMEDY CENTRAL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2950.ts
+CNN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2951.ts
+CNBC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2952.ts
+CMT HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2953.ts
+CBSN SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2960.ts
+CBS SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2961.ts
+CBS NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2962.ts
+CBS EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2963.ts
+CARTOON NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2964.ts
+BUZZER,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2965.ts
+BOUNCE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2967.ts
+BOOMERANG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2968.ts
+BLOOMBERG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2969.ts
+BLAZE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2970.ts
+BIG TEN NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2971.ts
+BET HER,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2972.ts
+BET FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2973.ts
+BEIN SPORT USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2974.ts
+BBC AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2975.ts
+BABY TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2976.ts
+AXS TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2977.ts
+AWE CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2978.ts
+ANTENNA TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2979.ts
+ANIMAL PLANET,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2980.ts
+AMERICAN HEROES CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2981.ts
+AMC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2982.ts
+ABC WEST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2983.ts
+ABC NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2984.ts
+ABC NEWS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2985.ts
+WGN AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2786.ts
+WE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2787.ts
+VICELAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2788.ts
+VH1 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2789.ts
+USA NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2790.ts
+UNIVISION TDN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2791.ts
+UNIVISION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2792.ts
+UNIVERSAL KIDS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
+UNIVERSAL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
+UNIMAS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2795.ts
+TVONE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2796.ts
+TVG HORSE RACING,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2797.ts
+TV LAND HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2798.ts
+TRU TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2799.ts
+TNT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2801.ts
+TLC CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2802.ts
+THE WEATHER CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2803.ts
+THE CW HD - CHICAGO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2804.ts
+THE CW - PIX 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2805.ts
+TENNIS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2806.ts
+TELEMUNDO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2807.ts
+TEEN NICK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2808.ts
+TCM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2809.ts
+TBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2810.ts
+TBN Trinity Broadcasting Network,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2811.ts
+SYFY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2812.ts
+SUNDANCE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2813.ts
+STARZ KIDS & FAMILY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2814.ts
+STARZ IN BLACK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2815.ts
+STARZ ENCORE WESTERNS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2816.ts
+STARZ ENCORE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2817.ts
+STARZ EDGE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2818.ts
+STARZ COMEDY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2819.ts
+STARZ,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2820.ts
+SPORTSNET NY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2821.ts
+SPORTSMAN CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2823.ts
+SPIKE/PARAMOUNT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2824.ts
+SMITHSONIAN CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2825.ts
+SHOWTIME SHOWCASE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2826.ts
+SHOWTIME HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2827.ts
+SHOWTIME EXTREME,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2828.ts
+SHOWTIME 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2829.ts
+SEC NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2830.ts
+RT NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2831.ts
+REVOLT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2832.ts
+REELZ,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2833.ts
+RED BULL TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
+QVC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2835.ts
+PURSUIT CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2836.ts
+POP,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2837.ts
+PBS WLIW 21,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2838.ts
+PBS KIDS EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2839.ts
+PBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2840.ts
+PAC-12 OREGON,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2841.ts
+PAC-12 MOUNTAIN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2842.ts
+PAC-12 BAY AREA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2843.ts
+PAC-12 ARIZONA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2844.ts
+PAC 12 NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
+PAC 12 LOS ANGELES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2846.ts
+OXYGEN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2847.ts
+OWN NETWORK FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2848.ts
+OVATION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2849.ts
+OUTSIDE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2850.ts
+OUTDOOR CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2851.ts
+ONE AMERICA NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2852.ts
+NICKTOONS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2853.ts
+NICK JR.TOO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2854.ts
+NICK JR,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2855.ts
+NICK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2856.ts
+NHL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2857.ts
+NFL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2859.ts
+NEWS 12 NEW JERSEY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2860.ts
+NEWS 12 LONG ISLAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2861.ts
+NESN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2862.ts
+NAT GEO WILD HD US,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2863.ts
+NAT GEO USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2864.ts
+MY 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2865.ts
+MTV2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2866.ts
+MTV LIVE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2867.ts
+MTV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2868.ts
+MSNBC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2869.ts
+MSG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2870.ts
+MOTOR TREND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2871.ts
+MLB NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2872.ts
+ME TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2873.ts
+LIFETIME MOVIES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2875.ts
+LIFETIME,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2876.ts
+LAFF TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2877.ts
+ION TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
+INVESTIGATION DISCOVERY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
+INVESTIGATION DISCOVERY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.ts
+INFOWARS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2881.ts
+IFC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2882.ts
+HSN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2883.ts
+HLN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2884.ts
+HISTORY CHANNEL FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2885.ts
+WORLD FISHING NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2674.ts
+TSN Sport 5 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2675.ts
+TSN Sport 4 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2676.ts
+TSN Sport 3 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2677.ts
+TSN Sport 2 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2678.ts
+TSN Sport 1 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2679.ts
+WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
+NBC UNIVERSO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2684.ts
+NBC Sports Philadelphia HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2685.ts
+NBC Sports Northwest HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2686.ts
+NBC SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2687.ts
+NBC Sports Chicago HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2688.ts
+NBC Sports California HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2689.ts
+NBC Sports Boston HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2690.ts
+NBC Sports Bay Area HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2691.ts
+NBC GOLF,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2692.ts
+NBC 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2693.ts
+NBC 4 NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2694.ts
+NBC 4 NY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2695.ts
+NBC 10 EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2696.ts
+NBA TV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2697.ts
+NHL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2681.ts
+NFL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2683.ts
+MLB NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2698.ts
+LONGHORN NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2699.ts
 
-🐾🦚英国纪录片频道,#genre#
-Animal Planet,http://abc123.digital:8080/Legend/legendrestream0429/428128
-Nat Geo Wild,http://abc123.digital:8080/Legend/legendrestream0429/428155
-National Geographic,http://abc123.digital:8080/Legend/legendrestream0429/428158
-History,http://abc123.digital:8080/Legend/legendrestream0429/428145
-History 2,http://abc123.digital:8080/Legend/legendrestream0429/428148
-Discovery Channel,http://abc123.digital:8080/Legend/legendrestream0429/428137
-Discovery Channel SD,http://abc123.digital:8080/Legend/legendrestream0429/428138
-Discovery History,http://abc123.digital:8080/Legend/legendrestream0429/428139
-Discovery History SD,http://abc123.digital:8080/Legend/legendrestream0429/428140
-Discovery Science,http://abc123.digital:8080/Legend/legendrestream0429/428141
-Discovery Science SD,http://abc123.digital:8080/Legend/legendrestream0429/428142
-Discovery Turbo,http://abc123.digital:8080/Legend/legendrestream0429/428143
-Discovery Turbo SD,http://abc123.digital:8080/Legend/legendrestream0429/428144
-Blaze TV,http://abc123.digital:8080/Legend/legendrestream0429/428131
-Blaze TV SD,http://abc123.digital:8080/Legend/legendrestream0429/428132
-CGTN Documentary,http://abc123.digital:8080/Legend/legendrestream0429/428133
-CGTN Documentary SD,http://abc123.digital:8080/Legend/legendrestream0429/428134
-Crime & Investigation,http://abc123.digital:8080/Legend/legendrestream0429/428135
-Eden,http://abc123.digital:8080/Legend/legendrestream0429/428491
-GOD TV,http://abc123.digital:8080/Legend/legendrestream0429/428165
-Investigation Discovery,http://abc123.digital:8080/Legend/legendrestream0429/428151
-Investigation Discovery SD,http://abc123.digital:8080/Legend/legendrestream0429/428152
-Love Nature,http://abc123.digital:8080/Legend/legendrestream0429/428153
-Sky Documentaries,http://abc123.digital:8080/Legend/legendrestream0429/428161
-Sky Nature,http://abc123.digital:8080/Legend/legendrestream0429/428163
+🐾英国Sports,#genre#
+Eurosport 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692293
+Eurosport 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692294
+Sky Sports News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692273
+Sky Sports News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692274
+Sky Sports Main Event,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692257
+Sky Sports Main Event,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692258
+Sky Sports Premier League,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692259
+Sky Sports Premier League,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692260
+Sky Sports Football,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692261
+Sky Sports Football,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692262
+Sky Sports Arena,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692794
+Sky Sports Arena,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692795
+Sky Sports Cricket,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692263
+Sky Sports Cricket,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692264
+Sky Sports Golf,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692265
+Sky Sports Golf,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692266
+Sky Sports Racing,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692267
+Sky Sports Racing,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692268
+Sky Sports F1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692269
+Sky Sports F1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692270
+Sky Sports Action,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692271
+Sky Sports Action,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692272
+Sky Sports Mix,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692275
+Sky Sports Mix,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692278
+Sky Sports Mix,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692276
+Sky Sports Mix,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692277
+BT Sport 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692280
+BT Sport 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692281
+BT Sport 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692282
+BT Sport 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692283
+BT Sport 3,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692284
+BT Sport 3,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692285
+BT Sport 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692291
+BT Sport 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692292
+BT Sport 5,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692286
+BT Sport 6,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692287
+BT Sport 7,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692288
+BT Sport 8,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692289
+BT Sport 9,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692290
+BT Sport 10,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/695741
+Premier Sports 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692340
+Premier Sports 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692341
+Premier Sports 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692342
+Premier Sports 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692343
+Free Sports,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692344
+Free Sports,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692345
+Box Nation,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692309
+Box Nation,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692310
+Racing,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692348
+Racing,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692349
+MUTV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692350
+MUTV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/695689
+Liverpool FC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692361
+Celtic FC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692362
 
-🐾🦚英国免费频道,#genre#
-5STAR,http://abc123.digital:8080/Legend/legendrestream0429/436776
-5USA,http://abc123.digital:8080/Legend/legendrestream0429/436777
-BBC NEWS HD,http://abc123.digital:8080/Legend/legendrestream0429/436778
-BBC One,http://abc123.digital:8080/Legend/legendrestream0429/436770
-BBC Parliament,http://abc123.digital:8080/Legend/legendrestream0429/436783
-BBC Two,http://abc123.digital:8080/Legend/legendrestream0429/436771
-ITV,http://abc123.digital:8080/Legend/legendrestream0429/436772
-ITV+1,http://abc123.digital:8080/Legend/legendrestream0429/436794
-ITV2,http://abc123.digital:8080/Legend/legendrestream0429/436775
-ITV3,http://abc123.digital:8080/Legend/legendrestream0429/436787
-ITV4,http://abc123.digital:8080/Legend/legendrestream0429/436788
-ITVBe,http://abc123.digital:8080/Legend/legendrestream0429/436795
-Best Direct,http://abc123.digital:8080/Legend/legendrestream0429/436797
-Blaze,http://abc123.digital:8080/Legend/legendrestream0429/436835
-Bloomberg,http://abc123.digital:8080/Legend/legendrestream0429/436781
-Brit Asia TV,http://abc123.digital:8080/Legend/legendrestream0429/436809
-CBBC,http://abc123.digital:8080/Legend/legendrestream0429/436779
-CBeebies,http://abc123.digital:8080/Legend/legendrestream0429/436782
-LEGEND,http://abc123.digital:8080/Legend/legendrestream0429/436796
-CBS reality,http://abc123.digital:8080/Legend/legendrestream0429/436793
-Challenge,http://abc123.digital:8080/Legend/legendrestream0429/436836
-Channel 4,http://abc123.digital:8080/Legend/legendrestream0429/436773
-Channel 4+1,http://abc123.digital:8080/Legend/legendrestream0429/436831
-Channel 5,http://abc123.digital:8080/Legend/legendrestream0429/436774
-CITV,http://abc123.digital:8080/Legend/legendrestream0429/436815
-CNN,http://abc123.digital:8080/Legend/legendrestream0429/436838
-Court TV,http://abc123.digital:8080/Legend/legendrestream0429/436825
-Dave Ja Vu,http://abc123.digital:8080/Legend/legendrestream0429/436814
-Daystar,http://abc123.digital:8080/Legend/legendrestream0429/436780
-DMAX,http://abc123.digital:8080/Legend/legendrestream0429/436839
-Drama,http://abc123.digital:8080/Legend/legendrestream0429/436784
-Drama+1,http://abc123.digital:8080/Legend/legendrestream0429/436817
-Dunamis TV,http://abc123.digital:8080/Legend/legendrestream0429/436826
-E4,http://abc123.digital:8080/Legend/legendrestream0429/436791
-Film4,http://abc123.digital:8080/Legend/legendrestream0429/436789
-Five Select,http://abc123.digital:8080/Legend/legendrestream0429/436802
-Food Network,http://abc123.digital:8080/Legend/legendrestream0429/436807
-Foodxp,http://abc123.digital:8080/Legend/legendrestream0429/436832
-Fresh - AfricaXP,http://abc123.digital:8080/Legend/legendrestream0429/436844
-GB News,http://abc123.digital:8080/Legend/legendrestream0429/436842
-Gems TV,http://abc123.digital:8080/Legend/legendrestream0429/436798
-Geo TV,http://abc123.digital:8080/Legend/legendrestream0429/436827
-GOD TV,http://abc123.digital:8080/Legend/legendrestream0429/436808
-Great! movies,http://abc123.digital:8080/Legend/legendrestream0429/436804
-Great! movies action,http://abc123.digital:8080/Legend/legendrestream0429/436803
-Great! movies classic,http://abc123.digital:8080/Legend/legendrestream0429/436801
-Great! tv,http://abc123.digital:8080/Legend/legendrestream0429/436830
-High Street TV 3,http://abc123.digital:8080/Legend/legendrestream0429/436810
-Horror XTRA,http://abc123.digital:8080/Legend/legendrestream0429/436786
-Inspiration TV,http://abc123.digital:8080/Legend/legendrestream0429/436833
-Islam Channel,http://abc123.digital:8080/Legend/legendrestream0429/436811
-Jewellery Maker,http://abc123.digital:8080/Legend/legendrestream0429/436823
-Loveworld TV,http://abc123.digital:8080/Legend/legendrestream0429/436824
-More4,http://abc123.digital:8080/Legend/legendrestream0429/436790
-New Vision TV,http://abc123.digital:8080/Legend/legendrestream0429/436828
-NHK World,http://abc123.digital:8080/Legend/legendrestream0429/436841
-Now 80s,http://abc123.digital:8080/Legend/legendrestream0429/436819
-Paramount,http://abc123.digital:8080/Legend/legendrestream0429/436837
-Pop Max,http://abc123.digital:8080/Legend/legendrestream0429/436806
-QUEST RED,http://abc123.digital:8080/Legend/legendrestream0429/436800
-QVC,http://abc123.digital:8080/Legend/legendrestream0429/436785
-Really,http://abc123.digital:8080/Legend/legendrestream0429/436792
-S4C,http://abc123.digital:8080/Legend/legendrestream0429/436840
-Smithsonian Channel,http://abc123.digital:8080/Legend/legendrestream0429/436822
-Sporty Stuff,http://abc123.digital:8080/Legend/legendrestream0429/436843
-Spotlight TV,http://abc123.digital:8080/Legend/legendrestream0429/436820
-STV,http://abc123.digital:8080/Legend/legendrestream0429/436812
-Tiny Pop,http://abc123.digital:8080/Legend/legendrestream0429/436805
-Trace Hits,http://abc123.digital:8080/Legend/legendrestream0429/436829
-Yesterday,http://abc123.digital:8080/Legend/legendrestream0429/436813
-Yesterday +1,http://abc123.digital:8080/Legend/legendrestream0429/436834
+🐾英国BBC National,#genre#
+BBC News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692369
+BBC One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692363
+BBC One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692364
+BBC One [Northern Ireland],http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692375
+BBC One Scotland,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692376
+BBC One [Wales],http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692378
+BBC One [North West] VIP UK,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692382
+BBC Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692365
+BBC Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692366
+BBC Four,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692368
+BBC Scotland,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692377
+BBC Parliament,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692371
+BBC Alba,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692372
+CBBC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692373
+CBBC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692374
 
-🐾英国体育频道,#genre#
-Eurosport 1,http://abc123.digital:8080/Legend/legendrestream0429/428251
-Eurosport 2,http://abc123.digital:8080/Legend/legendrestream0429/428253
-SKY SPORTS PREMIER LEAGUE,http://abc123.digital:8080/Legend/legendrestream0429/428320
-SKY SPORTS FOOTBALL,http://abc123.digital:8080/Legend/legendrestream0429/428292
-SKY SPORTS 1,http://abc123.digital:8080/Legend/legendrestream0429/428266
-SKY SPORTS 2,http://abc123.digital:8080/Legend/legendrestream0429/428269
-SKY SPORTS 3,http://abc123.digital:8080/Legend/legendrestream0429/428272
-SKY SPORTS 4,http://abc123.digital:8080/Legend/legendrestream0429/428275
-SKY SPORTS 5,http://abc123.digital:8080/Legend/legendrestream0429/428278
-Sky Sports Action,http://abc123.digital:8080/Legend/legendrestream0429/431478
-Sky Sports Arena,http://abc123.digital:8080/Legend/legendrestream0429/431479
-SKY SPORTS BOX OFFICE,http://abc123.digital:8080/Legend/legendrestream0429/428284
-SKY SPORTS CRICKET,http://abc123.digital:8080/Legend/legendrestream0429/428286
-SKY SPORTS DARTS,http://abc123.digital:8080/Legend/legendrestream0429/428281
-SKY SPORTS F1,http://abc123.digital:8080/Legend/legendrestream0429/428289
-SKY SPORTS GOLF,http://abc123.digital:8080/Legend/legendrestream0429/428295
-SKY SPORTS MAIN EVENT,http://abc123.digital:8080/Legend/legendrestream0429/428298
-SKY SPORTS MIX,http://abc123.digital:8080/Legend/legendrestream0429/428300
-Sky Sports News,http://abc123.digital:8080/Legend/legendrestream0429/431480
-SKY SPORTS NFL,http://abc123.digital:8080/Legend/legendrestream0429/428303
-SKY SPORTS RACING,http://abc123.digital:8080/Legend/legendrestream0429/428306
-BT SPORT 1,http://abc123.digital:8080/Legend/legendrestream0429/428237
-BT SPORT 2,http://abc123.digital:8080/Legend/legendrestream0429/428240
-BT SPORT 3,http://abc123.digital:8080/Legend/legendrestream0429/428243
-BT SPORT BOX OFFICE (Live On Events Only),http://abc123.digital:8080/Legend/legendrestream0429/428249
-BT SPORT 4 (ESPN),http://abc123.digital:8080/Legend/legendrestream0429/428246
-BT SPORT 5,http://abc123.digital:8080/Legend/legendrestream0429/428309
-BT SPORT 6,http://abc123.digital:8080/Legend/legendrestream0429/428310
-BT SPORT 7,http://abc123.digital:8080/Legend/legendrestream0429/428311
-BT SPORT 8,http://abc123.digital:8080/Legend/legendrestream0429/428313
-BT SPORT 9,http://abc123.digital:8080/Legend/legendrestream0429/428312
-PREMIER SPORTS 1,http://abc123.digital:8080/Legend/legendrestream0429/428314
-PREMIER SPORTS 1 FHD,http://abc123.digital:8080/Legend/legendrestream0429/428316
-PREMIER SPORTS 2,http://abc123.digital:8080/Legend/legendrestream0429/428317
-FreeSports,http://abc123.digital:8080/Legend/legendrestream0429/428255
-BOX NATION,http://abc123.digital:8080/Legend/legendrestream0429/428235
-Ginx eSports TV,http://abc123.digital:8080/Legend/legendrestream0429/428257
-LFC TV,http://abc123.digital:8080/Legend/legendrestream0429/428259
-MUTV,http://abc123.digital:8080/Legend/legendrestream0429/428261
-Racing TV,http://abc123.digital:8080/Legend/legendrestream0429/428263
+🐾英国新闻,#genre#
+Al Jazeera News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692383
+BBC News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692386
+BBC World News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692387
+CNN,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692388
+CNN,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692389
+Fox News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692390
+France 24,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692630
+Sky News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692631
+Sky News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692632
+GB News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/695710
+RTE News,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692401
+
+🐾英国影视,#genre#
+Sky Cinema Premiere,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692633
+Sky Cinema Premiere,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692403
+Sky Cinema Select,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692404
+Sky Cinema Select,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692405
+Sky Cinema Hits,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692412
+Sky Cinema Hits,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692413
+Sky Cinema Greats,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692414
+Sky Cinema Greats,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692415
+Sky Cinema Animation,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692416
+Sky Cinema Family,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692417
+Sky Cinema Family,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692420
+Sky Cinema Action,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692421
+Sky Cinema Action,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692422
+Sky Cinema Comedy,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692423
+Sky Cinema Comedy,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692424
+Sky Cinema Thriller,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692426
+Sky Cinema Thriller,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692425
+Sky Cinema Drama,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692427
+Sky Cinema Drama,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692428
+Sky Cinema Sci-Fi & Horror,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692429
+Sky Cinema Sci-Fi & Horror,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692436
+Sky Witness,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692430
+Film 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692433
+Film 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692434
+TCM,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692437
+TCM,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692438
+Talking Pictures TV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692439
+
+🐾英国纪录片,#genre#
+Animal Planet,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692441
+Animal Planet,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692442
+Crime & Investigation,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692443
+Discovery Channel,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692444
+Discovery History,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692445
+Investigation Discovery,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692446
+Discovery Science,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692447
+Discovery Turbo,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692448
+Sky History,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692449
+Sky History,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692450
+Sky History2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692451
+Horse & Country,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692452
+National Geographic,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692453
+National Geographic,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692454
+National Geographic Wild,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692455
+Sky Documentaries,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692456
+SKY Nature,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692458
+Eden,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692506
+
+🐾英国娱乐,#genre#
+Sky Showcase,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692547
+Sky Showcase,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692548
+Sky Comedy,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692550
+Sky Arts,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692551
+Sky Arts,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692552
+Sky Atlantic,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692553
+Sky Atlantic,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692554
+Sky Replay,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692549
+Sky Max,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/693172
+Sky Sci-Fi,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692557
+Virgin Media One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692474
+Virgin Media One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692475
+Virgin Media Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692476
+Virgin Media Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692477
+Virgin Media Three,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692478
+Virgin Media Three,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692479
+RTE One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692480
+RTE One,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692481
+RTE Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692482
+RTE Two,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692483
+ITV 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692484
+ITV 1,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692485
+ITV 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692486
+ITV 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692487
+ITV 3,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692488
+ITV 3,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692489
+ITV 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692491
+ITV 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692492
+ITV Be,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692493
+Blaze,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692494
+RealityXtra,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692495
+Challenge,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692497
+Channel 4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692498
+Channel 5,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692500
+Channel 5,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692501
+E4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692513
+E4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692514
+E4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692608
+More4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692525
+4Seven,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692569
+5 Star,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692570
+5 Select,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/694964
+Comedy Central,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692503
+Comedy Central,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692504
+Comedy Central Extra,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692505
+Dave,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692507
+Dave,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692508
+Dave ja vu,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692509
+Drama,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692510
+Dmax,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692511
+E!,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692512
+Food Network,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692518
+Gold,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692519
+Gold,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692520
+Legend,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/695740
+HorrorXtra,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692522
+London Live,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692524
+PBS America,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692540
+Pick TV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692541
+Quest,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692542
+Quest Red,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692543
+Rok,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692545
+S4C,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692546
+STV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692555
+STV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692556
+TG4,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692559
+TLC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692560
+TLC,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692561
+Watch,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692567
+Yesterday,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692568
+Alibi,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692582
+Alibi,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692583
+TV Warehouse,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692461
+Colors TV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692584
+Colors Rishtey,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692585
+Sony TV,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692562
+Sony Max,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692587
+Sony Max 2,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692588
+Sony SAB,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692589
+Star Gold,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692521
+Utv SAT Plus,http://mytv.fun:80/derviscajlakovic/1201devis2018Cajlakovic3243Dc/692590
+
+
 
 
 
@@ -3163,183 +3341,152 @@ BBC World News NO,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/38231
 📺｜Adults 1_7788,#genre#
 FEMJOY,http://5.61.54.61/iptv/A8GNCVWLMQQ8MM/6212/index.m3u8
 FEMJOY,http://5.61.54.61/iptv/4VFATKFTVSB7Y7/6212/index.m3u8
-ALBA XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447589
-ALBA XXX 4 HD,http://abc123.digital:8080/Legend/legendrestream0429/447590
-ALBA XXX 5 HD,http://abc123.digital:8080/Legend/legendrestream0429/447591
-ANAL HD,http://abc123.digital:8080/Legend/legendrestream0429/447618
-BANGERZ XXX,http://abc123.digital:8080/Legend/legendrestream0429/447583
-BIG DICK HD,http://abc123.digital:8080/Legend/legendrestream0429/447613
-BLONDE HD,http://abc123.digital:8080/Legend/legendrestream0429/447619
-BLUE HUSTER TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447593
-BRAZZER TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447629
-BRUNETTE HD,http://abc123.digital:8080/Legend/legendrestream0429/447620
-CANDY TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447594
-CASTING TOUCH HD,http://abc123.digital:8080/Legend/legendrestream0429/447567
-CENTOXCENTO TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447595
-COMPILATION HD,http://abc123.digital:8080/Legend/legendrestream0429/447621
-CUCKOLD HD,http://abc123.digital:8080/Legend/legendrestream0429/447617
-CZECH GANG BANG,http://abc123.digital:8080/Legend/legendrestream0429/447625
-CZECH STREET,http://abc123.digital:8080/Legend/legendrestream0429/447624
-DANCING BEAR HD,http://abc123.digital:8080/Legend/legendrestream0429/447568
-DORCEL TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447596
-DORCEL XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447572
-EMANUELLE XXX,http://abc123.digital:8080/Legend/legendrestream0429/447575
-EROX HD,http://abc123.digital:8080/Legend/legendrestream0429/447597
-EXTASIS HD,http://abc123.digital:8080/Legend/legendrestream0429/447573
-FAP TV COPILATION HD,http://abc123.digital:8080/Legend/legendrestream0429/447627
-FAP TV TEENS,http://abc123.digital:8080/Legend/legendrestream0429/447628
-FAT TV 2,http://abc123.digital:8080/Legend/legendrestream0429/447611
-FAT TV 3 HD,http://abc123.digital:8080/Legend/legendrestream0429/447612
-FAT TV 4,http://abc123.digital:8080/Legend/legendrestream0429/447610
-FEMALE AGENT HD,http://abc123.digital:8080/Legend/legendrestream0429/447565
-FRENCH LOVER XXX,http://abc123.digital:8080/Legend/legendrestream0429/447576
-GANGBANG HD,http://abc123.digital:8080/Legend/legendrestream0429/447623
-HOT,http://abc123.digital:8080/Legend/legendrestream0429/447630
-HOT PLEASURE HD,http://abc123.digital:8080/Legend/legendrestream0429/447580
-HUSTLER TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447598
-LATINA HD,http://abc123.digital:8080/Legend/legendrestream0429/447615
-MILF TV,http://abc123.digital:8080/Legend/legendrestream0429/447577
-MONEY TALK HD,http://abc123.digital:8080/Legend/legendrestream0429/447562
-NET XXX,http://abc123.digital:8080/Legend/legendrestream0429/447582
-NUART TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447599
-OLALA HD,http://abc123.digital:8080/Legend/legendrestream0429/447600
-PASSION TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447601
-PENTHOUSE 2 HD,http://abc123.digital:8080/Legend/legendrestream0429/447602
-PENTHOUSE HD,http://abc123.digital:8080/Legend/legendrestream0429/447603
-PINKO TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447604
-PLAYBOY TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447605
-PLAYHOUSE XXX,http://abc123.digital:8080/Legend/legendrestream0429/447581
-POV HD,http://abc123.digital:8080/Legend/legendrestream0429/447614
-PRIVATE TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447606
-PRIVE TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447571
-RED XXX,http://abc123.digital:8080/Legend/legendrestream0429/447578
-REDLIGHT HD,http://abc123.digital:8080/Legend/legendrestream0429/447607
-ROUGH HD,http://abc123.digital:8080/Legend/legendrestream0429/447622
-SCORELANT 1 HD,http://abc123.digital:8080/Legend/legendrestream0429/447632
-SCORELANT 2 HD,http://abc123.digital:8080/Legend/legendrestream0429/447633
-SCORELANT 4 HD,http://abc123.digital:8080/Legend/legendrestream0429/447634
-SCORELANT 5 HD,http://abc123.digital:8080/Legend/legendrestream0429/447635
-SCORELANT 6 HD,http://abc123.digital:8080/Legend/legendrestream0429/447636
-SCORELANT 7 HD,http://abc123.digital:8080/Legend/legendrestream0429/447637
-SECRET CIRCLE TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447574
-SEXMEX HD,http://abc123.digital:8080/Legend/legendrestream0429/447638
-SEXTOSENSO TV HD,http://abc123.digital:8080/Legend/legendrestream0429/447608
-SEXTREME HD,http://abc123.digital:8080/Legend/legendrestream0429/447569
-SHOPLIFTER HD",http://abc123.digital:8080/Legend/legendrestream0429/447563
-STARS XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447592
-SUPERONE HD,http://abc123.digital:8080/Legend/legendrestream0429/447588
-TABOO XXX,http://abc123.digital:8080/Legend/legendrestream0429/447626
-TEENS FOR CASH,http://abc123.digital:8080/Legend/legendrestream0429/447566
-THREESOME HD,http://abc123.digital:8080/Legend/legendrestream0429/447616
-VENUS,http://abc123.digital:8080/Legend/legendrestream0429/447631
-VERIFIED AMATEUR HD,http://abc123.digital:8080/Legend/legendrestream0429/447564
-VIVIRED HD,http://abc123.digital:8080/Legend/legendrestream0429/447609
-X1 XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447587
-XXL HD,http://abc123.digital:8080/Legend/legendrestream0429/447570
-XY MAX XXX HD,http://abc123.digital:8080/Legend/legendrestream0429/447585
-XY MIX HD,http://abc123.digital:8080/Legend/legendrestream0429/447586
-XY PLUS HD,http://abc123.digital:8080/Legend/legendrestream0429/447584
-21 Sextury,http://abc123.digital:8080/Legend/legendrestream0429/440913
-Adult Time,http://abc123.digital:8080/Legend/legendrestream0429/440914
-Alba XXX,http://abc123.digital:8080/Legend/legendrestream0429/440915
-Alex Legend,http://abc123.digital:8080/Legend/legendrestream0429/440916
-Anal Teen Angels,http://abc123.digital:8080/Legend/legendrestream0429/440917
-Analized,http://abc123.digital:8080/Legend/legendrestream0429/440918
-Ass Parade,http://abc123.digital:8080/Legend/legendrestream0429/440919
-Asshole Fever,http://abc123.digital:8080/Legend/legendrestream0429/440920
-AST TV,http://abc123.digital:8080/Legend/legendrestream0429/440921
-Babes,http://abc123.digital:8080/Legend/legendrestream0429/440922
-Babes TV,http://abc123.digital:8080/Legend/legendrestream0429/440923
-Balkan Erotic,http://abc123.digital:8080/Legend/legendrestream0429/440924
-Banana Fever,http://abc123.digital:8080/Legend/legendrestream0429/440925
-Bang Bros,http://abc123.digital:8080/Legend/legendrestream0429/440926
-Bang Bros,http://abc123.digital:8080/Legend/legendrestream0429/440927
-Bang Bus,http://abc123.digital:8080/Legend/legendrestream0429/440928
-Bang POV,http://abc123.digital:8080/Legend/legendrestream0429/440929
-Bang!,http://abc123.digital:8080/Legend/legendrestream0429/440930
-Barely Legal TV,http://abc123.digital:8080/Legend/legendrestream0429/440931
-BBC Pie,http://abc123.digital:8080/Legend/legendrestream0429/440932
-Beate Uhse,http://abc123.digital:8080/Legend/legendrestream0429/440933
-Blacked,http://abc123.digital:8080/Legend/legendrestream0429/440934
-Bratty Sis,http://abc123.digital:8080/Legend/legendrestream0429/440935
-Brazzers,http://abc123.digital:8080/Legend/legendrestream0429/440936
-Brazzers TV Europe,http://abc123.digital:8080/Legend/legendrestream0429/440937
-Cum Louder,http://abc123.digital:8080/Legend/legendrestream0429/440938
-Cum Perfection,http://abc123.digital:8080/Legend/legendrestream0429/440939
-Cum4k,http://abc123.digital:8080/Legend/legendrestream0429/440940
-Dad Crush,http://abc123.digital:8080/Legend/legendrestream0429/440941
-Dane Jones,http://abc123.digital:8080/Legend/legendrestream0429/440942
-Daughter Swap,http://abc123.digital:8080/Legend/legendrestream0429/440943
-Day with a Pornstar,http://abc123.digital:8080/Legend/legendrestream0429/440944
-DDF Busty,http://abc123.digital:8080/Legend/legendrestream0429/440945
-DDF Network,http://abc123.digital:8080/Legend/legendrestream0429/440946
-Deep Lush,http://abc123.digital:8080/Legend/legendrestream0429/440947
-Deep Throat Sirens,http://abc123.digital:8080/Legend/legendrestream0429/440948
-Dirty Wives Club,http://abc123.digital:8080/Legend/legendrestream0429/440949
-Dorcel Club,http://abc123.digital:8080/Legend/legendrestream0429/440950
-DP Fanatics,http://abc123.digital:8080/Legend/legendrestream0429/440951
-Exotic 4k,http://abc123.digital:8080/Legend/legendrestream0429/440952
-EXTREME XXX,http://abc123.digital:8080/Legend/legendrestream0429/447579
-Fake Taxi,http://abc123.digital:8080/Legend/legendrestream0429/440953
-Family Hookups,http://abc123.digital:8080/Legend/legendrestream0429/440954
-Family Strokes,http://abc123.digital:8080/Legend/legendrestream0429/440955
-Girls Rimming,http://abc123.digital:8080/Legend/legendrestream0429/440956
-Glory Hole,http://abc123.digital:8080/Legend/legendrestream0429/440957
-Hands on Hardcore,http://abc123.digital:8080/Legend/legendrestream0429/440958
-Hard X,http://abc123.digital:8080/Legend/legendrestream0429/440959
-Holed,http://abc123.digital:8080/Legend/legendrestream0429/440960
-Hot,http://abc123.digital:8080/Legend/legendrestream0429/440961
-Hot and Mean,http://abc123.digital:8080/Legend/legendrestream0429/440962
-Hot Gold,http://abc123.digital:8080/Legend/legendrestream0429/440963
-Hot Guys Fuck,http://abc123.digital:8080/Legend/legendrestream0429/440964
-House of Fyre,http://abc123.digital:8080/Legend/legendrestream0429/440965
-Hustler HD,http://abc123.digital:8080/Legend/legendrestream0429/440966
-JapanV,http://abc123.digital:8080/Legend/legendrestream0429/440967
-Jasmin TV,http://abc123.digital:8080/Legend/legendrestream0429/440968
-Jerk Off with Me,http://abc123.digital:8080/Legend/legendrestream0429/440969
-Kink,http://abc123.digital:8080/Legend/legendrestream0429/440970
-Kinky Family,http://abc123.digital:8080/Legend/legendrestream0429/440971
-Lethal Hardcore,http://abc123.digital:8080/Legend/legendrestream0429/440972
-Little Asians,http://abc123.digital:8080/Legend/legendrestream0429/440973
-MetArt,http://abc123.digital:8080/Legend/legendrestream0429/440974
-Mia Khalifa,http://abc123.digital:8080/Legend/legendrestream0429/440975
-Mofos,http://abc123.digital:8080/Legend/legendrestream0429/440976
-Monsters of Cock,http://abc123.digital:8080/Legend/legendrestream0429/440977
-My Daughter's Hot Friend,http://abc123.digital:8080/Legend/legendrestream0429/440978
-My Dirty Maid,http://abc123.digital:8080/Legend/legendrestream0429/440979
-My Pervy Family,http://abc123.digital:8080/Legend/legendrestream0429/440980
-MYLF TV,http://abc123.digital:8080/Legend/legendrestream0429/440981
-Nubile Films,http://abc123.digital:8080/Legend/legendrestream0429/440982
-Penthouse Gold,http://abc123.digital:8080/Legend/legendrestream0429/440983
-Penthouse Passion,http://abc123.digital:8080/Legend/legendrestream0429/440984
-Penthouse Quickies,http://abc123.digital:8080/Legend/legendrestream0429/440985
-Playboy Plus,http://abc123.digital:8080/Legend/legendrestream0429/440986
-Playboy TV,http://abc123.digital:8080/Legend/legendrestream0429/440987
-Public Agent,http://abc123.digital:8080/Legend/legendrestream0429/440988
-Pure Taboo,http://abc123.digital:8080/Legend/legendrestream0429/440989
-Real Girls Gone Bad,http://abc123.digital:8080/Legend/legendrestream0429/440990
-Real Wife Stories,http://abc123.digital:8080/Legend/legendrestream0429/440991
-Reality Kings,http://abc123.digital:8080/Legend/legendrestream0429/440992
-Taboo,http://abc123.digital:8080/Legend/legendrestream0429/440993
-Tiny4k,http://abc123.digital:8080/Legend/legendrestream0429/440994
-Trans Angels,http://abc123.digital:8080/Legend/legendrestream0429/440995
-True Amateurs,http://abc123.digital:8080/Legend/legendrestream0429/440996
-Tushy,http://abc123.digital:8080/Legend/legendrestream0429/440997
-TushyRAW,http://abc123.digital:8080/Legend/legendrestream0429/440998
-U Bang,http://abc123.digital:8080/Legend/legendrestream0429/440999
-Vivid Red,http://abc123.digital:8080/Legend/legendrestream0429/441000
-Vivid TV Europe,http://abc123.digital:8080/Legend/legendrestream0429/441001
-Vixen,http://abc123.digital:8080/Legend/legendrestream0429/441002
-Wank It Now,http://abc123.digital:8080/Legend/legendrestream0429/441003
-We Live Together,http://abc123.digital:8080/Legend/legendrestream0429/441004
-White Boxxx,http://abc123.digital:8080/Legend/legendrestream0429/441005
-Wicked,http://abc123.digital:8080/Legend/legendrestream0429/441006
-Wild on Cam,http://abc123.digital:8080/Legend/legendrestream0429/441007
-Xpanded TV,http://abc123.digital:8080/Legend/legendrestream0429/441008
-XXL,http://abc123.digital:8080/Legend/legendrestream0429/441009
-XY Max,http://abc123.digital:8080/Legend/legendrestream0429/441010
-XY Mix,http://abc123.digital:8080/Legend/legendrestream0429/441011
-XY Plus,http://abc123.digital:8080/Legend/legendrestream0429/441012
+XXX: Vivid Red HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18645.ts
+XXX: Blue Hustler HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18654.ts
+XXX: Penthouse Quickies HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18663.ts
+XXX: HOT HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18681.ts
+XXX: Brazzers Europa,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18686.ts
+XXX: Pink Erotic 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18689.ts
+XXX: Pink Erotic 3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18690.ts
+XXX: Pink Erotic 4,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18691.ts
+XXX: Pink Erotic 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/18692.ts
+XXX: Vivid TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62113.ts
+XXX: Net XX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62114.ts
+XXX: Dorcel HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62115.ts
+XXX: SeXation HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62117.ts
+XXX: Blacked HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62118.ts
+XXX: RedLight HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62119.ts
+XXX: Penthouse Gold HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/62121.ts
+ADULT 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76602.ts
+ADULT 4,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76604.ts
+ADULT 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76605.ts
+ADULT 6,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76606.ts
+ADULT 7,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76607.ts
+ADULT 8,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76608.ts
+ADULT 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76609.ts
+ADULT 10,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76610.ts
+ADULT 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76611.ts
+ADULT 12,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76612.ts
+ADULT 13,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76613.ts
+ADULT 14,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76614.ts
+ADULT 15,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76615.ts
+ADULT 16,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76616.ts
+ADULT 17,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76617.ts
+ADULT 18,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76618.ts
+ADULT 19,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76619.ts
+XX | RedTraffic MILF,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76620.ts
+XX | RedTraffic Big Dick,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76621.ts
+XX | RedTraffic Big Tits,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76622.ts
+XX | RedTraffic Fetish,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76623.ts
+XX | RedTraffic Pornstar,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76624.ts
+XX | RedTraffic Big Ass,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76625.ts
+XX | RedTraffic Interracial,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76626.ts
+XX | RedTraffic Latina,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76627.ts
+XX | RedTraffic POV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76628.ts
+XX | RedTraffic Blowjob,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76629.ts
+XX | RedTraffic Teen,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76630.ts
+XX | RedTraffic Cuckold,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76632.ts
+XX | RedTraffic Threesome,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76633.ts
+XX | RedTraffic Russian,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76634.ts
+XX | RedTraffic Lesbian,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76635.ts
+XX | RedTraffic Gangbang,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76651.ts
+XX | RedTraffic Woman,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76652.ts
+XX | EROTIEK 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76636.ts
+XX | EROTIEK 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76637.ts
+XX | EROTIEK 3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76638.ts
+XX | EROTIEK 4,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76639.ts
+XX | EROTIEK 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76640.ts
+XX | EROTIEK 6,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76641.ts
+XX | EROTIEK 7,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76642.ts
+XX | EROTIEK 8,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76643.ts
+XX | EROTIEK 10,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76645.ts
+XX | EROTIEK 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76646.ts
+XX | EROTIEK 12,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76647.ts
+XX | EROTIEK 13,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76648.ts
+XX | EROTIEK 14,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76649.ts
+XX | EROTIEK 15,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76650.ts
+XX | BABES TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76653.ts
+XX | DUSK TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76655.ts
+XX | EVIL ENGEL TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76656.ts
+XX | HOT TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76657.ts
+XX | MEID VAN HOLLAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76659.ts
+XX | PENTHOUSE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76660.ts
+XX | PORN 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76662.ts
+XX | PORN 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76663.ts
+XX | PORN 3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76664.ts
+XX | PRIVATE HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/76665.ts
+Anonym TV Porn FullHD - 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84076.ts
+Anonym TV Porn FullHD - 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84077.ts
+Anonym TV Porn FullHD - 3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84078.ts
+Anonym TV Porn FullHD - 4,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84079.ts
+Anonym TV Porn FullHD - 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84080.ts
+Anonym TV Porn FullHD - 6,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84081.ts
+Anonym TV Porn FullHD - 7,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84082.ts
+Anonym TV Porn FullHD - 8,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84083.ts
+Anonym TV Porn FullHD - 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84084.ts
+Anonym TV Porn FullHD - 10,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84085.ts
+Anonym TV Porn FullHD - 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84086.ts
+Anonym TV Porn FullHD - 12,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84087.ts
+Anonym TV Porn FullHD - 13,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84088.ts
+Anonym TV Porn FullHD - 14,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84089.ts
+Anonym TV Porn FullHD - 15,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84090.ts
+Anonym TV Porn FullHD - 16,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84091.ts
+Anonym TV Porn FullHD - 17,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84092.ts
+Anonym TV Porn FullHD - 18,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84093.ts
+Anonym TV Porn FullHD - 19,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84094.ts
+Anonym TV Porn FullHD - 20,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84095.ts
+Anonym TV Porn FullHD - 21,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84096.ts
+Anonym TV Porn FullHD - 22,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84097.ts
+Anonym TV Porn FullHD - 23,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84098.ts
+Anonym TV Porn FullHD - 24,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84099.ts
+Anonym TV Porn FullHD - 25,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84100.ts
+Anonym TV Porn FullHD - 26,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84101.ts
+Anonym TV Porn FullHD - 27,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84102.ts
+Anonym TV Porn FullHD - 28,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84103.ts
+Anonym TV Porn FullHD - 29,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84104.ts
+Anonym TV Porn FullHD - 30,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84105.ts
+Anonym TV PornFullHD - 31,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84106.ts
+Anonym TV Porn FullHD - 32,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84107.ts
+Anonym TV Porn FullHD - 33,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84108.ts
+Anonym TV Porn FullHD - 34,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84109.ts
+Anonym TV Porn FullHD - 35,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84110.ts
+Anonym TV Porn FullHD -36,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84111.ts
+Anonym TV Porn FullHD - 37,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84112.ts
+Anonym TV Porn FullHD - 38,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84113.ts
+Anonym TV Porn FullHD - 39,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84114.ts
+Anonym TV Porn FullHD - 40,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84115.ts
+Anonym TV Porn FullHD - 41,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84116.ts
+Anonym TV Porn FullHD - 42,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84117.ts
+Anonym TV Porn FullHD - 43,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84118.ts
+Anonym TV Porn FullHD - 44,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84119.ts
+Anonym TV Porn FullHD - 45,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84120.ts
+Anonym TV Porn FullHD - 46,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84121.ts
+Anonym TV Porn FullHD - 47,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84122.ts
+Anonym TV Porn FullHD - 48,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84123.ts
+Anonym TV Porn FullHD - 49,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84124.ts
+Anonym TV Alex Blake,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84125.ts
+Anonym TV Porn 4K - 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84126.ts
+Anonym TV Porn 4K - 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84127.ts
+Anonym TV Porn 4K - 3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84128.ts
+Anonym TV Porn 4K - 4,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84129.ts
+Anonym TV Porn 4K - 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84130.ts
+Anonym TV Porn 4K - 6,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84131.ts
+Anonym TV Porn 4K - 7,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84132.ts
+Anonym TV Porn 4K - 8,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84133.ts
+Anonym TV Porn 4K - 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84134.ts
+Anonym TV Porn 4K - 10,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84135.ts
+Anonym TV Porn 4K - 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84136.ts
+Anonym TV Porn 4K - 12,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84137.ts
+Anonym TV Porn 4K - 13,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84138.ts
+Anonym TV Porn 4K - 14,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84139.ts
+Anonym TV Porn 4K - 15,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84140.ts
+Anonym TV Porn 4K - 16,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84141.ts
+Anonym TV Porn 4K - 17,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84142.ts
+Anonym TV Porn 4K - 18,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84143.ts
+Anonym TV Porn 4K - 19,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84144.ts
+Anonym TV Porn 4K - 20,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84145.ts
+Anonym TV Porn 4K - 21,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84146.ts
+Anonym TV Porn 4K - 22,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/84147.ts
 
 📺｜Adult 2_7788,#genre#
 Adult Balkan Erotic,http://appleiptv.com:80/3903/3903/28610
