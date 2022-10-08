@@ -5,8 +5,8 @@
 
 {
 ## spider
-//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/999.png;md5;E787FC9C9771E21FDA57374EF3B64A65",
-"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/999.png;md5;E787FC9C9771E21FDA57374EF3B64A65",
+//"spider":"https://ghtgc.github.io/Gx.jar",
+"spider":"https://ghtgc.github.io/Gx.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHRnYy5naXRodWIuaW8vemJkaGoudHh0"]}]}],
