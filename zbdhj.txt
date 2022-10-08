@@ -2791,447 +2791,983 @@ Premier Football TH 4,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115523
 Premier Football TH 4-X,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115524
 Premier Football TH 5,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115525
 
-💞DE: FTA,#genre#
-DE: Das Erste HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2292.ts
-DE : DAS Erste HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2293.ts
-DE: ZDF HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2294.ts
-DE : ZDF FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2295.ts
-DE: ZDF info HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2296.ts
-DE: ZDF neo HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2297.ts
-DE : RTL HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2299.ts
-DE: RTL FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2300.ts
-DE: RTL II HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2302.ts
-DE: RTL II FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2303.ts
-DE : RTL Crime HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2304.ts
-DE: RTL Living HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2305.ts
-DE: RTL Nitro HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2306.ts
-DE: RTL Nitro FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2307.ts
-DE: RTL Passion,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2308.ts
-DE: RTL Up,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2309.ts
-DE: ProSieben HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2312.ts
-DE : ProSieben FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2313.ts
-DE: ProSieben Fun HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2314.ts
-DE: ProSieben MAXX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2315.ts
-DE: ProSieben MAXX FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2316.ts
-DE: Sat 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/40414.ts
-DE : SAT 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2317.ts
-DE: SAT 1 GOLD HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/84868.ts
-DE: SAT 1 GOLD FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2318.ts
-DE: SAT 1 emotions,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2319.ts
-DE : Kabel eins,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2320.ts
-DE: kabel eins FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2321.ts
-DE: kabel eins CLASSIC HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2322.ts
-DE : VOX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2323.ts
-DE: VOX FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2324.ts
-DE: VOXUP,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/87767.ts
-DE : SIXX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2325.ts
-DE: SIXX FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2326.ts
-DE: One HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2327.ts
-DE: One,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2328.ts
-DE: TLC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2329.ts
-DE: TLC FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2330.ts
-DE: Arte HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2331.ts
-DE: Arte FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2332.ts
-DE: 3sat HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2333.ts
-DE: BR fernsehen,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2334.ts
-DE: WDR fernsehen HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2335.ts
-DE: NDR fernsehen HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2336.ts
-DE: MDR HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2337.ts
-DE : ORF 1(eins),http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2338.ts
-DE: ORF 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2339.ts
-DE: ORF 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2340.ts
-DE: TELE 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2342.ts
-DE: TELE 5 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2343.ts
-DE: n-tv HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2344.ts
-DE: n-tv FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2345.ts
-DE: Tagesschau24 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2346.ts
-DE: SWR HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/95971.ts
-DE: SRF 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2347.ts
-DE: Phoenix HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2349.ts
-DE: EuroNews SD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2350.ts
-DE: HR fernsehen HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2352.ts
-
-💞DE: UNTERHALTUNG,#genre#
-DE: 13th Street HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2371.ts
-DE : 13th Street FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2372.ts
-DE: AXN HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2373.ts
-DE: AXN FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2374.ts
-DE: FOX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2375.ts
-DE: FOX FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2376.ts
-DE: Sony TV HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2377.ts
-DE : Syfy HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2378.ts
-DE: Syfy FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2379.ts
-DE : Warner Comedy FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2380.ts
-DE: Warner Comedy HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2381.ts
-DE: Warner Film FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2382.ts
-DE: Warner Film,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2383.ts
-DE : Warner Serie FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2384.ts
-DE: Warner Serie HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2385.ts
-DE: Comedy Central,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2386.ts
-DE: Comedy Central HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2387.ts
-DE : Universal Channel HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2388.ts
-DE: Universal Channel FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2389.ts
-DE : Romance HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2390.ts
-DE : Romance,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2391.ts
-DE: Heimat kanal,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2392.ts
-DE: Kinowelt TV,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2393.ts
-DE: Kinowelt TV HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2394.ts
-
-💞DE: DOCUMENTARY,#genre#
-DE: PLANET HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2398.ts
-DE: E! HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2399.ts
-DE: ANIXE HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2400.ts
-DE: Animal Planet HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2401.ts
-DE: Crime+ Investigation,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/29334.ts
-DE: Discovery Channel HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2403.ts
-DE: Discovery Channel FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2404.ts
-DE: History HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2405.ts
-DE: History FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2406.ts
-DE: National Geographic,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2407.ts
-DE: National Geographic HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2408.ts
-DE: National Geographic FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2409.ts
-DE: Nat Geo Wild HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2410.ts
-DE: Nat Geo Wild FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2411.ts
-DE: DMAX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2412.ts
-DE: kabel eins Doku HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2413.ts
-DE: Sky Nature FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/102701.ts
-DE: Sky Documentaries FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/102702.ts
-DE: Spiegel Geschichte,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2414.ts
-DE: Spiegel TV Wissen HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2415.ts
-DE: Spiegel TV Wissen,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2416.ts
-DE: Welt der Wunder,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2417.ts
-DE: WELT HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2418.ts
-DE: N24 Doku,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2419.ts
-
-💞DE: SKY KINO,#genre#
-DE: Sky 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2430.ts
-DE : Sky 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2431.ts
-DE: Sky Atlantic HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2432.ts
-DE: Sky Atlantic FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2433.ts
-DE: Sky Cinema FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85144.ts
-DE: Sky Cinema +24 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2438.ts
-DE: Sky Cinema +24 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2439.ts
-DE : Sky Cinema Action HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2440.ts
-DE : Sky Cinema Action FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2441.ts
-DE : Sky Cinema Comedy HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2442.ts
-DE: Sky Comedy HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/93925.ts
-DE: Sky Comedy FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/93924.ts
-DE: Sky Crime FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/93420.ts
-DE: Sky Crime HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/93421.ts
-DE: Sky Cinema Family FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2445.ts
-DE: Sky Cinema Family HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2446.ts
-DE: Sky Cinema Nostalgie,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85165.ts
-DE: Sky Cinema Special HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2451.ts
-DE:: Sky Cinema Fun,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38828.ts
-DE:: Sky Cinema Best Of HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38829.ts
-DE:: Sky Cinema Best Of FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38830.ts
-DE:: Sky Cinema Classics,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38831.ts
-DE: Sky Krimi FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2452.ts
-DE: Sky Krimi HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2453.ts
-DE: Sky Replay FHD (Fox),http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103707.ts
-DE: Sky Replay HD (Fox),http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103708.ts
-DE: Sky Heimatkanal,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2454.ts
-DE: Sky DMAX HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2455.ts
-DE: On7 Aktion,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80759.ts
-DE: On7 Animation,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80760.ts
-DE: On7 Comedy,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80764.ts
-DE: On7 Drama,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80761.ts
-DE: On7 Harry Potter,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80837.ts
-DE: On7 Horror,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80763.ts
-DE: On7 Familie,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80762.ts
-DE: On7 Sci-Fİ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80836.ts
-DE: On7 James Bond,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80924.ts
-DE: On7 Stars Wars,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/80929.ts
-
-💞DE: UNITED SKY SELECT,#genre#
-UNITED SKY SELECT HD 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91685.ts
-UNITED SKY SELECT HD 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91684.ts
-UNITED SKY SELECT HD 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91683.ts
-UNITED SKY SELECT HD 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91686.ts
-UNITED SKY SELECT HD 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91687.ts
-UNITED SKY SELECT HD 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91688.ts
-UNITED SKY SELECT HD 7,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91689.ts
-UNITED SKY SELECT HD 8,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91690.ts
-UNITED SKY SELECT HD 9,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91691.ts
-UNITED SKY SELECT HD 10,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/91692.ts
-
-💞DE: NETFLİX STORE,#genre#
-DE: Netflix  Krımı ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132671.ts
-DE: Netflix  Action ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132672.ts
-DE: Netflix  Drama ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132673.ts
-DE: Netflix  Horror ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132674.ts
-DE: Netflix  Thriller ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132675.ts
-DE: Netflix Familie ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132676.ts
-DE: Netflix  Komodie ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132678.ts
-DE: Netflix  Animation ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132679.ts
-DE: Netflix  Fantasy ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132677.ts
-DE: Netflix  Romantısch ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132681.ts
-DE: Netflix  Abenteuer ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132680.ts
-DE: Netflix  Scıence-Fıctıon ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132682.ts
-DE: Netflix  Dokumentarfilm ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132683.ts
-DE: Netflix 1 ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132684.ts
-DE: Netflix 2 ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132685.ts
-DE: Netflix 3 ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132686.ts
-DE: Netflix 4 ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132687.ts
-DE: Netflix 5 ʜᴅ,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132688.ts
-
-💞DE: 4K ULTRA PREMIERE,#genre#
-DE: BlueTV 4K ACTION,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132690.ts
-DE: BlueTV 4K DRAMA,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132691.ts
-DE: BlueTV 4K HORROR,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132692.ts
-DE: BlueTV 4K KOMÖDIE,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132693.ts
-DE: BlueTV 4K ROMANTISCH,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132694.ts
-DE: BlueTV 4K SCI-FI,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132695.ts
-DE: BlueTV 4K THRILLER,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132696.ts
-DE: BlueTV 4K FANTASY,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132697.ts
-DE: BlueTV 4K ABENTEUER,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132698.ts
-DE: BlueTV 4K MYSTERY,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132701.ts
-DE: BlueTV 4K FAMILIE,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132700.ts
-DE: BlueTV 4K BOLLYWOOD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132699.ts
-DE: BlueTV 4K KRIMI,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/132702.ts
-
-💞DE: SPORT,#genre#
-DE: Sky Sport News HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2509.ts
-DE: Sky Sport Bundesliga 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2511.ts
-DE : Sky Sport Bundesliga 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2510.ts
-DE: Sky Sport 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2527.ts
-DE : Sky Sport 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2526.ts
-DE: Sky Sport 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2529.ts
-DE: Sky Sport 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2528.ts
-DE: Sky Sport Bundesliga 2 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2513.ts
-DE: Sky Sport Bundesliga 2 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2512.ts
-DE: Sky Sport Bundesliga 3 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2515.ts
-DE: Sky Sport Bundesliga 3 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2514.ts
-DE: Sky Sport Bundesliga 4 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2517.ts
-DE: Sky Sport Bundesliga 4 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2516.ts
-DE: Sky Sport Bundesliga 5 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2518.ts
-DE: Sky Sport Bundesliga 5 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2519.ts
-DE: Sky Sport Bundesliga 6 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2520.ts
-DE: Sky Sport Bundesliga 6 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2521.ts
-DE: Sky Sport Bundesliga 7 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2522.ts
-DE: Sky Sport Bundesliga 8 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2523.ts
-DE: Sky Sport Bundesliga 9 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2524.ts
-DE: Sky Sport Bundesliga 10 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2525.ts
-DE: Sky Sport 3 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2530.ts
-DE:: Sky Sport 3 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/56206.ts
-DE: Sky Sport 4 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2532.ts
-DE: Sky Sport 4 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2531.ts
-DE: Sky Sport 5 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2534.ts
-DE: Sky Sport 5 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2533.ts
-DE: Sky Sport 6 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2536.ts
-DE: Sky Sport 6 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2535.ts
-DE: Sky Sport 7 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2538.ts
-DE: Sky Sport 7 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2537.ts
-DE: Sky Sport 8 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2540.ts
-DE: Sky Sport 8 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2539.ts
-DE: Sky Sport 9 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2542.ts
-DE: Sky Sport 9 FHD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2541.ts
-DE: Sky Sport 10 HD [Live Events Only],http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2543.ts
-DE:: Sky Sport 10 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/56213.ts
-DE: Sport 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2555.ts
-DE: Sport1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2556.ts
-DE: Sport1+ HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2557.ts
-DE: Sky Sport F1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/89760.ts
-DE: Sky Sport F1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/89761.ts
-DE: Sportdigital FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2559.ts
-DE: Sportdigital HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2558.ts
-DE: Auto Motor und Sport FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2560.ts
-DE: Eurosport 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2549.ts
-DE: Eurosport 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2550.ts
-DE: Eurosport 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2552.ts
-DE: Eurosport 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2551.ts
-DE: Eurosport 2 Xtra FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2553.ts
-DE: Eurosport 2 Xtra HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2554.ts
-DE: FC Bayern TV,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2544.ts
-DE: FC Bayern TV HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2545.ts
-DE: Motorvision TV,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2562.ts
-DE: ORF Sport + HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/2548.ts
-DE: DAZN Bar 1  HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/51770.ts
-DE: DAZN Bar 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/5038.ts
-DE: DAZN Bar 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/5039.ts
-DE: DAZN 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/90712.ts
-DE:: Telekom Fußball 8 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38845.ts
-
-💞DE: Telekom,#genre#
-DE:: Telekom Fußball 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38838.ts
-DE:: Telekom Fußball 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38839.ts
-DE:: Telekom Fußball 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38840.ts
-DE:: Telekom Fußball 4 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38841.ts
-DE:: Telekom Fußball 5 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38842.ts
-DE:: Telekom Fußball 6 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38843.ts
-DE:: Telekom Fußball 7 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/38844.ts
-DE: Amazon Prime Video FHD (During Games only),http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/102706.ts
-DE: Sky Sport Austria 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103627.ts
-DE: Sky Sport Austria 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103628.ts
-DE: Sky Sport Austria 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103629.ts
-DE: Sky Sport Austria 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103630.ts
-DE: Sky Sport Austria 3 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103631.ts
-DE: Sky Sport Austria 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103632.ts
-DE: Sky Sport Austria 4 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103633.ts
-DE: Sky Sport Austria 4 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/103634.ts
-DE: Sky Sport Austria 5 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/106483.ts
-DE: Sky Sport Austria 5 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/106482.ts
-DE: Sky Sport Austria 6 HD FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/106481.ts
-DE: Magenta Sport 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126150.ts
-DE: Magenta Sport 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126151.ts
-DE: Magenta Sport 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126152.ts
-DE: Magenta Sport 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126153.ts
-DE: Magenta Sport 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126154.ts
-DE: Magenta Sport 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126155.ts
-DE: Magenta Sport 7,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126156.ts
-DE: Magenta Sport 8,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126157.ts
-DE: Magenta Sport 9,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126158.ts
-DE: Magenta Sport 10,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126159.ts
-DE: Magenta Sport 11,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126160.ts
-DE: Magenta Sport 12,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126161.ts
-DE: Magenta Sport 13,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126162.ts
-DE: Magenta Sport 14,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126163.ts
-DE: Magenta Sport 15,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126164.ts
-DE: Magenta Sport 16,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126165.ts
-DE: Magenta Sport 17,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126166.ts
-DE: Magenta Sport 19,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126167.ts
-DE: Magenta Sport 18,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126168.ts
-DE: Magenta Sport 20,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126169.ts
-DE: Telekom Basketball (BBL) 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126171.ts
-DE: Telekom Basketball (BBL) 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126172.ts
-DE: Telekom Basketball (BBL) 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126173.ts
-DE: EUROSPORT 360  HD 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126174.ts
-DE: EUROSPORT 360 HD 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126175.ts
-DE: EUROSPORT 360 HD 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126176.ts
-DE: EUROSPORT 360 HD 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126177.ts
-DE: EUROSPORT 360 HD 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126178.ts
-DE: EUROSPORT 360 HD 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126179.ts
-DE: EUROSPORT 360 HD 7,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126180.ts
-DE: EUROSPORT 360 HD 8,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126181.ts
-DE: EUROSPORT 360 HD 9,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126182.ts
-DE: EUROSPORT 360 HD 10,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126183.ts
-DE: EUROSPORT 360 HD 11,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126184.ts
-DE: EUROSPORT 360 HD 12,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126185.ts
-DE: EUROSPORT 360 HD 13,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126186.ts
-DE: EUROSPORT 360 HD 14,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126187.ts
-DE: EUROSPORT 360 HD 15,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126188.ts
-DE: EUROSPORT 360 HD 16,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/126189.ts
-DE: RTL+ SPORT EVENT 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127328.ts
-DE: RTL+ SPORT EVENT 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127329.ts
-DE: RTL+ SPORT EVENT 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127330.ts
-DE: RTL+ SPORT EVENT 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127331.ts
-DE: RTL+ SPORT EVENT 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127332.ts
-DE: RTL+ SPORT EVENT 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127333.ts
-DE: RTL+ SPORT EVENT 7,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127334.ts
-DE: RTL+ SPORT EVENT 8,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127335.ts
-DE: RTL+ SPORT EVENT 9,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127336.ts
-DE: RTL+ SPORT EVENT 10,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/127337.ts
-DE: Sky Sport Golf HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134409.ts
-DE: Sky Sport Golf FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134410.ts
-DE: Sky Sport Tennis HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134411.ts
-DE: Sky Sport Tennis FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134412.ts
-DE: Sky Sport Top Event HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134413.ts
-DE: Sky Sport Top Event FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134414.ts
-DE: Sky Sport Mix HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134415.ts
-DE: Sky Sport Mix FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134416.ts
-DE: Sky Sport Premier League FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134830.ts
-DE: Sky Sport Premier League HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/134831.ts
-
-💞PT: Sport,#genre#
-PT: Eurosport 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4573.ts
-PT: Eurosport 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4572.ts
-PT: Eurosport 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4574.ts
-PT: PFC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4576.ts
-PT: Porto Canal,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4565.ts
-PT: Real Madrid TV,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4568.ts
-PT: Sport TV +,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4549.ts
-PT: Sport TV + FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4548.ts
-PT: Sport TV 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4552.ts
-PT: Sport TV 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4550.ts
-PT: Sport TV 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4551.ts
-PT: Sport TV 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4555.ts
-PT: Sport TV 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4553.ts
-PT: Sport TV 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4554.ts
-PT: Sport TV 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4558.ts
-PT: Sport TV 3 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4556.ts
-PT: Sport TV 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4557.ts
-PT: Sport TV 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4561.ts
-PT: Sport TV 4 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4560.ts
-PT: Sport TV 4 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4559.ts
-PT: Sport TV 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4563.ts
-PT: Sport TV 5 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4562.ts
-PT: SPORT TV NBA HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4564.ts
-PT: Sporting TV,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4566.ts
-PT: Sporting TV FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4567.ts
-PT: Syfy,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4526.ts
-PT: Syfy FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4527.ts
-PT: VH1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4582.ts
-PT: ZAP VIVA HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4612.ts
-Sport-PT: ELEVEN SPORTS 1 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4616.ts
-Sport-PT: ELEVEN SPORTS 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4617.ts
-Sport-PT: ELEVEN SPORTS 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4618.ts
-Sport-PT: ELEVEN SPORTS 2 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4619.ts
-Sport-PT: ELEVEN SPORTS 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4620.ts
-Sport-PT: ELEVEN SPORTS 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4621.ts
-Sport-PT: ELEVEN SPORTS 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4622.ts
-Sport-PT: ELEVEN SPORTS 4 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4623.ts
-Sport-PT: ELEVEN SPORTS 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4624.ts
-Sport-PT: ELEVEN SPORTS 5 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4625.ts
-Sport-PT: ELEVEN SPORTS 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4626.ts
-Sport-PT: ELEVEN SPORTS 6 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4627.ts
-VIP PT: Canal 11 FHD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/4615.ts
-PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74410.ts
-PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74414.ts
-PT: SPORT TV + ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74415.ts
-PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74416.ts
-PT: SPORT TV 1 ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74417.ts
-PT: SPORT TV 1 4K ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74418.ts
-PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74419.ts
-PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74420.ts
-PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74422.ts
-PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74423.ts
-PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74424.ts
-PT: SPORT TV 5 ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74425.ts
-PT: ELEVEN SPORTS 1 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74426.ts
-PT: ELEVEN SPORTS 1 ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74427.ts
-PT: ELEVEN SPORTS 1 4K ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74428.ts
-PT: ELEVEN SPORTS 2 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74429.ts
-PT: ELEVEN SPORTS 2 ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74430.ts
-PT: ELEVEN SPORTS 3  ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74432.ts
-PT: ELEVEN SPORTS 3  ᶠʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74433.ts
-PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/74434.ts
-DAZN 1 Bar HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85261.ts
-DAZN 2 Bar HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85262.ts
-SKY SPORT NEWS HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85263.ts
-SKY SPORT 1 HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85264.ts
-SKY SPORT 2 HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85265.ts
-SPORT 1 HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85266.ts
-SKY SPORT Bundesliga 1 HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85267.ts
-SKY SPORT Bundesliga 2 HEVC,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/85268.ts
-
-💞VIP SE: SPORTS,#genre#
-VIP SE: SPORTKANALEN HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58674.ts
-VIP SE: C MORE FOTBOLL HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58675.ts
-VIP SE: C MORE GOLF HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58676.ts
-VIP SE: C MORE HOCKEY HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58677.ts
-VIP SE: C MORE LIVE HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58678.ts
-VIP SE: C MORE LIVE 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58679.ts
-VIP SE: C MORE LIVE 3 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58680.ts
-VIP SE: C MORE LIVE 4 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58681.ts
-VIP SE: C MORE LIVE 5 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58682.ts
-VIP SE: VIASAT SPORT HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58683.ts
-VIP SE: VIASAT SPORT PREMIUM HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58684.ts
-VIP SE: VIASAT FOTBOLL HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58685.ts
-VIP SE: VIASAT MOTOR HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58686.ts
-VIP SE: VIASAT HOCKEY HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58687.ts
-VIP SE: EUROSPORT 1 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58688.ts
-VIP SE: EUROSPORT 2 HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58689.ts
-VIP SE: TV3 SPORT HD,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/58690.ts
-SE: DPLAY SPORT 1,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76109.ts
-SE:DPLAY SPORT 2,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76110.ts
-SE: DPLAY SPORT 3,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76111.ts
-SE: DPLAY SPORT 4,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76112.ts
-SE: DPLAY SPORT 5,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76113.ts
-SE: DPLAY SPORT 6,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76114.ts
-SE: DPLAY SPORT 7,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76115.ts
-SE: DPLAY SPORT 8,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76116.ts
-SE: DPLAY SPORT 9,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76117.ts
-SE: DPLAY SPORT 10,http://udashboard.vip:8080/live/Myfriendsfluxnlines2020/EtRHgkNNe9/76118.ts
+💞南美,#genre#
+Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
+Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
+Brasil 2002: Os Bastidores do Penta (2022) Nacional,http://meumd.com:80/movie/Denise01/denise001/208552.mp4
+Globo Rio Legendado,http://meumd.com:80/Denise01/denise001/196603
+CINE SKY 5,http://meumd.com:80/Denise01/denise001/192673
+CINE SKY 3,http://meumd.com:80/Denise01/denise001/192671
+CINE SKY 1,http://meumd.com:80/Denise01/denise001/192669
+TV Integracao Uberaba,http://meumd.com:80/Denise01/denise001/191522
+RECORD THATHI CAMPINAS,http://meumd.com:80/Denise01/denise001/191303
+RECORD THATHI CAMPINAS,http://meumd.com:80/Denise01/denise001/191302
+RECORD TV CABRÁLIA BAHIA,http://meumd.com:80/Denise01/denise001/190171
+As Garotas de Cristal,http://meumd.com:80/movie/Denise01/denise001/191301.mp4
+As Garotas de Cristal,http://meumd.com:80/movie/Denise01/denise001/191300.mp4
+A&E,http://meumd.com:80/Denise01/denise001/108597
+A&E,http://meumd.com:80/Denise01/denise001/110046
+A&E,http://meumd.com:80/Denise01/denise001/110045
+A&E,http://meumd.com:80/Denise01/denise001/108598
+A&E,http://meumd.com:80/Denise01/denise001/108599
+AMC,http://meumd.com:80/Denise01/denise001/108593
+AMC,http://meumd.com:80/Denise01/denise001/110042
+AMC,http://meumd.com:80/Denise01/denise001/110041
+AMC,http://meumd.com:80/Denise01/denise001/108594
+AMC,http://meumd.com:80/Denise01/denise001/108595
+AXN,http://meumd.com:80/Denise01/denise001/108592
+AXN,http://meumd.com:80/Denise01/denise001/110037
+AXN,http://meumd.com:80/Denise01/denise001/109567
+AXN,http://meumd.com:80/Denise01/denise001/110036
+AXN,http://meumd.com:80/Denise01/denise001/108590
+AXN,http://meumd.com:80/Denise01/denise001/109566
+AXN,http://meumd.com:80/Denise01/denise001/108591
+AXN,http://meumd.com:80/Denise01/denise001/109565
+ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/108964
+ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109441
+ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109440
+ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109439
+ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109438
+A BOLA TV,http://meumd.com:80/Denise01/denise001/125653
+A BOLA TV,http://meumd.com:80/Denise01/denise001/125652
+AGROMAIS,http://meumd.com:80/Denise01/denise001/189512
+AGROMAIS,http://meumd.com:80/Denise01/denise001/189511
+AGROMAIS,http://meumd.com:80/Denise01/denise001/189513
+AGROMAIS,http://meumd.com:80/Denise01/denise001/189514
+AGROMAIS,http://meumd.com:80/Denise01/denise001/189515
+AL JAZEERA ENG,http://meumd.com:80/Denise01/denise001/131660
+ANTENA 1 FM ( RADIOS),http://meumd.com:80/Denise01/denise001/131658
+ARG| CANAL 26,http://meumd.com:80/Denise01/denise001/126047
+ARG| CANAL TRECE,http://meumd.com:80/Denise01/denise001/126046
+ARG| DIRECTV SPORTS 2,http://meumd.com:80/Denise01/denise001/126045
+ARG| DIRECTV SPORTS,http://meumd.com:80/Denise01/denise001/126044
+ARG| DIRECTV SPORTS PLUS,http://meumd.com:80/Denise01/denise001/126043
+ARG| EL NUEVE,http://meumd.com:80/Denise01/denise001/126042
+ARG| EL TRECE,http://meumd.com:80/Denise01/denise001/126041
+ARG| FOX PREMIUN SPORTS,http://meumd.com:80/Denise01/denise001/126040
+ARG| TELEFE,http://meumd.com:80/Denise01/denise001/126039
+ARG| TN NOTICIAS,http://meumd.com:80/Denise01/denise001/126038
+ARG| TN NOTICIAS *u2*,http://meumd.com:80/Denise01/denise001/126037
+ARG| TV PUBLICA,http://meumd.com:80/Denise01/denise001/181380
+ARTE 1,http://meumd.com:80/Denise01/denise001/109498
+ARTE 1,http://meumd.com:80/Denise01/denise001/109496
+ARTE 1,http://meumd.com:80/Denise01/denise001/109495
+BABYTV,http://meumd.com:80/Denise01/denise001/110159
+BAND,http://meumd.com:80/Denise01/denise001/108301
+BAND NEWS,http://meumd.com:80/Denise01/denise001/118478
+BAND NEWS,http://meumd.com:80/Denise01/denise001/108459
+BAND NEWS,http://meumd.com:80/Denise01/denise001/118477
+BAND NEWS,http://meumd.com:80/Denise01/denise001/108460
+BAND NEWS,http://meumd.com:80/Denise01/denise001/108458
+BAND SP,http://meumd.com:80/Denise01/denise001/141684
+BAND SP,http://meumd.com:80/Denise01/denise001/141685
+BAND SP,http://meumd.com:80/Denise01/denise001/141686
+BAND SPORTS,http://meumd.com:80/Denise01/denise001/110295
+BAND SPORTS,http://meumd.com:80/Denise01/denise001/110294
+BAND SPORTS,http://meumd.com:80/Denise01/denise001/110293
+BAND SPORTS,http://meumd.com:80/Denise01/denise001/110292
+BH FM (RADIOS),http://meumd.com:80/Denise01/denise001/131643
+BIS,http://meumd.com:80/Denise01/denise001/108785
+BIS,http://meumd.com:80/Denise01/denise001/108783
+BIS,http://meumd.com:80/Denise01/denise001/108784
+BOA VONTADE TV,http://meumd.com:80/Denise01/denise001/108695
+BOB ESPONJA 24H,http://meumd.com:80/Denise01/denise001/109065
+BOOMBERANG,http://meumd.com:80/Denise01/denise001/108685
+BOOMERANG,http://meumd.com:80/Denise01/denise001/110158
+BOOMERANG dual audio,http://meumd.com:80/Denise01/denise001/186349
+BOOMERANG,http://meumd.com:80/Denise01/denise001/110157
+BOOMERANG,http://meumd.com:80/Denise01/denise001/110156
+BOOMERANG,http://meumd.com:80/Denise01/denise001/110155
+BOOMERANG,http://meumd.com:80/Denise01/denise001/110154
+CAMERA AO VIVO - GOIANIA GO,http://meumd.com:80/Denise01/denise001/140598
+CAMERA AO VIVO - RIO DE JANEIRO,http://meumd.com:80/Denise01/denise001/140604
+CAMERA AO VIVO -BARRA DA TIJUCA,http://meumd.com:80/Denise01/denise001/140601
+CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108353
+CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108354
+CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108352
+CANAL DO BOI,http://meumd.com:80/Denise01/denise001/108295
+CANAL RURAL,http://meumd.com:80/Denise01/denise001/108294
+CANAL SONY,http://meumd.com:80/Denise01/denise001/108589
+CANAL SONY,http://meumd.com:80/Denise01/denise001/109564
+CANAL SONY,http://meumd.com:80/Denise01/denise001/108586
+CANAL SONY,http://meumd.com:80/Denise01/denise001/108587
+CANAL SONY,http://meumd.com:80/Denise01/denise001/109563
+CANAL SONY,http://meumd.com:80/Denise01/denise001/108588
+CANAL SONY,http://meumd.com:80/Denise01/denise001/109562
+CANÇAO NOVA,http://meumd.com:80/Denise01/denise001/108694
+CANÇÃO NOVA,http://meumd.com:80/Denise01/denise001/137683
+CARTOON,http://meumd.com:80/Denise01/denise001/108948
+CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/108681
+CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110152
+CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110151
+CARTOON NETWORK ,http://meumd.com:80/Denise01/denise001/186348
+CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/186347
+CIDADE FM (RADIOS),http://meumd.com:80/Denise01/denise001/131645
+CINEMAX,http://meumd.com:80/Denise01/denise001/108585
+CINEMAX,http://meumd.com:80/Denise01/denise001/110029
+CINEMAX,http://meumd.com:80/Denise01/denise001/110028
+CINEMAX,http://meumd.com:80/Denise01/denise001/108583
+CINEMAX,http://meumd.com:80/Denise01/denise001/108584
+CNN BRASIL,http://meumd.com:80/Denise01/denise001/108457
+CNN BRASIL,http://meumd.com:80/Denise01/denise001/108454
+CNN BRASIL,http://meumd.com:80/Denise01/denise001/108455
+CNN INTERNACIONAL,http://meumd.com:80/Denise01/denise001/108456
+COL- CARACOL *,http://meumd.com:80/Denise01/denise001/126035
+COL- CARACOL2,http://meumd.com:80/Denise01/denise001/126034
+COMBATE,http://meumd.com:80/Denise01/denise001/108946
+COMBATE,http://meumd.com:80/Denise01/denise001/110263
+COMBATE,http://meumd.com:80/Denise01/denise001/110261
+COMBATE,http://meumd.com:80/Denise01/denise001/110260
+COMBATE,http://meumd.com:80/Denise01/denise001/110259
+COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109490
+COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109489
+COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/123712
+COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109487
+COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/108351
+COUNTRY MUSIC COICE,http://meumd.com:80/Denise01/denise001/125946
+CURTA!,http://meumd.com:80/Denise01/denise001/109485
+CURTA!,http://meumd.com:80/Denise01/denise001/109483
+CURTA!,http://meumd.com:80/Denise01/denise001/109482
+DANCE MUSIC CHOCE,http://meumd.com:80/Denise01/denise001/125945
+DESENHOS BIBLICOS 24H,http://meumd.com:80/Denise01/denise001/111160
+HISTORY,http://meumd.com:80/Denise01/denise001/108410
+HISTORY,http://meumd.com:80/Denise01/denise001/118479
+HISTORY,http://meumd.com:80/Denise01/denise001/118480
+HISTORY,http://meumd.com:80/Denise01/denise001/108411
+HISTORY,http://meumd.com:80/Denise01/denise001/108412
+NATGEO,http://meumd.com:80/Denise01/denise001/108961
+NATGEO,http://meumd.com:80/Denise01/denise001/108406
+NATGEO,http://meumd.com:80/Denise01/denise001/140562
+NATGEO,http://meumd.com:80/Denise01/denise001/108401
+NATGEO,http://meumd.com:80/Denise01/denise001/108403
+NATGEO,http://meumd.com:80/Denise01/denise001/109345
+DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/108962
+DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109437
+DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109435
+DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109434
+DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109433
+DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108432
+DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/115675
+DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/115676
+DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108424
+DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108431
+DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109432
+DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109431
+DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109430
+DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109429
+DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109428
+DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109427
+DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109426
+DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/108430
+DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/113929
+DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/113930
+DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/108427
+DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108435
+DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108421
+DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108428
+DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/186346
+DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/110147
+DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/110146
+DISCOVERY KIDS.,http://meumd.com:80/Denise01/denise001/108678
+DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/108679
+DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/108676
+DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/110142
+DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/186341
+DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/108670
+DOG TV,http://meumd.com:80/Denise01/denise001/108348
+DOG TV,http://meumd.com:80/Denise01/denise001/108347
+DOG TV,http://meumd.com:80/Denise01/denise001/115674
+E!,http://meumd.com:80/Denise01/denise001/109481
+E!,http://meumd.com:80/Denise01/denise001/109480
+E!,http://meumd.com:80/Denise01/denise001/109479
+E!,http://meumd.com:80/Denise01/denise001/109478
+ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125726
+ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125727
+ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125728
+ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125729
+ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125723
+ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125724
+ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125725
+ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125720
+ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125721
+ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125722
+ES: A3SERIES,http://meumd.com:80/Denise01/denise001/144524
+ES: ANTENA 3,http://meumd.com:80/Denise01/denise001/144528
+ES: BEMAD,http://meumd.com:80/Denise01/denise001/144525
+ES: BLOOMBERG,http://meumd.com:80/Denise01/denise001/125658
+ES: CNN,http://meumd.com:80/Denise01/denise001/126033
+ES: Disney+,http://meumd.com:80/Denise01/denise001/144521
+ES: DIVINITY,http://meumd.com:80/Denise01/denise001/144527
+ES: ENERGY,http://meumd.com:80/Denise01/denise001/144526
+ES: EUROSPORT,http://meumd.com:80/Denise01/denise001/125719
+ES: GOL TV,http://meumd.com:80/Denise01/denise001/125718
+ES: LA 1,http://meumd.com:80/Denise01/denise001/144530
+ES: LA 2,http://meumd.com:80/Denise01/denise001/144529
+ES: LIGA CAMPEONES,http://meumd.com:80/Denise01/denise001/125717
+ES: MOVIESTAR F1,http://meumd.com:80/Denise01/denise001/125656
+ES: MOVISTAR DRAMA,http://meumd.com:80/Denise01/denise001/144523
+ES: MOVISTAR ESTRENOS,http://meumd.com:80/Denise01/denise001/144522
+ES: MOVISTAR SERIES,http://meumd.com:80/Denise01/denise001/144520
+ES: MOVISTAR Seriesmania,http://meumd.com:80/Denise01/denise001/144519
+ES: TVE 24h,http://meumd.com:80/Denise01/denise001/126032
+ESPN,http://meumd.com:80/Denise01/denise001/108945
+ESPN 2,http://meumd.com:80/Denise01/denise001/110243
+ESPN 3,http://meumd.com:80/Denise01/denise001/189506
+ESPN 3,http://meumd.com:80/Denise01/denise001/189505
+ESPN 4,http://meumd.com:80/Denise01/denise001/108947
+ESPN EXTRA,http://meumd.com:80/Denise01/denise001/108720
+ESPN EXTRA,http://meumd.com:80/Denise01/denise001/110252
+ESPN EXTRA,http://meumd.com:80/Denise01/denise001/142333
+ESPN EXTRA,http://meumd.com:80/Denise01/denise001/108716
+ESPN,http://meumd.com:80/Denise01/denise001/142332
+ESPN,http://meumd.com:80/Denise01/denise001/110247
+ESPN,http://meumd.com:80/Denise01/denise001/108712
+ESPN,http://meumd.com:80/Denise01/denise001/110245
+ESPN 2,http://meumd.com:80/Denise01/denise001/108721
+ESPN 2,http://meumd.com:80/Denise01/denise001/108714
+ESPN 2,http://meumd.com:80/Denise01/denise001/108717
+ESPN 3,http://meumd.com:80/Denise01/denise001/189507
+ESPN 3,http://meumd.com:80/Denise01/denise001/189504
+ESPN 3,http://meumd.com:80/Denise01/denise001/189503
+ESPN 4,http://meumd.com:80/Denise01/denise001/142338
+ESPN 4,http://meumd.com:80/Denise01/denise001/108736
+ESPN 4,http://meumd.com:80/Denise01/denise001/142339
+EU A PATROA E AS CRIANÇAS 1 TEMPORADA,http://meumd.com:80/Denise01/denise001/109121
+FILM & ARTS,http://meumd.com:80/Denise01/denise001/130690
+FILM & ARTS,http://meumd.com:80/Denise01/denise001/108582
+FILM & ARTS,http://meumd.com:80/Denise01/denise001/130689
+FASHION TV,http://meumd.com:80/Denise01/denise001/108346
+FASHION TV,http://meumd.com:80/Denise01/denise001/109476
+FASHION TV,http://meumd.com:80/Denise01/denise001/108345
+FASHION TV,http://meumd.com:80/Denise01/denise001/109474
+FISH TV,http://meumd.com:80/Denise01/denise001/110240
+FISH TV,http://meumd.com:80/Denise01/denise001/110239
+FISH TV,http://meumd.com:80/Denise01/denise001/110238
+FISH TV,http://meumd.com:80/Denise01/denise001/110237
+FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108343
+FOOD NETWORK,http://meumd.com:80/Denise01/denise001/109472
+FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108344
+FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108342
+FOX CRIME PT,http://meumd.com:80/Denise01/denise001/126096
+FOX LIFE,http://meumd.com:80/Denise01/denise001/109032
+FOX NEWS ,http://meumd.com:80/Denise01/denise001/126031
+FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110290
+FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110291
+FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110289
+FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110288
+FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110287
+FURACAO TV,http://meumd.com:80/Denise01/denise001/134251
+FX,http://meumd.com:80/Denise01/denise001/108573
+FX,http://meumd.com:80/Denise01/denise001/110024
+FX,http://meumd.com:80/Denise01/denise001/109561
+FX,http://meumd.com:80/Denise01/denise001/108576
+FX,http://meumd.com:80/Denise01/denise001/108575
+FX,http://meumd.com:80/Denise01/denise001/109560
+FX,http://meumd.com:80/Denise01/denise001/108574
+FX,http://meumd.com:80/Denise01/denise001/109559
+GAUCHA ZH (Radios),http://meumd.com:80/Denise01/denise001/131655
+GAZETA FM (RADIOS),http://meumd.com:80/Denise01/denise001/131647
+GENESIS 24H,http://meumd.com:80/Denise01/denise001/137668
+GERAÇÃO FUNK FM (RADIOS),http://meumd.com:80/Denise01/denise001/131644
+GLOBO,http://meumd.com:80/Denise01/denise001/108952
+GLOBO BH,http://meumd.com:80/Denise01/denise001/108866
+GLOBO BH,http://meumd.com:80/Denise01/denise001/108856
+GLOBO BH,http://meumd.com:80/Denise01/denise001/108855
+GLOBO BRASILIA,http://meumd.com:80/Denise01/denise001/186350
+GLOBO CURITIBA,http://meumd.com:80/Denise01/denise001/108838
+GLOBO CURITIBA,http://meumd.com:80/Denise01/denise001/108874
+GLOBO EPTV CAMPINAS,http://meumd.com:80/Denise01/denise001/108918
+GLOBO EPTV CAMPINAS,http://meumd.com:80/Denise01/denise001/108917
+GLOBO EPTV RIBEIRAO PRETO,http://meumd.com:80/Denise01/denise001/108878
+GLOBO EPTV RIBEIRÃO PRETO,http://meumd.com:80/Denise01/denise001/109775
+GLOBO EPTV SAO CARLOS,http://meumd.com:80/Denise01/denise001/186816
+GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109773
+GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109772
+GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109771
+GLOBO FLORIANOPOLIS,http://meumd.com:80/Denise01/denise001/108840
+GLOBO  FLORIANOPOLIS,http://meumd.com:80/Denise01/denise001/108867
+GLOBO FORTALEZA,http://meumd.com:80/Denise01/denise001/108836
+GLOBO FORTALEZA,http://meumd.com:80/Denise01/denise001/108870
+GLOBO FOZ DO IGUACU,http://meumd.com:80/Denise01/denise001/108804
+GLOBO FOZ DO IGUACU,http://meumd.com:80/Denise01/denise001/108803
+GLOBO FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/108805
+GLOBO GAZETA  SUL ALEGRE ES,http://meumd.com:80/Denise01/denise001/108843
+GLOBO GAZETA SUL ALEGRE ESD,http://meumd.com:80/Denise01/denise001/108853
+GLOBO GAZETA SUL ALEGRE ES,http://meumd.com:80/Denise01/denise001/108852
+GLOBO GOIANIA,http://meumd.com:80/Denise01/denise001/108841
+GLOBO GOIANIA,http://meumd.com:80/Denise01/denise001/108857
+GLOBO INTEGRACAO ARAXAD,http://meumd.com:80/Denise01/denise001/108807
+GLOBO INTEGRACAO ARAXA,http://meumd.com:80/Denise01/denise001/108806
+GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/108826
+GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/108825
+GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/109768
+GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108894
+GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108893
+GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108789
+GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109762
+GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109761
+GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109760
+GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109759
+GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109758
+GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109757
+GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108897
+GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108896
+GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108895
+GLOBO JOAÇABA,http://meumd.com:80/Denise01/denise001/181085
+GLOBO JOAÇABA,http://meumd.com:80/Denise01/denise001/181084
+GLOBO JUIZ DE FORA MG,http://meumd.com:80/Denise01/denise001/181152
+GLOBO JUIZ DE FORA MG,http://meumd.com:80/Denise01/denise001/181157
+GLOBO MARINGA,http://meumd.com:80/Denise01/denise001/108905
+GLOBO MATO GROSSO,http://meumd.com:80/Denise01/denise001/108864
+GLOBO MATO GROSSO,http://meumd.com:80/Denise01/denise001/108873
+GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109754
+GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109753
+GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109752
+GLOBO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/181107
+GLOBO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/181132
+GLOBO MONTES CLAROS MG,http://meumd.com:80/Denise01/denise001/181162
+GLOBO MONTES CLAROS MG,http://meumd.com:80/Denise01/denise001/181163
+GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108453
+GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108452
+GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108451
+GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/108884
+GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/109750
+GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/108875
+GLOBO NSC CHAPECO,http://meumd.com:80/Denise01/denise001/108912
+GLOBO NSC JOINVILLE  SC,http://meumd.com:80/Denise01/denise001/108837
+GLOBO NSC JOINVILLE  SC,http://meumd.com:80/Denise01/denise001/108848
+GLOBO NSC TV BLUMENAU,http://meumd.com:80/Denise01/denise001/109747
+GLOBO NSC TV BLUMENAU,http://meumd.com:80/Denise01/denise001/109746
+GLOBO NSC TV CHAPECO,http://meumd.com:80/Denise01/denise001/109745
+GLOBO NSC TV CHAPECO,http://meumd.com:80/Denise01/denise001/108904
+GLOBO NSC TV FLORIANÓPOLIS,http://meumd.com:80/Denise01/denise001/109742
+GLOBO NSC TV FLORIANÓPOLIS²,http://meumd.com:80/Denise01/denise001/109741
+GLOBO NSC TV FLORIANÓPOLIS,http://meumd.com:80/Denise01/denise001/109740
+GLOBO NSC TV JOINVILLE,http://meumd.com:80/Denise01/denise001/109737
+GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/108846
+GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/135283
+GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/108788
+GLOBO PRESIDENTE PRUDENTE SP,http://meumd.com:80/Denise01/denise001/181159
+GLOBO PRESIDENTE PRUDENTE SP,http://meumd.com:80/Denise01/denise001/181158
+GLOBO RBS TV BLUMENAL,http://meumd.com:80/Denise01/denise001/108903
+GLOBO RBS TV BLUMENAU,http://meumd.com:80/Denise01/denise001/108833
+GLOBO RBS TV CAXIAS DO SUL,http://meumd.com:80/Denise01/denise001/108802
+GLOBO RBS TV CAXIAS DO SULD,http://meumd.com:80/Denise01/denise001/108801
+GLOBO RBS TV CAXIAS DO SUL,http://meumd.com:80/Denise01/denise001/108800
+GLOBO RBS TV CRICIUMA,http://meumd.com:80/Denise01/denise001/108832
+GLOBO RBS TV CRICIUMAD,http://meumd.com:80/Denise01/denise001/108831
+GLOBO RBS TV CRICIUMA .,http://meumd.com:80/Denise01/denise001/108830
+GLOBO RBS TV PELOTAS,http://meumd.com:80/Denise01/denise001/108899
+GLOBO RBS TV PELOTAS,http://meumd.com:80/Denise01/denise001/108898
+GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109733
+GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109732
+GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109731
+GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108902
+GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108901
+GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108900
+GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109730
+GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109729
+GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109728
+GLOBO RPC MARINGA,http://meumd.com:80/Denise01/denise001/108911
+GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109724
+GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109723
+GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109722
+GLOBO RPC TV FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/109721
+GLOBO RPC TV FOZ DO IGUAÇU²,http://meumd.com:80/Denise01/denise001/109720
+GLOBO RPC TV FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/109719
+GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109718
+GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109717
+GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109716
+GLOBO RPC TV PONTA GROSSA,http://meumd.com:80/Denise01/denise001/108910
+GLOBO RPC TV PONTA GROSSA,http://meumd.com:80/Denise01/denise001/109710
+GLOBO SALVADOR ,http://meumd.com:80/Denise01/denise001/108844
+GLOBO SALVADOR,http://meumd.com:80/Denise01/denise001/108854
+GLOBO SALVADOR .,http://meumd.com:80/Denise01/denise001/108787
+GLOBO SAO LUIS ,http://meumd.com:80/Denise01/denise001/108839
+GLOBO SAO LUIS MA,http://meumd.com:80/Denise01/denise001/108863
+GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109706
+GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109705
+GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109704
+GLOBO TV ASA BRANCA,http://meumd.com:80/Denise01/denise001/108835
+GLOBO TV ASA BRANCA,http://meumd.com:80/Denise01/denise001/113889
+GLOBO TV BAHIA,http://meumd.com:80/Denise01/denise001/109703
+GLOBO TV BAHIA,http://meumd.com:80/Denise01/denise001/109702
+GLOBO TV BAHIA²,http://meumd.com:80/Denise01/denise001/109701
+GLOBO TV CABO BRANCO ,http://meumd.com:80/Denise01/denise001/140543
+GLOBO TV CABO BRANCO ,http://meumd.com:80/Denise01/denise001/140544
+GLOBO TV CABO BRANCO,http://meumd.com:80/Denise01/denise001/108812
+GLOBO TV CENTRO AMERICA,http://meumd.com:80/Denise01/denise001/108847
+GLOBO TV CENTRO AMÉRICA,http://meumd.com:80/Denise01/denise001/109697
+GLOBO TV CLUBE PIAUI,http://meumd.com:80/Denise01/denise001/108851
+GLOBO TV CLUBE PID,http://meumd.com:80/Denise01/denise001/108850
+GLOBO TV CLUBE PI,http://meumd.com:80/Denise01/denise001/108849
+GLOBO TV CLUBE TERESINA,http://meumd.com:80/Denise01/denise001/109693
+GLOBO TV CLUBE TERESINA,http://meumd.com:80/Denise01/denise001/109692
+GLOBO TV DIARIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/108858
+GLOBO TV DIÁRIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/109690
+GLOBO TV DIÁRIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/109689
+GLOBO TV FRONTEIRA,http://meumd.com:80/Denise01/denise001/108906
+GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109688
+GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109687
+GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109686
+GLOBO TV GAZETA ALAGOAS,http://meumd.com:80/Denise01/denise001/108913
+GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109682
+GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109681
+GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109680
+GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109679
+GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109678
+GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109677
+GLOBO TV INTEGRACAO JFD,http://meumd.com:80/Denise01/denise001/108816
+GLOBO TV INTEGRACAO JF,http://meumd.com:80/Denise01/denise001/108815
+GLOBO TV INTEGRAÇAO JF,http://meumd.com:80/Denise01/denise001/108817
+GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109676
+GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109675
+GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109674
+GLOBO INTEGRAÇAO  ARAXA,http://meumd.com:80/Denise01/denise001/108808
+GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108888
+GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108887
+GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108889
+GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108799
+GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108798
+GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108797
+GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109667
+GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109666
+GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109665
+GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/109664
+GLOBO TV RIO SUL .,http://meumd.com:80/Denise01/denise001/108823
+GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/109663
+GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/108821
+GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108793
+GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108792
+GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108791
+GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108796
+GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108795
+GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108794
+GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108916
+GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108915
+GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108881
+GLOBO TV TEM SOROCABA,http://meumd.com:80/Denise01/denise001/108907
+GLOBO TV TEM SOROCABA,http://meumd.com:80/Denise01/denise001/108880
+GLOBO TV TEM SÃO JOSÉ DO RIO PRETO,http://meumd.com:80/Denise01/denise001/109652
+GLOBO TV TEM SÃO JOSÉ DO RIO PRETO²,http://meumd.com:80/Denise01/denise001/109651
+GLOBO TV TEM SÃO JOSÉ DO RIO PRETO,http://meumd.com:80/Denise01/denise001/109650
+GLOBO TV TRIBUNA,http://meumd.com:80/Denise01/denise001/108914
+GLOBO TV TRIBUNA SANTOS,http://meumd.com:80/Denise01/denise001/109645
+GLOBO TV TRIBUNA SANTOS,http://meumd.com:80/Denise01/denise001/108871
+GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109643
+GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109642
+GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109641
+GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/108908
+GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/123725
+GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/123726
+GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109640
+GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109639
+GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109638
+GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109637
+GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109636
+GLOOB,http://meumd.com:80/Denise01/denise001/135171
+GLOOB,http://meumd.com:80/Denise01/denise001/110133
+GLOOB,http://meumd.com:80/Denise01/denise001/135170
+GLOOBINHO,http://meumd.com:80/Denise01/denise001/110130
+GLOOBINHO,http://meumd.com:80/Denise01/denise001/110129
+GLOOBINHO,http://meumd.com:80/Denise01/denise001/110128
+GLOOBINHO,http://meumd.com:80/Denise01/denise001/110127
+GLOOB,http://meumd.com:80/Denise01/denise001/135172
+GNT,http://meumd.com:80/Denise01/denise001/108340
+GNT,http://meumd.com:80/Denise01/denise001/109468
+GNT,http://meumd.com:80/Denise01/denise001/109467
+GNT,http://meumd.com:80/Denise01/denise001/108341
+GNT,http://meumd.com:80/Denise01/denise001/108339
+GOLF CHANNEL,http://meumd.com:80/Denise01/denise001/181538
+H2,http://meumd.com:80/Denise01/denise001/108417
+H2,http://meumd.com:80/Denise01/denise001/108415
+H2,http://meumd.com:80/Denise01/denise001/108416
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/108568
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/108566
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/108567
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/110015
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/110014
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/110013
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/110012
+PARAMOUNT,http://meumd.com:80/Denise01/denise001/110011
+HBO,http://meumd.com:80/Denise01/denise001/109558
+HBO,http://meumd.com:80/Denise01/denise001/108603
+HBO,http://meumd.com:80/Denise01/denise001/109556
+HBO 2,http://meumd.com:80/Denise01/denise001/110051
+HBO 2,http://meumd.com:80/Denise01/denise001/110050
+HBO+,http://meumd.com:80/Denise01/denise001/109544
+HBO+,http://meumd.com:80/Denise01/denise001/109543
+HBO+,http://meumd.com:80/Denise01/denise001/109542
+HBO MUNDI,http://meumd.com:80/Denise01/denise001/109557
+HBO MUNDI,http://meumd.com:80/Denise01/denise001/110074
+HBO MUNDI,http://meumd.com:80/Denise01/denise001/109555
+HBO MUNDI,http://meumd.com:80/Denise01/denise001/109554
+HBO POP,http://meumd.com:80/Denise01/denise001/109553
+HBO POP,http://meumd.com:80/Denise01/denise001/109552
+HBO POP,http://meumd.com:80/Denise01/denise001/109551
+HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/110065
+HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/109549
+HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/109548
+HBO XTREME,http://meumd.com:80/Denise01/denise001/142906
+HBO XTREME,http://meumd.com:80/Denise01/denise001/109547
+HBO FAMILY,http://meumd.com:80/Denise01/denise001/110082
+HBO LEGENDADO,http://meumd.com:80/Denise01/denise001/108977
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108541
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109971
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109541
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108538
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108540
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109540
+WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109539
+UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108542
+UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/109976
+UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/109975
+UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108543
+UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108544
+HITS LIST CHOIC,http://meumd.com:80/Denise01/denise001/125943
+HOLLYWOOD PT,http://meumd.com:80/Denise01/denise001/126095
+IT- RAI NEWS24,http://meumd.com:80/Denise01/denise001/126074
+IT- RAI SPORT+,http://meumd.com:80/Denise01/denise001/125704
+JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/173061
+JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172922
+JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/173060
+JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172921
+JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172920
+LA CASA DE PAPEL 24H,http://meumd.com:80/Denise01/denise001/137678
+LIFETIME,http://meumd.com:80/Denise01/denise001/109464
+LIFETIME,http://meumd.com:80/Denise01/denise001/109463
+LIFETIME,http://meumd.com:80/Denise01/denise001/109462
+LIFETIME,http://meumd.com:80/Denise01/denise001/109461
+LOADING,http://meumd.com:80/Denise01/denise001/130702
+LOADING,http://meumd.com:80/Denise01/denise001/130701
+LOADING,http://meumd.com:80/Denise01/denise001/130700
+LUCAS NETO 24H,http://meumd.com:80/Denise01/denise001/137674
+MAIS GLOBO SAT,http://meumd.com:80/Denise01/denise001/108335
+MAIS GLOBO SAT,http://meumd.com:80/Denise01/denise001/108334
+MEGA MAN 24H,http://meumd.com:80/Denise01/denise001/137672
+MEGAPIX,http://meumd.com:80/Denise01/denise001/108960
+MEGAPIX,http://meumd.com:80/Denise01/denise001/108569
+MEGAPIX,http://meumd.com:80/Denise01/denise001/110019
+MEGAPIX,http://meumd.com:80/Denise01/denise001/109519
+MEGAPIX,http://meumd.com:80/Denise01/denise001/108571
+MEGAPIX,http://meumd.com:80/Denise01/denise001/110018
+MEGAPIX,http://meumd.com:80/Denise01/denise001/108570
+MEGAPIX,http://meumd.com:80/Denise01/denise001/109518
+MEGAPIX,http://meumd.com:80/Denise01/denise001/108572
+MEGAPIX,http://meumd.com:80/Denise01/denise001/109517
+METAL CHOICE,http://meumd.com:80/Denise01/denise001/125941
+MEXICANA CHOICE,http://meumd.com:80/Denise01/denise001/125940
+MONICA CHEFE 24H,http://meumd.com:80/Denise01/denise001/137673
+MTV,http://meumd.com:80/Denise01/denise001/108781
+MTV,http://meumd.com:80/Denise01/denise001/108779
+MTV LIVE,http://meumd.com:80/Denise01/denise001/108782
+MTV LIVE,http://meumd.com:80/Denise01/denise001/108777
+MTV,http://meumd.com:80/Denise01/denise001/108780
+MULTISHOW,http://meumd.com:80/Denise01/denise001/108943
+MULTISHOW,http://meumd.com:80/Denise01/denise001/108776
+MULTISHOW,http://meumd.com:80/Denise01/denise001/115677
+MULTISHOW,http://meumd.com:80/Denise01/denise001/108774
+MULTISHOW,http://meumd.com:80/Denise01/denise001/108775
+MUSIC BOX BRAZIL,http://meumd.com:80/Denise01/denise001/108772
+MUSIC BOX,http://meumd.com:80/Denise01/denise001/108773
+NARUTO 24HS,http://meumd.com:80/Denise01/denise001/184951
+NARUTO SHIPPUDEN  24HS,http://meumd.com:80/Denise01/denise001/184952
+NBA TV,http://meumd.com:80/Denise01/denise001/125702
+NFL Gamepass 1,http://meumd.com:80/Denise01/denise001/125701
+NFL NETWORK,http://meumd.com:80/Denise01/denise001/125700
+NICKELODEON,http://meumd.com:80/Denise01/denise001/110118
+NICKELODEON,http://meumd.com:80/Denise01/denise001/110117
+NICKELODEON,http://meumd.com:80/Denise01/denise001/110116
+NICKELODEON,http://meumd.com:80/Denise01/denise001/110115
+NICKELODEON,http://meumd.com:80/Denise01/denise001/110114
+NICK JR.,http://meumd.com:80/Denise01/denise001/110121
+NICK JR,http://meumd.com:80/Denise01/denise001/186339
+NICK JR,http://meumd.com:80/Denise01/denise001/186337
+NICK JR,http://meumd.com:80/Denise01/denise001/186338
+NICKLODEON,http://meumd.com:80/Denise01/denise001/108657
+NICKLODEON,http://meumd.com:80/Denise01/denise001/108654
+NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145392
+NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145393
+NSC TV CHAPECO -GLOBO,http://meumd.com:80/Denise01/denise001/140536
+NSC TV CHAPECO -GLOBO,http://meumd.com:80/Denise01/denise001/140537
+OFF,http://meumd.com:80/Denise01/denise001/110268
+OFF,http://meumd.com:80/Denise01/denise001/110267
+OFF,http://meumd.com:80/Denise01/denise001/110266
+OFF,http://meumd.com:80/Denise01/denise001/110265
+OFF,http://meumd.com:80/Denise01/denise001/110264
+O REI DO GADO 24H,http://meumd.com:80/Denise01/denise001/137671
+O RICO E LAZARO 24H,http://meumd.com:80/Denise01/denise001/137669
+PERU | GOL PERU,http://meumd.com:80/Denise01/denise001/125699
+PLENITUDE TV,http://meumd.com:80/Denise01/denise001/111253
+POP & COUNTRY COICE,http://meumd.com:80/Denise01/denise001/125939
+POP LATINO MUSI CHOICE,http://meumd.com:80/Denise01/denise001/125938
+PPVV| MOVISTAR LA LIGA,http://meumd.com:80/Denise01/denise001/126027
+PREMIERE 1,http://meumd.com:80/Denise01/denise001/108755
+PREMIERE 2,http://meumd.com:80/Denise01/denise001/110362
+PREMIERE 2,http://meumd.com:80/Denise01/denise001/110361
+PREMIERE 2,http://meumd.com:80/Denise01/denise001/110360
+PREMIERE 2,http://meumd.com:80/Denise01/denise001/110359
+PREMIERE 3,http://meumd.com:80/Denise01/denise001/110358
+PREMIERE 3,http://meumd.com:80/Denise01/denise001/110357
+PREMIERE 3,http://meumd.com:80/Denise01/denise001/110356
+PREMIERE 3,http://meumd.com:80/Denise01/denise001/110355
+PREMIERE 4,http://meumd.com:80/Denise01/denise001/110354
+PREMIERE 4,http://meumd.com:80/Denise01/denise001/110353
+PREMIERE 4,http://meumd.com:80/Denise01/denise001/110352
+PREMIERE 4,http://meumd.com:80/Denise01/denise001/108757
+PREMIERE 5,http://meumd.com:80/Denise01/denise001/110350
+PREMIERE 5,http://meumd.com:80/Denise01/denise001/110349
+PREMIERE 5,http://meumd.com:80/Denise01/denise001/110348
+PREMIERE 5,http://meumd.com:80/Denise01/denise001/110347
+PREMIERE 6,http://meumd.com:80/Denise01/denise001/110346
+PREMIERE 6,http://meumd.com:80/Denise01/denise001/110345
+PREMIERE 6,http://meumd.com:80/Denise01/denise001/110344
+PREMIERE 6,http://meumd.com:80/Denise01/denise001/110343
+PREMIERE 7,http://meumd.com:80/Denise01/denise001/110342
+PREMIERE 7,http://meumd.com:80/Denise01/denise001/110341
+PREMIERE 7,http://meumd.com:80/Denise01/denise001/110340
+PREMIERE 7,http://meumd.com:80/Denise01/denise001/110339
+PREMIERE 8,http://meumd.com:80/Denise01/denise001/142337
+PREMIERE 9,http://meumd.com:80/Denise01/denise001/110335
+PREMIERE 9,http://meumd.com:80/Denise01/denise001/110334
+PREMIERE 9,http://meumd.com:80/Denise01/denise001/110333
+PREMIERE 9,http://meumd.com:80/Denise01/denise001/110332
+PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108742
+PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108749
+PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108942
+PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108743
+PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108750
+PRIME BOX BRASIL,http://meumd.com:80/Denise01/denise001/108332
+PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109460
+PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109459
+PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109458
+PT- A BOLA TV (LOW),http://meumd.com:80/Denise01/denise001/125694
+PT- E! ENTERTAINMENT,http://meumd.com:80/Denise01/denise001/126099
+PT- ELEVEN SPORTS 1 (LOW),http://meumd.com:80/Denise01/denise001/125693
+PT- ELEVEN SPORTS 2 (LOW),http://meumd.com:80/Denise01/denise001/125692
+PT- ELEVEN SPORTS 3 (LOW),http://meumd.com:80/Denise01/denise001/125691
+PT- ELEVEN SPORTS 4 (LOW),http://meumd.com:80/Denise01/denise001/125690
+PT- ELEVEN SPORTS 5 (LOW),http://meumd.com:80/Denise01/denise001/125689
+PT- ELEVEN SPORTS 6 (LOW),http://meumd.com:80/Denise01/denise001/125688
+PT- EUROSPORT 1 (LOW),http://meumd.com:80/Denise01/denise001/125687
+PT- FOX,http://meumd.com:80/Denise01/denise001/126098
+PT- FOX COMEDY,http://meumd.com:80/Denise01/denise001/126097
+PT- SPORTING TV (LOW),http://meumd.com:80/Denise01/denise001/125679
+PT- SPORT TV + (LOW),http://meumd.com:80/Denise01/denise001/125686
+PT- SPORT TV 1 (LOW),http://meumd.com:80/Denise01/denise001/125685
+PT- SPORT TV 2 (LOW),http://meumd.com:80/Denise01/denise001/125684
+PT- SPORT TV 3 (LOW),http://meumd.com:80/Denise01/denise001/125683
+PT- SPORT TV 4 (LOW),http://meumd.com:80/Denise01/denise001/125682
+PT- SPORT TV 5 (LOW),http://meumd.com:80/Denise01/denise001/125681
+PT- SPORT TV NBA (LOW),http://meumd.com:80/Denise01/denise001/125680
+R&B SOUL MUSIC HOICE,http://meumd.com:80/Denise01/denise001/125937
+RAP MUSIC CHOICE,http://meumd.com:80/Denise01/denise001/125936
+RBS PASSO FUNDO - GLOBO,http://meumd.com:80/Denise01/denise001/140534
+RBS PASSO FUNDO - GLOBO,http://meumd.com:80/Denise01/denise001/140535
+RECORD,http://meumd.com:80/Denise01/denise001/108963
+RECORD NEWS,http://meumd.com:80/Denise01/denise001/108270
+RECORD NEWS,http://meumd.com:80/Denise01/denise001/108268
+RECORD RJ,http://meumd.com:80/Denise01/denise001/108265
+RECORDTV BELEM,http://meumd.com:80/Denise01/denise001/109590
+RECORDTV BELEM,http://meumd.com:80/Denise01/denise001/109589
+RECORDTV DF,http://meumd.com:80/Denise01/denise001/109588
+RECORD TV,http://meumd.com:80/Denise01/denise001/108271
+RECORDTV GO,http://meumd.com:80/Denise01/denise001/181083
+RECORDTV GO,http://meumd.com:80/Denise01/denise001/109586
+RECORDTV GO,http://meumd.com:80/Denise01/denise001/109585
+RECORDTV ITAPOAN,http://meumd.com:80/Denise01/denise001/109584
+RECORDTV ITAPOAN,http://meumd.com:80/Denise01/denise001/109583
+RECORDTV MANAUS,http://meumd.com:80/Denise01/denise001/109582
+RECORDTV MANAUS,http://meumd.com:80/Denise01/denise001/109581
+RECORDTV MG,http://meumd.com:80/Denise01/denise001/109580
+RECORDTV RS,http://meumd.com:80/Denise01/denise001/109576
+RECORDTV RS,http://meumd.com:80/Denise01/denise001/109575
+RECORDTV SANTA CATARINA,http://meumd.com:80/Denise01/denise001/135169
+RECORDTV SP,http://meumd.com:80/Denise01/denise001/109574
+RECORDTV SP,http://meumd.com:80/Denise01/denise001/109573
+RECORDTV SP,http://meumd.com:80/Denise01/denise001/109572
+RED BULL TV ,http://meumd.com:80/Denise01/denise001/109033
+RED BULL TV,http://meumd.com:80/Denise01/denise001/125654
+REDE  21,http://meumd.com:80/Denise01/denise001/111246
+REDE AMAZONICA BOA VISTA - GLOBO RORAIMA,http://meumd.com:80/Denise01/denise001/140545
+REDE AMAZONICA BOA VISTA - GLOBO RORAIMA,http://meumd.com:80/Denise01/denise001/140546
+REDE AMAZONICA PORTO VELHO - GLOBO,http://meumd.com:80/Denise01/denise001/140541
+REDE AMAZONICA PORTO VELHO - GLOBO,http://meumd.com:80/Denise01/denise001/140542
+REDE BRASIL,http://meumd.com:80/Denise01/denise001/188976
+REDE GOSPEL,http://meumd.com:80/Denise01/denise001/108693
+REDE GOSPEL,http://meumd.com:80/Denise01/denise001/108692
+REDE Super,http://meumd.com:80/Denise01/denise001/184950
+REDETV,http://meumd.com:80/Denise01/denise001/108291
+REDETV,http://meumd.com:80/Denise01/denise001/108293
+REDETV,http://meumd.com:80/Denise01/denise001/108292
+REDETV,http://meumd.com:80/Denise01/denise001/108290
+REDETV PR,http://meumd.com:80/Denise01/denise001/141688
+REDETV SP,http://meumd.com:80/Denise01/denise001/141691
+REDETV SP,http://meumd.com:80/Denise01/denise001/141692
+REDETV SP,http://meumd.com:80/Denise01/denise001/141693
+REDETV SP,http://meumd.com:80/Denise01/denise001/141694
+REDE VIDA,http://meumd.com:80/Denise01/denise001/110172
+REDE VIDA,http://meumd.com:80/Denise01/denise001/110171
+REDE VIDA,http://meumd.com:80/Denise01/denise001/110170
+REDE VIDA,http://meumd.com:80/Denise01/denise001/110169
+RIT TV,http://meumd.com:80/Denise01/denise001/111241
+RIT TV,http://meumd.com:80/Denise01/denise001/110168
+ROCK CHOICE,http://meumd.com:80/Denise01/denise001/125935
+RTP 1,http://meumd.com:80/Denise01/denise001/126082
+RTP 1 PT,http://meumd.com:80/Denise01/denise001/126094
+RTP 2 ALTERNATIVA,http://meumd.com:80/Denise01/denise001/126093
+RTP 2,http://meumd.com:80/Denise01/denise001/126081
+RTP 3,http://meumd.com:80/Denise01/denise001/126092
+RTP ACORES,http://meumd.com:80/Denise01/denise001/126080
+RTP Acores (PT),http://meumd.com:80/Denise01/denise001/126091
+RTP Africa (PT),http://meumd.com:80/Denise01/denise001/126090
+SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180171
+SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180170
+SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180169
+SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180168
+SAMBA E PAGODE FM (RADIOS),http://meumd.com:80/Denise01/denise001/131642
+SBT,http://meumd.com:80/Denise01/denise001/108286
+SBT ALTEROSA MG,http://meumd.com:80/Denise01/denise001/186766
+SBT ALTEROSA MG,http://meumd.com:80/Denise01/denise001/186767
+SBT BRASILIA,http://meumd.com:80/Denise01/denise001/186773
+SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110370
+SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110371
+SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110372
+SBT PARANA,http://meumd.com:80/Denise01/denise001/108288
+SBT PARANÁ,http://meumd.com:80/Denise01/denise001/138287
+SBT RJ,http://meumd.com:80/Denise01/denise001/114221
+SBT RS,http://meumd.com:80/Denise01/denise001/186772
+SBT SERGIPE -TV APERIPER,http://meumd.com:80/Denise01/denise001/186771
+SBT SERRA DOURADA,http://meumd.com:80/Denise01/denise001/186774
+SBT SERRA DOURA,http://meumd.com:80/Denise01/denise001/186775
+SBT SP,http://meumd.com:80/Denise01/denise001/108285
+SBT SP,http://meumd.com:80/Denise01/denise001/108287
+SBT SP,http://meumd.com:80/Denise01/denise001/108289
+SBT VTV CAMPINAS,http://meumd.com:80/Denise01/denise001/186768
+SBT VTV CAMPINAS,http://meumd.com:80/Denise01/denise001/186769
+POLISHOP,http://meumd.com:80/Denise01/denise001/108284
+SIC,http://meumd.com:80/Denise01/denise001/126089
+SIC Caras (PT),http://meumd.com:80/Denise01/denise001/126088
+SIC K (PT),http://meumd.com:80/Denise01/denise001/126087
+SIC Mulher (PT),http://meumd.com:80/Denise01/denise001/126086
+SIC NOTÍCIAS,http://meumd.com:80/Denise01/denise001/126077
+SIC NOTÍCIAS,http://meumd.com:80/Denise01/denise001/126078
+SIC RADICAL,http://meumd.com:80/Denise01/denise001/126073
+SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108400
+SMITHSONIAN,http://meumd.com:80/Denise01/denise001/109344
+SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108399
+SMITHSONIAN.,http://meumd.com:80/Denise01/denise001/109343
+SPACE,http://meumd.com:80/Denise01/denise001/108959
+SPACE,http://meumd.com:80/Denise01/denise001/108565
+SPACE,http://meumd.com:80/Denise01/denise001/109516
+SPACE,http://meumd.com:80/Denise01/denise001/108562
+SPACE,http://meumd.com:80/Denise01/denise001/108563
+SPACE,http://meumd.com:80/Denise01/denise001/109515
+SPACE,http://meumd.com:80/Denise01/denise001/109514
+SPORT TV + ,http://meumd.com:80/Denise01/denise001/125678
+SPORT TV 2,http://meumd.com:80/Denise01/denise001/125675
+SPORT TV 2,http://meumd.com:80/Denise01/denise001/125676
+SPORT TV 2,http://meumd.com:80/Denise01/denise001/125677
+SPORT TV 3,http://meumd.com:80/Denise01/denise001/125674
+SPORT TV 3,http://meumd.com:80/Denise01/denise001/125672
+SPORT TV 3,http://meumd.com:80/Denise01/denise001/125673
+SPORT TV 4,http://meumd.com:80/Denise01/denise001/125671
+SPORT TV 4,http://meumd.com:80/Denise01/denise001/125669
+SPORT TV 4,http://meumd.com:80/Denise01/denise001/125670
+SPORT TV 5,http://meumd.com:80/Denise01/denise001/125668
+SPORT TV 5,http://meumd.com:80/Denise01/denise001/125666
+SPORT TV 5,http://meumd.com:80/Denise01/denise001/125667
+SPORT TV NBA,http://meumd.com:80/Denise01/denise001/125665
+SPORTV 2,http://meumd.com:80/Denise01/denise001/110276
+SPORTV 2,http://meumd.com:80/Denise01/denise001/110275
+SPORTV 2,http://meumd.com:80/Denise01/denise001/110274
+SPORTV 2,http://meumd.com:80/Denise01/denise001/108703
+SPORTV 3,http://meumd.com:80/Denise01/denise001/110271
+SPORTV 3,http://meumd.com:80/Denise01/denise001/110270
+SPORTV 3,http://meumd.com:80/Denise01/denise001/142335
+SPORTV,http://meumd.com:80/Denise01/denise001/108944
+SPORTV,http://meumd.com:80/Denise01/denise001/142334
+SPORTV,http://meumd.com:80/Denise01/denise001/110279
+SPORTV,http://meumd.com:80/Denise01/denise001/142336
+SPORTV,http://meumd.com:80/Denise01/denise001/110277
+Star + 2,http://meumd.com:80/Denise01/denise001/188973
+Star +,http://meumd.com:80/Denise01/denise001/143271
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/142905
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108558
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109506
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/110005
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108561
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109511
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108560
+STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109512
+STAR LIFE,http://meumd.com:80/Denise01/denise001/109994
+STAR LIFE,http://meumd.com:80/Denise01/denise001/109993
+STAR LIFE,http://meumd.com:80/Denise01/denise001/109992
+STAR LIFE,http://meumd.com:80/Denise01/denise001/109991
+STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108557
+STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/109981
+STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/109980
+STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108555
+STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108556
+SYFY,http://meumd.com:80/Denise01/denise001/108552
+SYFY,http://meumd.com:80/Denise01/denise001/109989
+SYFY,http://meumd.com:80/Denise01/denise001/108554
+SYFY,http://meumd.com:80/Denise01/denise001/108553
+TBS,http://meumd.com:80/Denise01/denise001/184971
+TBS,http://meumd.com:80/Denise01/denise001/109455
+TBS,http://meumd.com:80/Denise01/denise001/108330
+TBS,http://meumd.com:80/Denise01/denise001/108331
+TCM,http://meumd.com:80/Denise01/denise001/130692
+TCM,http://meumd.com:80/Denise01/denise001/130691
+TCM,http://meumd.com:80/Denise01/denise001/108283
+TELCINE PIPOCA,http://meumd.com:80/Denise01/denise001/108631
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108641
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/110108
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109521
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/110107
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108633
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109522
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108639
+TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109523
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/108640
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/109524
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/110103
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/108628
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/109525
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/108638
+TELECINE CULT,http://meumd.com:80/Denise01/denise001/109526
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/108642
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/109527
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/108625
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/108632
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/109528
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/108637
+TELECINE FUN,http://meumd.com:80/Denise01/denise001/109529
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/142927
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108643
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109530
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108627
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109531
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108634
+TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109532
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/142929
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/110091
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109533
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/108626
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/110088
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109534
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/108635
+TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109535
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/108645
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109536
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/110086
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/110085
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109538
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/108636
+TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109537
+TLC,http://meumd.com:80/Denise01/denise001/108326
+TLC,http://meumd.com:80/Denise01/denise001/109452
+TLC,http://meumd.com:80/Denise01/denise001/108327
+TLC,http://meumd.com:80/Denise01/denise001/109450
+TNT,http://meumd.com:80/Denise01/denise001/108957
+TNT,http://meumd.com:80/Denise01/denise001/108551
+TNT.,http://meumd.com:80/Denise01/denise001/109985
+TNT,http://meumd.com:80/Denise01/denise001/109504
+TNT,http://meumd.com:80/Denise01/denise001/109984
+TNT,http://meumd.com:80/Denise01/denise001/108546
+TNT,http://meumd.com:80/Denise01/denise001/109503
+TNT,http://meumd.com:80/Denise01/denise001/108548
+TNT,http://meumd.com:80/Denise01/denise001/109502
+TNT SERIES,http://meumd.com:80/Denise01/denise001/108956
+TNT SERIES,http://meumd.com:80/Denise01/denise001/108545
+TNT SERIES,http://meumd.com:80/Denise01/denise001/109501
+TNT SERIES,http://meumd.com:80/Denise01/denise001/108547
+TNT SERIES,http://meumd.com:80/Denise01/denise001/109500
+TNT SERIES,http://meumd.com:80/Denise01/denise001/108550
+TNT SERIES,http://meumd.com:80/Denise01/denise001/109499
+TODDLER MUSIC COICE,http://meumd.com:80/Denise01/denise001/125934
+TOONCAST,http://meumd.com:80/Denise01/denise001/127897
+TOONCAST,http://meumd.com:80/Denise01/denise001/186335
+TOONCAST,http://meumd.com:80/Denise01/denise001/108653
+TOP FM (RADIOS),http://meumd.com:80/Denise01/denise001/131641
+Travel Box Brazil,http://meumd.com:80/Denise01/denise001/130693
+TRUTV,http://meumd.com:80/Denise01/denise001/109449
+TRUTV,http://meumd.com:80/Denise01/denise001/109448
+TRUTV,http://meumd.com:80/Denise01/denise001/109447
+TV ALTEROSA,http://meumd.com:80/Denise01/denise001/180173
+TV ALTEROSA,http://meumd.com:80/Denise01/denise001/180172
+TV ANHANGUERA ANAPOLIS,http://meumd.com:80/Denise01/denise001/145399
+TV ANHANGUERA ANAPOLIS,http://meumd.com:80/Denise01/denise001/145398
+TV ANHANGUERA CATALAO,http://meumd.com:80/Denise01/denise001/145397
+TV ANHANGUERA CATALAO,http://meumd.com:80/Denise01/denise001/145396
+TV ANHANGUERA ITUMBIARA,http://meumd.com:80/Denise01/denise001/145401
+TV ANHANGUERA ITUMBIARA,http://meumd.com:80/Denise01/denise001/145400
+TV APARECIDA,http://meumd.com:80/Denise01/denise001/110167
+TV APARECIDA,http://meumd.com:80/Denise01/denise001/110166
+TV APARECIDA,http://meumd.com:80/Denise01/denise001/110165
+TV APARECIDA,http://meumd.com:80/Denise01/denise001/110164
+TV ARATU SBT ,http://meumd.com:80/Denise01/denise001/186770
+TV BRASIL,http://meumd.com:80/Denise01/denise001/109494
+TV BRASIL,http://meumd.com:80/Denise01/denise001/109492
+TV BRASIL,http://meumd.com:80/Denise01/denise001/109491
+TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109571
+TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109570
+TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109569
+TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109568
+TVCine TOP LOW,http://meumd.com:80/Denise01/denise001/126084
+TV CLUBE PIAUI -GLOBO,http://meumd.com:80/Denise01/denise001/140538
+TV CULTURA,http://meumd.com:80/Denise01/denise001/108281
+TV CULTURA,http://meumd.com:80/Denise01/denise001/108279
+TV CULTURA,http://meumd.com:80/Denise01/denise001/108280
+TV Diario,http://meumd.com:80/Denise01/denise001/111796
+TV Diario,http://meumd.com:80/Denise01/denise001/111797
+TV Diario,http://meumd.com:80/Denise01/denise001/111798
+TV Diario,http://meumd.com:80/Denise01/denise001/111799
+TV EVANGELIZAR,http://meumd.com:80/Denise01/denise001/111258
+TV GAZETA ,http://meumd.com:80/Denise01/denise001/108278
+TV GAZETA,http://meumd.com:80/Denise01/denise001/108277
+TV GAZETA,http://meumd.com:80/Denise01/denise001/108275
+TV GAZETA VITORIA ES - GLOBO,http://meumd.com:80/Denise01/denise001/140532
+TV GAZETA VITORIA ES - GLOBO,http://meumd.com:80/Denise01/denise001/140533
+TV GIDEOES,http://meumd.com:80/Denise01/denise001/111263
+TVI FICCAO,http://meumd.com:80/Denise01/denise001/126083
+TV INTEGRAÇÃO DIVINÓPOLIS,http://meumd.com:80/Denise01/denise001/145394
+TV INTEGRAÇÃO DIVINÓPOLIS,http://meumd.com:80/Denise01/denise001/145395
+TV INTEGRAÇÃO UBERABA - GLOBO,http://meumd.com:80/Denise01/denise001/140529
+TV JUSTIÇA,http://meumd.com:80/Denise01/denise001/108272
+TV NOVO TEMPO.,http://meumd.com:80/Denise01/denise001/110163
+TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/110162
+TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/110161
+TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/108689
+TV PAI ETERNO,http://meumd.com:80/Denise01/denise001/111249
+TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110113
+TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110112
+TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110111
+TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110110
+TV TEM SOROCABA - GLOBO,http://meumd.com:80/Denise01/denise001/140531
+UM MALUCO NO PEDAÇO,http://meumd.com:80/Denise01/denise001/113771
+URU- A+V,http://meumd.com:80/Denise01/denise001/126068
+URU- CANAL 7 PUNTA DEL ESTE,http://meumd.com:80/Denise01/denise001/126066
+URU- CANAL 12 LOCAL,http://meumd.com:80/Denise01/denise001/126067
+USA NETWORK,http://meumd.com:80/Denise01/denise001/126065
+USL- BBC AMERICA,http://meumd.com:80/Denise01/denise001/126064
+USL- BBC WORLD NEWS,http://meumd.com:80/Denise01/denise001/126063
+USL- CNN INTERNATIONAL |,http://meumd.com:80/Denise01/denise001/126062
+USL- FOX 5,http://meumd.com:80/Denise01/denise001/126061
+USL- NBA TV,http://meumd.com:80/Denise01/denise001/125703
+USL- USA NETWORK PACIFICO,http://meumd.com:80/Denise01/denise001/126060
+VELOZES E FURIOSOS 24H,http://meumd.com:80/Denise01/denise001/137679
+VENEZUELA- TELEVEN,http://meumd.com:80/Denise01/denise001/126059
+VH1,http://meumd.com:80/Denise01/denise001/108770
+VH1,http://meumd.com:80/Denise01/denise001/130696
+VH1,http://meumd.com:80/Denise01/denise001/130697
+VH1,http://meumd.com:80/Denise01/denise001/130698
+VH1,http://meumd.com:80/Denise01/denise001/130699
+VIVA,http://meumd.com:80/Denise01/denise001/108325
+VIVA,http://meumd.com:80/Denise01/denise001/109445
+VIVA,http://meumd.com:80/Denise01/denise001/108323
+VIVA,http://meumd.com:80/Denise01/denise001/108324
+Y2K MUSIC CHOIC,http://meumd.com:80/Denise01/denise001/125932
 
 
 🐾🦚Discovery,#genre#
