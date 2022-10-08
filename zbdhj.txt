@@ -1938,6 +1938,8 @@ QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 
 🎈韩国频道,#genre#
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Kpop,http://srv1.zcast.com.br:1935/kpoptv/kpoptv/playlist.m3u8
 TVN,http://appleiptv.com:80/3903/3903/16978
 TVN_Movies,http://appleiptv.com:80/3903/3903/16979
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
