@@ -2012,39 +2012,87 @@ TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
 🎈韩国频道,#genre#
-Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-Kpop,http://srv1.zcast.com.br:1935/kpoptv/kpoptv/playlist.m3u8
+K-POP,http://ye23.win/iptv/sbs5.1.php?id=S20
+K-POP,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+K-POP,http://srv1.zcast.com.br:1935/kpoptv/kpoptv/playlist.m3u8
+TVN,http://106.246.182.11:9981/stream/channelid/91
 TVN,http://appleiptv.com:80/3903/3903/16978
 TVN_Movies,http://appleiptv.com:80/3903/3903/16979
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang World,http://ye23.win/iptv/korea2021.php?id=arirang_1
+Arirang World,http://ye23.win/iptv/korea2021.php?id=arirang_2
+韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+JTBC,http://106.246.182.11:9981/stream/channelid/84
 KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+BBS TV,http://ye23.win/iptv/korea2021.php?id=bbstv
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
+MTN,http://ye23.win/iptv/korea2021.php?id=MTN
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+KTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+Mnet,http://106.246.182.11:9981/stream/channelid/62
+KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
+KBS1,http://220.95.92.160:9981/stream/channelid/660474352
+KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS2,http://222.109.117.27:9981/stream/channelid/123020099
+KBS2,http://220.95.92.160:9981/stream/channelid/280136412
+KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
+KBS Drama,http://119.197.107.139:9981/stream/channelid/85
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+KBS World,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
-bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+BBS TV,http://ye23.win/iptv/korea2021.php?id=bbstv
 myStream,http://ye23.win/iptv/korea2021.php?id=myStream
-MTN,http://ye23.win/iptv/korea2021.php?id=MTN
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
+Channel A,http://106.246.182.11:9981/stream/channelid/87
+Channel A,http://mytv.dothome.co.kr/ch/catv/133.php
+Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 korea TV,http://ye23.win/iptv/korea2021.php?id=korea
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
-TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+OCN,http://106.246.182.11:9981/stream/channelid/60
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476
+SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+SBS,http://222.109.117.27:9981/stream/channelid/2096368258
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS,http://220.95.92.160:9981/stream/channelid/1445999617
+SBS_funE,http://106.246.182.11:9981/stream/channelid/27
+SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
 EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
 EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
@@ -2052,8 +2100,13 @@ EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
 EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
 EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
-阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
-阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+朝鲜,http://220.118.153.181:9981/stream/channelid/37
+朝鲜,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+朝鲜,http://119.197.107.139:9981/stream/channelid/46
+非洲,http://210.97.86.161:9981/stream/channelid/348320263
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+
 
 🐾🦚红牛频道,#genre#
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
