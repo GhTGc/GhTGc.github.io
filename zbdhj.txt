@@ -1,4 +1,5 @@
 💞香港,#genre#
+凤凰中文,http://jyjxy.7766.org:808/hls/32/index.m3u8
 凤凰中文,http://175.154.201.15:5003/custom19.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -17,6 +18,7 @@
 凤凰中文,http://anren.live/HK/AQtU.m3u8
 凤凰中文,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 凤凰中文,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8?zxinjd
+凤凰资讯,http://jyjxy.7766.org:808/hls/33/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -40,6 +42,7 @@
 凤凰资讯,http://anren.live/HK/AQtQ.m3u8
 凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?WithCaption
+凤凰香港,http://jyjxy.7766.org:808/hls/34/index.m3u8
 凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -53,6 +56,7 @@
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
 TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8
@@ -108,9 +112,10 @@ HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18
 HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 Hollywood Movies,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 美亚电影台,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+东森电影,http://jyjxy.7766.org:808/hls/58/index.m3u8
 东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 东森洋片,http://jyjxy.7766.org:808/hls/59/index.m3u8
+东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 龙华洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龙华偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
