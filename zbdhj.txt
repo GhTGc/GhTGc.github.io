@@ -51,12 +51,16 @@
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews7294=124.m3u8
 有线直播新闻,https://api.leonardpark.dev/live/icable/110
+翡翠台,http://23.237.10.66:16106
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
 翡翠台 华丽,http://98.142.138.122:1636/zhiboyuandakaTV/tvbhuali1723956.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
-TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
+TVB Jade Overseas Edition,http://23.237.10.66:16410
+TVB News Channel Overseas Edition,http://9.zhxinda.xyz/newss.php?id=1
+TVB 娱乐新闻,http://206.221.176.47:64019
+TVB星河,http://206.221.176.47:64020
 TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8
@@ -70,10 +74,13 @@ RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 寰宇新闻台湾,https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
 中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+台视,http://23.237.10.66:16344
+中视,rtmp://59.124.75.138:1935/sat/tv091
 中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+华视,rtmp://59.124.75.138:1935/sat/tv111
 华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
 民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
@@ -1947,6 +1954,7 @@ BBC Red Button 24,http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416909
 
 
 🐾英国新闻,#genre#
+CNN,http://s01.wsbof.com/cnn-hd/mpegts?token=675d7b52
 CNN,http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416592
 CNN,http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8?
