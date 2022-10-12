@@ -800,6 +800,7 @@ CCTV5[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+阿斗归来了,http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.xs
 偷心大盗ヽ龍宝 成龙经典武打动作片,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
 核桃姐姐 李连杰系列 武打高产王,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 Mz芒果 【赌神】周润发、./河南主,http://txtest-xp2p.p2p.huya.com/src/1199587939476-1199587939476-5549372160482476032-2399176002408-10057-A-0-1.xs
@@ -807,7 +808,6 @@ Mz芒果 【赌神】周润发、./河南主,http://txtest-xp2p.p2p.huya.com/src
 虎牙影院 【虎牙影院】沈腾经典片放映,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 陈翔六点半 陈翔六点半·更新到301集了,http://txtest-xp2p.p2p.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.xs
 Ehime爱媛果冻橙  吴京 成龙 甄子丹 李连杰经典动作片,http://txtest-xp2p.p2p.huya.com/src/1199580482992-1199580482992-5517346805559328768-2399161089440-10057-A-0-1.xs
-阿斗归来了 神秘诅咒背后隐藏的秘密,http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.xs
 鯎爺 滚滚长江东逝水,http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
 斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34,http://txtest-xp2p.p2p.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.xs
 野原新之助- 蜡笔小新·逗比少年欢乐多,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
@@ -973,10 +973,8 @@ TVB剧场,http://117.148.179.154/PLTV/88888888/224/3221231733/index.m3u8?zmid
 纪录片之家,http://tc-tct.douyucdn2.cn/dyliveflv3a/8834003rS2XAYrS6.flv?wsAuth=7a9c6c47a781167dc48ffa2a02fae470&token=cpn-androidmpro-0-8834003-2f33f0cae86faf171348fdcacc047dee65e26808e206150b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 看看世界,http://tc-tct.douyucdn2.cn/dyliveflv3/442280rZjBA2mx7H.flv?wsAuth=ec16ee4e3df3ae6c41c6f797001897e0&token=cpn-androidmpro-0-442280-e976f316d0494d8cf27c7c793a58497594a42e579195c741&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 绝命毒师第五季,http://tc-tct.douyucdn2.cn/dyliveflv3/755832rzZbdMY57K.flv?wsAuth=f69ef75174ea68e5f6fbcbb178e30209&token=cpn-androidmpro-0-755832-cfa80cdb90286ea2b7520032dcb0ee495b66a388d10e4881&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-日本最新资讯速递,http://tc-tct.douyucdn2.cn/dyliveflv3/296836rAay4poWQy.flv?wsAuth=5cbcb1bf0d3a3ee72ddb28803f47fb86&token=cpn-androidmpro-0-296836-d1114848096827a51ab221eec4a8a645b83217f8d16fa0f1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-欣赏别墅,http://tc-tct.douyucdn2.cn/dyliveflv3a/9527761rZPm4dCbT.flv?wsAuth=36bfc2ea1455b58af113a65cfff7b504&token=cpn-androidmpro-0-9527761-253bcd7bef586644812f3fac5bb196b68fe460a774ab6d5a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-情感测试小分队,http://tc-tct.douyucdn2.cn/dyliveflv3a/9697688r8Wj8kHKK.flv?wsAuth=7783a5e4b91b9c89a2fdbea0a27cb773&token=cpn-androidmpro-0-9697688-fed7a023b83ea45f5f5396092343986aa9c6c67f72a0079a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 窒息的操作,http://tc-tct.douyucdn2.cn/dyliveflv3a/117854rzrDIopob5.flv?wsAuth=ed15e0904e8b09cfb1907a2fa262479a&token=cpn-androidmpro-0-117854-25398234ebc1afb582145cb70bb9ce053ab1ee114a3e12f4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
@@ -1028,7 +1026,6 @@ TVB剧场,http://117.148.179.154/PLTV/88888888/224/3221231733/index.m3u8?zmid
 【女神金】60帧极致蓝光刀刀陪看,http://epg.112114.xyz/douyu/747764
 【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
 狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
-【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
 【科幻Fans】精彩科幻影视，解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 
