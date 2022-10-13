@@ -1,6 +1,5 @@
 💞香港,#genre#
 凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
-凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.1.55:8302
 凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.1.9:2192
 凤凰中文,http://jyjxy.7766.org:808/hls/32/index.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
@@ -2386,16 +2385,6 @@ beIN SPORTS FRENCH 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28865
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
 Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
 Brasil 2002: Os Bastidores do Penta (2022) Nacional,http://meumd.com:80/movie/Denise01/denise001/208552.mp4
-Globo Rio Legendado,http://meumd.com:80/Denise01/denise001/196603
-CINE SKY 5,http://meumd.com:80/Denise01/denise001/192673
-CINE SKY 3,http://meumd.com:80/Denise01/denise001/192671
-CINE SKY 1,http://meumd.com:80/Denise01/denise001/192669
-TV Integracao Uberaba,http://meumd.com:80/Denise01/denise001/191522
-RECORD THATHI CAMPINAS,http://meumd.com:80/Denise01/denise001/191303
-RECORD THATHI CAMPINAS,http://meumd.com:80/Denise01/denise001/191302
-RECORD TV CABRÁLIA BAHIA,http://meumd.com:80/Denise01/denise001/190171
-As Garotas de Cristal,http://meumd.com:80/movie/Denise01/denise001/191301.mp4
-As Garotas de Cristal,http://meumd.com:80/movie/Denise01/denise001/191300.mp4
 A&E,http://meumd.com:80/Denise01/denise001/108597
 A&E,http://meumd.com:80/Denise01/denise001/110046
 A&E,http://meumd.com:80/Denise01/denise001/110045
@@ -2426,24 +2415,9 @@ AGROMAIS,http://meumd.com:80/Denise01/denise001/189511
 AGROMAIS,http://meumd.com:80/Denise01/denise001/189513
 AGROMAIS,http://meumd.com:80/Denise01/denise001/189514
 AGROMAIS,http://meumd.com:80/Denise01/denise001/189515
-AL JAZEERA ENG,http://meumd.com:80/Denise01/denise001/131660
-ANTENA 1 FM ( RADIOS),http://meumd.com:80/Denise01/denise001/131658
-ARG| CANAL 26,http://meumd.com:80/Denise01/denise001/126047
-ARG| CANAL TRECE,http://meumd.com:80/Denise01/denise001/126046
-ARG| DIRECTV SPORTS 2,http://meumd.com:80/Denise01/denise001/126045
-ARG| DIRECTV SPORTS,http://meumd.com:80/Denise01/denise001/126044
-ARG| DIRECTV SPORTS PLUS,http://meumd.com:80/Denise01/denise001/126043
-ARG| EL NUEVE,http://meumd.com:80/Denise01/denise001/126042
-ARG| EL TRECE,http://meumd.com:80/Denise01/denise001/126041
-ARG| FOX PREMIUN SPORTS,http://meumd.com:80/Denise01/denise001/126040
-ARG| TELEFE,http://meumd.com:80/Denise01/denise001/126039
-ARG| TN NOTICIAS,http://meumd.com:80/Denise01/denise001/126038
-ARG| TN NOTICIAS *u2*,http://meumd.com:80/Denise01/denise001/126037
-ARG| TV PUBLICA,http://meumd.com:80/Denise01/denise001/181380
 ARTE 1,http://meumd.com:80/Denise01/denise001/109498
 ARTE 1,http://meumd.com:80/Denise01/denise001/109496
 ARTE 1,http://meumd.com:80/Denise01/denise001/109495
-BABYTV,http://meumd.com:80/Denise01/denise001/110159
 BAND,http://meumd.com:80/Denise01/denise001/108301
 BAND NEWS,http://meumd.com:80/Denise01/denise001/118478
 BAND NEWS,http://meumd.com:80/Denise01/denise001/108459
@@ -2457,7 +2431,6 @@ BAND SPORTS,http://meumd.com:80/Denise01/denise001/110295
 BAND SPORTS,http://meumd.com:80/Denise01/denise001/110294
 BAND SPORTS,http://meumd.com:80/Denise01/denise001/110293
 BAND SPORTS,http://meumd.com:80/Denise01/denise001/110292
-BH FM (RADIOS),http://meumd.com:80/Denise01/denise001/131643
 BIS,http://meumd.com:80/Denise01/denise001/108785
 BIS,http://meumd.com:80/Denise01/denise001/108783
 BIS,http://meumd.com:80/Denise01/denise001/108784
@@ -2493,7 +2466,6 @@ CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110152
 CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110151
 CARTOON NETWORK ,http://meumd.com:80/Denise01/denise001/186348
 CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/186347
-CIDADE FM (RADIOS),http://meumd.com:80/Denise01/denise001/131645
 CINEMAX,http://meumd.com:80/Denise01/denise001/108585
 CINEMAX,http://meumd.com:80/Denise01/denise001/110029
 CINEMAX,http://meumd.com:80/Denise01/denise001/110028
@@ -2503,8 +2475,6 @@ CNN BRASIL,http://meumd.com:80/Denise01/denise001/108457
 CNN BRASIL,http://meumd.com:80/Denise01/denise001/108454
 CNN BRASIL,http://meumd.com:80/Denise01/denise001/108455
 CNN INTERNACIONAL,http://meumd.com:80/Denise01/denise001/108456
-COL- CARACOL *,http://meumd.com:80/Denise01/denise001/126035
-COL- CARACOL2,http://meumd.com:80/Denise01/denise001/126034
 COMBATE,http://meumd.com:80/Denise01/denise001/108946
 COMBATE,http://meumd.com:80/Denise01/denise001/110263
 COMBATE,http://meumd.com:80/Denise01/denise001/110261
@@ -2582,25 +2552,6 @@ ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125725
 ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125720
 ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125721
 ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125722
-ES: A3SERIES,http://meumd.com:80/Denise01/denise001/144524
-ES: ANTENA 3,http://meumd.com:80/Denise01/denise001/144528
-ES: BEMAD,http://meumd.com:80/Denise01/denise001/144525
-ES: BLOOMBERG,http://meumd.com:80/Denise01/denise001/125658
-ES: CNN,http://meumd.com:80/Denise01/denise001/126033
-ES: Disney+,http://meumd.com:80/Denise01/denise001/144521
-ES: DIVINITY,http://meumd.com:80/Denise01/denise001/144527
-ES: ENERGY,http://meumd.com:80/Denise01/denise001/144526
-ES: EUROSPORT,http://meumd.com:80/Denise01/denise001/125719
-ES: GOL TV,http://meumd.com:80/Denise01/denise001/125718
-ES: LA 1,http://meumd.com:80/Denise01/denise001/144530
-ES: LA 2,http://meumd.com:80/Denise01/denise001/144529
-ES: LIGA CAMPEONES,http://meumd.com:80/Denise01/denise001/125717
-ES: MOVIESTAR F1,http://meumd.com:80/Denise01/denise001/125656
-ES: MOVISTAR DRAMA,http://meumd.com:80/Denise01/denise001/144523
-ES: MOVISTAR ESTRENOS,http://meumd.com:80/Denise01/denise001/144522
-ES: MOVISTAR SERIES,http://meumd.com:80/Denise01/denise001/144520
-ES: MOVISTAR Seriesmania,http://meumd.com:80/Denise01/denise001/144519
-ES: TVE 24h,http://meumd.com:80/Denise01/denise001/126032
 ESPN,http://meumd.com:80/Denise01/denise001/108945
 ESPN 2,http://meumd.com:80/Denise01/denise001/110243
 ESPN 3,http://meumd.com:80/Denise01/denise001/189506
@@ -2656,214 +2607,7 @@ FX,http://meumd.com:80/Denise01/denise001/108575
 FX,http://meumd.com:80/Denise01/denise001/109560
 FX,http://meumd.com:80/Denise01/denise001/108574
 FX,http://meumd.com:80/Denise01/denise001/109559
-GAUCHA ZH (Radios),http://meumd.com:80/Denise01/denise001/131655
-GAZETA FM (RADIOS),http://meumd.com:80/Denise01/denise001/131647
 GENESIS 24H,http://meumd.com:80/Denise01/denise001/137668
-GERAÇÃO FUNK FM (RADIOS),http://meumd.com:80/Denise01/denise001/131644
-GLOBO,http://meumd.com:80/Denise01/denise001/108952
-GLOBO BH,http://meumd.com:80/Denise01/denise001/108866
-GLOBO BH,http://meumd.com:80/Denise01/denise001/108856
-GLOBO BH,http://meumd.com:80/Denise01/denise001/108855
-GLOBO BRASILIA,http://meumd.com:80/Denise01/denise001/186350
-GLOBO CURITIBA,http://meumd.com:80/Denise01/denise001/108838
-GLOBO CURITIBA,http://meumd.com:80/Denise01/denise001/108874
-GLOBO EPTV CAMPINAS,http://meumd.com:80/Denise01/denise001/108918
-GLOBO EPTV CAMPINAS,http://meumd.com:80/Denise01/denise001/108917
-GLOBO EPTV RIBEIRAO PRETO,http://meumd.com:80/Denise01/denise001/108878
-GLOBO EPTV RIBEIRÃO PRETO,http://meumd.com:80/Denise01/denise001/109775
-GLOBO EPTV SAO CARLOS,http://meumd.com:80/Denise01/denise001/186816
-GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109773
-GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109772
-GLOBO EPTV SUL DE MINAS,http://meumd.com:80/Denise01/denise001/109771
-GLOBO FLORIANOPOLIS,http://meumd.com:80/Denise01/denise001/108840
-GLOBO  FLORIANOPOLIS,http://meumd.com:80/Denise01/denise001/108867
-GLOBO FORTALEZA,http://meumd.com:80/Denise01/denise001/108836
-GLOBO FORTALEZA,http://meumd.com:80/Denise01/denise001/108870
-GLOBO FOZ DO IGUACU,http://meumd.com:80/Denise01/denise001/108804
-GLOBO FOZ DO IGUACU,http://meumd.com:80/Denise01/denise001/108803
-GLOBO FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/108805
-GLOBO GAZETA  SUL ALEGRE ES,http://meumd.com:80/Denise01/denise001/108843
-GLOBO GAZETA SUL ALEGRE ESD,http://meumd.com:80/Denise01/denise001/108853
-GLOBO GAZETA SUL ALEGRE ES,http://meumd.com:80/Denise01/denise001/108852
-GLOBO GOIANIA,http://meumd.com:80/Denise01/denise001/108841
-GLOBO GOIANIA,http://meumd.com:80/Denise01/denise001/108857
-GLOBO INTEGRACAO ARAXAD,http://meumd.com:80/Denise01/denise001/108807
-GLOBO INTEGRACAO ARAXA,http://meumd.com:80/Denise01/denise001/108806
-GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/108826
-GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/108825
-GLOBO INTER TV ALTO LITORAL,http://meumd.com:80/Denise01/denise001/109768
-GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108894
-GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108893
-GLOBO INTER TV CABUGI,http://meumd.com:80/Denise01/denise001/108789
-GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109762
-GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109761
-GLOBO INTER TV DOS VALES,http://meumd.com:80/Denise01/denise001/109760
-GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109759
-GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109758
-GLOBO INTER TV GRANDE MINAS,http://meumd.com:80/Denise01/denise001/109757
-GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108897
-GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108896
-GLOBO INTER TV SERRA MAR,http://meumd.com:80/Denise01/denise001/108895
-GLOBO JOAÇABA,http://meumd.com:80/Denise01/denise001/181085
-GLOBO JOAÇABA,http://meumd.com:80/Denise01/denise001/181084
-GLOBO JUIZ DE FORA MG,http://meumd.com:80/Denise01/denise001/181152
-GLOBO JUIZ DE FORA MG,http://meumd.com:80/Denise01/denise001/181157
-GLOBO MARINGA,http://meumd.com:80/Denise01/denise001/108905
-GLOBO MATO GROSSO,http://meumd.com:80/Denise01/denise001/108864
-GLOBO MATO GROSSO,http://meumd.com:80/Denise01/denise001/108873
-GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109754
-GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109753
-GLOBO MINAS,http://meumd.com:80/Denise01/denise001/109752
-GLOBO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/181107
-GLOBO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/181132
-GLOBO MONTES CLAROS MG,http://meumd.com:80/Denise01/denise001/181162
-GLOBO MONTES CLAROS MG,http://meumd.com:80/Denise01/denise001/181163
-GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108453
-GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108452
-GLOBO NEWS,http://meumd.com:80/Denise01/denise001/108451
-GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/108884
-GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/109750
-GLOBO NORDESTE,http://meumd.com:80/Denise01/denise001/108875
-GLOBO NSC CHAPECO,http://meumd.com:80/Denise01/denise001/108912
-GLOBO NSC JOINVILLE  SC,http://meumd.com:80/Denise01/denise001/108837
-GLOBO NSC JOINVILLE  SC,http://meumd.com:80/Denise01/denise001/108848
-GLOBO NSC TV BLUMENAU,http://meumd.com:80/Denise01/denise001/109747
-GLOBO NSC TV BLUMENAU,http://meumd.com:80/Denise01/denise001/109746
-GLOBO NSC TV CHAPECO,http://meumd.com:80/Denise01/denise001/109745
-GLOBO NSC TV CHAPECO,http://meumd.com:80/Denise01/denise001/108904
-GLOBO NSC TV FLORIANÓPOLIS,http://meumd.com:80/Denise01/denise001/109742
-GLOBO NSC TV FLORIANÓPOLIS²,http://meumd.com:80/Denise01/denise001/109741
-GLOBO NSC TV FLORIANÓPOLIS,http://meumd.com:80/Denise01/denise001/109740
-GLOBO NSC TV JOINVILLE,http://meumd.com:80/Denise01/denise001/109737
-GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/108846
-GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/135283
-GLOBO PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/108788
-GLOBO PRESIDENTE PRUDENTE SP,http://meumd.com:80/Denise01/denise001/181159
-GLOBO PRESIDENTE PRUDENTE SP,http://meumd.com:80/Denise01/denise001/181158
-GLOBO RBS TV BLUMENAL,http://meumd.com:80/Denise01/denise001/108903
-GLOBO RBS TV BLUMENAU,http://meumd.com:80/Denise01/denise001/108833
-GLOBO RBS TV CAXIAS DO SUL,http://meumd.com:80/Denise01/denise001/108802
-GLOBO RBS TV CAXIAS DO SULD,http://meumd.com:80/Denise01/denise001/108801
-GLOBO RBS TV CAXIAS DO SUL,http://meumd.com:80/Denise01/denise001/108800
-GLOBO RBS TV CRICIUMA,http://meumd.com:80/Denise01/denise001/108832
-GLOBO RBS TV CRICIUMAD,http://meumd.com:80/Denise01/denise001/108831
-GLOBO RBS TV CRICIUMA .,http://meumd.com:80/Denise01/denise001/108830
-GLOBO RBS TV PELOTAS,http://meumd.com:80/Denise01/denise001/108899
-GLOBO RBS TV PELOTAS,http://meumd.com:80/Denise01/denise001/108898
-GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109733
-GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109732
-GLOBO RBS TV PORTO ALEGRE,http://meumd.com:80/Denise01/denise001/109731
-GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108902
-GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108901
-GLOBO RBS TV SANTA MARIA,http://meumd.com:80/Denise01/denise001/108900
-GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109730
-GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109729
-GLOBO REDE AMAZÔNICA MANAUS,http://meumd.com:80/Denise01/denise001/109728
-GLOBO RPC MARINGA,http://meumd.com:80/Denise01/denise001/108911
-GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109724
-GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109723
-GLOBO RPC TV CURITIBA,http://meumd.com:80/Denise01/denise001/109722
-GLOBO RPC TV FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/109721
-GLOBO RPC TV FOZ DO IGUAÇU²,http://meumd.com:80/Denise01/denise001/109720
-GLOBO RPC TV FOZ DO IGUAÇU,http://meumd.com:80/Denise01/denise001/109719
-GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109718
-GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109717
-GLOBO RPC TV MARINGÁ,http://meumd.com:80/Denise01/denise001/109716
-GLOBO RPC TV PONTA GROSSA,http://meumd.com:80/Denise01/denise001/108910
-GLOBO RPC TV PONTA GROSSA,http://meumd.com:80/Denise01/denise001/109710
-GLOBO SALVADOR ,http://meumd.com:80/Denise01/denise001/108844
-GLOBO SALVADOR,http://meumd.com:80/Denise01/denise001/108854
-GLOBO SALVADOR .,http://meumd.com:80/Denise01/denise001/108787
-GLOBO SAO LUIS ,http://meumd.com:80/Denise01/denise001/108839
-GLOBO SAO LUIS MA,http://meumd.com:80/Denise01/denise001/108863
-GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109706
-GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109705
-GLOBO TV ANHANGUERA,http://meumd.com:80/Denise01/denise001/109704
-GLOBO TV ASA BRANCA,http://meumd.com:80/Denise01/denise001/108835
-GLOBO TV ASA BRANCA,http://meumd.com:80/Denise01/denise001/113889
-GLOBO TV BAHIA,http://meumd.com:80/Denise01/denise001/109703
-GLOBO TV BAHIA,http://meumd.com:80/Denise01/denise001/109702
-GLOBO TV BAHIA²,http://meumd.com:80/Denise01/denise001/109701
-GLOBO TV CABO BRANCO ,http://meumd.com:80/Denise01/denise001/140543
-GLOBO TV CABO BRANCO ,http://meumd.com:80/Denise01/denise001/140544
-GLOBO TV CABO BRANCO,http://meumd.com:80/Denise01/denise001/108812
-GLOBO TV CENTRO AMERICA,http://meumd.com:80/Denise01/denise001/108847
-GLOBO TV CENTRO AMÉRICA,http://meumd.com:80/Denise01/denise001/109697
-GLOBO TV CLUBE PIAUI,http://meumd.com:80/Denise01/denise001/108851
-GLOBO TV CLUBE PID,http://meumd.com:80/Denise01/denise001/108850
-GLOBO TV CLUBE PI,http://meumd.com:80/Denise01/denise001/108849
-GLOBO TV CLUBE TERESINA,http://meumd.com:80/Denise01/denise001/109693
-GLOBO TV CLUBE TERESINA,http://meumd.com:80/Denise01/denise001/109692
-GLOBO TV DIARIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/108858
-GLOBO TV DIÁRIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/109690
-GLOBO TV DIÁRIO MOGI DAS CRUZES,http://meumd.com:80/Denise01/denise001/109689
-GLOBO TV FRONTEIRA,http://meumd.com:80/Denise01/denise001/108906
-GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109688
-GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109687
-GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE²,http://meumd.com:80/Denise01/denise001/109686
-GLOBO TV GAZETA ALAGOAS,http://meumd.com:80/Denise01/denise001/108913
-GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109682
-GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109681
-GLOBO TV GAZETA SUL,http://meumd.com:80/Denise01/denise001/109680
-GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109679
-GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109678
-GLOBO TV GAZETA VITÓRIA,http://meumd.com:80/Denise01/denise001/109677
-GLOBO TV INTEGRACAO JFD,http://meumd.com:80/Denise01/denise001/108816
-GLOBO TV INTEGRACAO JF,http://meumd.com:80/Denise01/denise001/108815
-GLOBO TV INTEGRAÇAO JF,http://meumd.com:80/Denise01/denise001/108817
-GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109676
-GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109675
-GLOBO TV INTEGRAÇÃO JUIZ DE FORA,http://meumd.com:80/Denise01/denise001/109674
-GLOBO INTEGRAÇAO  ARAXA,http://meumd.com:80/Denise01/denise001/108808
-GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108888
-GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108887
-GLOBO TV LIBERAL BELEM,http://meumd.com:80/Denise01/denise001/108889
-GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108799
-GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108798
-GLOBO TV MIRANTE,http://meumd.com:80/Denise01/denise001/108797
-GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109667
-GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109666
-GLOBO TV MORENA,http://meumd.com:80/Denise01/denise001/109665
-GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/109664
-GLOBO TV RIO SUL .,http://meumd.com:80/Denise01/denise001/108823
-GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/109663
-GLOBO TV RIO SUL,http://meumd.com:80/Denise01/denise001/108821
-GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108793
-GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108792
-GLOBO TV SANTA CRUZ,http://meumd.com:80/Denise01/denise001/108791
-GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108796
-GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108795
-GLOBO TV SERGIPE,http://meumd.com:80/Denise01/denise001/108794
-GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108916
-GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108915
-GLOBO TV TEM BAURU,http://meumd.com:80/Denise01/denise001/108881
-GLOBO TV TEM SOROCABA,http://meumd.com:80/Denise01/denise001/108907
-GLOBO TV TEM SOROCABA,http://meumd.com:80/Denise01/denise001/108880
-GLOBO TV TEM SÃO JOSÉ DO RIO PRETO,http://meumd.com:80/Denise01/denise001/109652
-GLOBO TV TEM SÃO JOSÉ DO RIO PRETO²,http://meumd.com:80/Denise01/denise001/109651
-GLOBO TV TEM SÃO JOSÉ DO RIO PRETO,http://meumd.com:80/Denise01/denise001/109650
-GLOBO TV TRIBUNA,http://meumd.com:80/Denise01/denise001/108914
-GLOBO TV TRIBUNA SANTOS,http://meumd.com:80/Denise01/denise001/109645
-GLOBO TV TRIBUNA SANTOS,http://meumd.com:80/Denise01/denise001/108871
-GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109643
-GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109642
-GLOBO TV VANGUARDA S J CAMPOS,http://meumd.com:80/Denise01/denise001/109641
-GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/108908
-GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/123725
-GLOBO TV VANGUARDA TAUBATE,http://meumd.com:80/Denise01/denise001/123726
-GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109640
-GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109639
-GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109638
-GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109637
-GLOBO TV VERDES MARES,http://meumd.com:80/Denise01/denise001/109636
-GLOOB,http://meumd.com:80/Denise01/denise001/135171
-GLOOB,http://meumd.com:80/Denise01/denise001/110133
-GLOOB,http://meumd.com:80/Denise01/denise001/135170
-GLOOBINHO,http://meumd.com:80/Denise01/denise001/110130
-GLOOBINHO,http://meumd.com:80/Denise01/denise001/110129
-GLOOBINHO,http://meumd.com:80/Denise01/denise001/110128
-GLOOBINHO,http://meumd.com:80/Denise01/denise001/110127
-GLOOB,http://meumd.com:80/Denise01/denise001/135172
 GNT,http://meumd.com:80/Denise01/denise001/108340
 GNT,http://meumd.com:80/Denise01/denise001/109468
 GNT,http://meumd.com:80/Denise01/denise001/109467
@@ -2924,7 +2668,6 @@ JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172922
 JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/173060
 JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172921
 JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172920
-LA CASA DE PAPEL 24H,http://meumd.com:80/Denise01/denise001/137678
 LIFETIME,http://meumd.com:80/Denise01/denise001/109464
 LIFETIME,http://meumd.com:80/Denise01/denise001/109463
 LIFETIME,http://meumd.com:80/Denise01/denise001/109462
@@ -2946,37 +2689,12 @@ MEGAPIX,http://meumd.com:80/Denise01/denise001/108570
 MEGAPIX,http://meumd.com:80/Denise01/denise001/109518
 MEGAPIX,http://meumd.com:80/Denise01/denise001/108572
 MEGAPIX,http://meumd.com:80/Denise01/denise001/109517
-METAL CHOICE,http://meumd.com:80/Denise01/denise001/125941
-MEXICANA CHOICE,http://meumd.com:80/Denise01/denise001/125940
-MONICA CHEFE 24H,http://meumd.com:80/Denise01/denise001/137673
-MTV,http://meumd.com:80/Denise01/denise001/108781
-MTV,http://meumd.com:80/Denise01/denise001/108779
-MTV LIVE,http://meumd.com:80/Denise01/denise001/108782
-MTV LIVE,http://meumd.com:80/Denise01/denise001/108777
-MTV,http://meumd.com:80/Denise01/denise001/108780
 MULTISHOW,http://meumd.com:80/Denise01/denise001/108943
 MULTISHOW,http://meumd.com:80/Denise01/denise001/108776
 MULTISHOW,http://meumd.com:80/Denise01/denise001/115677
 MULTISHOW,http://meumd.com:80/Denise01/denise001/108774
 MULTISHOW,http://meumd.com:80/Denise01/denise001/108775
-MUSIC BOX BRAZIL,http://meumd.com:80/Denise01/denise001/108772
-MUSIC BOX,http://meumd.com:80/Denise01/denise001/108773
-NARUTO 24HS,http://meumd.com:80/Denise01/denise001/184951
-NARUTO SHIPPUDEN  24HS,http://meumd.com:80/Denise01/denise001/184952
 NBA TV,http://meumd.com:80/Denise01/denise001/125702
-NFL Gamepass 1,http://meumd.com:80/Denise01/denise001/125701
-NFL NETWORK,http://meumd.com:80/Denise01/denise001/125700
-NICKELODEON,http://meumd.com:80/Denise01/denise001/110118
-NICKELODEON,http://meumd.com:80/Denise01/denise001/110117
-NICKELODEON,http://meumd.com:80/Denise01/denise001/110116
-NICKELODEON,http://meumd.com:80/Denise01/denise001/110115
-NICKELODEON,http://meumd.com:80/Denise01/denise001/110114
-NICK JR.,http://meumd.com:80/Denise01/denise001/110121
-NICK JR,http://meumd.com:80/Denise01/denise001/186339
-NICK JR,http://meumd.com:80/Denise01/denise001/186337
-NICK JR,http://meumd.com:80/Denise01/denise001/186338
-NICKLODEON,http://meumd.com:80/Denise01/denise001/108657
-NICKLODEON,http://meumd.com:80/Denise01/denise001/108654
 NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145392
 NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145393
 NSC TV CHAPECO -GLOBO,http://meumd.com:80/Denise01/denise001/140536
@@ -2988,11 +2706,10 @@ OFF,http://meumd.com:80/Denise01/denise001/110265
 OFF,http://meumd.com:80/Denise01/denise001/110264
 O REI DO GADO 24H,http://meumd.com:80/Denise01/denise001/137671
 O RICO E LAZARO 24H,http://meumd.com:80/Denise01/denise001/137669
-PERU | GOL PERU,http://meumd.com:80/Denise01/denise001/125699
 PLENITUDE TV,http://meumd.com:80/Denise01/denise001/111253
 POP & COUNTRY COICE,http://meumd.com:80/Denise01/denise001/125939
 POP LATINO MUSI CHOICE,http://meumd.com:80/Denise01/denise001/125938
-PPVV| MOVISTAR LA LIGA,http://meumd.com:80/Denise01/denise001/126027
+MOVISTAR LA LIGA,http://meumd.com:80/Denise01/denise001/126027
 PREMIERE 1,http://meumd.com:80/Denise01/denise001/108755
 PREMIERE 2,http://meumd.com:80/Denise01/denise001/110362
 PREMIERE 2,http://meumd.com:80/Denise01/denise001/110361
@@ -3051,99 +2768,8 @@ PT- SPORT TV 3 (LOW),http://meumd.com:80/Denise01/denise001/125683
 PT- SPORT TV 4 (LOW),http://meumd.com:80/Denise01/denise001/125682
 PT- SPORT TV 5 (LOW),http://meumd.com:80/Denise01/denise001/125681
 PT- SPORT TV NBA (LOW),http://meumd.com:80/Denise01/denise001/125680
-R&B SOUL MUSIC HOICE,http://meumd.com:80/Denise01/denise001/125937
-RAP MUSIC CHOICE,http://meumd.com:80/Denise01/denise001/125936
-RBS PASSO FUNDO - GLOBO,http://meumd.com:80/Denise01/denise001/140534
-RBS PASSO FUNDO - GLOBO,http://meumd.com:80/Denise01/denise001/140535
-RECORD,http://meumd.com:80/Denise01/denise001/108963
-RECORD NEWS,http://meumd.com:80/Denise01/denise001/108270
-RECORD NEWS,http://meumd.com:80/Denise01/denise001/108268
-RECORD RJ,http://meumd.com:80/Denise01/denise001/108265
-RECORDTV BELEM,http://meumd.com:80/Denise01/denise001/109590
-RECORDTV BELEM,http://meumd.com:80/Denise01/denise001/109589
-RECORDTV DF,http://meumd.com:80/Denise01/denise001/109588
-RECORD TV,http://meumd.com:80/Denise01/denise001/108271
-RECORDTV GO,http://meumd.com:80/Denise01/denise001/181083
-RECORDTV GO,http://meumd.com:80/Denise01/denise001/109586
-RECORDTV GO,http://meumd.com:80/Denise01/denise001/109585
-RECORDTV ITAPOAN,http://meumd.com:80/Denise01/denise001/109584
-RECORDTV ITAPOAN,http://meumd.com:80/Denise01/denise001/109583
-RECORDTV MANAUS,http://meumd.com:80/Denise01/denise001/109582
-RECORDTV MANAUS,http://meumd.com:80/Denise01/denise001/109581
-RECORDTV MG,http://meumd.com:80/Denise01/denise001/109580
-RECORDTV RS,http://meumd.com:80/Denise01/denise001/109576
-RECORDTV RS,http://meumd.com:80/Denise01/denise001/109575
-RECORDTV SANTA CATARINA,http://meumd.com:80/Denise01/denise001/135169
-RECORDTV SP,http://meumd.com:80/Denise01/denise001/109574
-RECORDTV SP,http://meumd.com:80/Denise01/denise001/109573
-RECORDTV SP,http://meumd.com:80/Denise01/denise001/109572
 RED BULL TV ,http://meumd.com:80/Denise01/denise001/109033
 RED BULL TV,http://meumd.com:80/Denise01/denise001/125654
-REDE  21,http://meumd.com:80/Denise01/denise001/111246
-REDE AMAZONICA BOA VISTA - GLOBO RORAIMA,http://meumd.com:80/Denise01/denise001/140545
-REDE AMAZONICA BOA VISTA - GLOBO RORAIMA,http://meumd.com:80/Denise01/denise001/140546
-REDE AMAZONICA PORTO VELHO - GLOBO,http://meumd.com:80/Denise01/denise001/140541
-REDE AMAZONICA PORTO VELHO - GLOBO,http://meumd.com:80/Denise01/denise001/140542
-REDE BRASIL,http://meumd.com:80/Denise01/denise001/188976
-REDE GOSPEL,http://meumd.com:80/Denise01/denise001/108693
-REDE GOSPEL,http://meumd.com:80/Denise01/denise001/108692
-REDE Super,http://meumd.com:80/Denise01/denise001/184950
-REDETV,http://meumd.com:80/Denise01/denise001/108291
-REDETV,http://meumd.com:80/Denise01/denise001/108293
-REDETV,http://meumd.com:80/Denise01/denise001/108292
-REDETV,http://meumd.com:80/Denise01/denise001/108290
-REDETV PR,http://meumd.com:80/Denise01/denise001/141688
-REDETV SP,http://meumd.com:80/Denise01/denise001/141691
-REDETV SP,http://meumd.com:80/Denise01/denise001/141692
-REDETV SP,http://meumd.com:80/Denise01/denise001/141693
-REDETV SP,http://meumd.com:80/Denise01/denise001/141694
-REDE VIDA,http://meumd.com:80/Denise01/denise001/110172
-REDE VIDA,http://meumd.com:80/Denise01/denise001/110171
-REDE VIDA,http://meumd.com:80/Denise01/denise001/110170
-REDE VIDA,http://meumd.com:80/Denise01/denise001/110169
-RIT TV,http://meumd.com:80/Denise01/denise001/111241
-RIT TV,http://meumd.com:80/Denise01/denise001/110168
-ROCK CHOICE,http://meumd.com:80/Denise01/denise001/125935
-RTP 1,http://meumd.com:80/Denise01/denise001/126082
-RTP 1 PT,http://meumd.com:80/Denise01/denise001/126094
-RTP 2 ALTERNATIVA,http://meumd.com:80/Denise01/denise001/126093
-RTP 2,http://meumd.com:80/Denise01/denise001/126081
-RTP 3,http://meumd.com:80/Denise01/denise001/126092
-RTP ACORES,http://meumd.com:80/Denise01/denise001/126080
-RTP Acores (PT),http://meumd.com:80/Denise01/denise001/126091
-RTP Africa (PT),http://meumd.com:80/Denise01/denise001/126090
-SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180171
-SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180170
-SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180169
-SABOR & ARTE,http://meumd.com:80/Denise01/denise001/180168
-SAMBA E PAGODE FM (RADIOS),http://meumd.com:80/Denise01/denise001/131642
-SBT,http://meumd.com:80/Denise01/denise001/108286
-SBT ALTEROSA MG,http://meumd.com:80/Denise01/denise001/186766
-SBT ALTEROSA MG,http://meumd.com:80/Denise01/denise001/186767
-SBT BRASILIA,http://meumd.com:80/Denise01/denise001/186773
-SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110370
-SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110371
-SBT JANGADEIRO,http://meumd.com:80/Denise01/denise001/110372
-SBT PARANA,http://meumd.com:80/Denise01/denise001/108288
-SBT PARANÁ,http://meumd.com:80/Denise01/denise001/138287
-SBT RJ,http://meumd.com:80/Denise01/denise001/114221
-SBT RS,http://meumd.com:80/Denise01/denise001/186772
-SBT SERGIPE -TV APERIPER,http://meumd.com:80/Denise01/denise001/186771
-SBT SERRA DOURADA,http://meumd.com:80/Denise01/denise001/186774
-SBT SERRA DOURA,http://meumd.com:80/Denise01/denise001/186775
-SBT SP,http://meumd.com:80/Denise01/denise001/108285
-SBT SP,http://meumd.com:80/Denise01/denise001/108287
-SBT SP,http://meumd.com:80/Denise01/denise001/108289
-SBT VTV CAMPINAS,http://meumd.com:80/Denise01/denise001/186768
-SBT VTV CAMPINAS,http://meumd.com:80/Denise01/denise001/186769
-POLISHOP,http://meumd.com:80/Denise01/denise001/108284
-SIC,http://meumd.com:80/Denise01/denise001/126089
-SIC Caras (PT),http://meumd.com:80/Denise01/denise001/126088
-SIC K (PT),http://meumd.com:80/Denise01/denise001/126087
-SIC Mulher (PT),http://meumd.com:80/Denise01/denise001/126086
-SIC NOTÍCIAS,http://meumd.com:80/Denise01/denise001/126077
-SIC NOTÍCIAS,http://meumd.com:80/Denise01/denise001/126078
-SIC RADICAL,http://meumd.com:80/Denise01/denise001/126073
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108400
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/109344
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108399
@@ -3262,7 +2888,7 @@ TLC,http://meumd.com:80/Denise01/denise001/108327
 TLC,http://meumd.com:80/Denise01/denise001/109450
 TNT,http://meumd.com:80/Denise01/denise001/108957
 TNT,http://meumd.com:80/Denise01/denise001/108551
-TNT.,http://meumd.com:80/Denise01/denise001/109985
+TNT,http://meumd.com:80/Denise01/denise001/109985
 TNT,http://meumd.com:80/Denise01/denise001/109504
 TNT,http://meumd.com:80/Denise01/denise001/109984
 TNT,http://meumd.com:80/Denise01/denise001/108546
@@ -3285,80 +2911,7 @@ Travel Box Brazil,http://meumd.com:80/Denise01/denise001/130693
 TRUTV,http://meumd.com:80/Denise01/denise001/109449
 TRUTV,http://meumd.com:80/Denise01/denise001/109448
 TRUTV,http://meumd.com:80/Denise01/denise001/109447
-TV ALTEROSA,http://meumd.com:80/Denise01/denise001/180173
-TV ALTEROSA,http://meumd.com:80/Denise01/denise001/180172
-TV ANHANGUERA ANAPOLIS,http://meumd.com:80/Denise01/denise001/145399
-TV ANHANGUERA ANAPOLIS,http://meumd.com:80/Denise01/denise001/145398
-TV ANHANGUERA CATALAO,http://meumd.com:80/Denise01/denise001/145397
-TV ANHANGUERA CATALAO,http://meumd.com:80/Denise01/denise001/145396
-TV ANHANGUERA ITUMBIARA,http://meumd.com:80/Denise01/denise001/145401
-TV ANHANGUERA ITUMBIARA,http://meumd.com:80/Denise01/denise001/145400
-TV APARECIDA,http://meumd.com:80/Denise01/denise001/110167
-TV APARECIDA,http://meumd.com:80/Denise01/denise001/110166
-TV APARECIDA,http://meumd.com:80/Denise01/denise001/110165
-TV APARECIDA,http://meumd.com:80/Denise01/denise001/110164
-TV ARATU SBT ,http://meumd.com:80/Denise01/denise001/186770
-TV BRASIL,http://meumd.com:80/Denise01/denise001/109494
-TV BRASIL,http://meumd.com:80/Denise01/denise001/109492
-TV BRASIL,http://meumd.com:80/Denise01/denise001/109491
-TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109571
-TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109570
-TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109569
-TV CIDADE - RECORDTV,http://meumd.com:80/Denise01/denise001/109568
-TVCine TOP LOW,http://meumd.com:80/Denise01/denise001/126084
-TV CLUBE PIAUI -GLOBO,http://meumd.com:80/Denise01/denise001/140538
-TV CULTURA,http://meumd.com:80/Denise01/denise001/108281
-TV CULTURA,http://meumd.com:80/Denise01/denise001/108279
-TV CULTURA,http://meumd.com:80/Denise01/denise001/108280
-TV Diario,http://meumd.com:80/Denise01/denise001/111796
-TV Diario,http://meumd.com:80/Denise01/denise001/111797
-TV Diario,http://meumd.com:80/Denise01/denise001/111798
-TV Diario,http://meumd.com:80/Denise01/denise001/111799
-TV EVANGELIZAR,http://meumd.com:80/Denise01/denise001/111258
-TV GAZETA ,http://meumd.com:80/Denise01/denise001/108278
-TV GAZETA,http://meumd.com:80/Denise01/denise001/108277
-TV GAZETA,http://meumd.com:80/Denise01/denise001/108275
-TV GAZETA VITORIA ES - GLOBO,http://meumd.com:80/Denise01/denise001/140532
-TV GAZETA VITORIA ES - GLOBO,http://meumd.com:80/Denise01/denise001/140533
-TV GIDEOES,http://meumd.com:80/Denise01/denise001/111263
-TVI FICCAO,http://meumd.com:80/Denise01/denise001/126083
-TV INTEGRAÇÃO DIVINÓPOLIS,http://meumd.com:80/Denise01/denise001/145394
-TV INTEGRAÇÃO DIVINÓPOLIS,http://meumd.com:80/Denise01/denise001/145395
-TV INTEGRAÇÃO UBERABA - GLOBO,http://meumd.com:80/Denise01/denise001/140529
-TV JUSTIÇA,http://meumd.com:80/Denise01/denise001/108272
-TV NOVO TEMPO.,http://meumd.com:80/Denise01/denise001/110163
-TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/110162
-TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/110161
-TV NOVO TEMPO,http://meumd.com:80/Denise01/denise001/108689
-TV PAI ETERNO,http://meumd.com:80/Denise01/denise001/111249
-TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110113
-TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110112
-TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110111
-TV RA TIM BUM,http://meumd.com:80/Denise01/denise001/110110
-TV TEM SOROCABA - GLOBO,http://meumd.com:80/Denise01/denise001/140531
-UM MALUCO NO PEDAÇO,http://meumd.com:80/Denise01/denise001/113771
-URU- A+V,http://meumd.com:80/Denise01/denise001/126068
-URU- CANAL 7 PUNTA DEL ESTE,http://meumd.com:80/Denise01/denise001/126066
-URU- CANAL 12 LOCAL,http://meumd.com:80/Denise01/denise001/126067
-USA NETWORK,http://meumd.com:80/Denise01/denise001/126065
-USL- BBC AMERICA,http://meumd.com:80/Denise01/denise001/126064
-USL- BBC WORLD NEWS,http://meumd.com:80/Denise01/denise001/126063
-USL- CNN INTERNATIONAL |,http://meumd.com:80/Denise01/denise001/126062
-USL- FOX 5,http://meumd.com:80/Denise01/denise001/126061
-USL- NBA TV,http://meumd.com:80/Denise01/denise001/125703
-USL- USA NETWORK PACIFICO,http://meumd.com:80/Denise01/denise001/126060
-VELOZES E FURIOSOS 24H,http://meumd.com:80/Denise01/denise001/137679
-VENEZUELA- TELEVEN,http://meumd.com:80/Denise01/denise001/126059
-VH1,http://meumd.com:80/Denise01/denise001/108770
-VH1,http://meumd.com:80/Denise01/denise001/130696
-VH1,http://meumd.com:80/Denise01/denise001/130697
-VH1,http://meumd.com:80/Denise01/denise001/130698
-VH1,http://meumd.com:80/Denise01/denise001/130699
-VIVA,http://meumd.com:80/Denise01/denise001/108325
-VIVA,http://meumd.com:80/Denise01/denise001/109445
-VIVA,http://meumd.com:80/Denise01/denise001/108323
-VIVA,http://meumd.com:80/Denise01/denise001/108324
-Y2K MUSIC CHOIC,http://meumd.com:80/Denise01/denise001/125932
+
 
 
 🎎｜Adults 1_7788,#genre#
