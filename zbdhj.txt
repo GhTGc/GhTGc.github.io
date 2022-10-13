@@ -1001,9 +1001,6 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 
 🐳斗鱼(ljk播放器),#genre#
-斗鱼4K2,http://tc-tct.douyucdn2.cn/dyliveflv3a/6563725r9OYhGgYA.flv?wsAuth=b48c85a526c2430494da424eda5810b5&token=cpn-androidmpro-0-6563725-2e822525b55b02f8805c7e06ee67bb5e58714209ac7754ec&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-斗鱼云旅行1,http://tc-tct.douyucdn2.cn/dyliveflv3/10930665rwcS9VbW.flv?wsAuth=320b6619a7e4a1967c693428ca49fb91&token=cpn-androidmpro-0-10930665-df8061e8ec0c2b0454a56907ca837f49d489c88b08765edc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼云旅行2,http://tc-tct.douyucdn2.cn/dyliveflv3/10925938rqudAWmp.flv?wsAuth=b07656941a5037aaaeb5885f4ccc7aba&token=cpn-androidmpro-0-10925938-a622604ab77edf72f0e8b899d045dc83be575b79e4605664&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=80f247e42b862905dafbf56c256bd1e2&token=cpn-androidmpro-0-3637778-8c089871434b9344aa21bb2a21bf11eda7e2cffd7513a332&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/3637726rQLDdfto7.flv?wsAuth=5b756d2f5b6d2959bf053c849449666f&token=cpn-androidmpro-0-3637726-a97a3241d761383478d4fcc20218fc1511f9e1174876d26f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/8985415rf7zHCNHX.flv?wsAuth=617738f989a720c87f0a251d15acadf8&token=cpn-androidmpro-0-8985415-c35d1685794d1bc4cf397c9d83a9501515e02ea0c267ba23&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
@@ -1032,39 +1029,21 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 江户川柯南，是一个蒸蛋。,http://epg.112114.xyz/douyu/5377297
 万年如一柯播南，各位给点电费吧,http://epg.112114.xyz/douyu/1783144
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-【超级赛亚人】悟吉塔,http://epg.112114.xyz/douyu/7190773
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
-【Hunter】动漫热血老贼冒险,http://epg.112114.xyz/douyu/6610883
-少女与半妖,http://epg.112114.xyz/douyu/7422897
-宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
 星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
 松开的手0.0,http://epg.112114.xyz/douyu/10210568
 浦饭幽游藏马飞影桑原,http://epg.112114.xyz/douyu/9938431
 【童年往事】仨房间画面同步显示点播,http://epg.112114.xyz/douyu/7256376
 ✨妖精的直播间✨,http://epg.112114.xyz/douyu/5960746
-【天使点播】动漫直播间,http://epg.112114.xyz/douyu/1487654
-【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
-✨动漫✨热血木叶忍者草帽路飞青春,http://epg.112114.xyz/douyu/206858
-动漫二次元#补番推荐#,http://epg.112114.xyz/douyu/9429545
 【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
 【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
 【追忆】国语超清动画电影,http://epg.112114.xyz/douyu/6449849
-♥卡面来打♥,http://epg.112114.xyz/douyu/1218414
-【动漫】24小时不间断动漫专场,http://epg.112114.xyz/douyu/7493575
 老爹:还有一件事,http://epg.112114.xyz/douyu/7134757
 开心锤锤，开心快乐每一天！,http://epg.112114.xyz/douyu/9018297
 舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
 最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
-【动漫】记录你的王者峡谷生活~,http://epg.112114.xyz/douyu/9360149
-【小叮当】童年经典动画片,http://epg.112114.xyz/douyu/9445279
-二次元放映室，有呐味儿了!,http://epg.112114.xyz/douyu/8912038
-中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
-动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
-【经典动漫】9455567,http://epg.112114.xyz/douyu/9455567
 鲁过一世的直播间,http://epg.112114.xyz/douyu/9716515
 星海璃幻V的直播间,http://epg.112114.xyz/douyu/9567313
-铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
-笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
 【神剧】经典神剧,http://epg.112114.xyz/douyu/3700024
 【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 【贝爷影厅】经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
