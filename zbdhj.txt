@@ -1582,11 +1582,18 @@ A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2988.ts
 WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
 WWE,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2373
 FIGHT BOX,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/530
+Nat Geo,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88502.ts
+Nat Geo,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2864.ts
+Nat Geo Wild,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2863.ts
+Nat Geo Wild,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88503.ts
 Paramount Network,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/14839
 HBO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2893.ts
 HBO,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2336
+HBO,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88471.ts
+HBO 2,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88472.ts
 HBO 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
 HBO 2,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/5844
+HBO Zone,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88476.ts
 HBO Zone,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
 HBO Zone,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6328
 HBO Signature,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
@@ -1789,8 +1796,6 @@ NFL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2859.
 NEWS 12 NEW JERSEY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2860.ts
 NEWS 12 LONG ISLAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2861.ts
 NESN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2862.ts
-NAT GEO WILD HD US,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2863.ts
-NAT GEO USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2864.ts
 MY 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2865.ts
 MTV2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2866.ts
 MTV LIVE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2867.ts
@@ -3427,6 +3432,107 @@ NETFLIX KIDS 6,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/92732
 NETFLIX KIDS 7,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/92733
 NETFLIX KIDS 8,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/92734
 NETFLIX KIDS 9,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/92735
+
+◈ Sky Store,#genre#
+Sky Store Premiere 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019822
+Sky Store Premiere 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019823
+Sky Store Premiere 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019824
+Sky Store Premiere 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019825
+Sky Store Premiere 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019826
+Sky Store Premiere 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019827
+Sky Store Premiere 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019828
+Sky Store Premiere 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019829
+Sky Store Premiere 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019830
+Sky Store Premiere 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019831
+Sky Store Premiere 11 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019832
+Sky Store Premiere 12 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019833
+Sky Store Premiere 13 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019834
+Sky Store Premiere 14 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019835
+Sky Store Premiere 15 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019836
+
+◈ PrimeVideo Series,#genre#
+PrimeVideo Serie 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019839
+PrimeVideo Serie 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019840
+PrimeVideo Serie 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019841
+PrimeVideo Serie 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019842
+PrimeVideo Serie 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019843
+PrimeVideo Serie 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019844
+PrimeVideo Serie 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019845
+PrimeVideo Serie 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019846
+PrimeVideo Serie 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019847
+PrimeVideo Serie 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019848
+
+◈ Disney+ Series,#genre#
+Disney+ Premiere 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020018
+Disney+ Premiere 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020019
+Disney+ Series info ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019849
+Disney+ Series 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019850
+Disney+ Series 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019851
+Disney+ Series 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019852
+Disney+ Series 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019853
+Disney+ Series 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019854
+Disney+ Series 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019855
+Disney+ Series 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019856
+Disney+ Series 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019857
+Disney+ Series 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019858
+Disney+ Series 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019859
+
+◈ Netflix Series,#genre#
+Netflix Series 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019861
+Netflix Series 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019862
+Netflix Series 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019863
+Netflix Series 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019864
+Netflix Series 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019865
+Netflix Series 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019866
+Netflix Series 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019867
+Netflix Series 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019868
+Netflix Series 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019869
+Netflix Series 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019870
+Netflix Premiere info ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019871
+Netflix Premiere 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019872
+Netflix Premiere 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019873
+Netflix Premiere 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019874
+Netflix Premiere 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019875
+Netflix Premiere 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019876
+Netflix Premiere 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019877
+Netflix Premiere 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019878
+Netflix Premiere 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019879
+Netflix Premiere 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019880
+Netflix Premiere 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019881
+Netflix Premiere 11 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019882
+Netflix Premiere 12 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019883
+Netflix Premiere 13 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019884
+
+◈ Discovery+ Original,#genre#
+Discovery+ Original 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019886
+Discovery+ Original 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019887
+Discovery+ Original 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019888
+Discovery+ Original 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019889
+Discovery+ Original 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019890
+Discovery+ Original 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019891
+Discovery+ Original 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019892
+Discovery+ Original 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019893
+Discovery+ Original 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019894
+Discovery+ Original 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019895
+
+◈ HBOMax Original,#genre#
+HBOMax Original 1 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020559
+HBOMax Original 2 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020560
+HBOMax Original 3 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020561
+HBOMax Original 4 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020562
+HBOMax Original 5 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020563
+HBOMax Original 6 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020564
+HBOMax Original 7 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020565
+HBOMax Original 8 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020566
+HBOMax Original 9 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020567
+HBOMax Original 10 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020568
+HBOMax Original 11 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020569
+HBOMax Original 12 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020570
+HBOMax Original 13 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020571
+HBOMax Original 14 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020572
+HBOMax Original 15 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020573
+HBOMax Original 16 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020574
+HBOMax Original 17 ᴴᴰ,http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020575
 
 
 
