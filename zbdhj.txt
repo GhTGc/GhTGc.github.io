@@ -295,7 +295,7 @@ White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
-💞揭阳玉林酒店源,#genre#
+💞酒店源1,#genre#
 凤凰中文,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzw
 凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
 凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
@@ -384,7 +384,7 @@ CHC高清电影,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcg
 玉林公共,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylgg
 玉林新闻综合,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylxwzh
 
-💞梅州酒店源,#genre#
+💞酒店源2,#genre#
 凤凰卫视中文,http://fyld.eatuo.com:9901/tsfile/live/1037_1.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 广东卫视高清,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
