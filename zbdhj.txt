@@ -296,93 +296,93 @@ White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
 💞揭阳玉林酒店源,#genre#
-凤凰中文 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzw
-凤凰资讯 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
-凤凰香港 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
-星空卫视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=xkws
-翡翠台 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
-TVB星河 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=tvbxh
-无线财经 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tvbcj
-Eleven Sports 1 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
-Eleven Sports 2 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
-动物星球 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dwxq
-东森电影 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsdy
-东森洋片 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
-好莱坞电影 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hlwdy
-网络电影 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=wldy
-私人影院 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sryy
-龙祥时代 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
-东森新闻 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dsxw
-戏剧 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=xj
-AXN ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=axn
-回旋镖动画 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hxbdh
-狼谷育乐 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lgyl
-Z频道 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=zpd
-韩国娱乐台 ,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hgylt
-澳门莲花 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
-天映经典 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tyjd
-CCTV1 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv1
-CCTV2 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv2
-CCTV3 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv3
-CCTV4 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv4
-CCTV5 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv5
-CCTV5+ ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv5p
-CCTV6 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv6
-CCTV7 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv7
-CCTV8 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv8
-CCTV9 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv9
-CCTV10 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv10
-CCTV12 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv12
-CCTV13 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv13
-CCTV14 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv14
-CCTV16 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv16
-CCTV17 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv17
-CGTN ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cgtn
-CGTN记录 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cgtnjl
-广东珠江 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdzj
-广东体育 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
-广东经济科教 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdjjkj
-深圳都市 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=szds
-深圳电视剧 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=szdsj
-深圳体育健康 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
-北京卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=bjws
-东方卫视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=dfws
-广东卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdws
-深圳卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=szws
-山东卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=sdws
-江苏卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jsws
-浙江卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=zjws
-东南卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dnws
-江西卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jxws
-安徽卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=ahws
-湖北卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hubws
-湖南卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hunws
-广西卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gxws
-贵州卫视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gzws
-四川卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=scws
-重庆卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cqws
-甘肃卫视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gsws
-河北卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hbws
-天津卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tjws
-辽宁卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lnws
-吉林卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jlws
-黑龙江卫视 ,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hljws
-金鹰纪实 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=jyjs
-魅力足球 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
-中国电影 ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=zgdy
-CHC家庭影院 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcjtyy
-CHC动作电影 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcdzdy
-CHC高清电影 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcgqdy
-广西都市 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxds
-广西新闻 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxxw
-广西影视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxys
-广西综艺旅游 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxzyly
-南宁公共 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nngg
-南宁都市生活 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nndssh
-南宁新闻综合视 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nnxwzh
-南宁影视娱乐 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nnysyl
-玉林公共 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylgg
-玉林新闻综合 ,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylxwzh
+凤凰中文,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzw
+凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
+凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
+星空卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=xkws
+翡翠台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
+TVB星河,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=tvbxh
+无线财经,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tvbcj
+Eleven Sports 1,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
+Eleven Sports 2,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
+动物星球,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dwxq
+东森电影,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsdy
+东森洋片,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
+好莱坞电影,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hlwdy
+网络电影,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=wldy
+私人影院,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sryy
+龙祥时代,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
+东森新闻,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dsxw
+戏剧,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=xj
+AXN,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=axn
+回旋镖动画,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hxbdh
+狼谷育乐,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lgyl
+Z频道,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=zpd
+韩国娱乐台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hgylt
+澳门莲花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
+天映经典,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tyjd
+CCTV1,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv1
+CCTV2,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv2
+CCTV3,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv3
+CCTV4,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv4
+CCTV5,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv5
+CCTV5+,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv5p
+CCTV6,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv6
+CCTV7,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv7
+CCTV8,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv8
+CCTV9,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv9
+CCTV10,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv10
+CCTV12,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv12
+CCTV13,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv13
+CCTV14,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cctv14
+CCTV16,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv16
+CCTV17,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cctv17
+CGTN,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cgtn
+CGTN记录,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=cgtnjl
+广东珠江,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdzj
+广东体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
+广东经济科教,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdjjkj
+深圳都市,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=szds
+深圳电视剧,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=szdsj
+深圳体育健康,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
+北京卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=bjws
+东方卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=dfws
+广东卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdws
+深圳卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=szws
+山东卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=sdws
+江苏卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jsws
+浙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=zjws
+东南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dnws
+江西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jxws
+安徽卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=ahws
+湖北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hubws
+湖南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hunws
+广西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gxws
+贵州卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gzws
+四川卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=scws
+重庆卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cqws
+甘肃卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gsws
+河北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hbws
+天津卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tjws
+辽宁卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lnws
+吉林卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jlws
+黑龙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hljws
+金鹰纪实,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=jyjs
+魅力足球,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
+中国电影,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=zgdy
+CHC家庭影院,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcjtyy
+CHC动作电影,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcdzdy
+CHC高清电影,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcgqdy
+广西都市,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxds
+广西新闻,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxxw
+广西影视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxys
+广西综艺旅游,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gxzyly
+南宁公共,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nngg
+南宁都市生活,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nndssh
+南宁新闻综合视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nnxwzh
+南宁影视娱乐,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=nnysyl
+玉林公共,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylgg
+玉林新闻综合,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=ylxwzh
 
 💞梅州酒店源,#genre#
 凤凰卫视中文,http://fyld.eatuo.com:9901/tsfile/live/1037_1.m3u8
