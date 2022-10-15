@@ -1,5 +1,7 @@
 💞香港,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://175.154.201.15:5003/custom19.m3u8
+凤凰中文,http://175.154.201.15:5003/custom71.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
@@ -10,6 +12,8 @@
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://175.154.201.15:5003/custom20.m3u8
+凤凰资讯,http://175.154.201.15:5003/custom72.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
@@ -476,6 +480,10 @@ CCTV风云剧场,http://117.148.179.147/PLTV/88888888/224/3221231604/index.m3u8
 CCTV电视指南,http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
 
 💙卫视频道,#genre#
+4K电影,http://175.154.201.15:5003/custom28.m3u8
+看电影,http://175.154.201.15:5003/custom29.m3u8
+麻辣体育,http://175.154.201.15:5003/custom59.m3u8
+求索频道,http://175.154.201.15:5003/custom67.m3u8
 安徽卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225886/index.m3u8?
 北京卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225651/index.m3u8?
 东方卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225718/index.m3u8?
