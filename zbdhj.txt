@@ -3483,9 +3483,9 @@ HBO,http://meumd.com:80/Denise01/denise001/108603
 HBO,http://meumd.com:80/Denise01/denise001/109556
 HBO 2,http://meumd.com:80/Denise01/denise001/110051
 HBO 2,http://meumd.com:80/Denise01/denise001/110050
-HBO+,http://meumd.com:80/Denise01/denise001/109544
-HBO+,http://meumd.com:80/Denise01/denise001/109543
-HBO+,http://meumd.com:80/Denise01/denise001/109542
+HBO PLUS,http://meumd.com:80/Denise01/denise001/109544
+HBO PLUS,http://meumd.com:80/Denise01/denise001/109543
+HBO PLUS,http://meumd.com:80/Denise01/denise001/109542
 HBO MUNDI,http://meumd.com:80/Denise01/denise001/109557
 HBO MUNDI,http://meumd.com:80/Denise01/denise001/110074
 HBO MUNDI,http://meumd.com:80/Denise01/denise001/109555
