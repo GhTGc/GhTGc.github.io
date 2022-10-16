@@ -2272,6 +2272,8 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
 红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25084
 红牛TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
+红牛TV,http://meumd.com:80/Denise01/denise001/109033
+红牛TV,http://meumd.com:80/Denise01/denise001/125654
 
 🐾🦚美国频道,#genre#
 A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2987.ts
@@ -3083,6 +3085,160 @@ beIN SPORTS FRENCH 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28865
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
 Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
 Brasil 2002: Os Bastidores do Penta (2022) Nacional,http://meumd.com:80/movie/Denise01/denise001/208552.mp4
+A&E,http://srv.newtop.tech:80/555666/555666/2162479
+A&E,http://srv.newtop.tech:80/555666/555666/2162520
+A&E,http://srv.newtop.tech:80/555666/555666/2162480
+A&E,http://srv.newtop.tech:80/555666/555666/2162545
+AMC,http://srv.newtop.tech:80/555666/555666/2162481
+AMC,http://srv.newtop.tech:80/555666/555666/2162521
+AMC,http://srv.newtop.tech:80/555666/555666/2162482
+AMC,http://srv.newtop.tech:80/555666/555666/2162546
+PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162529
+PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162498
+PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162556
+HBO,http://srv.newtop.tech:80/555666/555666/2163124
+HBO,http://srv.newtop.tech:80/555666/555666/2162969
+HBO,http://srv.newtop.tech:80/555666/555666/2162982
+HBO,http://srv.newtop.tech:80/555666/555666/2162970
+HBO,http://srv.newtop.tech:80/555666/555666/2162993
+HBO 2,http://srv.newtop.tech:80/555666/555666/2162965
+HBO 2,http://srv.newtop.tech:80/555666/555666/2162980
+HBO 2,http://srv.newtop.tech:80/555666/555666/2162966
+HBO 2,http://srv.newtop.tech:80/555666/555666/2162988
+HBO Familly,http://srv.newtop.tech:80/555666/555666/2162967
+HBO Familly,http://srv.newtop.tech:80/555666/555666/2162981
+HBO Familly,http://srv.newtop.tech:80/555666/555666/2162968
+HBO Familly,http://srv.newtop.tech:80/555666/555666/2162989
+HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162973
+HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162984
+HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162974
+HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162991
+HBO XTREME,http://srv.newtop.tech:80/555666/555666/2163130
+HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162978
+HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162987
+HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162979
+HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162995
+ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2163117
+ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162567
+ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162594
+ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162568
+ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162610
+ARTE 1,http://srv.newtop.tech:80/555666/555666/2162739
+ARTE 1,http://srv.newtop.tech:80/555666/555666/2162748
+ARTE 1,http://srv.newtop.tech:80/555666/555666/2162738
+ARTE 1,http://srv.newtop.tech:80/555666/555666/2162749
+AXN,http://srv.newtop.tech:80/555666/555666/2162483
+AXN,http://srv.newtop.tech:80/555666/555666/2162522
+AXN,http://srv.newtop.tech:80/555666/555666/2162484
+AXN,http://srv.newtop.tech:80/555666/555666/2162547
+BBC WORLD,http://srv.newtop.tech:80/555666/555666/2162677
+BBC WORLD,http://srv.newtop.tech:80/555666/555666/2162675
+CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162666
+CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162667
+CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162680
+COMBATE,http://srv.newtop.tech:80/555666/555666/2163119
+COMBATE,http://srv.newtop.tech:80/555666/555666/2163168
+COMBATE,http://srv.newtop.tech:80/555666/555666/2163169
+COMBATE,http://srv.newtop.tech:80/555666/555666/2163170
+COMBATE,http://srv.newtop.tech:80/555666/555666/2163202
+DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2163120
+DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162569
+DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162595
+DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162570
+DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162611
+DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162571
+DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162596
+DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162572
+DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162612
+DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162573
+DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162597
+DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162574
+DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162614
+DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162575
+DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162598
+DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162576
+DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162615
+DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162577
+DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162599
+DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162578
+DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162616
+DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162579
+DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162600
+DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162580
+DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162617
+DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162627
+DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162645
+DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162628
+DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162613
+DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162629
+DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162646
+DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162630
+DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162656
+E!,http://srv.newtop.tech:80/555666/555666/2162707
+E!,http://srv.newtop.tech:80/555666/555666/2162729
+E!,http://srv.newtop.tech:80/555666/555666/2162708
+E!,http://srv.newtop.tech:80/555666/555666/2162752
+Eleven Sports 01,http://srv.newtop.tech:80/555666/555666/2162439
+Eleven Sports 02,http://srv.newtop.tech:80/555666/555666/2162440
+Eleven Sports 03,http://srv.newtop.tech:80/555666/555666/2162441
+Eleven Sports 04,http://srv.newtop.tech:80/555666/555666/2162442
+Eleven Sports 05,http://srv.newtop.tech:80/555666/555666/2162443
+Eleven Sports 06,http://srv.newtop.tech:80/555666/555666/2162444
+Eleven Sports 07,http://srv.newtop.tech:80/555666/555666/2162445
+Eleven Sports 08,http://srv.newtop.tech:80/555666/555666/2162446
+Eleven Sports 09,http://srv.newtop.tech:80/555666/555666/2162447
+Eleven Sports 10,http://srv.newtop.tech:80/555666/555666/2162448
+ESPN,http://srv.newtop.tech:80/555666/555666/2163131
+ESPN 2,http://srv.newtop.tech:80/555666/555666/2163174
+ESPN 2,http://srv.newtop.tech:80/555666/555666/2163175
+ESPN 2,http://srv.newtop.tech:80/555666/555666/2163176
+ESPN 2,http://srv.newtop.tech:80/555666/555666/2163203
+ESPN 3,http://srv.newtop.tech:80/555666/555666/2163177
+ESPN 3,http://srv.newtop.tech:80/555666/555666/2163178
+ESPN 3,http://srv.newtop.tech:80/555666/555666/2163179
+ESPN 3,http://srv.newtop.tech:80/555666/555666/2163204
+ESPN 4,http://srv.newtop.tech:80/555666/555666/2163122
+ESPN 4,http://srv.newtop.tech:80/555666/555666/2163180
+ESPN 4,http://srv.newtop.tech:80/555666/555666/2163181
+ESPN 4,http://srv.newtop.tech:80/555666/555666/2163182
+ESPN 4,http://srv.newtop.tech:80/555666/555666/2163205
+ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163183
+ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163184
+ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163185
+ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163206
+ESPN,http://srv.newtop.tech:80/555666/555666/2163186
+ESPN,http://srv.newtop.tech:80/555666/555666/2163187
+ESPN,http://srv.newtop.tech:80/555666/555666/2163188
+ESPN,http://srv.newtop.tech:80/555666/555666/2163207
+FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162539
+FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162540
+FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162552
+FISH TV,http://srv.newtop.tech:80/555666/555666/2162607
+FISH TV,http://srv.newtop.tech:80/555666/555666/2162608
+FISH TV,http://srv.newtop.tech:80/555666/555666/2162618
+FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162709
+FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162730
+FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162710
+FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162753
+FORMULA 1 TV,http://srv.newtop.tech:80/555666/555666/2162475
+FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163133
+FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163171
+FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163172
+FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163173
+FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163208
+ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162589
+ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162603
+ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162590
+ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162621
+A FAZENDA 14 SINAL 1,http://srv.newtop.tech:80/555666/555666/2163054
+A FAZENDA 14 SINAL 2,http://srv.newtop.tech:80/555666/555666/2163055
+A FAZENDA 14 SINAL 3,http://srv.newtop.tech:80/555666/555666/2163056
+A FAZENDA 14 SINAL 4,http://srv.newtop.tech:80/555666/555666/2163057
+A FAZENDA 14 SINAL 5,http://srv.newtop.tech:80/555666/555666/2163058
+A FAZENDA 14 SINAL 6,http://srv.newtop.tech:80/555666/555666/2163059
+A FAZENDA 14 SINAL 7,http://srv.newtop.tech:80/555666/555666/2163060
+A FAZENDA 14 SINAL 8,http://srv.newtop.tech:80/555666/555666/2163061
+A FAZENDA 14 SINAL 9,http://srv.newtop.tech:80/555666/555666/2163062
 A&E,http://meumd.com:80/Denise01/denise001/108597
 A&E,http://meumd.com:80/Denise01/denise001/110046
 A&E,http://meumd.com:80/Denise01/denise001/110045
@@ -3158,7 +3314,6 @@ CANAL SONY,http://meumd.com:80/Denise01/denise001/108588
 CANAL SONY,http://meumd.com:80/Denise01/denise001/109562
 CANÇAO NOVA,http://meumd.com:80/Denise01/denise001/108694
 CANÇÃO NOVA,http://meumd.com:80/Denise01/denise001/137683
-CARTOON,http://meumd.com:80/Denise01/denise001/108948
 CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/108681
 CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110152
 CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110151
@@ -3447,27 +3602,6 @@ PRIME BOX BRASIL,http://meumd.com:80/Denise01/denise001/108332
 PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109460
 PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109459
 PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109458
-PT- A BOLA TV (LOW),http://meumd.com:80/Denise01/denise001/125694
-PT- E! ENTERTAINMENT,http://meumd.com:80/Denise01/denise001/126099
-PT- ELEVEN SPORTS 1 (LOW),http://meumd.com:80/Denise01/denise001/125693
-PT- ELEVEN SPORTS 2 (LOW),http://meumd.com:80/Denise01/denise001/125692
-PT- ELEVEN SPORTS 3 (LOW),http://meumd.com:80/Denise01/denise001/125691
-PT- ELEVEN SPORTS 4 (LOW),http://meumd.com:80/Denise01/denise001/125690
-PT- ELEVEN SPORTS 5 (LOW),http://meumd.com:80/Denise01/denise001/125689
-PT- ELEVEN SPORTS 6 (LOW),http://meumd.com:80/Denise01/denise001/125688
-PT- EUROSPORT 1 (LOW),http://meumd.com:80/Denise01/denise001/125687
-PT- FOX,http://meumd.com:80/Denise01/denise001/126098
-PT- FOX COMEDY,http://meumd.com:80/Denise01/denise001/126097
-PT- SPORTING TV (LOW),http://meumd.com:80/Denise01/denise001/125679
-PT- SPORT TV + (LOW),http://meumd.com:80/Denise01/denise001/125686
-PT- SPORT TV 1 (LOW),http://meumd.com:80/Denise01/denise001/125685
-PT- SPORT TV 2 (LOW),http://meumd.com:80/Denise01/denise001/125684
-PT- SPORT TV 3 (LOW),http://meumd.com:80/Denise01/denise001/125683
-PT- SPORT TV 4 (LOW),http://meumd.com:80/Denise01/denise001/125682
-PT- SPORT TV 5 (LOW),http://meumd.com:80/Denise01/denise001/125681
-PT- SPORT TV NBA (LOW),http://meumd.com:80/Denise01/denise001/125680
-RED BULL TV ,http://meumd.com:80/Denise01/denise001/109033
-RED BULL TV,http://meumd.com:80/Denise01/denise001/125654
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108400
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/109344
 SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108399
