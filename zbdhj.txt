@@ -3177,7 +3177,7 @@ HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/208
 HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/209
 HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81673
 HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/206
-HBO Familly,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/193
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/193
 HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/195
 HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81664
 HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/196
