@@ -2279,27 +2279,34 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 🐾🦚美国频道,#genre#
 A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2987.ts
 A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2988.ts
+WWE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1232
 WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
 WWE,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2373
 FIGHT BOX,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/530
+CNN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1155
+CNN US,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1156
 Nat Geo,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88502.ts
 Nat Geo,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2864.ts
 Nat Geo Wild,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2863.ts
 Nat Geo Wild,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88503.ts
+Paramount Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1214
 Paramount Network,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/14839
-HBO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2893.ts
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1181
 HBO,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2336
 HBO,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88471.ts
 HBO 2,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88472.ts
 HBO 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
 HBO 2,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/5844
+HBO Zone,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1183
 HBO Zone,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88476.ts
 HBO Zone,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
 HBO Zone,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6328
 HBO Signature,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
 HBO Signature,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6305
+HBO Signature [ES],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1182
 HBO Family,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
 HBO Family,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/760
+HBO Comedy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1180
 HBO Comedy,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
 HBO Comedy,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2335
 CINEMAXX MORE MAXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
@@ -2309,7 +2316,8 @@ CINEMAX MOVIEMAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/
 CINEMAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2958.ts
 CINEMAX ACTION MAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2959.ts
 ABC EAST HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2986.ts
-YES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2989.ts
+Yes Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1233
+Yes Network,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2989.ts
 VELOCITY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2990.ts
 US- USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2991.ts
 US- DESTINATION-AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2992.ts
@@ -2422,7 +2430,8 @@ AMC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2982.ts
 ABC WEST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2983.ts
 ABC NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2984.ts
 ABC NEWS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2985.ts
-WGN AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2786.ts
+WGN America,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1231
+WGN America,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2786.ts
 WE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2787.ts
 VICELAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2788.ts
 VH1 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2789.ts
@@ -3082,672 +3091,1034 @@ beIN SPORTS 3 ENG,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/69113
 beIN SPORTS FRENCH 1,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28864
 beIN SPORTS FRENCH 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28865
 
-💞南美,#genre#
+💞巴西,#genre#
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
 Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
 Brasil 2002: Os Bastidores do Penta (2022) Nacional,http://meumd.com:80/movie/Denise01/denise001/208552.mp4
-A&E,http://srv.newtop.tech:80/555666/555666/2162479
-A&E,http://srv.newtop.tech:80/555666/555666/2162520
-A&E,http://srv.newtop.tech:80/555666/555666/2162480
-A&E,http://srv.newtop.tech:80/555666/555666/2162545
-AMC,http://srv.newtop.tech:80/555666/555666/2162481
-AMC,http://srv.newtop.tech:80/555666/555666/2162521
-AMC,http://srv.newtop.tech:80/555666/555666/2162482
-AMC,http://srv.newtop.tech:80/555666/555666/2162546
-PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162529
-PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162498
-PARAMOUNT,http://srv.newtop.tech:80/555666/555666/2162556
-HBO,http://srv.newtop.tech:80/555666/555666/2163124
-HBO,http://srv.newtop.tech:80/555666/555666/2162969
-HBO,http://srv.newtop.tech:80/555666/555666/2162982
-HBO,http://srv.newtop.tech:80/555666/555666/2162970
-HBO,http://srv.newtop.tech:80/555666/555666/2162993
-HBO 2,http://srv.newtop.tech:80/555666/555666/2162965
-HBO 2,http://srv.newtop.tech:80/555666/555666/2162980
-HBO 2,http://srv.newtop.tech:80/555666/555666/2162966
-HBO 2,http://srv.newtop.tech:80/555666/555666/2162988
-HBO Familly,http://srv.newtop.tech:80/555666/555666/2162967
-HBO Familly,http://srv.newtop.tech:80/555666/555666/2162981
-HBO Familly,http://srv.newtop.tech:80/555666/555666/2162968
-HBO Familly,http://srv.newtop.tech:80/555666/555666/2162989
-HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162973
-HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162984
-HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162974
-HBO PLUS,http://srv.newtop.tech:80/555666/555666/2162991
-HBO XTREME,http://srv.newtop.tech:80/555666/555666/2163130
-HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162978
-HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162987
-HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162979
-HBO XTREME,http://srv.newtop.tech:80/555666/555666/2162995
-ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2163117
-ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162567
-ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162594
-ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162568
-ANIMAL PLANET,http://srv.newtop.tech:80/555666/555666/2162610
-ARTE 1,http://srv.newtop.tech:80/555666/555666/2162739
-ARTE 1,http://srv.newtop.tech:80/555666/555666/2162748
-ARTE 1,http://srv.newtop.tech:80/555666/555666/2162738
-ARTE 1,http://srv.newtop.tech:80/555666/555666/2162749
-AXN,http://srv.newtop.tech:80/555666/555666/2162483
-AXN,http://srv.newtop.tech:80/555666/555666/2162522
-AXN,http://srv.newtop.tech:80/555666/555666/2162484
-AXN,http://srv.newtop.tech:80/555666/555666/2162547
-BBC WORLD,http://srv.newtop.tech:80/555666/555666/2162677
-BBC WORLD,http://srv.newtop.tech:80/555666/555666/2162675
-CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162666
-CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162667
-CNN BRASIL,http://srv.newtop.tech:80/555666/555666/2162680
-COMBATE,http://srv.newtop.tech:80/555666/555666/2163119
-COMBATE,http://srv.newtop.tech:80/555666/555666/2163168
-COMBATE,http://srv.newtop.tech:80/555666/555666/2163169
-COMBATE,http://srv.newtop.tech:80/555666/555666/2163170
-COMBATE,http://srv.newtop.tech:80/555666/555666/2163202
-DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2163120
-DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162569
-DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162595
-DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162570
-DISCOVERY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162611
-DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162571
-DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162596
-DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162572
-DISCOVERY H&H,http://srv.newtop.tech:80/555666/555666/2162612
-DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162573
-DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162597
-DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162574
-DISCOVERY SCIENCE,http://srv.newtop.tech:80/555666/555666/2162614
-DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162575
-DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162598
-DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162576
-DISCOVERY THEATER,http://srv.newtop.tech:80/555666/555666/2162615
-DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162577
-DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162599
-DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162578
-DISCOVERY TURBO,http://srv.newtop.tech:80/555666/555666/2162616
-DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162579
-DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162600
-DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162580
-DISCOVERY WORLD,http://srv.newtop.tech:80/555666/555666/2162617
-DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162627
-DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162645
-DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162628
-DISCOVERY KIDS,http://srv.newtop.tech:80/555666/555666/2162613
-DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162629
-DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162646
-DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162630
-DISNEY CHANNEL,http://srv.newtop.tech:80/555666/555666/2162656
-E!,http://srv.newtop.tech:80/555666/555666/2162707
-E!,http://srv.newtop.tech:80/555666/555666/2162729
-E!,http://srv.newtop.tech:80/555666/555666/2162708
-E!,http://srv.newtop.tech:80/555666/555666/2162752
-Eleven Sports 01,http://srv.newtop.tech:80/555666/555666/2162439
-Eleven Sports 02,http://srv.newtop.tech:80/555666/555666/2162440
-Eleven Sports 03,http://srv.newtop.tech:80/555666/555666/2162441
-Eleven Sports 04,http://srv.newtop.tech:80/555666/555666/2162442
-Eleven Sports 05,http://srv.newtop.tech:80/555666/555666/2162443
-Eleven Sports 06,http://srv.newtop.tech:80/555666/555666/2162444
-Eleven Sports 07,http://srv.newtop.tech:80/555666/555666/2162445
-Eleven Sports 08,http://srv.newtop.tech:80/555666/555666/2162446
-Eleven Sports 09,http://srv.newtop.tech:80/555666/555666/2162447
-Eleven Sports 10,http://srv.newtop.tech:80/555666/555666/2162448
-ESPN,http://srv.newtop.tech:80/555666/555666/2163131
-ESPN 2,http://srv.newtop.tech:80/555666/555666/2163174
-ESPN 2,http://srv.newtop.tech:80/555666/555666/2163175
-ESPN 2,http://srv.newtop.tech:80/555666/555666/2163176
-ESPN 2,http://srv.newtop.tech:80/555666/555666/2163203
-ESPN 3,http://srv.newtop.tech:80/555666/555666/2163177
-ESPN 3,http://srv.newtop.tech:80/555666/555666/2163178
-ESPN 3,http://srv.newtop.tech:80/555666/555666/2163179
-ESPN 3,http://srv.newtop.tech:80/555666/555666/2163204
-ESPN 4,http://srv.newtop.tech:80/555666/555666/2163122
-ESPN 4,http://srv.newtop.tech:80/555666/555666/2163180
-ESPN 4,http://srv.newtop.tech:80/555666/555666/2163181
-ESPN 4,http://srv.newtop.tech:80/555666/555666/2163182
-ESPN 4,http://srv.newtop.tech:80/555666/555666/2163205
-ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163183
-ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163184
-ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163185
-ESPN EXTRA,http://srv.newtop.tech:80/555666/555666/2163206
-ESPN,http://srv.newtop.tech:80/555666/555666/2163186
-ESPN,http://srv.newtop.tech:80/555666/555666/2163187
-ESPN,http://srv.newtop.tech:80/555666/555666/2163188
-ESPN,http://srv.newtop.tech:80/555666/555666/2163207
-FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162539
-FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162540
-FILM & ARTS,http://srv.newtop.tech:80/555666/555666/2162552
-FISH TV,http://srv.newtop.tech:80/555666/555666/2162607
-FISH TV,http://srv.newtop.tech:80/555666/555666/2162608
-FISH TV,http://srv.newtop.tech:80/555666/555666/2162618
-FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162709
-FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162730
-FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162710
-FOOD NETWORK,http://srv.newtop.tech:80/555666/555666/2162753
-FORMULA 1 TV,http://srv.newtop.tech:80/555666/555666/2162475
-FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163133
-FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163171
-FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163172
-FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163173
-FOX SPORTS 2,http://srv.newtop.tech:80/555666/555666/2163208
-ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162589
-ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162603
-ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162590
-ID DISCOVERY,http://srv.newtop.tech:80/555666/555666/2162621
-A FAZENDA 14 SINAL 1,http://srv.newtop.tech:80/555666/555666/2163054
-A FAZENDA 14 SINAL 2,http://srv.newtop.tech:80/555666/555666/2163055
-A FAZENDA 14 SINAL 3,http://srv.newtop.tech:80/555666/555666/2163056
-A FAZENDA 14 SINAL 4,http://srv.newtop.tech:80/555666/555666/2163057
-A FAZENDA 14 SINAL 5,http://srv.newtop.tech:80/555666/555666/2163058
-A FAZENDA 14 SINAL 6,http://srv.newtop.tech:80/555666/555666/2163059
-A FAZENDA 14 SINAL 7,http://srv.newtop.tech:80/555666/555666/2163060
-A FAZENDA 14 SINAL 8,http://srv.newtop.tech:80/555666/555666/2163061
-A FAZENDA 14 SINAL 9,http://srv.newtop.tech:80/555666/555666/2163062
-A&E,http://meumd.com:80/Denise01/denise001/108597
-A&E,http://meumd.com:80/Denise01/denise001/110046
-A&E,http://meumd.com:80/Denise01/denise001/110045
-A&E,http://meumd.com:80/Denise01/denise001/108598
-A&E,http://meumd.com:80/Denise01/denise001/108599
-AMC,http://meumd.com:80/Denise01/denise001/108593
-AMC,http://meumd.com:80/Denise01/denise001/110042
-AMC,http://meumd.com:80/Denise01/denise001/110041
-AMC,http://meumd.com:80/Denise01/denise001/108594
-AMC,http://meumd.com:80/Denise01/denise001/108595
-AXN,http://meumd.com:80/Denise01/denise001/108592
-AXN,http://meumd.com:80/Denise01/denise001/110037
-AXN,http://meumd.com:80/Denise01/denise001/109567
-AXN,http://meumd.com:80/Denise01/denise001/110036
-AXN,http://meumd.com:80/Denise01/denise001/108590
-AXN,http://meumd.com:80/Denise01/denise001/109566
-AXN,http://meumd.com:80/Denise01/denise001/108591
-AXN,http://meumd.com:80/Denise01/denise001/109565
-ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/108964
-ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109441
-ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109440
-ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109439
-ANIMAL PLANET,http://meumd.com:80/Denise01/denise001/109438
-A BOLA TV,http://meumd.com:80/Denise01/denise001/125653
-A BOLA TV,http://meumd.com:80/Denise01/denise001/125652
-AGROMAIS,http://meumd.com:80/Denise01/denise001/189512
-AGROMAIS,http://meumd.com:80/Denise01/denise001/189511
-AGROMAIS,http://meumd.com:80/Denise01/denise001/189513
-AGROMAIS,http://meumd.com:80/Denise01/denise001/189514
-AGROMAIS,http://meumd.com:80/Denise01/denise001/189515
-ARTE 1,http://meumd.com:80/Denise01/denise001/109498
-ARTE 1,http://meumd.com:80/Denise01/denise001/109496
-ARTE 1,http://meumd.com:80/Denise01/denise001/109495
-BAND,http://meumd.com:80/Denise01/denise001/108301
-BAND NEWS,http://meumd.com:80/Denise01/denise001/118478
-BAND NEWS,http://meumd.com:80/Denise01/denise001/108459
-BAND NEWS,http://meumd.com:80/Denise01/denise001/118477
-BAND NEWS,http://meumd.com:80/Denise01/denise001/108460
-BAND NEWS,http://meumd.com:80/Denise01/denise001/108458
-BAND SP,http://meumd.com:80/Denise01/denise001/141684
-BAND SP,http://meumd.com:80/Denise01/denise001/141685
-BAND SP,http://meumd.com:80/Denise01/denise001/141686
-BAND SPORTS,http://meumd.com:80/Denise01/denise001/110295
-BAND SPORTS,http://meumd.com:80/Denise01/denise001/110294
-BAND SPORTS,http://meumd.com:80/Denise01/denise001/110293
-BAND SPORTS,http://meumd.com:80/Denise01/denise001/110292
-BIS,http://meumd.com:80/Denise01/denise001/108785
-BIS,http://meumd.com:80/Denise01/denise001/108783
-BIS,http://meumd.com:80/Denise01/denise001/108784
-BOA VONTADE TV,http://meumd.com:80/Denise01/denise001/108695
-BOB ESPONJA 24H,http://meumd.com:80/Denise01/denise001/109065
-BOOMBERANG,http://meumd.com:80/Denise01/denise001/108685
-BOOMERANG,http://meumd.com:80/Denise01/denise001/110158
-BOOMERANG dual audio,http://meumd.com:80/Denise01/denise001/186349
-BOOMERANG,http://meumd.com:80/Denise01/denise001/110157
-BOOMERANG,http://meumd.com:80/Denise01/denise001/110156
-BOOMERANG,http://meumd.com:80/Denise01/denise001/110155
-BOOMERANG,http://meumd.com:80/Denise01/denise001/110154
-CAMERA AO VIVO - GOIANIA GO,http://meumd.com:80/Denise01/denise001/140598
-CAMERA AO VIVO - RIO DE JANEIRO,http://meumd.com:80/Denise01/denise001/140604
-CAMERA AO VIVO -BARRA DA TIJUCA,http://meumd.com:80/Denise01/denise001/140601
-CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108353
-CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108354
-CANAL BRASIL,http://meumd.com:80/Denise01/denise001/108352
-CANAL DO BOI,http://meumd.com:80/Denise01/denise001/108295
-CANAL RURAL,http://meumd.com:80/Denise01/denise001/108294
-CANAL SONY,http://meumd.com:80/Denise01/denise001/108589
-CANAL SONY,http://meumd.com:80/Denise01/denise001/109564
-CANAL SONY,http://meumd.com:80/Denise01/denise001/108586
-CANAL SONY,http://meumd.com:80/Denise01/denise001/108587
-CANAL SONY,http://meumd.com:80/Denise01/denise001/109563
-CANAL SONY,http://meumd.com:80/Denise01/denise001/108588
-CANAL SONY,http://meumd.com:80/Denise01/denise001/109562
-CANÇAO NOVA,http://meumd.com:80/Denise01/denise001/108694
-CANÇÃO NOVA,http://meumd.com:80/Denise01/denise001/137683
-CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/108681
-CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110152
-CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/110151
-CARTOON NETWORK ,http://meumd.com:80/Denise01/denise001/186348
-CARTOON NETWORK,http://meumd.com:80/Denise01/denise001/186347
-CINEMAX,http://meumd.com:80/Denise01/denise001/108585
-CINEMAX,http://meumd.com:80/Denise01/denise001/110029
-CINEMAX,http://meumd.com:80/Denise01/denise001/110028
-CINEMAX,http://meumd.com:80/Denise01/denise001/108583
-CINEMAX,http://meumd.com:80/Denise01/denise001/108584
-CNN BRASIL,http://meumd.com:80/Denise01/denise001/108457
-CNN BRASIL,http://meumd.com:80/Denise01/denise001/108454
-CNN BRASIL,http://meumd.com:80/Denise01/denise001/108455
-CNN INTERNACIONAL,http://meumd.com:80/Denise01/denise001/108456
-COMBATE,http://meumd.com:80/Denise01/denise001/108946
-COMBATE,http://meumd.com:80/Denise01/denise001/110263
-COMBATE,http://meumd.com:80/Denise01/denise001/110261
-COMBATE,http://meumd.com:80/Denise01/denise001/110260
-COMBATE,http://meumd.com:80/Denise01/denise001/110259
-COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109490
-COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109489
-COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/123712
-COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/109487
-COMEDY CENTRAL,http://meumd.com:80/Denise01/denise001/108351
-COUNTRY MUSIC COICE,http://meumd.com:80/Denise01/denise001/125946
-CURTA!,http://meumd.com:80/Denise01/denise001/109485
-CURTA!,http://meumd.com:80/Denise01/denise001/109483
-CURTA!,http://meumd.com:80/Denise01/denise001/109482
-DANCE MUSIC CHOCE,http://meumd.com:80/Denise01/denise001/125945
-DESENHOS BIBLICOS 24H,http://meumd.com:80/Denise01/denise001/111160
-HISTORY,http://meumd.com:80/Denise01/denise001/108410
-HISTORY,http://meumd.com:80/Denise01/denise001/118479
-HISTORY,http://meumd.com:80/Denise01/denise001/118480
-HISTORY,http://meumd.com:80/Denise01/denise001/108411
-HISTORY,http://meumd.com:80/Denise01/denise001/108412
-NATGEO,http://meumd.com:80/Denise01/denise001/108961
-NATGEO,http://meumd.com:80/Denise01/denise001/108406
-NATGEO,http://meumd.com:80/Denise01/denise001/140562
-NATGEO,http://meumd.com:80/Denise01/denise001/108401
-NATGEO,http://meumd.com:80/Denise01/denise001/108403
-NATGEO,http://meumd.com:80/Denise01/denise001/109345
-DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/108962
-DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109437
-DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109435
-DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109434
-DISCOVERY CHANNEL,http://meumd.com:80/Denise01/denise001/109433
-DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108432
-DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/115675
-DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/115676
-DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108424
-DISCOVERY H&H,http://meumd.com:80/Denise01/denise001/108431
-DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109432
-DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109431
-DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109430
-DISCOVERY SCIENCE,http://meumd.com:80/Denise01/denise001/109429
-DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109428
-DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109427
-DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/109426
-DISCOVERY THEATER,http://meumd.com:80/Denise01/denise001/108430
-DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/113929
-DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/113930
-DISCOVERY TURBO,http://meumd.com:80/Denise01/denise001/108427
-DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108435
-DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108421
-DISCOVERY WORLD,http://meumd.com:80/Denise01/denise001/108428
-DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/186346
-DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/110147
-DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/110146
-DISCOVERY KIDS.,http://meumd.com:80/Denise01/denise001/108678
-DISCOVERY KIDS,http://meumd.com:80/Denise01/denise001/108679
-DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/108676
-DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/110142
-DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/186341
-DISNEY CHANNEL,http://meumd.com:80/Denise01/denise001/108670
-DOG TV,http://meumd.com:80/Denise01/denise001/108348
-DOG TV,http://meumd.com:80/Denise01/denise001/108347
-DOG TV,http://meumd.com:80/Denise01/denise001/115674
-E!,http://meumd.com:80/Denise01/denise001/109481
-E!,http://meumd.com:80/Denise01/denise001/109480
-E!,http://meumd.com:80/Denise01/denise001/109479
-E!,http://meumd.com:80/Denise01/denise001/109478
-ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125726
-ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125727
-ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125728
-ELEVEN SPORTS 1,http://meumd.com:80/Denise01/denise001/125729
-ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125723
-ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125724
-ELEVEN SPORTS 2,http://meumd.com:80/Denise01/denise001/125725
-ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125720
-ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125721
-ELEVEN SPORTS 3,http://meumd.com:80/Denise01/denise001/125722
-ESPN,http://meumd.com:80/Denise01/denise001/108945
-ESPN 2,http://meumd.com:80/Denise01/denise001/110243
-ESPN 3,http://meumd.com:80/Denise01/denise001/189506
-ESPN 3,http://meumd.com:80/Denise01/denise001/189505
-ESPN 4,http://meumd.com:80/Denise01/denise001/108947
-ESPN EXTRA,http://meumd.com:80/Denise01/denise001/108720
-ESPN EXTRA,http://meumd.com:80/Denise01/denise001/110252
-ESPN EXTRA,http://meumd.com:80/Denise01/denise001/142333
-ESPN EXTRA,http://meumd.com:80/Denise01/denise001/108716
-ESPN,http://meumd.com:80/Denise01/denise001/142332
-ESPN,http://meumd.com:80/Denise01/denise001/110247
-ESPN,http://meumd.com:80/Denise01/denise001/108712
-ESPN,http://meumd.com:80/Denise01/denise001/110245
-ESPN 2,http://meumd.com:80/Denise01/denise001/108721
-ESPN 2,http://meumd.com:80/Denise01/denise001/108714
-ESPN 2,http://meumd.com:80/Denise01/denise001/108717
-ESPN 3,http://meumd.com:80/Denise01/denise001/189507
-ESPN 3,http://meumd.com:80/Denise01/denise001/189504
-ESPN 3,http://meumd.com:80/Denise01/denise001/189503
-ESPN 4,http://meumd.com:80/Denise01/denise001/142338
-ESPN 4,http://meumd.com:80/Denise01/denise001/108736
-ESPN 4,http://meumd.com:80/Denise01/denise001/142339
-EU A PATROA E AS CRIANÇAS 1 TEMPORADA,http://meumd.com:80/Denise01/denise001/109121
-FILM & ARTS,http://meumd.com:80/Denise01/denise001/130690
-FILM & ARTS,http://meumd.com:80/Denise01/denise001/108582
-FILM & ARTS,http://meumd.com:80/Denise01/denise001/130689
-FASHION TV,http://meumd.com:80/Denise01/denise001/108346
-FASHION TV,http://meumd.com:80/Denise01/denise001/109476
-FASHION TV,http://meumd.com:80/Denise01/denise001/108345
-FASHION TV,http://meumd.com:80/Denise01/denise001/109474
-FISH TV,http://meumd.com:80/Denise01/denise001/110240
-FISH TV,http://meumd.com:80/Denise01/denise001/110239
-FISH TV,http://meumd.com:80/Denise01/denise001/110238
-FISH TV,http://meumd.com:80/Denise01/denise001/110237
-FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108343
-FOOD NETWORK,http://meumd.com:80/Denise01/denise001/109472
-FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108344
-FOOD NETWORK,http://meumd.com:80/Denise01/denise001/108342
-FOX CRIME PT,http://meumd.com:80/Denise01/denise001/126096
-FOX LIFE,http://meumd.com:80/Denise01/denise001/109032
-FOX NEWS ,http://meumd.com:80/Denise01/denise001/126031
-FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110290
-FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110291
-FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110289
-FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110288
-FOX SPORTS 2,http://meumd.com:80/Denise01/denise001/110287
-FURACAO TV,http://meumd.com:80/Denise01/denise001/134251
-FX,http://meumd.com:80/Denise01/denise001/108573
-FX,http://meumd.com:80/Denise01/denise001/110024
-FX,http://meumd.com:80/Denise01/denise001/109561
-FX,http://meumd.com:80/Denise01/denise001/108576
-FX,http://meumd.com:80/Denise01/denise001/108575
-FX,http://meumd.com:80/Denise01/denise001/109560
-FX,http://meumd.com:80/Denise01/denise001/108574
-FX,http://meumd.com:80/Denise01/denise001/109559
-GENESIS 24H,http://meumd.com:80/Denise01/denise001/137668
-GNT,http://meumd.com:80/Denise01/denise001/108340
-GNT,http://meumd.com:80/Denise01/denise001/109468
-GNT,http://meumd.com:80/Denise01/denise001/109467
-GNT,http://meumd.com:80/Denise01/denise001/108341
-GNT,http://meumd.com:80/Denise01/denise001/108339
-GOLF CHANNEL,http://meumd.com:80/Denise01/denise001/181538
-H2,http://meumd.com:80/Denise01/denise001/108417
-H2,http://meumd.com:80/Denise01/denise001/108415
-H2,http://meumd.com:80/Denise01/denise001/108416
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/108568
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/108566
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/108567
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/110015
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/110014
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/110013
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/110012
-PARAMOUNT,http://meumd.com:80/Denise01/denise001/110011
-HBO,http://meumd.com:80/Denise01/denise001/109558
-HBO,http://meumd.com:80/Denise01/denise001/108603
-HBO,http://meumd.com:80/Denise01/denise001/109556
-HBO 2,http://meumd.com:80/Denise01/denise001/110051
-HBO 2,http://meumd.com:80/Denise01/denise001/110050
-HBO PLUS,http://meumd.com:80/Denise01/denise001/109544
-HBO PLUS,http://meumd.com:80/Denise01/denise001/109543
-HBO PLUS,http://meumd.com:80/Denise01/denise001/109542
-HBO MUNDI,http://meumd.com:80/Denise01/denise001/109557
-HBO MUNDI,http://meumd.com:80/Denise01/denise001/110074
-HBO MUNDI,http://meumd.com:80/Denise01/denise001/109555
-HBO MUNDI,http://meumd.com:80/Denise01/denise001/109554
-HBO POP,http://meumd.com:80/Denise01/denise001/109553
-HBO POP,http://meumd.com:80/Denise01/denise001/109552
-HBO POP,http://meumd.com:80/Denise01/denise001/109551
-HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/110065
-HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/109549
-HBO SIGNATURE,http://meumd.com:80/Denise01/denise001/109548
-HBO XTREME,http://meumd.com:80/Denise01/denise001/142906
-HBO XTREME,http://meumd.com:80/Denise01/denise001/109547
-HBO FAMILY,http://meumd.com:80/Denise01/denise001/110082
-HBO LEGENDADO,http://meumd.com:80/Denise01/denise001/108977
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108541
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109971
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109541
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108538
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/108540
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109540
-WARNER CHANNEL,http://meumd.com:80/Denise01/denise001/109539
-UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108542
-UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/109976
-UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/109975
-UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108543
-UNIVERSAL TV,http://meumd.com:80/Denise01/denise001/108544
-HITS LIST CHOIC,http://meumd.com:80/Denise01/denise001/125943
-HOLLYWOOD PT,http://meumd.com:80/Denise01/denise001/126095
-IT- RAI NEWS24,http://meumd.com:80/Denise01/denise001/126074
-IT- RAI SPORT+,http://meumd.com:80/Denise01/denise001/125704
-JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/173061
-JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172922
-JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/173060
-JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172921
-JOVEM PAN NEWS,http://meumd.com:80/Denise01/denise001/172920
-LIFETIME,http://meumd.com:80/Denise01/denise001/109464
-LIFETIME,http://meumd.com:80/Denise01/denise001/109463
-LIFETIME,http://meumd.com:80/Denise01/denise001/109462
-LIFETIME,http://meumd.com:80/Denise01/denise001/109461
-LOADING,http://meumd.com:80/Denise01/denise001/130702
-LOADING,http://meumd.com:80/Denise01/denise001/130701
-LOADING,http://meumd.com:80/Denise01/denise001/130700
-LUCAS NETO 24H,http://meumd.com:80/Denise01/denise001/137674
-MAIS GLOBO SAT,http://meumd.com:80/Denise01/denise001/108335
-MAIS GLOBO SAT,http://meumd.com:80/Denise01/denise001/108334
-MEGA MAN 24H,http://meumd.com:80/Denise01/denise001/137672
-MEGAPIX,http://meumd.com:80/Denise01/denise001/108960
-MEGAPIX,http://meumd.com:80/Denise01/denise001/108569
-MEGAPIX,http://meumd.com:80/Denise01/denise001/110019
-MEGAPIX,http://meumd.com:80/Denise01/denise001/109519
-MEGAPIX,http://meumd.com:80/Denise01/denise001/108571
-MEGAPIX,http://meumd.com:80/Denise01/denise001/110018
-MEGAPIX,http://meumd.com:80/Denise01/denise001/108570
-MEGAPIX,http://meumd.com:80/Denise01/denise001/109518
-MEGAPIX,http://meumd.com:80/Denise01/denise001/108572
-MEGAPIX,http://meumd.com:80/Denise01/denise001/109517
-MULTISHOW,http://meumd.com:80/Denise01/denise001/108943
-MULTISHOW,http://meumd.com:80/Denise01/denise001/108776
-MULTISHOW,http://meumd.com:80/Denise01/denise001/115677
-MULTISHOW,http://meumd.com:80/Denise01/denise001/108774
-MULTISHOW,http://meumd.com:80/Denise01/denise001/108775
-NBA TV,http://meumd.com:80/Denise01/denise001/125702
-NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145392
-NSC BLUMENAU,http://meumd.com:80/Denise01/denise001/145393
-NSC TV CHAPECO -GLOBO,http://meumd.com:80/Denise01/denise001/140536
-NSC TV CHAPECO -GLOBO,http://meumd.com:80/Denise01/denise001/140537
-OFF,http://meumd.com:80/Denise01/denise001/110268
-OFF,http://meumd.com:80/Denise01/denise001/110267
-OFF,http://meumd.com:80/Denise01/denise001/110266
-OFF,http://meumd.com:80/Denise01/denise001/110265
-OFF,http://meumd.com:80/Denise01/denise001/110264
-O REI DO GADO 24H,http://meumd.com:80/Denise01/denise001/137671
-O RICO E LAZARO 24H,http://meumd.com:80/Denise01/denise001/137669
-PLENITUDE TV,http://meumd.com:80/Denise01/denise001/111253
-POP & COUNTRY COICE,http://meumd.com:80/Denise01/denise001/125939
-POP LATINO MUSI CHOICE,http://meumd.com:80/Denise01/denise001/125938
-MOVISTAR LA LIGA,http://meumd.com:80/Denise01/denise001/126027
-PREMIERE 1,http://meumd.com:80/Denise01/denise001/108755
-PREMIERE 2,http://meumd.com:80/Denise01/denise001/110362
-PREMIERE 2,http://meumd.com:80/Denise01/denise001/110361
-PREMIERE 2,http://meumd.com:80/Denise01/denise001/110360
-PREMIERE 2,http://meumd.com:80/Denise01/denise001/110359
-PREMIERE 3,http://meumd.com:80/Denise01/denise001/110358
-PREMIERE 3,http://meumd.com:80/Denise01/denise001/110357
-PREMIERE 3,http://meumd.com:80/Denise01/denise001/110356
-PREMIERE 3,http://meumd.com:80/Denise01/denise001/110355
-PREMIERE 4,http://meumd.com:80/Denise01/denise001/110354
-PREMIERE 4,http://meumd.com:80/Denise01/denise001/110353
-PREMIERE 4,http://meumd.com:80/Denise01/denise001/110352
-PREMIERE 4,http://meumd.com:80/Denise01/denise001/108757
-PREMIERE 5,http://meumd.com:80/Denise01/denise001/110350
-PREMIERE 5,http://meumd.com:80/Denise01/denise001/110349
-PREMIERE 5,http://meumd.com:80/Denise01/denise001/110348
-PREMIERE 5,http://meumd.com:80/Denise01/denise001/110347
-PREMIERE 6,http://meumd.com:80/Denise01/denise001/110346
-PREMIERE 6,http://meumd.com:80/Denise01/denise001/110345
-PREMIERE 6,http://meumd.com:80/Denise01/denise001/110344
-PREMIERE 6,http://meumd.com:80/Denise01/denise001/110343
-PREMIERE 7,http://meumd.com:80/Denise01/denise001/110342
-PREMIERE 7,http://meumd.com:80/Denise01/denise001/110341
-PREMIERE 7,http://meumd.com:80/Denise01/denise001/110340
-PREMIERE 7,http://meumd.com:80/Denise01/denise001/110339
-PREMIERE 8,http://meumd.com:80/Denise01/denise001/142337
-PREMIERE 9,http://meumd.com:80/Denise01/denise001/110335
-PREMIERE 9,http://meumd.com:80/Denise01/denise001/110334
-PREMIERE 9,http://meumd.com:80/Denise01/denise001/110333
-PREMIERE 9,http://meumd.com:80/Denise01/denise001/110332
-PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108742
-PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108749
-PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108942
-PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108743
-PREMIERE CLUBES,http://meumd.com:80/Denise01/denise001/108750
-PRIME BOX BRASIL,http://meumd.com:80/Denise01/denise001/108332
-PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109460
-PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109459
-PRIME BOX BRAZIL,http://meumd.com:80/Denise01/denise001/109458
-SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108400
-SMITHSONIAN,http://meumd.com:80/Denise01/denise001/109344
-SMITHSONIAN,http://meumd.com:80/Denise01/denise001/108399
-SMITHSONIAN.,http://meumd.com:80/Denise01/denise001/109343
-SPACE,http://meumd.com:80/Denise01/denise001/108959
-SPACE,http://meumd.com:80/Denise01/denise001/108565
-SPACE,http://meumd.com:80/Denise01/denise001/109516
-SPACE,http://meumd.com:80/Denise01/denise001/108562
-SPACE,http://meumd.com:80/Denise01/denise001/108563
-SPACE,http://meumd.com:80/Denise01/denise001/109515
-SPACE,http://meumd.com:80/Denise01/denise001/109514
-SPORT TV + ,http://meumd.com:80/Denise01/denise001/125678
-SPORT TV 2,http://meumd.com:80/Denise01/denise001/125675
-SPORT TV 2,http://meumd.com:80/Denise01/denise001/125676
-SPORT TV 2,http://meumd.com:80/Denise01/denise001/125677
-SPORT TV 3,http://meumd.com:80/Denise01/denise001/125674
-SPORT TV 3,http://meumd.com:80/Denise01/denise001/125672
-SPORT TV 3,http://meumd.com:80/Denise01/denise001/125673
-SPORT TV 4,http://meumd.com:80/Denise01/denise001/125671
-SPORT TV 4,http://meumd.com:80/Denise01/denise001/125669
-SPORT TV 4,http://meumd.com:80/Denise01/denise001/125670
-SPORT TV 5,http://meumd.com:80/Denise01/denise001/125668
-SPORT TV 5,http://meumd.com:80/Denise01/denise001/125666
-SPORT TV 5,http://meumd.com:80/Denise01/denise001/125667
-SPORT TV NBA,http://meumd.com:80/Denise01/denise001/125665
-SPORTV 2,http://meumd.com:80/Denise01/denise001/110276
-SPORTV 2,http://meumd.com:80/Denise01/denise001/110275
-SPORTV 2,http://meumd.com:80/Denise01/denise001/110274
-SPORTV 2,http://meumd.com:80/Denise01/denise001/108703
-SPORTV 3,http://meumd.com:80/Denise01/denise001/110271
-SPORTV 3,http://meumd.com:80/Denise01/denise001/110270
-SPORTV 3,http://meumd.com:80/Denise01/denise001/142335
-SPORTV,http://meumd.com:80/Denise01/denise001/108944
-SPORTV,http://meumd.com:80/Denise01/denise001/142334
-SPORTV,http://meumd.com:80/Denise01/denise001/110279
-SPORTV,http://meumd.com:80/Denise01/denise001/142336
-SPORTV,http://meumd.com:80/Denise01/denise001/110277
-Star + 2,http://meumd.com:80/Denise01/denise001/188973
-Star +,http://meumd.com:80/Denise01/denise001/143271
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/142905
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108558
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109506
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/110005
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108561
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109511
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/108560
-STAR CHANNEL,http://meumd.com:80/Denise01/denise001/109512
-STAR LIFE,http://meumd.com:80/Denise01/denise001/109994
-STAR LIFE,http://meumd.com:80/Denise01/denise001/109993
-STAR LIFE,http://meumd.com:80/Denise01/denise001/109992
-STAR LIFE,http://meumd.com:80/Denise01/denise001/109991
-STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108557
-STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/109981
-STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/109980
-STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108555
-STUDIO UNIVERSAL,http://meumd.com:80/Denise01/denise001/108556
-SYFY,http://meumd.com:80/Denise01/denise001/108552
-SYFY,http://meumd.com:80/Denise01/denise001/109989
-SYFY,http://meumd.com:80/Denise01/denise001/108554
-SYFY,http://meumd.com:80/Denise01/denise001/108553
-TBS,http://meumd.com:80/Denise01/denise001/184971
-TBS,http://meumd.com:80/Denise01/denise001/109455
-TBS,http://meumd.com:80/Denise01/denise001/108330
-TBS,http://meumd.com:80/Denise01/denise001/108331
-TCM,http://meumd.com:80/Denise01/denise001/130692
-TCM,http://meumd.com:80/Denise01/denise001/130691
-TCM,http://meumd.com:80/Denise01/denise001/108283
-TELCINE PIPOCA,http://meumd.com:80/Denise01/denise001/108631
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108641
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/110108
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109521
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/110107
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108633
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109522
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/108639
-TELECINE ACTION,http://meumd.com:80/Denise01/denise001/109523
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/108640
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/109524
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/110103
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/108628
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/109525
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/108638
-TELECINE CULT,http://meumd.com:80/Denise01/denise001/109526
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/108642
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/109527
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/108625
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/108632
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/109528
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/108637
-TELECINE FUN,http://meumd.com:80/Denise01/denise001/109529
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/142927
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108643
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109530
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108627
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109531
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/108634
-TELECINE PIPOCA,http://meumd.com:80/Denise01/denise001/109532
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/142929
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/110091
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109533
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/108626
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/110088
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109534
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/108635
-TELECINE PREMIUM,http://meumd.com:80/Denise01/denise001/109535
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/108645
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109536
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/110086
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/110085
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109538
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/108636
-TELECINE TOUCH,http://meumd.com:80/Denise01/denise001/109537
-TLC,http://meumd.com:80/Denise01/denise001/108326
-TLC,http://meumd.com:80/Denise01/denise001/109452
-TLC,http://meumd.com:80/Denise01/denise001/108327
-TLC,http://meumd.com:80/Denise01/denise001/109450
-TNT,http://meumd.com:80/Denise01/denise001/108957
-TNT,http://meumd.com:80/Denise01/denise001/108551
-TNT,http://meumd.com:80/Denise01/denise001/109985
-TNT,http://meumd.com:80/Denise01/denise001/109504
-TNT,http://meumd.com:80/Denise01/denise001/109984
-TNT,http://meumd.com:80/Denise01/denise001/108546
-TNT,http://meumd.com:80/Denise01/denise001/109503
-TNT,http://meumd.com:80/Denise01/denise001/108548
-TNT,http://meumd.com:80/Denise01/denise001/109502
-TNT SERIES,http://meumd.com:80/Denise01/denise001/108956
-TNT SERIES,http://meumd.com:80/Denise01/denise001/108545
-TNT SERIES,http://meumd.com:80/Denise01/denise001/109501
-TNT SERIES,http://meumd.com:80/Denise01/denise001/108547
-TNT SERIES,http://meumd.com:80/Denise01/denise001/109500
-TNT SERIES,http://meumd.com:80/Denise01/denise001/108550
-TNT SERIES,http://meumd.com:80/Denise01/denise001/109499
-TODDLER MUSIC COICE,http://meumd.com:80/Denise01/denise001/125934
-TOONCAST,http://meumd.com:80/Denise01/denise001/127897
-TOONCAST,http://meumd.com:80/Denise01/denise001/186335
-TOONCAST,http://meumd.com:80/Denise01/denise001/108653
-TOP FM (RADIOS),http://meumd.com:80/Denise01/denise001/131641
-Travel Box Brazil,http://meumd.com:80/Denise01/denise001/130693
-TRUTV,http://meumd.com:80/Denise01/denise001/109449
-TRUTV,http://meumd.com:80/Denise01/denise001/109448
-TRUTV,http://meumd.com:80/Denise01/denise001/109447
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81804
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/2
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/3
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81805
+A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/4
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/14
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81810
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/15
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/16
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81811
+AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/13
+Agro Canal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/689
+Agro+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/468
+Agro+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81932
+Agro+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/445
+Agro+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81931
+Agro+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/467
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/6
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81926
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/7
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/8
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81925
+AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/5
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/51
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81826
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/695
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/52
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81827
+CNN Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/50
+CNNi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81917
+CNNi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81916
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1647
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/219
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81676
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/197
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/220
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81677
+HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/218
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/222
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81678
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/223
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/224
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81679
+HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/221
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/215
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81668
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/216
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/217
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81669
+HBO+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/214
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1652
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/211
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81674
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/212
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/213
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81675
+HBO Xtreme,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/210
+HBO Max 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/842
+HBO Max 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/844
+HBO Max 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/843
+HBO Max 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/845
+HBO Max 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/633
+HBO Max 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/632
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/199
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81666
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/200
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/201
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81667
+HBO Mundi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/198
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/203
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81670
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/204
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/205
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81671
+HBO Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/202
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/207
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81672
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/208
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/209
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81673
+HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/206
+HBO Familly,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/193
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/195
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81664
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/196
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81665
+HBO Family,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/194
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81714
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81715
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/285
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/286
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/287
+Paramount,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/284
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/422
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81795
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/423
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/424
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81796
+Universal Channel TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/421
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/431
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81801
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/432
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/433
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81802
+Warner Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/430
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/47
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81824
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/48
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/49
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81825
+Cinemax,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/46
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1638
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/10
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81806
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/11
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/12
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81807
+Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/9
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1644
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/267
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81698
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/268
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/269
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81699
+National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/266
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1635
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/63
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81834
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/64
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/65
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81835
+Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/62
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/67
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81836
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/68
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/69
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81837
+Discovery Home & Health,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/66
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/71
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81838
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/72
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/73
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81839
+Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/70
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/78
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81842
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/79
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/80
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81843
+Discovery Science,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/566
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81844
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/82
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/83
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81845
+Discovery Theater,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/565
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81846
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/86
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/87
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81847
+Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/84
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/88
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81848
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/89
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/90
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81849
+Discovery World,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/576
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/75
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81840
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/76
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/77
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81841
+Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/74
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/233
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81772
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/234
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/235
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81773
+History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/228
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/230
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81662
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/231
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/232
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81663
+History2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/229
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/92
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81850
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/93
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/94
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81851
+Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/91
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/450
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81808
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/696
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/442
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81809
+Arte 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/469
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/449
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81818
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/29
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/30
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81819
+BIS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/28
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/453
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81820
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/36
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/443
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81821
+Canal Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/35
+Canal do Boi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/570
+Canal do Boi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81923
+Canal do Boi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/569
+Canal do Boi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81922
+Canal do Boi,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/37
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/39
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81745
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/40
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/41
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81746
+Canal Sony,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/38
+Canção Nova,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81900
+Canção Nova,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81899
+Canção Nova,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/13689
+Cine Sky 01 [Velozes e Furiosos 9],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1603
+Cine Sky 02 [Infinito],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1604
+Cine Sky 03 [Cinderela],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1605
+Cine Sky 04 [A Guerra do Amanhã],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1606
+Cine Sky 05 [Jungle Cruise],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1607
+Cine Sky 06 [Anônimo],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1608
+Cine Sky 07 [Viúva Negra],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1609
+Cine Sky 08 [Jolt],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1610
+Cine Sky 09 [Projeto Gemini],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1611
+Cine Sky 10 [After - Depois da Verdade],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1612
+Cine Sky 11 [Esquadrão Suicida],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1613
+Cine Sky 12 [Ava],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1614
+Cine Sky 13 [Bloodshot],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1615
+Cine Sky 14 [As Trapaceiras],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1616
+Cine Sky 15 [Juntos para Sempre],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1617
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1632
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/54
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81829
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/55
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/56
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81830
+Combate,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/53
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1659
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/58
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81831
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/59
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/60
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81832
+Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/57
+Conmebol TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/458
+Conmebol TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81865
+Conmebol TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/457
+Conmebol TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81883
+Conmebol TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/456
+Conmebol TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/461
+Conmebol TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81866
+Conmebol TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/460
+Conmebol TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81884
+Conmebol TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/459
+Conmebol TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/463
+Conmebol TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81867
+Conmebol TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/464
+Conmebol TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81868
+Conmebol TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/462
+Conmebol TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/664
+Conmebol TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81869
+Conmebol TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/663
+Conmebol TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81870
+Conmebol TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/650
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/567
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81910
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/694
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/568
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81911
+Curta!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/61
+DAZN 01,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/833
+DAZN 02,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/830
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/100
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81856
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/101
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/102
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81857
+E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/99
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1658
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/104
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81595
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/105
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/106
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81596
+E*SPN 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/562
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1645
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/111
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81599
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/112
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/113
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81600
+E*SPN 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/110
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/115
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81601
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/116
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/103
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81602
+E*SPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/114
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1636
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/137
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81615
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/138
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/139
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81616
+E*SPN 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/136
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/107
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81597
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/108
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/109
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81598
+E*SPN Extra,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/578
+Eurochannel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81940
+Eurochannel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81939
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/141
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81617
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/142
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/143
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81618
+F*OX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/140
+Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/452
+Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81928
+Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/440
+Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81927
+Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/579
+Film & Arts,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81938
+Film & Arts,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81937
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/564
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81603
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/118
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/580
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81604
+Fish TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/117
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/120
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81605
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/121
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/122
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81606
+Food Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/119
+FOX Sports 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1643
+France 24,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81919
+France 24,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81918
+Furacão Brasileirão [Casimito],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85466
+Futura,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/560
+Futura,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81912
+Futura,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/561
+Futura,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81930
+Futura,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/144
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/146
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81619
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/147
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/148
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81620
+FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/145
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/190
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81660
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/191
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/192
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81661
+GNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/189
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/225
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81680
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/226
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/227
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81681
+HGTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/553
+Jovem Pan News,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/857
+Jovem Pan News,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81892
+Jovem Pan News,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/858
+Jovem Pan News,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81891
+Jovem Pan News,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85463
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/238
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81685
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/239
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/240
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81686
+Lifetime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/237
+Like,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81936
+Like,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81935
+MegaPix 4K,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1642
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/245
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81690
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/246
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/247
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81691
+MegaPix,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/244
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/448
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81688
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/242
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/243
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81689
+Modo Viagem,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/241
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/524
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81942
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/425
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/426
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81941
+MTV 00s,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/525
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/249
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81692
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/250
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/251
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81693
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/517
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81797
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/659
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/518
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81798
+MTV Live,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/519
+MTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/248
+Multishow 4K,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1640
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/253
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81694
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/254
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/255
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81695
+Multishow,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/252
+NBA TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/83115
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/281
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81712
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/282
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/283
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81713
+OFF,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/280
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1634
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/289
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81716
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/290
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/291
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81717
+Premiere 1 Clubes,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/288
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/293
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81718
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/294
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/295
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81719
+Premiere 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/292
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/301
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81720
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/298
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/299
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81721
+Premiere 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/296
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/305
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81722
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/302
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/303
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81723
+Premiere 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/300
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/640
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81724
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/306
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/307
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81725
+Premiere 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/304
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/309
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81726
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/310
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/311
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81727
+Premiere 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/308
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/313
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81728
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/314
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/315
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81729
+Premiere 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/312
+Prime Box Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81730
+Prime Box Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81731
+Prime Box Brazil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/543
+Prime Box Brazil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/545
+Prime Box Brazil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/316
+Prime Esportes 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85465
+Prime Esportes 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/835
+Prime Esportes 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85471
+Prime Esportes 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1619
+Prime Esportes 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/85464
+RIT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81858
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1639
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/347
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81749
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/348
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/349
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81750
+S*porTV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/346
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/351
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81751
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/352
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/353
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81752
+S*porTV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/350
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/355
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81753
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/356
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/357
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81754
+S*porTV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/354
+Sabor e Arte,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81896
+Sabor e Arte,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81895
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/541
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81903
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/614
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/341
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81902
+Smithsonian,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/542
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1654
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/124
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81607
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/125
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/126
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81608
+Star Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/123
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/128
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81609
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/619
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/129
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81610
+Star Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/127
+Star+ 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/837
+Star+ 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/838
+Star+ 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/839
+Star+ 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/840
+Star+ 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/687
+Star+ 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/685
+Star+ 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/634
+Star+ 8,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/21
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/359
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81755
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/360
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/361
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81756
+Studio Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/358
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/363
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81947
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/364
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/365
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81946
+SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/362
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/367
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81757
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/368
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/369
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81758
+TBS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/366
+TCM,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81759
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/371
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81760
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/372
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/373
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81761
+Telecine Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/370
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/375
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81762
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/376
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/377
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81763
+Telecine Cult,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/374
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/379
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81764
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/380
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/381
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81765
+Telecine Fun,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/378
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1653
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/383
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81766
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/384
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/385
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81767
+Telecine Pipoca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/382
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1646
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/387
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81768
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/388
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/389
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81769
+Telecine Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/386
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/391
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81770
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/392
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/393
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81771
+Telecine Touch,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/390
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/395
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81774
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/396
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/397
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81775
+TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/394
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1650
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/399
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81776
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/400
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/401
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81777
+TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/398
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1651
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/403
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81778
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/404
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/405
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81779
+TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/402
+Tooncast,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81780
+Tooncast,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81915
+Trace Brazuca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81934
+Trace Brazuca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/471
+Trace Brazuca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/81933
+TVE Brasil,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1464
+Zé Neto e Cristiano [Live Barretão],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1558
+Zé Neto e Cristiano [Live Barzinho Aleatório],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1556
+Zé Neto e Cristiano [Live Dia da Cerveja],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1557
+Wesley Safadão e Raça Negra [Skol Sunset],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1563
+Xand Avião e os Barões da Pisadinha [Live Oficial],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1562
+VillaMix em Casa [Só Modão],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1599
+Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1600
+Trio Parada Dura [A Última Live - Especial Parrerito],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1601
+Só Pra Contrariar [Especial 30 Anos],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1565
+Só Pra Contrariar [Session 2],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1564
+Simone e Simaria [Live das Coleguinhas 1],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1589
+Simone e Simaria [Live das Coleguinhas 2 Libras],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1591
+Simone e Simaria [Live das Coleguinhas 2],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1590
+Simone e Simaria [Pocket Show],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1588
+Live Junina],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1592
+Raça Negra e Alexandre Pires [Live Gigantes do Samba],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1560
+Raça Negra e Amigos em Casa [Live 21-04-2020],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1561
+Maiara e Maraisa [Aqui em Casa 1],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1582
+Maiara e Maraisa [Aqui em Casa 2],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1583
+Maiara e Maraisa [Aqui na Fazenda],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1579
+Maiara e Maraisa [Drive-In Na Terra],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1581
+Maiara e Maraisa [Fun Live],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1580
+Maiara e Maraisa [Workshow],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1578
+Marilia Mendonça [Lado B],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1587
+Marilia Mendonça [Live Local],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1586
+Marilia Mendonça [Todos os Cantos],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1585
+Marilia Mendonça [Workshow],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1584
+Leonardo e Eduardo Costa [Cabaré],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1595
+Leonardo e Luiza e Maurílio [Aqui em Uberlândia],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1598
+Leonardo e Zé Felipe [Pai e Filho],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1596
+Bebo e Choro],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1597
+Jorge e Mateus [Na Praia Hotel],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1574
+Jorge e Mateus [Pelo Amor de Deus],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1575
+Jorge e Mateus [Sunset],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1576
+Gusttavo Lima [Buteco em BH],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1570
+Gusttavo Lima [Buteco Em Casa 1],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1573
+Gusttavo Lima [Embaixador no Agronegócio],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1569
+Gusttavo Lima [Especial São João],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1572
+Gusttavo Lima [Festa do Peão Barretos],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1571
+Gusttavo Lima [YouTube Music],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1568
+Daniel e Leonardo [Live Buteco em Casa 3],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1559
+Henrique e Juliano [Live Liberdade Provisória],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1554
+Alexandre Pires e Seu Jorge [Live Irmãos],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1566
+Alexandre Pires [Live do Nego Véio],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1567
+B&M + Wesley Safadão [Live 19-09-2020],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1553
+Bruno e Marrone [Live 16-05-2020],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1551
+Bruno e Marrone [Live 3 sem propagandas],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1555
+Bruno e Marrone [Live 4 sem propagandas],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1552
+Xand e Raí Saia Rodada],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1602
+Leonardo e Bruno e Marrone],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1577
+Eduardo Costa [Aqui em Uberlândia],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1594
+Eduardo Costa [Especial Dia dos Namorados],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1593
+
+💞拉丁语,#genre#
+LATINO: A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/859
+LATINO: AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/860
+LATINO: Animal Planet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/861
+LATINO: AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/862
+LATINO: AZ CLICK,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/863
+LATINO: AZTECA 13,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/864
+LATINO: AZTECA 7,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/865
+LATINO: AZTECA CINEMA,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/866
+LATINO: AZTECA MUNDO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/867
+LATINO: AZTECA NOTICIAS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/868
+LATINO: BANDAMAX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/869
+LATINO: BOOMERANG,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/870
+LATINO: CANAL 11,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/871
+LATINO: CANAL 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/872
+LATINO: Canal De Las Estrellas,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/873
+LATINO: Canal De Las Estrellas,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/904
+LATINO: CARACOL,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/874
+LATINO: CARTOON NETWORK,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/875
+LATINO: Cinecanal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/877
+LATINO: CINELATINO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/878
+LATINO: CINEMAX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/879
+LATINO: Claro Sports,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/880
+LATINO: CNN en Espagnol,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/881
+LATINO: Comedy Central,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/882
+LATINO: De Pelicula,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/883
+LATINO: DISCOVERY  HOME & HEALTH,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/885
+LATINO: Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/884
+LATINO: Discovery Civilization,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/886
+LATINO: Discovery ID,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/887
+LATINO: Discovery Kids,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/888
+LATINO: DISCOVERY SCIENCE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/891
+LATINO: Discovery Teather,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/892
+LATINO: Discovery TLC(VERIFICAR),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/889
+LATINO: Discovery Turbo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/893
+LATINO: DISCOVERY WORLD,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/894
+LATINO: Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/895
+LATINO: Disney Junior,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/896
+LATINO: Disney XD,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/897
+LATINO: DISTRITO COMEDIA,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/898
+LATINO: E!,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/899
+LATINO: EL GOURMET,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/890
+LATINO: ESPN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/901
+LATINO: ESPN (US),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/900
+LATINO: ESPN 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/902
+LATINO: Film & Arts,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/903
+LATINO: Fox,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/908
+LATINO: FOX LIFE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/909
+LATINO: Fox premium Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/905
+LATINO: Fox premium Cinema,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/906
+LATINO: FOX PREMIUM CLASSICS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/907
+LATINO: Fox premium Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/910
+LATINO: FOX SPORT 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/911
+LATINO: Fox Sports,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/912
+LATINO: FX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/913
+LATINO: Gala Tv,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/914
+LATINO: Glitz,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/915
+LATINO: Golden,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/917
+LATINO: Golden Edge,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/916
+LATINO: Gourmet,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/918
+LATINO: H2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/919
+LATINO: HBO POP,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/927
+LATINO: HBO Signature,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/922
+LATINO: HBO(verificar),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/921
+LATINO: HBO2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/920
+LATINO: History,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/923
+LATINO: HOLA TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/924
+LATINO: INVESTIGACION DISCOVERY,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/925
+LATINO: LIFETIME,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/926
+LATINO: Milenio TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/928
+LATINO: MTV LATINO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/929
+LATINO: MTV LATINO HITS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/930
+LATINO: MTV LIVE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/931
+LATINO: Multimedios Monterrey,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/932
+LATINO: MULTIMEDIOS Plus,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/933
+LATINO: NatGeo Wild,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/934
+LATINO: NATIONAL GEOGRAPHIC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/935
+LATINO: NICK Jr,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/936
+LATINO: NICK TOONS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/937
+LATINO: NICKELODEON,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/938
+LATINO: PX SPORTS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/939
+LATINO: SONY,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/940
+LATINO: Space,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/941
+LATINO: STUDIO UNIVERSAL,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/942
+LATINO: SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/943
+LATINO: TBS VERYFUNNY(VERIFICAR),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/944
+LATINO: TCM,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/945
+LATINO: TDN EXTRA,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/946
+LATINO: TELEHIT PLUS,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/947
+LATINO: TELEMUNDO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/948
+LATINO: TELEVISA,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/949
+LATINO: TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/950
+LATINO: TLnovelas(UNIVISION),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/951
+LATINO: TNT,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/952
+LATINO: TNT Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/953
+LATINO: TNT SPORT 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/876
+LATINO: TOONCAST,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/954
+LATINO: Tru Tv,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/955
+LATINO: TVE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/956
+LATINO: TyC Sports,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/962
+LATINO: Unicable,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/957
+LATINO: Unimas,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/958
+LATINO: Universal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/959
+LATINO: Univision,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/960
+LATINO: win Sport,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/961
+
+💞葡语,#genre#
+PT: 24 Kitchen,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/963
+PT: A Bola TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/965
+PT: Afro Music,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/966
+PT: AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1015
+PT: AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/967
+PT: AMC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/968
+PT: ARTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/969
+PT: AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/970
+PT: AXN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/972
+PT: AXN Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1095
+PT: AXN Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1094
+PT: AXN Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/971
+PT: AXN White,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/973
+PT: AXN White,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/974
+PT: AXN White,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1132
+PT: Baby TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/975
+PT: Benfica TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/976
+PT: Benfica TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/977
+PT: Benfica TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/978
+PT: Blaze,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/964
+PT: BlazeFHD,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1121
+PT: Canal 11,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1096
+PT: Canal 11,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1098
+PT: Canal 11,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1097
+PT: Canal Panda,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/982
+PT: Canal Porto,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1026
+PT: Canal Porto,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1078
+PT: Canal Q,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/983
+PT: Cartoon Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/984
+PT: Casa e Cozinha,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1125
+PT: Caça & Pesca,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/980
+PT: CaçaVision,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/979
+PT: CBS Reality,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/985
+PT: CineMundo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/986
+PT: CMTV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/987
+PT: CNN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1082
+PT: Crime Investigation,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1127
+PT: Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1122
+PT: Discovery Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/988
+PT: Discovery Showcase,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/989
+PT: Disney Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/990
+PT: Disney Junior,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/991
+PT: DOG TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/992
+PT: E! Entertainment,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/993
+PT: Eleven Sport 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1105
+PT: Eleven Sport 1 VIP,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1106
+PT: Eleven Sport 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1104
+PT: Eleven Sport 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1108
+PT: Eleven Sport 2 VIP,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1109
+PT: Eleven Sport 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1107
+PT: Eleven Sport 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1110
+PT: Eleven Sport 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1111
+PT: Eleven Sport 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1112
+PT: Eleven Sport 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1113
+PT: Eleven Sport 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1114
+PT: Eleven Sport 6 VIP,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1116
+PT: Eleven Sport 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1115
+PT: Eurosport 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/995
+PT: Eurosport 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/994
+PT: Eurosport 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/996
+PT: Fashion Box,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1013
+PT: Fashion TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/997
+PT: Fine Living Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/998
+PT: FOX Comedy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/999
+PT: FOX Crime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1000
+PT: FOX Crime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1001
+PT: FOX Crime,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1093
+PT: FOX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1007
+PT: FOX,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1002
+PT: FOX Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1004
+PT: FOX Life,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1003
+PT: FOX Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1005
+PT: FOX Movies,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1006
+PT: FUEL TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1008
+PT: Historia,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/981
+PT: Historia,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1124
+PT: Hollywood,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1010
+PT: Hollywood,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1011
+PT: Investigation Discovery,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1123
+PT: JIM JAM,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1012
+PT: MCM Pop,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1119
+PT: MotorVision,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1014
+PT: MTV Portugal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1016
+PT: MTV Portugal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1118
+PT: MTV Portugal,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1017
+PT: Nat Geo Wild,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1019
+PT: Nat Geo Wild,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1018
+PT: National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1020
+PT: National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1021
+PT: National Geographic,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1126
+PT: Nick JR,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1120
+PT: Nickelodeon,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1022
+PT: NOS Studios,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1085
+PT: NOS Studios,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1087
+PT: NOS Studios,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1086
+PT: Odisseia,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1023
+PT: Panda Biggs,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1024
+PT: PFC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1025
+PT: RTP 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1073
+PT: RTP 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1027
+PT: RTP 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1074
+PT: RTP 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1028
+PT: RTP 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1076
+PT: RTP 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1075
+PT: RTP 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1029
+PT: RTP 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1077
+PT: RTP Açores,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1030
+PT: RTP Madeira,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1032
+PT: RTP Memoria,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1033
+PT: RTP África,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1031
+PT: SIC Caras,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1035
+PT: SIC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1034
+PT: SIC K,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1079
+PT: SIC Mulher,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1036
+PT: SIC Notícias,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1037
+PT: SIC Notícias,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1130
+PT: SIC Radical,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1038
+PT: Sport TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1041
+PT: Sport TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1042
+PT: Sport TV 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1100
+PT: Sport TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1043
+PT: Sport TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1044
+PT: Sport TV 2,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1101
+PT: Sport TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1045
+PT: Sport TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1046
+PT: Sport TV 3,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1102
+PT: Sport TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1047
+PT: Sport TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1048
+PT: Sport TV 4,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1128
+PT: Sport TV 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1049
+PT: Sport TV 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1050
+PT: Sport TV 5,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1103
+PT: Sport TV 6,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1129
+PT: Sport TV+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1039
+PT: Sport TV+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1040
+PT: Sport TV+,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1099
+PT: Sporting TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1051
+PT: Sundance,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1052
+PT: SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1053
+PT: SyFy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1054
+PT: TLC,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1055
+PT: Toros TV,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1131
+PT: Trace Urban,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1117
+PT: Travel Channel,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1056
+PT: TV Galicia,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1064
+PT: TV Globo,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1065
+PT: TV Globo Premium,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1066
+PT: TVC Series,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1067
+PT: TVCINE Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1062
+PT: TVCINE Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1063
+PT: TVCINE Action,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1092
+PT: TVCINE Edition,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1059
+PT: TVCINE Edition,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1060
+PT: TVCINE Edition,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1089
+PT: TVCINE Emotion,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1061
+PT: TVCINE Emotion,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1091
+PT: TVCINE Emotion,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1090
+PT: TVCINE Top,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1057
+PT: TVCINE Top,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1058
+PT: TVCINE Top,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1088
+PT: TVI 24,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1068
+PT: TVI,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1080
+PT: TVI Ficção,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1069
+PT: TVI Reality,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1070
+PT: TVI Reality (A Quinta),http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1071
+PT: TVI Reality Camera 1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1081
+PT: VH1,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1072
+
+🎎｜Adults1_7788,#genre#
+Playboy,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/645
+Playboy,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/81859
+Playboy,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/643
+Playboy,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/81862
+Playboy,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/644
+XXX | 4K | Brasileirinhas: Contos do Big,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/758
+XXX | 4K | Brasileirinhas: Contos Eróticos,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/759
+XXX | 4K | BangBros 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/743
+XXX | 4K | BangBros 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/744
+XXX | 4K | BangBros 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/745
+XXX | 4K | BangBros 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/747
+XXX | 4K | CarnaFunk 2019,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/746
+XXX | 4K | Holed 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/748
+XXX | 4K | Holed 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/749
+XXX | 4K | Holed 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/750
+XXX | 4K | Holed 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/751
+XXX | 4K | Holed 05,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/752
+XXX | 4K | Holed 06,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/753
+XXX | 4K | Holed 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/754
+XXX | 4K | Holed 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/755
+XXX | 4K | Holed 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/757
+XXX | 4K | Holed 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/756
+XXX A Casa das Brasileirinhas Vol. 62,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/760
+XXX A Casa das Brasileirinhas Vol. 63,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/761
+XXX Abella Danger,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/765
+XXX Alessandra Marques,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/764
+XXX Alexandre Frota,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/762
+XXX Aline Rios,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/763
+XXX Ana Julia,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/766
+XXX Analine,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/767
+XXX Asiaticas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/768
+XXX Asiaticas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/769
+XXX Asiaticas 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/770
+XXX Asiaticas 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/771
+XXX Brad Montana 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/772
+XXX Brad Montana 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/773
+XXX Brad Montana 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/774
+XXX Brad Montana 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/775
+XXX Brad Montana 05,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/777
+XXX Brad Montana 06,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/776
+XXX Brad Montana 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/778
+XXX Brad Montana 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/779
+XXX Brad Montana 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/780
+XXX Brad Montana 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/781
+XXX Brad Montana 11,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/783
+XXX Brad Montana 12,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/782
+XXX Brazzers 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/784
+XXX Brazzers 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/785
+XXX Brazzers 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/786
+XXX Brazzers 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/787
+XXX Brazzers 05,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/788
+XXX Brazzers 06,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/789
+XXX Carol Fenix,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/790
+XXX Esposa Heyya [amador],http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/791
+XXX Fernandinha Fernandez,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/792
+XXX Gina Jolie,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/793
+XXX Julia Mattos,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/794
+XXX Julia Paes,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/795
+XXX Julianna Vega,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/796
+XXX Loupan,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/797
+XXX Manu Fox,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/798
+XXX Mia Linz,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/799
+XXX Monica Santiago,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/800
+XXX Nicolle Bittencourt,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/801
+XXX Pamela Pantera,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/802
+XXX Rafaela Nakamura,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/803
+XXX Rita Cadillac 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/804
+XXX Rita Cadillac 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/805
+XXX Show de Bundas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/806
+XXX Show de Bundas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/807
+XXX Thammy Gretchen,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/808
+XXX Wanessa Boyer,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/809
+XXX Yara Rocha,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/810
 
 
 
-🎎｜Adults_7788,#genre#
+🎎｜Adults2_7788,#genre#
 chaojikeai,https://b-hls-24.doppiocdn.com/hls/91516886/master/91516886.m3u8
 BadAngels666,https://b-hls-04.doppiocdn.com/hls/72074659/master/72074659.m3u8
 Ranking_Dessert,https://b-hls-12.doppiocdn.com/hls/89229755/master/89229755.m3u8
