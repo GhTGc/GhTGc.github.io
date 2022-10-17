@@ -3091,7 +3091,7 @@ beIN SPORTS 3 ENG,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/69113
 beIN SPORTS FRENCH 1,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28864
 beIN SPORTS FRENCH 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/28865
 
-💞巴西,#genre#
+💞巴西1,#genre#
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
 Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
 Brasil 2002: Os Bastidores do Penta (2022) Nacional,http://meumd.com:80/movie/Denise01/denise001/208552.mp4
@@ -3768,6 +3768,657 @@ Xand e Raí Saia Rodada],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/160
 Leonardo e Bruno e Marrone],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1577
 Eduardo Costa [Aqui em Uberlândia],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1594
 Eduardo Costa [Especial Dia dos Namorados],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1593
+
+💞巴西2,#genre#
+FASHION TV,http://propdsrv.com:80/hiu67his/z4rtomtl/75491
+MMA TV,http://propdsrv.com:80/hiu67his/z4rtomtl/100141
+DOG TV,http://propdsrv.com:80/hiu67his/z4rtomtl/61458
+DOG TV,http://propdsrv.com:80/hiu67his/z4rtomtl/61459
+NBA TV,http://propdsrv.com:80/hiu67his/z4rtomtl/104727
+NBA TV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100800
+NHK WORLD JAPAN,http://propdsrv.com:80/hiu67his/z4rtomtl/81568
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/97219
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/61196
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/9344
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/97220
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/8139
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/97221
+A&E,http://propdsrv.com:80/hiu67his/z4rtomtl/4404
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/97222
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/61194
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/97223
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/7691
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/97224
+AMC,http://propdsrv.com:80/hiu67his/z4rtomtl/20891
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/110994
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/97225
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/13212
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/61197
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/97226
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/60937
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/97227
+AXN,http://propdsrv.com:80/hiu67his/z4rtomtl/4402
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/97568
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/13185
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/97569
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/6945
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/97570
+Paramount,http://propdsrv.com:80/hiu67his/z4rtomtl/6946
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/100327
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97592
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/61227
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/13192
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/5987
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97593
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97595
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/20465
+UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97594
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97597
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/11525
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/61228
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97598
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97596
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/6072
+Warner Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/4307
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/100333
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/61206
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/11566
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/60974
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/6108
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/60973
+HBO,http://propdsrv.com:80/hiu67his/z4rtomtl/4366
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/63297
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/61204
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/11567
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/60976
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/6110
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/60975
+HBO 2,http://propdsrv.com:80/hiu67his/z4rtomtl/4365
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/63298
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/61207
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/13190
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/60979
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/6106
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/97119
+HBO+,http://propdsrv.com:80/hiu67his/z4rtomtl/4363
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/63302
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/61210
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/25014
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/62851
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/7850
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/4357
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/62850
+HBO Xtreme,http://propdsrv.com:80/hiu67his/z4rtomtl/60986
+HBO Max 1,http://propdsrv.com:80/hiu67his/z4rtomtl/97351
+HBO Max 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97352
+HBO Max 3,http://propdsrv.com:80/hiu67his/z4rtomtl/97353
+HBO Max 4,http://propdsrv.com:80/hiu67his/z4rtomtl/97354
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/97122
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/60988
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/25015
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/97121
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/10265
+HBO POP,http://propdsrv.com:80/hiu67his/z4rtomtl/97120
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/63300
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/61208
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/11570
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/60982
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/6105
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/60981
+HBO SIGNATURE,http://propdsrv.com:80/hiu67his/z4rtomtl/4361
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/97125
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/60984
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/63301
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/97124
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/10266
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/97123
+HBO MUNDI,http://propdsrv.com:80/hiu67his/z4rtomtl/4358
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/63299
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/11568
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/61205
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/60978
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/6109
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/60977
+HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/4364
+CINE PIPOCA 01,http://propdsrv.com:80/hiu67his/z4rtomtl/111356
+CINE PIPOCA 02,http://propdsrv.com:80/hiu67his/z4rtomtl/111357
+CINE PIPOCA 03,http://propdsrv.com:80/hiu67his/z4rtomtl/111358
+CINE PIPOCA 04,http://propdsrv.com:80/hiu67his/z4rtomtl/111359
+CINE PIPOCA 05,http://propdsrv.com:80/hiu67his/z4rtomtl/111360
+CINE PIPOCA 06,http://propdsrv.com:80/hiu67his/z4rtomtl/111361
+CINE PIPOCA 07,http://propdsrv.com:80/hiu67his/z4rtomtl/111362
+CINE PIPOCA 08,http://propdsrv.com:80/hiu67his/z4rtomtl/111363
+CINE PIPOCA 09,http://propdsrv.com:80/hiu67his/z4rtomtl/111364
+CINE PIPOCA 10,http://propdsrv.com:80/hiu67his/z4rtomtl/111365
+Cine Sky³ 1,http://propdsrv.com:80/hiu67his/z4rtomtl/59967
+Cine Sky³ 2,http://propdsrv.com:80/hiu67his/z4rtomtl/59966
+Cine Sky³ 3,http://propdsrv.com:80/hiu67his/z4rtomtl/59968
+Cine Sky³ 4,http://propdsrv.com:80/hiu67his/z4rtomtl/59969
+Cine Sky³ 5,http://propdsrv.com:80/hiu67his/z4rtomtl/59970
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/10993
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/61198
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/7802
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/97238
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/97239
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/97240
+Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/4393
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/69154
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/13205
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/4403
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97168
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97169
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/6142
+Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97170
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113087
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113085
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113086
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113084
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113083
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113082
+Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113081
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97172
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/69150
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/39331
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97173
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/6132
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97174
+Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/61074
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/110990
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/97175
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/69151
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/61231
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/97176
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/6131
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/97177
+Discovery Home & Health,http://propdsrv.com:80/hiu67his/z4rtomtl/4389
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/97178
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/94707
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/30696
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/97179
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/6869
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/4360
+Discovery ID,http://propdsrv.com:80/hiu67his/z4rtomtl/97180
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/97184
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/61232
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/13206
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/97185
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/7861
+Discovery Science,http://propdsrv.com:80/hiu67his/z4rtomtl/97186
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/97187
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/11530
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/61233
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/97188
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/6130
+Discovery Theather,http://propdsrv.com:80/hiu67his/z4rtomtl/97189
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/110989
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/97190
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/11531
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/61234
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/97191
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/6877
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/97192
+Discovery Turbo,http://propdsrv.com:80/hiu67his/z4rtomtl/61076
+Discovery World,http://propdsrv.com:80/hiu67his/z4rtomtl/97193
+Discovery World,http://propdsrv.com:80/hiu67his/z4rtomtl/61235
+Discovery World,http://propdsrv.com:80/hiu67his/z4rtomtl/97194
+Discovery World,http://propdsrv.com:80/hiu67his/z4rtomtl/6128
+Discovery World,http://propdsrv.com:80/hiu67his/z4rtomtl/97195
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/97243
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/61460
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/13211
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/6104
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/97247
+HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/4314
+ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/75488
+ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/94106
+ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/75487
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/110993
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111108
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111106
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111100
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/97607
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111105
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/97609
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111107
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111102
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/113198
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111101
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111099
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/97610
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111103
+Band,http://propdsrv.com:80/hiu67his/z4rtomtl/111098
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/97601
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/11536
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/97602
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/111213
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/111214
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/97603
+Band News,http://propdsrv.com:80/hiu67his/z4rtomtl/4399
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/97231
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/61274
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/97232
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/61159
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/97233
+BIS,http://propdsrv.com:80/hiu67his/z4rtomtl/61158
+CANAL BRASIL,http://propdsrv.com:80/hiu67his/z4rtomtl/62843
+CANAL BRASIL,http://propdsrv.com:80/hiu67his/z4rtomtl/75477
+CANAL BRASIL,http://propdsrv.com:80/hiu67his/z4rtomtl/61412
+CANAL BRASIL,http://propdsrv.com:80/hiu67his/z4rtomtl/62842
+CANAL BRASIL,http://propdsrv.com:80/hiu67his/z4rtomtl/6963
+CANAL FUTURA,http://propdsrv.com:80/hiu67his/z4rtomtl/62847
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/110992
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/71198
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/97480
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/44724
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/97481
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/44723
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/97482
+CNN Brasil,http://propdsrv.com:80/hiu67his/z4rtomtl/57528
+CNN Internacional,http://propdsrv.com:80/hiu67his/z4rtomtl/80464
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100181
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100180
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100182
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100179
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100178
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100177
+Combate,http://propdsrv.com:80/hiu67his/z4rtomtl/100176
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/110991
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/97507
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/61244
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/24920
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/10292
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/97508
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/4391
+Comedy Central,http://propdsrv.com:80/hiu67his/z4rtomtl/97509
+CURTA!,http://propdsrv.com:80/hiu67his/z4rtomtl/94115
+CURTA!,http://propdsrv.com:80/hiu67his/z4rtomtl/94114
+CURTA!,http://propdsrv.com:80/hiu67his/z4rtomtl/10291
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100267
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100266
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100268
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100265
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100264
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100263
+Discovery Kids,http://propdsrv.com:80/hiu67his/z4rtomtl/100262
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100311
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100310
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100312
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100309
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100308
+Disney Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/100307
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/97637
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/61161
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/61160
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/97638
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/10285
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/97639
+E!,http://propdsrv.com:80/hiu67his/z4rtomtl/4382
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100088
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100087
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100097
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100086
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100085
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100084
+Band Sports,http://propdsrv.com:80/hiu67his/z4rtomtl/100083
+Eleven Sports 1,http://propdsrv.com:80/hiu67his/z4rtomtl/97510
+Eleven Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97521
+Eleven Sports 3,http://propdsrv.com:80/hiu67his/z4rtomtl/97522
+Eleven Sports 4,http://propdsrv.com:80/hiu67his/z4rtomtl/97523
+Eleven Sports 5,http://propdsrv.com:80/hiu67his/z4rtomtl/97524
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100336
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100145
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/113288
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/113289
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100143
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100107
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/113287
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100106
+ESPN,http://propdsrv.com:80/hiu67his/z4rtomtl/100105
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100104
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100098
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100103
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100102
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100101
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/113290
+ESPN 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100099
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100152
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100151
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100153
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100150
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100149
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100148
+ESPN 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100147
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/97492
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100165
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100164
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100166
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100163
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100162
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100161
+ESPN 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100160
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100158
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100157
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100159
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100156
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100155
+ESPN Extra,http://propdsrv.com:80/hiu67his/z4rtomtl/100154
+FILM & ARTS,http://propdsrv.com:80/hiu67his/z4rtomtl/97599
+FILM & ARTS,http://propdsrv.com:80/hiu67his/z4rtomtl/60962
+FILM & ARTS,http://propdsrv.com:80/hiu67his/z4rtomtl/97600
+FILM & ARTS,http://propdsrv.com:80/hiu67his/z4rtomtl/60963
+Fish TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97612
+Fish TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97613
+Fish TV,http://propdsrv.com:80/hiu67his/z4rtomtl/94117
+Fish TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97614
+Fish TV,http://propdsrv.com:80/hiu67his/z4rtomtl/4377
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/97538
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/61275
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/13196
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/97539
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/7534
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/97540
+Food Network,http://propdsrv.com:80/hiu67his/z4rtomtl/6959
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100175
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100174
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100173
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100172
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100171
+Fox Sports 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100170
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/97541
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/61203
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/13199
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/97542
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/6116
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/97543
+FX,http://propdsrv.com:80/hiu67his/z4rtomtl/4371
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/100334
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97550
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/96577
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/96578
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97551
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97006
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97552
+GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97005
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97244
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/69152
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/61239
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/13187
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97245
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/6111
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80171
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97246
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/4367
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80170
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97544
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/71200
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/13208
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97545
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/7862
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97546
+HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/10236
+Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/100332
+Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/110375
+Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97766
+Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97281
+Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97765
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/97640
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/69157
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/11540
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/97641
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/7525
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/97642
+Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/7876
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/97348
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/97003
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/97004
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/97349
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/6101
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/97350
+Megapix,http://propdsrv.com:80/hiu67his/z4rtomtl/4354
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/97615
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/97616
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/96571
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/96572
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/97617
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/96570
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/97618
+Multishow,http://propdsrv.com:80/hiu67his/z4rtomtl/96569
+NOVO TEMPO,http://propdsrv.com:80/hiu67his/z4rtomtl/61149
+NOVO TEMPO,http://propdsrv.com:80/hiu67his/z4rtomtl/6948
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/97646
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/9152
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/94215
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/97647
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/6947
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/97648
+OFF,http://propdsrv.com:80/hiu67his/z4rtomtl/4344
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97196
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/75992
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97197
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/75993
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97198
+Premiere 2,http://propdsrv.com:80/hiu67his/z4rtomtl/75991
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/75999
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/97199
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/75998
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/97200
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/97201
+Premiere 3,http://propdsrv.com:80/hiu67his/z4rtomtl/75997
+Premiere 4 ,http://propdsrv.com:80/hiu67his/z4rtomtl/97202
+Premiere 4,http://propdsrv.com:80/hiu67his/z4rtomtl/76002
+Premiere 4,http://propdsrv.com:80/hiu67his/z4rtomtl/97203
+Premiere 4,http://propdsrv.com:80/hiu67his/z4rtomtl/76001
+Premiere 4,http://propdsrv.com:80/hiu67his/z4rtomtl/97204
+Premiere 4,http://propdsrv.com:80/hiu67his/z4rtomtl/76000
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/97205
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/76005
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/97206
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/76004
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/97207
+Premiere 5,http://propdsrv.com:80/hiu67his/z4rtomtl/76003
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/97208
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/76008
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/97209
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/76007
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/97210
+Premiere 6,http://propdsrv.com:80/hiu67his/z4rtomtl/76006
+premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/97211
+Premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/76011
+Premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/97212
+Premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/76010
+Premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/97213
+Premiere 7,http://propdsrv.com:80/hiu67his/z4rtomtl/76009
+Premiere 8,http://propdsrv.com:80/hiu67his/z4rtomtl/76012
+Premiere 8,http://propdsrv.com:80/hiu67his/z4rtomtl/97214
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/97216
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/75995
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/62412
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/97217
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/75996
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/97218
+Premiere Clubes,http://propdsrv.com:80/hiu67his/z4rtomtl/75994
+Smithsonian,http://propdsrv.com:80/hiu67his/z4rtomtl/110820
+Smithsonian,http://propdsrv.com:80/hiu67his/z4rtomtl/110821
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/97128
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/13202
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/97127
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/6961
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/97126
+SONY,http://propdsrv.com:80/hiu67his/z4rtomtl/4395
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/97327
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/33767
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/13197
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/97328
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/6085
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/97329
+Space,http://propdsrv.com:80/hiu67his/z4rtomtl/4328
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100330
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100189
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100188
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100190
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100187
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100185
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100184
+SPORTV,http://propdsrv.com:80/hiu67his/z4rtomtl/100183
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100214
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100213
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100215
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100212
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100211
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100210
+SPORTV 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100209
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100221
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100220
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100222
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100219
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100218
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100217
+SPORTV 3,http://propdsrv.com:80/hiu67his/z4rtomtl/100216
+STAR+,http://propdsrv.com:80/hiu67his/z4rtomtl/100842
+STAR+ 1,http://propdsrv.com:80/hiu67his/z4rtomtl/97099
+STAR+ 2,http://propdsrv.com:80/hiu67his/z4rtomtl/97098
+STAR+ 1,http://propdsrv.com:80/hiu67his/z4rtomtl/100031
+STAR+ 2,http://propdsrv.com:80/hiu67his/z4rtomtl/100843
+STAR+ 4,http://propdsrv.com:80/hiu67his/z4rtomtl/100032
+STAR+ 5,http://propdsrv.com:80/hiu67his/z4rtomtl/100033
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97571
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97572
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97573
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/61199
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/9141
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97574
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/6122
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97584
+Star Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/4375
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/97581
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/61200
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/97582
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/6876
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/97583
+Star Life,http://propdsrv.com:80/hiu67his/z4rtomtl/61164
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97153
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97154
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/61217
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/13194
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97155
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/7874
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/97156
+STUDIO UNIVERSAL,http://propdsrv.com:80/hiu67his/z4rtomtl/4324
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/97131
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/13195
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/61218
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/97130
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/7795
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/97129
+SYFY,http://propdsrv.com:80/hiu67his/z4rtomtl/4323
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/97589
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/94154
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/97590
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/7873
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/97591
+TBS,http://propdsrv.com:80/hiu67his/z4rtomtl/4322
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/100328
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/97300
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/8141
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/63291
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/97298
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/97299
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/97301
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/6080
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/97302
+Telecine Action,http://propdsrv.com:80/hiu67his/z4rtomtl/4320
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/97303
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/97304
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/97305
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/63295
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/8143
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/97306
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/10247
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/97307
+Telecine Cult,http://propdsrv.com:80/hiu67his/z4rtomtl/4319
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/97308
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/97309
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/63294
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/97310
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/11561
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/97311
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/6079
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/97312
+Telecine Fun,http://propdsrv.com:80/hiu67his/z4rtomtl/4318
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100329
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100573
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100572
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100570
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100571
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100569
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100568
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100567
+Telecine Pipoca,http://propdsrv.com:80/hiu67his/z4rtomtl/100566
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97588
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97318
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97319
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/63290
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97320
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/8140
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97321
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/6077
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/97322
+Telecine Premium,http://propdsrv.com:80/hiu67his/z4rtomtl/4316
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100581
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100579
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100578
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100580
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100577
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100576
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100575
+Telecine Touch,http://propdsrv.com:80/hiu67his/z4rtomtl/100574
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/97619
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/69149
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/94101
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/97620
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/24786
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/97621
+TLC,http://propdsrv.com:80/hiu67his/z4rtomtl/61178
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97249
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97250
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97251
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/63289
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/61225
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97252
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/6074
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97253
+TNT,http://propdsrv.com:80/hiu67his/z4rtomtl/61017
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/97256
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/61226
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/97257
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/97255
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/6073
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/97258
+TNT Series,http://propdsrv.com:80/hiu67his/z4rtomtl/61019
+Travel Box,http://propdsrv.com:80/hiu67his/z4rtomtl/97622
+Travel Box,http://propdsrv.com:80/hiu67his/z4rtomtl/75476
+Travel Box,http://propdsrv.com:80/hiu67his/z4rtomtl/75475
+Tru TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97623
+Tru TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97624
+Tru TV,http://propdsrv.com:80/hiu67his/z4rtomtl/97625
+TRUTV,http://propdsrv.com:80/hiu67his/z4rtomtl/94158
+TRUTV,http://propdsrv.com:80/hiu67his/z4rtomtl/94159
+TRUTV,http://propdsrv.com:80/hiu67his/z4rtomtl/6935
+VH1,http://propdsrv.com:80/hiu67his/z4rtomtl/110823
+VH1,http://propdsrv.com:80/hiu67his/z4rtomtl/110824
+VH1 MEGAHITS,http://propdsrv.com:80/hiu67his/z4rtomtl/110826
+VH1 MEGAHITS,http://propdsrv.com:80/hiu67his/z4rtomtl/110827
+VH1 MEGAHITS,http://propdsrv.com:80/hiu67his/z4rtomtl/110825
+Viva,http://propdsrv.com:80/hiu67his/z4rtomtl/100325
+Viva,http://propdsrv.com:80/hiu67his/z4rtomtl/97295
+Viva,http://propdsrv.com:80/hiu67his/z4rtomtl/97296
+VIva,http://propdsrv.com:80/hiu67his/z4rtomtl/6848
+Viva,http://propdsrv.com:80/hiu67his/z4rtomtl/97297
+Viva,http://propdsrv.com:80/hiu67his/z4rtomtl/6928
+Anime Station,http://propdsrv.com:80/hiu67his/z4rtomtl/100324
+Anos 80,http://propdsrv.com:80/hiu67his/z4rtomtl/100137
+Golf Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/111739
+The Pet Collective,http://propdsrv.com:80/hiu67his/z4rtomtl/111250
 
 💞拉丁语,#genre#
 LATINO: A&E,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/859
