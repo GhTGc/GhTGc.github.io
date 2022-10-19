@@ -388,6 +388,10 @@ CELESTIAL MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380027.ts
 CELESTIAL MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380028.ts
 CINEMAX,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380032.ts
 CINEMAX,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380033.ts
+Animax,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/40750
+Cinema World,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/40757
+HBO,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/40763
+HBO,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/40762
 HBO,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380034.ts
 HBO FAMILY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380035.ts
 HBO FAMILY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/380036.ts
