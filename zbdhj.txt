@@ -111,6 +111,52 @@ TVB J2,https://j3.lhlh.app/mv.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 
+💞StarHub&NowHK,#genre#
+SG: HUB PREMIER 1 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382359.ts
+SG: HUB PREMIER 2 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382360.ts
+SG: HUB PREMIER 2 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382361.ts
+SG: HUB PREMIER 3 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382362.ts
+SG: HUB PREMIER 4 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382363.ts
+SG: HUB PREMIER 5 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382364.ts
+SG: HUB PREMIER 6 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382365.ts
+SG: HUB PREMIER 7 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382366.ts
+SG: HUB PREMIER 8 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382367.ts
+SG: HUB PREMIER 9 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382368.ts
+SG: HUB PREMIER 10 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382369.ts
+SG: HUB PREMIER 11 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382370.ts
+HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
+HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
+HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
+HK: NOW SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370037.ts
+HK: NOW SPORTS 2 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370038.ts
+HK: NOW SPORTS 3 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370039.ts
+HK: NOW SPORTS 4 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370040.ts
+HK: NOW SPORTS 5 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370041.ts
+HK: NOW SPORTS 6 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370042.ts
+HK: NOW SPORTS 7 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370043.ts
+HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
+HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
+HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
+HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
+HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
+HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
+HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
+HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
+HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
+HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
+HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
+HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
+HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
+HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
+HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
+HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
+HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
+HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
+HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
+HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
+HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
+
+
 
 💞台湾,#genre#
 中天新闻,https://epg.pm/stream/55646cf28f4427bc0704686c43ee4f92a764645767f75f6da5e407178ba6e1a3.m3u8
