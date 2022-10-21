@@ -164,7 +164,45 @@ HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
 HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
 HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
 
-
+💞NBA,#genre#
+NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118459.ts
+NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/266871.ts
+NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370883.ts
+NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376495.ts
+NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376494.ts
+Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170433.ts
+Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267450.ts
+Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/383618.ts
+Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/383636.ts
+SKY SPORT NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/97437.ts
+SPORT TV NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/159115.ts
+SPORT TV NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/159114.ts
+NBA League Pass 1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392847.ts
+NBA League Pass 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392848.ts
+NBA League Pass 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392849.ts
+NBA League Pass 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392850.ts
+NBA League Pass 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392851.ts
+NBA League Pass 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392852.ts
+NBA League Pass 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392853.ts
+NBA League Pass 8,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392854.ts
+NBA League Pass 9,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392855.ts
+NBA League Pass 10,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392856.ts
+NBA League Pass 11,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392857.ts
+NBA League Pass 12,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392858.ts
+NBA League Pass 13,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392859.ts
+NBA League Pass 14,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392860.ts
+NBA League Pass 1,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89941
+NBA League Pass 2,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89942
+NBA League Pass 3,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89943
+NBA League Pass 4,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89944
+NBA League Pass 5,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89945
+NBA League Pass 6,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89946
+NBA League Pass 7,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89947
+NBA League Pass 8,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89948
+NBA League Pass 9,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89949
+NBA League Pass 10,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89950
+NBA League Pass 11,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89951
+NBA League Pass 12,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89952
 
 💞台湾,#genre#
 中天新闻,https://epg.pm/stream/55646cf28f4427bc0704686c43ee4f92a764645767f75f6da5e407178ba6e1a3.m3u8
