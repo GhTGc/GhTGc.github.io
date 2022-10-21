@@ -3041,279 +3041,452 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 红牛TV,http://meumd.com:80/Denise01/denise001/109033
 红牛TV,http://meumd.com:80/Denise01/denise001/125654
 
-🐾🦚美国频道,#genre#
-A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2987.ts
-A & E,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2988.ts
-WWE,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1232
-WWE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2680.ts
-WWE,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2373
-FIGHT BOX,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/530
-CNN,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1155
-CNN US,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1156
-Nat Geo,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88502.ts
-Nat Geo,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2864.ts
-Nat Geo Wild,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2863.ts
-Nat Geo Wild,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88503.ts
-Paramount Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1214
-Paramount Network,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/14839
-HBO,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1181
-HBO,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2336
-HBO,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88471.ts
-HBO 2,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88472.ts
-HBO 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
-HBO 2,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/5844
-HBO Zone,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1183
-HBO Zone,http://icetv.uk:25461/live/jocker/BNvLLmWQIv/88476.ts
-HBO Zone,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
-HBO Zone,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6328
-HBO Signature,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
-HBO Signature,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6305
-HBO Signature [ES],http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1182
-HBO Family,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
-HBO Family,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/760
-HBO Comedy,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1180
-HBO Comedy,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
-HBO Comedy,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2335
-CINEMAXX MORE MAXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
-CINEMAX THRILLERMAX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2955.ts
-CINEMAX OUTER MAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2956.ts
-CINEMAX MOVIEMAX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2957.ts
-CINEMAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2958.ts
-CINEMAX ACTION MAX EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2959.ts
-ABC EAST HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2986.ts
-Yes Network,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1233
-Yes Network,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2989.ts
-VELOCITY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2990.ts
-US- USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2991.ts
-US- DESTINATION-AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2992.ts
-TBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2993.ts
-SONY-MOVIE-CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2994.ts
-SCIENCE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2995.ts
-OWN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2996.ts
-NBCWASH,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2997.ts
-NBCSN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2998.ts
-MY50,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3000.ts
-long,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3002.ts
-ID,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3003.ts
-GINX-TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3004.ts
-FOXLIFE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3005.ts
-FOX29,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3006.ts
-FOX-Life,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3007.ts
-fcsc,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3008.ts
-fcsa,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3009.ts
-ESPN-DEPORTES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3010.ts
-epix3,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3011.ts
-ELEVEN-NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3012.ts
-ELEVEN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3013.ts
-DFAM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3014.ts
-cinemax-west,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3015.ts
-BBC-WORLD-NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3016.ts
-AHC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3017.ts
-abc-portland,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3018.ts
-HISTORY CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2886.ts
-HISTORY 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2887.ts
-HGTV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2888.ts
-HGTV FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2889.ts
-HEROS & ICONS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2890.ts
-HALLMARK MOVIES & MYSTERIES HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2897.ts
-HALLMARK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2898.ts
-HALLMARK DRAMA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2899.ts
-GRIT TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2900.ts
-GOLF CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2901.ts
-GAME SHOW NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2902.ts
-FYI NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2904.ts
-FXX,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2905.ts
-FXM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2906.ts
-FX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2907.ts
-FUSION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2908.ts
-FUSE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2909.ts
-FREEFORM HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2910.ts
-FOX SPORTS 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2911.ts
-FOX SPORTS 1 FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2912.ts
-FOX SPORTS 1,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2913.ts
-Fox Soccer Plus,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2914.ts
-FOX NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2915.ts
-FOX DEPORTES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2916.ts
-Fox College Pacific,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2917.ts
-Fox College Central,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2918.ts
-Fox College Atlantic,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2919.ts
-FOX BUSINESS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2920.ts
-FOX 50,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2921.ts
-FOX 5 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2922.ts
-FOOD NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2923.ts
-FANTASY SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2924.ts
-ESPN U,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2925.ts
-ESPN NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2926.ts
-ESPN 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2927.ts
-ESPN HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2928.ts
-EPIX HITS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2929.ts
-EPIX HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2930.ts
-EPIX 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2931.ts
-ELEVEN SPORTS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2932.ts
-E!,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2934.ts
-DOG TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2935.ts
-DIY NETWORK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2936.ts
-DISNEY XD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2937.ts
-DISNEY JNR,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2938.ts
-DISNEY CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2939.ts
-DISCOVERY SCIENCE HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2940.ts
-DISCOVERY LIFE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2941.ts
-DISCOVERY FAMILY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2942.ts
-DISCOVERY CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2943.ts
-DESTINATION AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2944.ts
-CRIME AND INVESTIGATION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2945.ts
-COZI TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2946.ts
-COUNTRY NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2947.ts
-COOKING CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2948.ts
-COMET TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2949.ts
-COMEDY CENTRAL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2950.ts
-CNN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2951.ts
-CNBC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2952.ts
-CMT HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2953.ts
-CBSN SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2960.ts
-CBS SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2961.ts
-CBS NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2962.ts
-CBS EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2963.ts
-CARTOON NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2964.ts
-BUZZER,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2965.ts
-BOUNCE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2967.ts
-BOOMERANG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2968.ts
-BLOOMBERG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2969.ts
-BLAZE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2970.ts
-BIG TEN NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2971.ts
-BET HER,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2972.ts
-BET FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2973.ts
-BEIN SPORT USA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2974.ts
-BBC AMERICA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2975.ts
-BABY TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2976.ts
-AXS TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2977.ts
-AWE CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2978.ts
-ANTENNA TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2979.ts
-ANIMAL PLANET,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2980.ts
-AMERICAN HEROES CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2981.ts
-AMC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2982.ts
-ABC WEST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2983.ts
-ABC NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2984.ts
-ABC NEWS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2985.ts
-WGN America,http://op.cdloop.eu:80/5499795217emerson/esnrsykglp/1231
-WGN America,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2786.ts
-WE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2787.ts
-VICELAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2788.ts
-VH1 HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2789.ts
-USA NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2790.ts
-UNIVISION TDN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2791.ts
-UNIVISION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2792.ts
-Universal Premiere,http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/291223
-Universal KIDS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
-Universal HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
-UNIMAS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2795.ts
-TVONE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2796.ts
-TVG HORSE RACING,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2797.ts
-TV LAND HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2798.ts
-TRU TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2799.ts
-TNT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2801.ts
-TLC CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2802.ts
-THE WEATHER CHANNEL HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2803.ts
-THE CW HD - CHICAGO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2804.ts
-THE CW - PIX 11,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2805.ts
-TENNIS HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2806.ts
-TELEMUNDO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2807.ts
-TEEN NICK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2808.ts
-TCM,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2809.ts
-TBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2810.ts
-TBN Trinity Broadcasting Network,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2811.ts
-SYFY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2812.ts
-SUNDANCE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2813.ts
-STARZ KIDS & FAMILY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2814.ts
-STARZ IN BLACK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2815.ts
-STARZ ENCORE WESTERNS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2816.ts
-STARZ ENCORE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2817.ts
-STARZ EDGE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2818.ts
-STARZ COMEDY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2819.ts
-STARZ,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2820.ts
-SPORTSNET NY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2821.ts
-SPORTSMAN CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2823.ts
-SPIKE/PARAMOUNT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2824.ts
-SMITHSONIAN CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2825.ts
-SHOWTIME SHOWCASE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2826.ts
-SHOWTIME HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2827.ts
-SHOWTIME EXTREME,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2828.ts
-SHOWTIME 2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2829.ts
-SEC NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2830.ts
-RT NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2831.ts
-REVOLT,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2832.ts
-REELZ,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2833.ts
-QVC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2835.ts
-PURSUIT CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2836.ts
-POP,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2837.ts
-PBS WLIW 21,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2838.ts
-PBS KIDS EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2839.ts
-PBS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2840.ts
-PAC-12 OREGON,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2841.ts
-PAC-12 MOUNTAIN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2842.ts
-PAC-12 BAY AREA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2843.ts
-PAC-12 ARIZONA,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2844.ts
-PAC 12 NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
-PAC 12 LOS ANGELES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2846.ts
-OXYGEN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2847.ts
-OWN NETWORK FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2848.ts
-OVATION,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2849.ts
-OUTSIDE TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2850.ts
-OUTDOOR CHANNEL,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2851.ts
-ONE AMERICA NEWS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2852.ts
-NICKTOONS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2853.ts
-NICK JR.TOO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2854.ts
-NICK JR,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2855.ts
-NICK HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2856.ts
-NHL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2857.ts
-NFL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2859.ts
-NEWS 12 NEW JERSEY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2860.ts
-NEWS 12 LONG ISLAND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2861.ts
-NESN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2862.ts
-MY 9,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2865.ts
-MTV2,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2866.ts
-MTV LIVE,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2867.ts
-MTV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2868.ts
-MSNBC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2869.ts
-MSG,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2870.ts
-MOTOR TREND,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2871.ts
-MLB NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2872.ts
-ME TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2873.ts
-LIFETIME MOVIES,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2875.ts
-LIFETIME,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2876.ts
-LAFF TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2877.ts
-ION TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
-INVESTIGATION DISCOVERY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
-INVESTIGATION DISCOVERY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.ts
-INFOWARS,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2881.ts
-IFC,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2882.ts
-HSN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2883.ts
-HLN,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2884.ts
-HISTORY CHANNEL FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2885.ts
-WORLD FISHING NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2674.ts
-TSN Sport 5 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2675.ts
-TSN Sport 4 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2676.ts
-TSN Sport 3 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2677.ts
-TSN Sport 2 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2678.ts
-TSN Sport 1 HD.,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2679.ts
-NBC UNIVERSO,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2684.ts
-NBC Sports Philadelphia HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2685.ts
-NBC Sports Northwest HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2686.ts
-NBC SPORTS NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2687.ts
-NBC Sports Chicago HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2688.ts
-NBC Sports California HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2689.ts
-NBC Sports Boston HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2690.ts
-NBC Sports Bay Area HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2691.ts
-NBC GOLF,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2692.ts
-NBC 5,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2693.ts
-NBC 4 NY FHD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2694.ts
-NBC 4 NY,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2695.ts
-NBC 10 EAST,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2696.ts
-NBA TV HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2697.ts
-NHL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2681.ts
-NFL NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2683.ts
-MLB NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2698.ts
-LONGHORN NETWORK,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2699.ts
+🐾🦚美国新闻,#genre#
+CNN (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267077.ts
+CNN (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267078.ts
+CNN (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267079.ts
+CNN (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267080.ts
+CNN HD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267082.ts
+CNN INTERNATIONAL (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267083.ts
+CNN INTERNATIONAL (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267084.ts
+CNN INTERNATIONAL (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267085.ts
+CNN LATINA (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267086.ts
+CNN EN ESPAÑOL (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267087.ts
+CNN EN ESPAÑOL LAT (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267088.ts
+FOX NEWS NOW (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267095.ts
+FOX NEWS CHANNEL (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267089.ts
+FOX NEWS CHANNEL (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267092.ts
+FOX NEWS CHANNEL (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267093.ts
+FOX NEWS CHANNEL (V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267094.ts
+FOX BUSINESS NETWORK HD (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267129.ts
+FOX BUSINESS NETWORK HD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267131.ts
+FOX BUSINESS NETWORK HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267132.ts
+FOX BUSINESS NETWORK HD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267133.ts
+FOX BUSINESS NETWORK HD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267134.ts
+ABC NEWS LIVE HD (F) (P),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267110.ts
+ABC NEWS LIVE HD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267111.ts
+ABC NEWS LIVE HD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267112.ts
+ABC NEWS LIVE HD (V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267113.ts
+CNBC (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267101.ts
+CNBC (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267102.ts
+CNBC (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267103.ts
+CNBC (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267104.ts
+CNBC Ka-Ching (PC),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267105.ts
+CNBC TV18 (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267106.ts
+CNBC WORLD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267107.ts
+CNBC WORLD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267108.ts
+CNBC WORLD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267109.ts
+CBN NEWS (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267135.ts
+CBN NEWS INTERNATIONAL,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267136.ts
+CBS NEWS HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267137.ts
+CBS NEWS FHD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267138.ts
+CBS NEWS FHD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267139.ts
+CBS SPORTS NETWORK (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267114.ts
+CBSN BAY AREA (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267115.ts
+CBSN BOSTON (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267116.ts
+CBSN CHICAGO (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267117.ts
+CBSN DALLAS (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267118.ts
+CBSN COLORADO (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267119.ts
+CBSN LOS ANGELES (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267120.ts
+CBSN MINNESOTA (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267121.ts
+CBSN NEW YORK (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267122.ts
+CBSN PHILLY (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267123.ts
+CBSN PITTSBURGH (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267124.ts
+MSNBC HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267096.ts
+MSNBC HD (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267097.ts
+MSNBC HD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267098.ts
+MSNBC FHD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267100.ts
+HLN FHD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267125.ts
+HLN HD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267126.ts
+HLN FHD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267127.ts
+HLN FHD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267128.ts
+REVRY NEWS (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267140.ts
+BLACK NEWS CHANNEL (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267141.ts
+BLACK NEWS CHANNEL (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267142.ts
+CBC NEWS HIGHLIGHTS (TUBI) (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267144.ts
+ESTRELLA NEWS (TUBI) (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267145.ts
+FOX NEWS NOW (D) (Tubi),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267146.ts
+NEWS 12 NEW YORK (TUBI) (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267147.ts
+69 NEWS PHILADELPHIA (WFMZ) (L),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267148.ts
+7 NEWS BOSTON (WHDH) HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267149.ts
+BBC WORLD NEWS (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267151.ts
+BBC WORLD NEWS (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267152.ts
+NEWS 12 BROOKLYN,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267154.ts
+NEWS 12 CONNECTICUT,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267155.ts
+NEWS 12 HUDSON VALLEY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267156.ts
+NEWS 12 LONG ISLAND,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267157.ts
+NEWS 12 NEW JERSEY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267158.ts
+NEWS 12 NEW JERSEY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267159.ts
+NEWS 12 THE BRONX,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267160.ts
+NEWS 12 WESTCHESTER,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267161.ts
+BLOOMBERG TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267162.ts
+BLOOMBERG TV (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267163.ts
+BLOOMBERG TV (V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267165.ts
+BLOOMBERG TV POLITICS LIVE EVENT,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267166.ts
+BLOOMBERG QUICKTAKE (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267167.ts
+BLOOMBERG TV (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267168.ts
+BLOOMBERG TV (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267169.ts
+BLOOMBERG TV ASIA (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267170.ts
+BLOOMBERG TV ASIA LIVE EVENT (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267171.ts
+BLOOMBERG TV EMEA LIVE EVENT (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267172.ts
+BLOOMBERG TV EUROPE (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267173.ts
+BLOOMBERG TV LIVE EVENT (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267174.ts
+BLOOMBERG TV POLITICS LIVE EVENT (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267175.ts
+RUSSIA TODAY AMERICA (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267176.ts
+RUSSIA TODAY AMERICA (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267177.ts
+RUSSIA TODAY AMERICA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267178.ts
+FRANCE 24 ENG (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267179.ts
+AL JAZEERA ENGLISH (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267180.ts
+DW ENGLISH (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267181.ts
+EURONEWS (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267182.ts
+NEWSMAX FHD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267183.ts
+NEWSMAX HD(V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267184.ts
+NEWSMAX HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267186.ts
+NEWSNATION FHD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267187.ts
+NEWSNATION HD (V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267188.ts
+NEWSNATION FHD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267189.ts
+NEWSNATION HD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267190.ts
+NEWSNET,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267191.ts
+NEWS NOW FROM FOX (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267192.ts
+NEWSY (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267193.ts
+NEWSY (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267194.ts
+ONE AMERICA NEWS NETWORK (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267195.ts
+ONE AMERICA NEWS NETWORK (V),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267196.ts
+ONE AMERICA NEWS NETWORK (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267197.ts
+C-SPAN HD (X),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267198.ts
+C-SPAN HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267199.ts
+C-SPAN 2 HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267200.ts
+C-SPAN 2 HD (X),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267201.ts
+C-SPAN 3 (X),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267202.ts
+THE WEATHER CHANNEL HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267203.ts
+THE WEATHER CHANNEL HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267204.ts
+THE WEATHER CHANNEL HD (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267205.ts
+WEATHERNATION HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267206.ts
+WEATHERNATION HD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267207.ts
+ACCUWEATHER HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267208.ts
+CHEDDAR BIG NEWS HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267209.ts
+CHEDDAR BUISNESS HD (F),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267210.ts
+CHEDDAR BUISNESS HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267211.ts
+CHEDDAR BUISNESS HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267212.ts
+CHEDDAR BUISNESS HD (H),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267213.ts
+CHEDDAR BUISNESS HD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267214.ts
+CHEDDAR BUISNESS HD (Y),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267215.ts
+CHEDDAR NEWS HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267216.ts
+CHEDDAR NEWS HD (S),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267217.ts
+INFOWARS TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267218.ts
+INFOWARS TV LIVE,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267220.ts
+WGN AMERICA HD (A),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267222.ts
+WGN9 HD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267223.ts
+SKY NEWS (PC),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267224.ts
+YAHOO! FINANCE FHD (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267225.ts
+BLAZE (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267226.ts
+IOWA'S NEWS CHANNEL 7 (KTVB) BOISE HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267227.ts
+7 NEWS BOSTON HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267228.ts
+BLACK NEWS CHANNEL (D),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267229.ts
+
+🐾🦚美国影视,#genre#
+PARAMOUNT NETWORK EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376181.ts
+PARAMOUNT NETWORK WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376182.ts
+HBO 1 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376093.ts
+HBO 1 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376094.ts
+HBO 1 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169610.ts
+HBO 1 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169611.ts
+HBO 2 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376095.ts
+HBO 2 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376096.ts
+HBO 2 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169612.ts
+HBO 2 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169613.ts
+HBO SIGNATURE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376097.ts
+HBO SIGNATURE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376098.ts
+HBO SIGNATURE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169618.ts
+HBO SIGNATURE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169619.ts
+HBO ZONE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376099.ts
+HBO ZONE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376100.ts
+HBO ZONE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169620.ts
+HBO ZONE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169621.ts
+HBO COMEDY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376101.ts
+HBO COMEDY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376102.ts
+HBO COMEDY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169614.ts
+HBO COMEDY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169615.ts
+HBO FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376103.ts
+HBO FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376104.ts
+HBO FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169616.ts
+HBO FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169617.ts
+SHOWTIME EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376107.ts
+SHOWTIME WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376108.ts
+SHOWTIME EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169622.ts
+SHOWTIME WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169623.ts
+SHOWTIME 2 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376109.ts
+SHOWTIME 2 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376110.ts
+SHOWTIME 2 EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169624.ts
+SHOWTIME 2 WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169625.ts
+SHOWTIME EXTREME EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376111.ts
+SHOWTIME EXTREME WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376112.ts
+SHOWTIME EXTREME EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169628.ts
+SHOWTIME EXTREME WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169629.ts
+SHOWTIME FAMILY ZONE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376113.ts
+SHOWTIME FAMILY ZONE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376114.ts
+SHOWTIME FAMILY ZONE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169630.ts
+SHOWTIME FAMILY ZONE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169631.ts
+SHOWTIME NEXT EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376115.ts
+SHOWTIME NEXT WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376116.ts
+SHOWTIME NEXT EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169632.ts
+SHOWTIME NEXT WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169633.ts
+SHOWTIME SHOWCASE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376117.ts
+SHOWTIME SHOWCASE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376118.ts
+SHOWTIME SHOWCASE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169634.ts
+SHOWTIME SHOWCASE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169635.ts
+SHOWTIME WOMEN EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376119.ts
+SHOWTIME WOMEN WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376120.ts
+SHOWTIME WOMEN EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169636.ts
+SHOWTIME WOMEN WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169637.ts
+STARZ EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376124.ts
+STARZ WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376125.ts
+STARZ EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169644.ts
+STARZ WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169645.ts
+STARZ CINEMA EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376126.ts
+STARZ CINEMA WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376127.ts
+STARZ CINEMA EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169646.ts
+STARZ CINEMA WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169647.ts
+STARZ COMEDY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376128.ts
+STARZ COMEDY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376129.ts
+STARZ COMEDY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169648.ts
+STARZ COMEDY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169649.ts
+STARZ EDGE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376130.ts
+STARZ EDGE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376131.ts
+STARZ EDGE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169650.ts
+STARZ EDGE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169651.ts
+STARZ ENCORE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376132.ts
+STARZ ENCORE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376133.ts
+STARZ ENCORE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169652.ts
+STARZ ENCORE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169653.ts
+STARZ ENCORE WESTERNS EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376134.ts
+STARZ ENCORE WESTERNS WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376135.ts
+STARZ ENCORE WESTERNS EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170392.ts
+STARZ ENCORE WESTERNS WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170393.ts
+STARZ ENCORE ACTION EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376136.ts
+STARZ ENCORE ACTION WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376137.ts
+STARZ ENCORE ACTION EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170380.ts
+STARZ ENCORE ACTION WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170381.ts
+STARZ ENCORE BLACK EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376138.ts
+STARZ ENCORE BLACK WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376139.ts
+STARZ ENCORE BLACK EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170382.ts
+STARZ ENCORE BLACK WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170383.ts
+STARZ ENCORE FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376140.ts
+STARZ ENCORE FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376141.ts
+STARZ ENCORE FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170388.ts
+STARZ ENCORE FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170389.ts
+STARZ ENCORE SUSPENSE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376142.ts
+STARZ ENCORE SUSPENSE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376143.ts
+STARZ ENCORE SUSPENSE EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170390.ts
+STARZ ENCORE SUSPENSE WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170391.ts
+STARZ ENCORE CLASSIC EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376144.ts
+STARZ ENCORE CLASSIC WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376145.ts
+STARZ ENCORE CLASSIC EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170384.ts
+STARZ ENCORE CLASSIC WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170385.ts
+STARZ IN BLACK EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376146.ts
+STARZ IN BLACK WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376147.ts
+STARZ IN BLACK EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170394.ts
+STARZ IN BLACK WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170395.ts
+STARZ KIDS & FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376148.ts
+STARZ KIDS & FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376149.ts
+STARZ KIDS & FAMILY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170396.ts
+STARZ KIDS & FAMILY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170397.ts
+CINEMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376151.ts
+CINEMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376152.ts
+CINEMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169601.ts
+CINEMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169602.ts
+THRILLERMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376162.ts
+THRILLERMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376155.ts
+THRILLERMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169605.ts
+THRILLERMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169606.ts
+OUTERMAX,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376156.ts
+OUTERMAX,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169608.ts
+MOREMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376157.ts
+MOREMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376154.ts
+MOREMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169603.ts
+MOREMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169604.ts
+MOVIEMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376158.ts
+MOVIEMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169607.ts
+MOVIEMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/173382.ts
+MOVIEPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376159.ts
+MOVIEPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169640.ts
+MOVIEPLEX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169641.ts
+5 STARMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376160.ts
+5 STARMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169609.ts
+5 STARMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198288.ts
+ACTIONMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376161.ts
+ACTIONMAX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376153.ts
+ACTIONMAX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169599.ts
+ACTIONMAX WEST [EN SP],http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169600.ts
+HALLMARK CHANNEL EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170481.ts
+HALLMARK CHANNEL EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376163.ts
+HALLMARK CHANNEL WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376164.ts
+HALLMARK DRAMA EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170483.ts
+HALLMARK DRAMA EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376165.ts
+HALLMARK MOVIES & MYSTERIES EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170484.ts
+HALLMARK MOVIES MYSTERIES EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376166.ts
+HALLMARK MOVIES MYSTERIES WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376167.ts
+INDIEPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376169.ts
+INDIEPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169638.ts
+INDIEPLEX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169639.ts
+SUNDANCE TV EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170486.ts
+SUNDANCE TV EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376172.ts
+SUNDANCE TV WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376173.ts
+AMC EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376174.ts
+AMC WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376175.ts
+AMC EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170482.ts
+AMC WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198631.ts
+AMC+,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198630.ts
+EPIX ,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170488.ts
+EPIX 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376180.ts
+EPIX 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170489.ts
+EPIX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376176.ts
+EPIX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198627.ts
+EPIX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376177.ts
+EPIX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198628.ts
+EPIX HITS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376178.ts
+EPIX HITS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170491.ts
+EPIX DRIVE IN,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376179.ts
+EPIX DRIVE IN,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170490.ts
+THE MOVIE CHANNEL EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376183.ts
+THE MOVIE CHANNEL WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376184.ts
+THE MOVIE CHANNEL EXTRA EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376185.ts
+THE MOVIE CHANNEL EXTRA WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376186.ts
+HEROES & ICONS EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376189.ts
+HEROES & ICONS WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376190.ts
+SHO×BET EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376121.ts
+SHO×BET WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376122.ts
+RETRO TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376193.ts
+RETROPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376194.ts
+RETROPLEX EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169642.ts
+RETROPLEX WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/169643.ts
+FILMRISE FAMILY,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198632.ts
+FILMRISE CLASSICS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117449.ts
+FILMRISE TRUE CRIME,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117457.ts
+FILMRISE MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117458.ts
+SYFY EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376195.ts
+SYFY WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376196.ts
+TCM EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376197.ts
+TCM EAST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170399.ts
+TCM WEST,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170400.ts
+VIENDOMOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376198.ts
+FX MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170492.ts
+SONY MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/375839.ts
+SONY MOVIES,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170487.ts
+MGM,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376170.ts
+MGM,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117335.ts
+HDNET Movies,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170485.ts
+HDNET Movies,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376171.ts
+LMN,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170493.ts
+LMN,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376191.ts
+REELZ CHANNEL,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376192.ts
+REELZ CHANNEL,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117482.ts
+IFC,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117433.ts
+THE ASYLUM,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/149497.ts
+THE FILM DETECTIVE,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/34717.ts
+COMET TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117315.ts
+
+🐾🦚美国娱乐,#genre#
+TNT FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117386.ts
+TNT (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117561.ts
+TNT (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117554.ts
+TRUTV (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117570.ts
+TRUTV (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117365.ts
+ASPIRE TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117375.ts
+AUDIENCE NETWORK HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117372.ts
+AXS TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117334.ts
+BBC AMERICA (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117271.ts
+BET (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117273.ts
+BET (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117351.ts
+BET SOUL HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117274.ts
+BET HER (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117275.ts
+BET JAMS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117276.ts
+BOUNCE TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118497.ts
+BRAVO (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117282.ts
+BRAVO (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117323.ts
+COMEDY TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117253.ts
+COMEDY CENTRAL (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117312.ts
+COMEDY CENTRAL (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117325.ts
+LAFF TV FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198293.ts
+MASN FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/198295.ts
+COZI TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117320.ts
+FOLK TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117460.ts
+FREEFORM HD (EAST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117367.ts
+FREEFORM HD (WEST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118468.ts
+FUSE FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117370.ts
+FYI FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117587.ts
+GAME SHOW NETWORK HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/150570.ts
+HEROES & ICONS HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118499.ts
+INSP HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117254.ts
+LIFETIME HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117443.ts
+LOGO TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117290.ts
+MTV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117454.ts
+OWN HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117474.ts
+OVATION HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117252.ts
+OXYGEN (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117476.ts
+OXYGEN (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117362.ts
+PARAMOUNT CHANNEL HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117287.ts
+PEOPLE TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117548.ts
+POP (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117480.ts
+POP (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/151251.ts
+RAI ITALIA HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117373.ts
+REVOLT HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117484.ts
+ROOSTER TEETH TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117574.ts
+SHE TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117576.ts
+SYFY EAST HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117546.ts
+SYFY WEST HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117549.ts
+TBD TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117810.ts
+TBS (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117552.ts
+TBS (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117551.ts
+THE COWBOY CHANNEL,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117314.ts
+THE PET COLLECTIVE HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/65375.ts
+TMZ HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/151109.ts
+TV LAND (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117571.ts
+TV LAND (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117366.ts
+TV ONE HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/70874.ts
+UP TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/71500.ts
+USA NETWORK (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117577.ts
+USA NETWORK (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117440.ts
+VICE (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118470.ts
+
+🐾🦚美国纪实,#genre#
+ANIMAL PLANET (EAST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376277.ts
+ANIMAL PLANET (WEST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376278.ts
+DISCOVERY CHANNEL (EAST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376279.ts
+DISCOVERY CHANNEL (WEST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376280.ts
+DISCOVERY FAMILY HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376281.ts
+DISCOVERY LIFE HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376282.ts
+DISCOVERY SCIENCE HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376286.ts
+INVESTIGATION DISCOVERY (EAST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376283.ts
+INVESTIGATION DISCOVERY (WEST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376284.ts
+CRIME & INVESTIGATION HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376285.ts
+NAT GEO (EAST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376287.ts
+NAT GEO (WEST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376288.ts
+NAT GEO WILD HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376289.ts
+NASA TV HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376290.ts
+NASA EDUCATION (WEFSD) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376291.ts
+AMERICAN HEROES CHANNEL HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376292.ts
+CARS.TV HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376293.ts
+COOKING CHANNEL HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376294.ts
+FOOD NETWORK (EAST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376295.ts
+FOOD NETWORK (WEST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376296.ts
+HGTV (EAST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376297.ts
+HGTV (WEST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376298.ts
+HISTORY CHANNEL (EAST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376299.ts
+HISTORY CHANNEL (WEST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376300.ts
+MILITARY HISTORY CHANNEL HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376301.ts
+OUTDOOR CHANNEL HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376302.ts
+NCN (KFDY) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376303.ts
+RECIPE TV HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376304.ts
+RFD TV HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376305.ts
+SMITHSONIAN CHANNEL (EAST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376306.ts
+SMITHSONIAN CHANNEL (WEST) HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376307.ts
+THE AFRICA CHANNEL HD (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376308.ts
+THE ARABIC CHANNEL (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376309.ts
+THE COWBOY CHANNEL (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376310.ts
+TIME WARNER WACO (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376311.ts
+TRAVEL CHANNEL (EAST) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376312.ts
+TRAVEL CHANNEL (WEST) (TWC) (SP),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376313.ts
 
 •●★英国体育★●•,#genre#
 EUROSPORT 1,http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323760
