@@ -3397,17 +3397,17 @@ THE FILM DETECTIVE,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/34717.ts
 COMET TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117315.ts
 
 🐾🦚美国娱乐,#genre#
-TNT FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117386.ts
-TNT (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117561.ts
-TNT (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117554.ts
-TRUTV (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117570.ts
-TRUTV (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117365.ts
+TNT (EAST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117386.ts
+TNT (EAST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117561.ts
+TNT (WEST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117554.ts
+TRUTV (EAST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117570.ts
+TRUTV (WEST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117365.ts
 ASPIRE TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117375.ts
 AUDIENCE NETWORK HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117372.ts
 AXS TV HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117334.ts
 BBC AMERICA (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117271.ts
-BET (EAST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117273.ts
-BET (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117351.ts
+BET (EAST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117273.ts
+BET (WEST),http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117351.ts
 BET SOUL HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117274.ts
 BET HER (WEST) HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117275.ts
 BET JAMS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/117276.ts
