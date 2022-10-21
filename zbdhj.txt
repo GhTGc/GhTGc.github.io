@@ -94,17 +94,25 @@
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews7294=124.m3u8
 有线直播新闻,https://api.leonardpark.dev/live/icable/110
+翡翠台,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340594.ts
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
 翡翠台 华丽,http://98.142.138.122:1636/zhiboyuandakaTV/tvbhuali1723956.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+TVB1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340597.ts
+TVB1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340598.ts
 TVB Jade Overseas Edition,http://23.237.10.66:16410
+TVB NEWS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340596.ts
+TVB NEWS,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340638.ts
 TVB News Channel Overseas Edition,http://9.zhxinda.xyz/newss.php?id=1
 TVB 娱乐新闻,http://206.221.176.47:64019
 TVB星河,http://206.221.176.47:64020
 TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
+TVBE,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340599.ts
+TVB J1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340600.ts
+TVB J1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340639.ts
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -171,6 +179,8 @@ HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
 探索频道,https://epg.pm/stream/3e12a6f872afce77689199e83ddb94c98ba6b82c884d4038ea15f59351527316.m3u8
 探索动力,https://epg.pm/stream/67ac5da0f9ef87e73151860f0991afee53db7b0c35647852990138b004f32106.m3u8
 中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+东森 Global,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340660.ts
+东森新闻,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340661.ts
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 台视,http://23.237.10.66:16344
 中视,rtmp://59.124.75.138:1935/sat/tv091
