@@ -120,18 +120,35 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 
 💞StarHub&NowHK,#genre#
-SG: HUB PREMIER 1 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382359.ts
-SG: HUB PREMIER 2 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382360.ts
-SG: HUB PREMIER 2 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382361.ts
-SG: HUB PREMIER 3 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382362.ts
-SG: HUB PREMIER 4 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382363.ts
-SG: HUB PREMIER 5 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382364.ts
-SG: HUB PREMIER 6 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382365.ts
-SG: HUB PREMIER 7 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382366.ts
-SG: HUB PREMIER 8 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382367.ts
-SG: HUB PREMIER 9 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382368.ts
-SG: HUB PREMIER 10 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382369.ts
-SG: HUB PREMIER 11 FHD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382370.ts
+HubPremier 1,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348097
+HubPremier 2,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348098
+HubPremier 3,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348099
+HubPremier 4,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348100
+HubPremier 5,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348101
+HubPremier 6,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348102
+HubPremier 7,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348103
+HubPremier 8,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348104
+HubPremier 9,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348105
+HubPremier 10,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348106
+HubPremier 11,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348107
+HubPremier 4K,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348096
+HubPremier 1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382359.ts
+HubPremier 2 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382360.ts
+HubPremier 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382361.ts
+HubPremier 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382362.ts
+HubPremier 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382363.ts
+HubPremier 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382364.ts
+HubPremier 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382365.ts
+HubPremier 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382366.ts
+HubPremier 8,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382367.ts
+HubPremier 9,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382368.ts
+HubPremier 10,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382369.ts
+HubPremier 11,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382370.ts
+Astro Supersport 4K 1,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348094
+Astro Supersport 4K 2,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348095
+Flowsports 1 [Premier League],http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/28096
+Flowsports 2 [Premier League],http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/28095
+HK: Now Sports 4K,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/117957
 HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
 HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
 HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
