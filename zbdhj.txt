@@ -120,66 +120,35 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 
 💞StarHub&NowHK,#genre#
-HubPremier 1,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348097
-HubPremier 2,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348098
-HubPremier 3,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348099
-HubPremier 4,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348100
-HubPremier 5,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348101
-HubPremier 6,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348102
-HubPremier 7,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348103
-HubPremier 8,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348104
-HubPremier 9,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348105
-HubPremier 10,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348106
-HubPremier 11,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348107
-HubPremier 4K,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348096
-HubPremier 1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382359.ts
-HubPremier 2 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382360.ts
-HubPremier 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382361.ts
-HubPremier 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382362.ts
-HubPremier 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382363.ts
-HubPremier 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382364.ts
-HubPremier 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382365.ts
-HubPremier 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382366.ts
-HubPremier 8,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382367.ts
-HubPremier 9,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382368.ts
-HubPremier 10,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382369.ts
-HubPremier 11,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/382370.ts
-Astro Supersport 4K 1,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348094
-Astro Supersport 4K 2,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/348095
-Flowsports 1 [Premier League],http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/28096
-Flowsports 2 [Premier League],http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/28095
-HK: Now Sports 4K,http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/117957
-HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
-HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
-HK: NOW SPORTS 4K,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370051.ts
-HK: NOW SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370037.ts
-HK: NOW SPORTS 2 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370038.ts
-HK: NOW SPORTS 3 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370039.ts
-HK: NOW SPORTS 4 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370040.ts
-HK: NOW SPORTS 5 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370041.ts
-HK: NOW SPORTS 6 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370042.ts
-HK: NOW SPORTS 7 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370043.ts
-HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
-HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
-HK: NOW PREMIER SPORTS 1 HD,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370044.ts
-HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
-HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
-HK: NOW PREMIER SPORTS 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370045.ts
-HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
-HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
-HK: NOW PREMIER SPORTS 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370046.ts
-HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
-HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
-HK: NOW PREMIER SPORTS 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370047.ts
-HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
-HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
-HK: NOW PREMIER SPORTS 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370048.ts
-HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
-HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
-HK: NOW PREMIER SPORTS 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370049.ts
-HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
-HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
-HK: NOW PREMIER SPORTS 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370050.ts
+Now Sports 4K,http://ys-users.com:8080/promo5/5thpromotion/425322
+Now Premier Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425332
+Now Premier Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425333
+Now Premier Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425334
+Now Premier Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425335
+Now Premier Sports 5,http://ys-users.com:8080/promo5/5thpromotion/425336
+Now Premier Sports 6,http://ys-users.com:8080/promo5/5thpromotion/425337
+Now Premier Sports 7,http://ys-users.com:8080/promo5/5thpromotion/425331
+Now Premier Sports 8,http://ys-users.com:8080/promo5/5thpromotion/425330
+Now Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425329
+Now Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425328
+Now Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425327
+Now Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425326
+Now Sports 5,http://ys-users.com:8080/promo5/5thpromotion/425325
+Now Sports 6,http://ys-users.com:8080/promo5/5thpromotion/425324
+Now Sports 7,http://ys-users.com:8080/promo5/5thpromotion/425323
+Astro Super Sports ARENA,http://ys-users.com:8080/promo5/5thpromotion/425437
+Astro Arena 2,http://ys-users.com:8080/promo5/5thpromotion/425450
+Astro beIN Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425447
+Astro beIN Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425448
+Astro beIN Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425449
+Astro Super Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425438
+Astro Super Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425439
+Astro Super Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425440
+Astro Super Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425441
+Astro SuperSport 5,http://ys-users.com:8080/promo5/5thpromotion/425446
+Astro Super Sports eGG Network,http://ys-users.com:8080/promo5/5thpromotion/425442
+Astro Super Sports EUROSPORT,http://ys-users.com:8080/promo5/5thpromotion/425445
+
 
 💞NBA,#genre#
 NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118459.ts
@@ -2912,6 +2881,44 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 红牛TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
 红牛TV,http://meumd.com:80/Denise01/denise001/109033
 红牛TV,http://meumd.com:80/Denise01/denise001/125654
+
+🐾🦚美国PeacockTV,#genre#
+Premier League TV,http://ys-users.com:8080/promo5/5thpromotion/405957
+WWE Network,http://ys-users.com:8080/promo5/5thpromotion/405955
+Fallon Tonight,http://ys-users.com:8080/promo5/5thpromotion/405934
+AFV Family,http://ys-users.com:8080/promo5/5thpromotion/405927
+Circle,http://ys-users.com:8080/promo5/5thpromotion/405930
+Comedy Dynamics,http://ys-users.com:8080/promo5/5thpromotion/405931
+DUST,http://ys-users.com:8080/promo5/5thpromotion/405932
+Fail Army,http://ys-users.com:8080/promo5/5thpromotion/405933
+Fuse Backstage,http://ys-users.com:8080/promo5/5thpromotion/405935
+Golf Open ,http://ys-users.com:8080/promo5/5thpromotion/405936
+Hells Kitchen,http://ys-users.com:8080/promo5/5thpromotion/405937
+Just For Laughs,http://ys-users.com:8080/promo5/5thpromotion/405928
+Keeping Up with the Kardashians,http://ys-users.com:8080/promo5/5thpromotion/405938
+LOL! Network,http://ys-users.com:8080/promo5/5thpromotion/405939
+Loop Classic Music Videos,http://ys-users.com:8080/promo5/5thpromotion/405952
+Loop Country,http://ys-users.com:8080/promo5/5thpromotion/405956
+Loop Hit Music Videos,http://ys-users.com:8080/promo5/5thpromotion/405940
+Loop Latin,http://ys-users.com:8080/promo5/5thpromotion/405953
+LX,http://ys-users.com:8080/promo5/5thpromotion/405941
+NBC Boston News,http://ys-users.com:8080/promo5/5thpromotion/405942
+NBC Chicago News,http://ys-users.com:8080/promo5/5thpromotion/405943
+NBC Dateline,http://ys-users.com:8080/promo5/5thpromotion/405944
+NBC Golf Pass,http://ys-users.com:8080/promo5/5thpromotion/405945
+NBC Los Angeles News,http://ys-users.com:8080/promo5/5thpromotion/405954
+NBC New York News,http://ys-users.com:8080/promo5/5thpromotion/405951
+NBC NEWS NOW,http://ys-users.com:8080/promo5/5thpromotion/405946
+NBC Philadelphia News,http://ys-users.com:8080/promo5/5thpromotion/405947
+NBC South Florida News,http://ys-users.com:8080/promo5/5thpromotion/405948
+NBC Sports,http://ys-users.com:8080/promo5/5thpromotion/405949
+NFL Channel,http://ys-users.com:8080/promo5/5thpromotion/405950
+Rotten Tomatoes,http://ys-users.com:8080/promo5/5thpromotion/405958
+Sky News,http://ys-users.com:8080/promo5/5thpromotion/405959
+SNL Vault,http://ys-users.com:8080/promo5/5thpromotion/405961
+TODAY All Day,http://ys-users.com:8080/promo5/5thpromotion/405962
+Unsolved Mysteries,http://ys-users.com:8080/promo5/5thpromotion/405963
+
 
 🐾🦚美国新闻,#genre#
 CNN,http://19.1222908.net:8019/USERRTFGTTT/2TLyzR9xbp/323379
