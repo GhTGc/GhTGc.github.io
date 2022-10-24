@@ -151,32 +151,85 @@ Astro Super Sports EUROSPORT,http://ys-users.com:8080/promo5/5thpromotion/425445
 
 
 💞NBA,#genre#
-NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/118459.ts
-NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/266871.ts
-NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/370883.ts
-NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376495.ts
-NBA TV,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/376494.ts
-Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/170433.ts
-Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/267450.ts
-Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/383618.ts
-Be〓 SPORTS NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/383636.ts
-SKY SPORT NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/97437.ts
-SPORT TV NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/159115.ts
-SPORT TV NBA,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/159114.ts
-NBA League Pass 1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392847.ts
-NBA League Pass 2,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392848.ts
-NBA League Pass 3,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392849.ts
-NBA League Pass 4,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392850.ts
-NBA League Pass 5,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392851.ts
-NBA League Pass 6,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392852.ts
-NBA League Pass 7,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392853.ts
-NBA League Pass 8,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392854.ts
-NBA League Pass 9,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392855.ts
-NBA League Pass 10,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392856.ts
-NBA League Pass 11,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392857.ts
-NBA League Pass 12,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392858.ts
-NBA League Pass 13,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392859.ts
-NBA League Pass 14,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/392860.ts
+NBA TV,http://ys-users.com:8080/promo5/5thpromotion/237165
+NBA TV,http://ys-users.com:8080/promo5/5thpromotion/367120
+ABC,http://ys-users.com:8080/promo5/5thpromotion/376410
+ESPN,http://ys-users.com:8080/promo5/5thpromotion/376411
+TNT,http://ys-users.com:8080/promo5/5thpromotion/376412
+Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/437389
+Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/433730
+Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/437410
+Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/433732
+Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/437409
+Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/433734
+Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/437412
+Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/433736
+Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/437402
+Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/433738
+Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/437399
+Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/433740
+Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/437407
+Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/433742
+Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/437406
+Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/433744
+Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/437390
+Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/433746
+Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/437400
+Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/433748
+Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/437403
+Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/433750
+Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/437396
+Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/433752
+Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/437413
+Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/433754
+Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/437398
+Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/433756
+Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/437397
+Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/433758
+Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/437414
+Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/433760
+Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/437395
+Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/433762
+Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/437401
+Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/433764
+New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/437392
+New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/433766
+New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/437405
+New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/433768
+Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/437391
+Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/433770
+Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/437394
+Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/433772
+Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/437408
+Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/433774
+Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/437411
+Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/433776
+Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/437404
+Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/433778
+Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/437415
+Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/433780
+San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/437386
+San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/433782
+Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/437387
+Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/433784
+Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/437388
+Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/433786
+Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/437393
+Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/433788
+NBA01:,http://ys-users.com:8080/promo5/5thpromotion/464234
+NBA02:,http://ys-users.com:8080/promo5/5thpromotion/464235
+NBA03:,http://ys-users.com:8080/promo5/5thpromotion/464236
+NBA04:,http://ys-users.com:8080/promo5/5thpromotion/464237
+NBA05:,http://ys-users.com:8080/promo5/5thpromotion/464238
+NBA06:,http://ys-users.com:8080/promo5/5thpromotion/464239
+NBA07:,http://ys-users.com:8080/promo5/5thpromotion/464240
+NBA08:,http://ys-users.com:8080/promo5/5thpromotion/464241
+NBA09:,http://ys-users.com:8080/promo5/5thpromotion/464242
+NBA10:,http://ys-users.com:8080/promo5/5thpromotion/464243
+NBA11:,http://ys-users.com:8080/promo5/5thpromotion/464244
+NBA12:,http://ys-users.com:8080/promo5/5thpromotion/464245
+NBA13:,http://ys-users.com:8080/promo5/5thpromotion/464246
+NBA14:,http://ys-users.com:8080/promo5/5thpromotion/464247
 NBA League Pass 1,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89941
 NBA League Pass 2,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89942
 NBA League Pass 3,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89943
