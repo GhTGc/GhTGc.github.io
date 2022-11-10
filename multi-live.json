@@ -42,6 +42,14 @@
          "logo":"",
          "epg":"",
          "ua":""
+      },
+      {
+         "name":"Adult",
+         "type":0,
+         "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/Adult.m3u",
+         "logo":"",
+         "epg":"",
+         "ua":""
       }  
    ]
 }
