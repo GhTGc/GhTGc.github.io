@@ -2619,57 +2619,55 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 
 🐳斗鱼(ljk播放器),#genre#
-斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=80f247e42b862905dafbf56c256bd1e2&token=cpn-androidmpro-0-3637778-8c089871434b9344aa21bb2a21bf11eda7e2cffd7513a332&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/3637726rQLDdfto7.flv?wsAuth=5b756d2f5b6d2959bf053c849449666f&token=cpn-androidmpro-0-3637726-a97a3241d761383478d4fcc20218fc1511f9e1174876d26f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/8985415rf7zHCNHX.flv?wsAuth=617738f989a720c87f0a251d15acadf8&token=cpn-androidmpro-0-8985415-c35d1685794d1bc4cf397c9d83a9501515e02ea0c267ba23&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼电影4,http://tc-tct.douyucdn2.cn/dyliveflv3/10240553rK44oePQ.flv?wsAuth=b20ee4f344957af01f80f5378e8d1c73&token=cpn-androidmpro-0-10240553-3f9dd20978742ffdb4705c58d12f6e382652482f055c3f9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/9650887ruvDTpMxy.flv?wsAuth=245924dfea3bca030ae242099f901179&token=cpn-androidmpro-0-9650887-05de1fcd022bbd153ba42d4b93e2439c34c50e72c7676b11&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼电影6,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741r2kxTIPww.flv?wsAuth=4878deb70c78123a6c7c59dceefe0c81&token=cpn-androidmpro-0-1226741-0dc52b22d02956898a9ea72db77eecf90abd394a9a0470ea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-斗鱼电影7,http://tc-tct.douyucdn2.cn/dyliveflv1a/315457rSJuksQi1q_2000.flv?wsAuth=aae277ad081bdd0041906343901aa60e&token=cpn-androidmpro-0-315457-2a7d21b732624e7c8a667f85932777c051cb040bb38ceceb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-斗鱼电影8,http://tc-tct.douyucdn2.cn/dyliveflv3a/263824rDqYbJThkR_2000.flv?wsAuth=5e1840b7989cb240970dd4753695da29&token=cpn-androidmpro-0-263824-09ca092493db15d2eb3f151d600fd717184c888d0ee0cd77&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-斗鱼电影9,http://tc-tct.douyucdn2.cn/dyliveflv1/323876rpFaccVdDN_2000.flv?wsAuth=bbc2a2ed81231653de4f8aea546138d1&token=cpn-androidmpro-0-323876-c58c02104b243774f798b6c30d9da61df73da008ba13a46f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=5994a5ed03abcfc06dec876c134a6cf4&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cb0efc2d84bb8e8fda1c6f8a6c91d715f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3/9808720rARBuGkMZ.flv?wsAuth=6880862e1b0daf0339a1cd577c4fdae7&token=cpn-androidmpro-0-9808720-ed0be6aaacaf113965b20873665f65cf41645542f1bc5ac2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-纪录片之家,http://tc-tct.douyucdn2.cn/dyliveflv3a/8834003rS2XAYrS6.flv?wsAuth=7a9c6c47a781167dc48ffa2a02fae470&token=cpn-androidmpro-0-8834003-2f33f0cae86faf171348fdcacc047dee65e26808e206150b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-看看世界,http://tc-tct.douyucdn2.cn/dyliveflv3/442280rZjBA2mx7H.flv?wsAuth=ec16ee4e3df3ae6c41c6f797001897e0&token=cpn-androidmpro-0-442280-e976f316d0494d8cf27c7c793a58497594a42e579195c741&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-绝命毒师第五季,http://tc-tct.douyucdn2.cn/dyliveflv3/755832rzZbdMY57K.flv?wsAuth=f69ef75174ea68e5f6fbcbb178e30209&token=cpn-androidmpro-0-755832-cfa80cdb90286ea2b7520032dcb0ee495b66a388d10e4881&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-窒息的操作,http://tc-tct.douyucdn2.cn/dyliveflv3a/117854rzrDIopob5.flv?wsAuth=ed15e0904e8b09cfb1907a2fa262479a&token=cpn-androidmpro-0-117854-25398234ebc1afb582145cb70bb9ce053ab1ee114a3e12f4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
-【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
-【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
-✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
-【回首往事】仨房间画面同步显示,http://epg.112114.xyz/douyu/1569773
-大星与海绵方块,http://epg.112114.xyz/douyu/3949681
-美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
-海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
-【猫和老鼠】汤姆和杰瑞童年回忆,http://epg.112114.xyz/douyu/7888428
-【柯南】外表看似小孩，智慧却过于常人,http://epg.112114.xyz/douyu/6484910
-江户川柯南，是一个蒸蛋。,http://epg.112114.xyz/douyu/5377297
-万年如一柯播南，各位给点电费吧,http://epg.112114.xyz/douyu/1783144
-【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
-星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
-松开的手0.0,http://epg.112114.xyz/douyu/10210568
-浦饭幽游藏马飞影桑原,http://epg.112114.xyz/douyu/9938431
-【童年往事】仨房间画面同步显示点播,http://epg.112114.xyz/douyu/7256376
-✨妖精的直播间✨,http://epg.112114.xyz/douyu/5960746
-【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
-【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
-【追忆】国语超清动画电影,http://epg.112114.xyz/douyu/6449849
-老爹:还有一件事,http://epg.112114.xyz/douyu/7134757
-开心锤锤，开心快乐每一天！,http://epg.112114.xyz/douyu/9018297
-舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
-最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
-鲁过一世的直播间,http://epg.112114.xyz/douyu/9716515
-星海璃幻V的直播间,http://epg.112114.xyz/douyu/9567313
-【神剧】经典神剧,http://epg.112114.xyz/douyu/3700024
-【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
-【贝爷影厅】经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
-【女神金】60帧极致蓝光刀刀陪看,http://epg.112114.xyz/douyu/747764
-【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
-狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
-【科幻Fans】精彩科幻影视，解说连连看,http://epg.112114.xyz/douyu/3508304
-最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
+周末电影院[1920x1080],http://epg.112114.xyz/douyu/3637726
+周末电影院2,http://epg.112114.xyz/douyu/3637765
+特辑电影院,http://epg.112114.xyz/douyu/3637778
+科幻 动作 喜剧电影[1920x1080],http://epg.112114.xyz/douyu/323876
+恐怖/经典/搞笑[1920x1080],http://epg.112114.xyz/douyu/74374
+史上最佳影片大放送[1280x720],http://diyp.112114.xyz/douyu/8770422
+译制国语影片[1920x1080],http://epg.112114.xyz/douyu/2436390
+【贝爷影厅】欧美 日韩 国产 2号厅[1920x1080],http://epg.112114.xyz/douyu/36337
+【贝爷影厅】经典 科幻 动作 灾难[1920x1080],http://epg.112114.xyz/douyu/252802
+【贝爷MAX厅】科幻 动作 经典 喜剧[1920x1080],http://epg.112114.xyz/douyu/4332
+【贝贝】[1920x1080],http://epg.112114.xyz/douyu/431460
+萌牛奶哟[1280x720],http://epg.112114.xyz/douyu/7494871
+【屠龙】凛冬将至，夜王之争[1920x1080],http://epg.112114.xyz/douyu/8945323
+【变种人】除掉任何阻碍我们的人[1920x1080],http://epg.112114.xyz/douyu/9651304
+【s1134】经典 科幻 动作 灾难[1920x1080],http://epg.112114.xyz/douyu/248753
+❤️小饼❤️一个神秘的电影直播间[1920x1080],http://epg.112114.xyz/douyu/1735337
+【粤语电影】吴孟达 达叔 周星驰 经典[1920x1080],http://epg.112114.xyz/douyu/1226741
+【果条】电脑修好了偶尔陪看[1280x720],http://epg.112114.xyz/douyu/6785471
+❤杭州❤楚楚动人小星星[1920x1080],http://epg.112114.xyz/douyu/4396972
+「橙記」「最人气港剧直播间」[1280x720],http://epg.112114.xyz/douyu/4549169
+腹黑电影[1920x1080],http://epg.112114.xyz/douyu/8867878
+【超清1】经典港剧天地[1280x720],http://epg.112114.xyz/douyu/4290711
+好看影视剧[1280x714],http://epg.112114.xyz/douyu/8475821
+周末狂欢剧场[1280x720],http://epg.112114.xyz/douyu/7476264
+剧集轮播[1280x720],http://epg.112114.xyz/douyu/5689514
+粤语【周星驰】【林正英】[1280x720],http://epg.112114.xyz/douyu/5033502
+粤语电影⭐周星驰 林正英 经典喜剧[1920x1080],http://epg.112114.xyz/douyu/6566671
+【牛叔】N分钟带你看完大片[1280x720],http://epg.112114.xyz/douyu/2758565
+小片片说大片[1280x720],http://epg.112114.xyz/douyu/4258555
+【大蓝雀】最新神剧爆笑解说[1920x1080],http://epg.112114.xyz/douyu/8656759
+1900影剧室,http://epg.112114.xyz/douyu/7796193
+都市夜魔人老王,http://epg.112114.xyz/douyu/610972
+虫哥说电影,http://epg.112114.xyz/douyu/8915074
+【科幻Fans】精彩科幻影视解说,http://epg.112114.xyz/douyu/3508304
+【看电影了没】深度讲解电影[1280x720],http://epg.112114.xyz/douyu/9562616
+【史君说剧】史君说尽天下好剧[1920x1080],http://epg.112114.xyz/douyu/9419771
+看电影，懂生活[1280x720],http://epg.112114.xyz/douyu/9573592
+刘老师说电影[1280x720],http://epg.112114.xyz/douyu/8317926
+吸奇侠[1920x1080],http://epg.112114.xyz/douyu/8986636
+PP看动漫[1280x720],http://epg.112114.xyz/douyu/9837291
+史剧解说[1920x1080],http://epg.112114.xyz/douyu/297689
+影视集装箱[1280x720],http://epg.112114.xyz/douyu/8651489
+火龙果说电影[1920x1080],http://epg.112114.xyz/douyu/9559158
+骑毛驴的八戒[1920x1080],http://epg.112114.xyz/douyu/1979257
+斗鱼最温情电影解说[1280x720],http://epg.112114.xyz/douyu/8799435
+【谁语Whospeak】精彩电影解说[1920x1080],http://epg.112114.xyz/douyu/8705754
+带你5分钟看一部精彩电影[1920x1080],http://epg.112114.xyz/douyu/6725858
 
 
 🐍动物世界,#genre#
