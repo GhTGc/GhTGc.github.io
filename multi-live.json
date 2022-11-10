@@ -16,7 +16,7 @@
          "type":0,
          "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/sinotv-la.txt",
          "logo":"",
-         "epg":"",
+         "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
       },
       {
@@ -24,7 +24,7 @@
          "type":0,
          "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/global.txt",
          "logo":"",
-         "epg":"",
+         "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
       },
       {
@@ -32,7 +32,7 @@
          "type":0,
          "url":"http://home.jundie.top:81/Cat/tv/live.txt",
          "logo":"",
-         "epg":"http://epg.51zmt.top:8000/api/diyp/",
+         "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
       },
       {
@@ -40,7 +40,7 @@
          "type":0,
          "url":"http://253iptv.gq/jeikou/1667030627.m3u",
          "logo":"",
-         "epg":"",
+         "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
       },
       {
