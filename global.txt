@@ -1,90 +1,90 @@
 WORLD CUP 2022 QATAR,#genre#
-AR| BEIN SPORTS MAX 1 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1049176
-AR| BEIN SPORTS MAX 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049175
-AR| BEIN SPORTS MAX 1 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1049174
-AR| BEIN SPORTS MAX 1 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049173
-AR| BEIN SPORTS MAX 2 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1049172
-AR| BEIN SPORTS MAX 2 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049171
-AR| BEIN SPORTS MAX 2 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1049170
-AR| BEIN SPORTS MAX 2 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049169
-AR| BEIN SPORTS MAX 3 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1049168
-AR| BEIN SPORTS MAX 3 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049167
-AR| BEIN SPORTS MAX 3 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1049166
-AR| BEIN SPORTS MAX 3 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049165
-AR| BEIN SPORTS MAX 4 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1049161
-AR| BEIN SPORTS MAX 4 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049163
-AR| BEIN SPORTS MAX 4 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1049164
-AR| BEIN SPORTS MAX 4 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1049162
-AR| BEIN SPORTS MAX 5 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1050774
-AR| BEIN SPORTS MAX 5 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1050776
-AR| BEIN SPORTS MAX 5 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1050775
-AR| BEIN SPORTS MAX 5 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1050777
-AR| BEIN SPORTS MAX 6 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1050761
-AR| BEIN SPORTS MAX 6 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1050763
-AR| BEIN SPORTS MAX 6 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1050762
-AR| BEIN SPORTS MAX 6 SD,http://line.premiumpowers.net:80/Pittbull/pittbull/1050764
-AR| BEIN SPORTS 1 PREMIUM HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036564
-BE| LA UNE HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036585
-BE| CLUB RTL FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051545
-BE| PLUG RTL HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051547
-BE| TIPIK HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051546
-BE| EEN HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036584
-FR| M6 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051531
-FR| BEIN SPORTS 1 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036589
-FR| TF1 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036590
-IT| RAI 1 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036568
-IT| RAI 1 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051538
-IT| RAI 2 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051539
-IT| RAI 3 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051540
-IT| RAI 4 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051541
-IT| RAI SPORT 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051542
-UK| BBC 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036597
-UK| ITV 1 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036596
-US| FOX HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036594
-AUS| ORF 1 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036577
-AUS| ORF 2 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051552
-AUS| ORF 3 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051553
-AUS| ORF SPORT+ HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051554
-AUS| SERVUS TV HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036576
-ALB| RTSH SPORT 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/1051550
+AR| BEIN SPORTS MAX 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1049176
+AR| BEIN SPORTS MAX 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1049175
+AR| BEIN SPORTS MAX 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1049174
+AR| BEIN SPORTS MAX 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1049173
+AR| BEIN SPORTS MAX 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1049172
+AR| BEIN SPORTS MAX 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1049171
+AR| BEIN SPORTS MAX 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1049170
+AR| BEIN SPORTS MAX 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1049169
+AR| BEIN SPORTS MAX 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1049168
+AR| BEIN SPORTS MAX 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1049167
+AR| BEIN SPORTS MAX 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1049166
+AR| BEIN SPORTS MAX 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1049165
+AR| BEIN SPORTS MAX 4,http://line.premiumpowers.net:80/Pittbull/pittbull/1049161
+AR| BEIN SPORTS MAX 4,http://line.premiumpowers.net:80/Pittbull/pittbull/1049163
+AR| BEIN SPORTS MAX 4,http://line.premiumpowers.net:80/Pittbull/pittbull/1049164
+AR| BEIN SPORTS MAX 4,http://line.premiumpowers.net:80/Pittbull/pittbull/1049162
+AR| BEIN SPORTS MAX 5,http://line.premiumpowers.net:80/Pittbull/pittbull/1050774
+AR| BEIN SPORTS MAX 5,http://line.premiumpowers.net:80/Pittbull/pittbull/1050776
+AR| BEIN SPORTS MAX 5,http://line.premiumpowers.net:80/Pittbull/pittbull/1050775
+AR| BEIN SPORTS MAX 5,http://line.premiumpowers.net:80/Pittbull/pittbull/1050777
+AR| BEIN SPORTS MAX 6,http://line.premiumpowers.net:80/Pittbull/pittbull/1050761
+AR| BEIN SPORTS MAX 6,http://line.premiumpowers.net:80/Pittbull/pittbull/1050763
+AR| BEIN SPORTS MAX 6,http://line.premiumpowers.net:80/Pittbull/pittbull/1050762
+AR| BEIN SPORTS MAX 6,http://line.premiumpowers.net:80/Pittbull/pittbull/1050764
+AR| BEIN SPORTS 1 PREMIUM,http://line.premiumpowers.net:80/Pittbull/pittbull/1036564
+BE| LA UNE,http://line.premiumpowers.net:80/Pittbull/pittbull/1036585
+BE| CLUB RTL,http://line.premiumpowers.net:80/Pittbull/pittbull/1051545
+BE| PLUG RTL,http://line.premiumpowers.net:80/Pittbull/pittbull/1051547
+BE| TIPIK,http://line.premiumpowers.net:80/Pittbull/pittbull/1051546
+BE| EEN,http://line.premiumpowers.net:80/Pittbull/pittbull/1036584
+FR| M6,http://line.premiumpowers.net:80/Pittbull/pittbull/1051531
+FR| BEIN SPORTS 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036589
+FR| TF1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036590
+IT| RAI 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036568
+IT| RAI 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051538
+IT| RAI 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1051539
+IT| RAI 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1051540
+IT| RAI 4,http://line.premiumpowers.net:80/Pittbull/pittbull/1051541
+IT| RAI SPORT,http://line.premiumpowers.net:80/Pittbull/pittbull/1051542
+UK| BBC 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036597
+UK| ITV 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036596
+US| FOX,http://line.premiumpowers.net:80/Pittbull/pittbull/1036594
+AUS| ORF 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036577
+AUS| ORF 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1051552
+AUS| ORF 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1051553
+AUS| ORF SPORT+,http://line.premiumpowers.net:80/Pittbull/pittbull/1051554
+AUS| SERVUS TV,http://line.premiumpowers.net:80/Pittbull/pittbull/1036576
+ALB| RTSH SPORT,http://line.premiumpowers.net:80/Pittbull/pittbull/1051550
 ALB| RTSH 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051549
 AZ| IDMAN,http://line.premiumpowers.net:80/Pittbull/pittbull/1051564
 AZ| ICTIMAI TV,http://line.premiumpowers.net:80/Pittbull/pittbull/1051563
-DE| ARD HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036581
-DE| ZDF FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036582
-TR| TRT SPOR HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051562
-TR| TRT 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036566
-PT| RTP 1 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036570
-PT| RTP 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051559
-PT| SIC HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051560
-PT| TVI HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051561
-PL| TVP 1 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036579
-PL| TVP 2 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051536
-PL| TVP SPORT HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051535
+DE| ARD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036581
+DE| ZDF,http://line.premiumpowers.net:80/Pittbull/pittbull/1036582
+TR| TRT SPOR,http://line.premiumpowers.net:80/Pittbull/pittbull/1051562
+TR| TRT 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036566
+PT| RTP 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036570
+PT| RTP 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051559
+PT| SIC,http://line.premiumpowers.net:80/Pittbull/pittbull/1051560
+PT| TVI,http://line.premiumpowers.net:80/Pittbull/pittbull/1051561
+PL| TVP 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036579
+PL| TVP 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1051536
+PL| TVP SPORT,http://line.premiumpowers.net:80/Pittbull/pittbull/1051535
 IR| VARZESH,http://line.premiumpowers.net:80/Pittbull/pittbull/1051558
-IR| IRIB TV 3 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051557
-NL| NPO1 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036587
-NL| NPO 2 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051555
-NL| NPO 3 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051556
-ES| LA 1 HEVC,http://line.premiumpowers.net:80/Pittbull/pittbull/1036572
-ES| LA SEXTA HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051551
-SW| RSI LA 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051544
-SW| SRF 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051543
-SW| SRF 2 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036574
-SW| M6 HD SUISSE,http://line.premiumpowers.net:80/Pittbull/pittbull/1051533
-BG| DIEMA SPORT 1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051527
-BG| DIEMA SPORT 3 FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051528
-ISR| YES CHANNEL 11 KAN FHD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051529
-ISR| YES CHANNEL 33 MAKAN HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051530
-RO| TVR HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051525
+IR| IRIB TV 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1051557
+NL| NPO1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036587
+NL| NPO 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1051555
+NL| NPO 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1051556
+ES| LA 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1036572
+ES| LA SEXTA,http://line.premiumpowers.net:80/Pittbull/pittbull/1051551
+SW| RSI LA 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051544
+SW| SRF 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051543
+SW| SRF 2,http://line.premiumpowers.net:80/Pittbull/pittbull/1036574
+SW| M6 SUISSE,http://line.premiumpowers.net:80/Pittbull/pittbull/1051533
+BG| DIEMA SPORT 1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051527
+BG| DIEMA SPORT 3,http://line.premiumpowers.net:80/Pittbull/pittbull/1051528
+ISR| YES CHANNEL 11 KAN,http://line.premiumpowers.net:80/Pittbull/pittbull/1051529
+ISR| YES CHANNEL 33 MAKAN,http://line.premiumpowers.net:80/Pittbull/pittbull/1051530
+RO| TVR,http://line.premiumpowers.net:80/Pittbull/pittbull/1051525
 PK| ARY QTV (NA),http://line.premiumpowers.net:80/Pittbull/pittbull/1051565
 MALI| ORTB,http://line.premiumpowers.net:80/Pittbull/pittbull/1051532
 GHA| GTV GOV TV,http://line.premiumpowers.net:80/Pittbull/pittbull/1051566
 RU| MATCH TV,http://line.premiumpowers.net:80/Pittbull/pittbull/1051548
-GR| ANT1 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051537
-CZ| CT SPORT HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051526
-CA| CTV HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1036592
-HU| M4 HD,http://line.premiumpowers.net:80/Pittbull/pittbull/1051534
+GR| ANT1,http://line.premiumpowers.net:80/Pittbull/pittbull/1051537
+CZ| CT SPORT,http://line.premiumpowers.net:80/Pittbull/pittbull/1051526
+CA| CTV,http://line.premiumpowers.net:80/Pittbull/pittbull/1036592
+HU| M4,http://line.premiumpowers.net:80/Pittbull/pittbull/1051534
 
 FR| FRANCE 4K,#genre#
 FR| TF1 4K,http://line.premiumpowers.net:80/Pittbull/pittbull/526153
