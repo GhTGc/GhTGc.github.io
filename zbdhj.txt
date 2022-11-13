@@ -3203,14 +3203,21 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 
 🐾🦚红牛频道,#genre#
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+红牛TV,http://sinotv-la.com:80/587A14043CD0CA2/KnbFqGR8fu/43306
+红牛TV,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/17087
+红牛TV,http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/418192
+红牛TV,http://line.premiumpowers.net:80/Pittbull/pittbull/156930
+红牛TV,http://line.premiumpowers.net:80/Pittbull/pittbull/156897
+红牛TV,http://line.premiumpowers.net:80/Pittbull/pittbull/156927
+红牛TV,http://line.premiumpowers.net:80/Pittbull/pittbull/156878
+红牛TV,http://line.premiumpowers.net:80/Pittbull/pittbull/920099
+红牛TV,http://mains.vip:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/8450
+红牛TV,http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/87413.ts
+红牛TV,http://fabrifox-tv.ddns.net:25461/AngeloPanificio/GtqjQAZwA2/159216
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
-红牛TV,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25084
-红牛TV,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2834.ts
-红牛TV,http://meumd.com:80/Denise01/denise001/109033
-红牛TV,http://meumd.com:80/Denise01/denise001/125654
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
 
 🐾🦚美国PeacockTV,#genre#
 Premier League TV,http://ys-users.com:8080/promo5/5thpromotion/405957
