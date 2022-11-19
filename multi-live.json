@@ -14,7 +14,7 @@
       {
          "name":"极品国外01",
          "type":0,
-         "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/sinotv-la.txt",
+         "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/global.txt",
          "logo":"",
          "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
@@ -22,7 +22,7 @@
       {
          "name":"极品国外02",
          "type":0,
-         "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/global.txt",
+         "url":"https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/yusers.m3u",
          "logo":"",
          "epg":"http://epg.51zmt.top:8000/e.xml",
          "ua":""
