@@ -28,6 +28,14 @@
          "ua":""
       },
       {
+         "name":"世界杯",
+         "type":0,
+         "url":"https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+         "logo":"",
+         "epg":"http://epg.51zmt.top:8000/e.xml",
+         "ua":""
+      },
+      {
          "name":"jundie",
          "type":0,
          "url":"http://home.jundie.top:81/Cat/tv/live.txt",
