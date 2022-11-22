@@ -1424,6 +1424,7 @@ CCTV-17农业农村[1280x720],http://121.51.249.6/45PrWcWBvSAXGj8bD2EAcwLJEf6Bkf
 
 
 📺卫视高清,#genre#
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 江苏卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
@@ -1635,7 +1636,7 @@ CCTV-17农业农村[1280x720],http://121.51.249.6/45PrWcWBvSAXGj8bD2EAcwLJEf6Bkf
 江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
 深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 ❤️央视高清IPV6,#genre#
 4KUHD[3840x2160],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
