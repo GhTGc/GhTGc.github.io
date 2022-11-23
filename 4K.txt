@@ -1,20 +1,29 @@
 世界杯,#genre#
-抖音4K,https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112005215388959414_spuhd.flv?_neptune_token=MIGoBAzmnGxUcbS5W_B6Ke0EgYWQ_gVT-iaAWfSVh8_JX8P43Vxc7v4u-
-U3rC_r_68ONHeIDlgshF_CmJxzPHuSwiryDoIeoxsnrHB33TCfGSqBCnv2pPdSLTkqPQr8N4kXMlaFAnmmhjtoHzqi6-lh_cucguCRGBBguW_eq7RLivvf9WP0F6ij5nihcW5alJQGkOML24O7mBBD06InLFj6yzl164LW-WAal&expire=637d1640&sign=d075c6bbc94ed4db8e241f8400e24244&abr_pts=-1800
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
-CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV16,http://99.sc1970.xyz:8888/iptv/GDH.php?id=4010
-CCTV16,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-咪咕体育4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-咪咕体育4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+抖音4K世界杯SDR源,http://mmmitv.top/test/douyin-x.php?id=rand
+抖音4K世界杯SDR源备,http://www.mmitv.top/test/douyin-x.php?id=rand
+CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+咪咕4K-HLG源-备用1,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕4K-HLG源-备用2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清(3),http://159.75.85.63:828/shijiebei/sjb.php?id=3007t
+CCTV5-高清(4),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+CCTV5-高清(5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育(3),http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+广东体育,http://120.84.96.73:808/hls/22/index.m3u8
+广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育(备1),http://113.64.147.6:808/hls/1/index.m3u8
+广东体育(备2),http://120.84.96.26:808/hls/22/index.m3u8
+广东体育(备3),http://120.84.96.33:808/hls/22/index.m3u8
+江苏CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+江苏CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+江苏CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+江苏CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 
 杂货,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -32,14 +41,6 @@ Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/pl
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K,http://99.sc1970.xyz:8888/iptv/GDH.php?id=4005
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-广东体育,http://120.84.96.73:808/hls/22/index.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育,http://119.131.240.116:9090/hls/5/index.m3u8
-广东体育,http://120.84.96.26:808/hls/22/index.m3u8
-广东体育,http://120.84.96.33:808/hls/22/index.m3u8
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 BTV纪实科教-8KSDR,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
