@@ -2174,12 +2174,13 @@ TWN| ELEVEN SPORTS PRIME 2 ,http://line.premiumpowers.net:80/Manuel/1234567/3169
 
 MissAV,#genre#
 1,https://b-hls-08.doppiocdn.com/hls/92077818/92077818.m3u8
-2,https://b-hls-02.doppiocdn.com/hls/93945316/93945316.m3u8
-3,https://b-hls-05.doppiocdn.com/hls/94180064/94180064.m3u8
-4,https://b-hls-08.doppiocdn.com/hls/93944140/93944140.m3u8
-5,https://b-hls-07.doppiocdn.com/hls/91419667/91419667.m3u8
-6,https://b-hls-24.doppiocdn.com/hls/51595063/51595063.m3u8
-7,https://b-hls-09.doppiocdn.com/hls/46540334/46540334.m3u8
+2,https://b-hls-08.doppiocdn.com/hls/94049035/94049035.m3u8
+3,https://b-hls-02.doppiocdn.com/hls/93945316/93945316.m3u8
+4,https://b-hls-05.doppiocdn.com/hls/94180064/94180064.m3u8
+5,https://b-hls-08.doppiocdn.com/hls/93944140/93944140.m3u8
+6,https://b-hls-07.doppiocdn.com/hls/91419667/91419667.m3u8
+7,https://b-hls-24.doppiocdn.com/hls/51595063/51595063.m3u8
+8,https://b-hls-09.doppiocdn.com/hls/46540334/46540334.m3u8
 
 
 XXX,#genre#
