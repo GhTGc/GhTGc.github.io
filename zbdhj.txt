@@ -2401,6 +2401,7 @@ LBRTV[1920x1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 达啵赛事[1920x1080],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 📺咪咕体育频道,#genre#
+JJ斗地主官方,https://epg.pm/stream/99af827c1a083c2149b8eb21cab0b57eae806e5228d62d1a1804f285808c3254.ctv
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
