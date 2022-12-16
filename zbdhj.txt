@@ -3229,654 +3229,803 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+🐾🦚美国记录,#genre#
+A&E,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVY567oFnd_xGmnqRFocZO0/ts
+PURSUIT CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXO6uLqbGEJhGTEDUEEKVk8/ts
+LAW & CRIME NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ2Z2xjfw9MwAxnO86eioDQ/ts
+ANIMAL PLANET EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZd-FQeLRxyfqtRnGMBszVE/ts
+ANIMAL PLANET WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYSmnhNTjpL5LYCPK9a46jE/ts
+NATIONAL GEOGRAPHIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae_YIunhaGoR9hvjOcRhjrg/ts
+NAT GEO WILD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafMu-WRE7nf7gC3lySkUVD8/ts
+DISCOVERY CHANNEL EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUb8mqZESDzP9wZH2PIRlWQ/ts
+DISCOVERY CHANNEL WEST ,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUEo70rX5GbXrG4OuXQpV-s/ts
+DISCOVERY LIFE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWZKlJj8AdfFBOFB-xuliZM/ts
+DISCOVERY FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQVIpwNfzSmcwPVS-EKbNgM/ts
+INVESTIGATION DISCOVERY EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacZvISXr_YLbY7rV2wtz4Js/ts
+INVESTIGATION DISCOVERY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRlThFHef7VQ7rL1Lu644BM/ts
+HISTORY EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVPlPkE9e50VrOw7pEaEOY8/ts
+SMITHSONIAN EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaThZxNPUCh7jO3R9bPja9_w/ts
+SMITHSONIAN WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV5A1IEGYrHwNQblKJusVK0/ts
+OUTDOOR CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVo6wzG-Po9412GZD4_1Cv0/ts
+NASA TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadAi-3MHseF-JkFu2UYZ2Go/ts
+MOTORTREND WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVxfRjbHu5p6C3I8-mlD084/ts
+SCIENCE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa2fsylJb4xMVqD-DUJoxcg/ts
+DESTINATION AMERICA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaReKc8eVCWiQCx5-qJacDJs/ts
+AMERICAN HEROES CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacH_AznUGnMl2kquQL65ruQ/ts
+OXYGEN TRUE CRIME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafz5q-FARZ-JirHwRl33zS8/ts
 
 
-🐾🦚美国PeacockTV,#genre#
-Premier League TV,http://ys-users.com:8080/promo5/5thpromotion/405957
-WWE Network,http://ys-users.com:8080/promo5/5thpromotion/405955
-Fallon Tonight,http://ys-users.com:8080/promo5/5thpromotion/405934
-AFV Family,http://ys-users.com:8080/promo5/5thpromotion/405927
-Circle,http://ys-users.com:8080/promo5/5thpromotion/405930
-Comedy Dynamics,http://ys-users.com:8080/promo5/5thpromotion/405931
-DUST,http://ys-users.com:8080/promo5/5thpromotion/405932
-Fail Army,http://ys-users.com:8080/promo5/5thpromotion/405933
-Fuse Backstage,http://ys-users.com:8080/promo5/5thpromotion/405935
-Golf Open ,http://ys-users.com:8080/promo5/5thpromotion/405936
-Hells Kitchen,http://ys-users.com:8080/promo5/5thpromotion/405937
-Just For Laughs,http://ys-users.com:8080/promo5/5thpromotion/405928
-Keeping Up with the Kardashians,http://ys-users.com:8080/promo5/5thpromotion/405938
-LOL! Network,http://ys-users.com:8080/promo5/5thpromotion/405939
-Loop Classic Music Videos,http://ys-users.com:8080/promo5/5thpromotion/405952
-Loop Country,http://ys-users.com:8080/promo5/5thpromotion/405956
-Loop Hit Music Videos,http://ys-users.com:8080/promo5/5thpromotion/405940
-Loop Latin,http://ys-users.com:8080/promo5/5thpromotion/405953
-LX,http://ys-users.com:8080/promo5/5thpromotion/405941
-NBC Boston News,http://ys-users.com:8080/promo5/5thpromotion/405942
-NBC Chicago News,http://ys-users.com:8080/promo5/5thpromotion/405943
-NBC Dateline,http://ys-users.com:8080/promo5/5thpromotion/405944
-NBC Golf Pass,http://ys-users.com:8080/promo5/5thpromotion/405945
-NBC Los Angeles News,http://ys-users.com:8080/promo5/5thpromotion/405954
-NBC New York News,http://ys-users.com:8080/promo5/5thpromotion/405951
-NBC NEWS NOW,http://ys-users.com:8080/promo5/5thpromotion/405946
-NBC Philadelphia News,http://ys-users.com:8080/promo5/5thpromotion/405947
-NBC South Florida News,http://ys-users.com:8080/promo5/5thpromotion/405948
-NBC Sports,http://ys-users.com:8080/promo5/5thpromotion/405949
-NFL Channel,http://ys-users.com:8080/promo5/5thpromotion/405950
-Rotten Tomatoes,http://ys-users.com:8080/promo5/5thpromotion/405958
-Sky News,http://ys-users.com:8080/promo5/5thpromotion/405959
-SNL Vault,http://ys-users.com:8080/promo5/5thpromotion/405961
-TODAY All Day,http://ys-users.com:8080/promo5/5thpromotion/405962
-Unsolved Mysteries,http://ys-users.com:8080/promo5/5thpromotion/405963
-
+🐾🦚美国体育,#genre#
+THE COWBOY CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadd3XH62oRkPVs4Wt7DIA6U/ts
+YES NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadzo-DJ6C6XTT0iGm11JzX8/ts
+NFL NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV5WXkZgkoFUfESReEXjZVc/ts
+MLB NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacFF1xqlCM1T3-E8Bj4J14E/ts
+NHL NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaaFAskLk4qzj0YxQ_EqYbs/ts
+ACC NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRNlZu7oS8YCjYNQsaPwhy4/ts
+ALTITUDE SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaJ3QLESfkdzi-ekYuDjUJU/ts
+ALTITUDE SPORTS 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT71h3shY1NsvA9b8IrylV8/ts
+AT&T SPORTSNET PITTSBURGH,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXxlnDhoHa99J8sURB733oc/ts
+AT&T SPORTSNET ROCKY MOUNTAIN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadhfs-_zAJEIPNBkSrroAlM/ts
+AT&T SPORTSNET SOUTHWEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRbcM5PVX4s-Sb4PWDD2zFk/ts
+AT&T SPORTSNET SOUTHWEST ALT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZaGl_t5Md8ZjiFgBIXTkOM/ts
+BALLY SPORTS ARIZONA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXYiA1mbHzIuyuKrXSLMWK0/ts
+BALLY SPORTS ARIZONA PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadedt-rzD6ma2ufjG_JejR8/ts
+BALLY SPORTS DETROIT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadvGc_E0yQ_B5QXQo6s8EWM/ts
+BALLY SPORTS DETROIT PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYl1InyRMKQoIArUiFx7GwM/ts
+BALLY SPORTS FLORIDA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR1oh2sPivE1xrooJo_RuYQ/ts
+BALLY SPORTS GREAT LAKES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeomsEnaTNnCqQFD0pZLULI/ts
+BALLY SPORTS INDIANA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZwhCJqmNtyA1-3t1AvS7Og/ts
+BALLY  SPORTS INDIANA PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQzbGbdVeyJRxcOrbdyqS5M/ts
+BALLY SPORTS KANSAS CITY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYYONoHs6Kepf_vBU4g72f8/ts
+BALLY SPORTS KANSAS CITY PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabq3zMjfio5dm--ZlVBAlPY/ts
+BALLY SPORTS MIDWEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZBTAkRBmFMsU6Bpwn6QXmw/ts
+BALLY SPORTS MIDWEST PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUrgyRliPuVyzoj-nvjf6Fs/ts
+BALLY SPORTS NEW ORLEANS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTal3zJe_3GmMdmnHLLyG9E/ts
+BALLY SPORTS NEW ORLEANS PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUF4SUkfTsz-C4Fecl4NkHc/ts
+BALLY SPORTS NORTH,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUVJqFj5sYQZUPDI9OTuXo4/ts
+BALLY SPORTS NORTH PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUOv9Ot3h57aavcYQCHH47w/ts
+BALLY SPORTS OHIO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYMmoM-q-f_56qrijUyST8Q/ts
+BALLY SPORTS OHIO PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaKC1vNTe87wx9GoWSy6OPE/ts
+BALLY SPORTS OKLAHOMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS-Ea42WkQvLK4GQqKo_FYk/ts
+BALLY SPORTS OKLAHOMA PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINad_aR2lqjUnUcmPGJB4Vjpk/ts
+BALLY SPORTS SAN DIEGO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV3XXkvCCJ3XjTbaMBb5CgQ/ts
+BALLY SPORTS SAN DIEGO PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRj8JoQeyVVvK6nF0exdb00/ts
+BALLY SPORTS SOCAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUmzFNIUZecT4RDujqYYgkM/ts
+BALLY SPORTS SOUTH,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU6HnU8BO2L-i2f36q5L9Ac/ts
+BALLY SPORTS SOUTH PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYcukn2d1qTbLyVk5m4xBkk/ts
+BALLY SPORTS SOUTHEAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacbUk32bIiB_onL5hmdu03g/ts
+BALLY SPORTS SOUTHEAST PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX9amyDT2ZxS7eq9IzlOXZ0/ts
+BALLY SPORTS SOUTHWEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQau3yH3cIhLlmF7jGDOA64/ts
+BALLY SPORTS SOUTHWEST PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaakVSfGb8d3FxmYs54nhdBg/ts
+BALLY SPORTS SUN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTSaLVLv8aPw7_ZfTBucpIc/ts
+BALLY SPORTS WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeIHhSCY_qZcXl9oFuKlQeE/ts
+BALLY SPORTS WEST PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTGclZa-u-ZB7P5t6LsSrzM/ts
+BALLY SPORTS WISCONSIN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTLgc-dUhVu0GWEw7PJa0v0/ts
+BALLY SPORTS WISCONSIN PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRhIuLILaWiKR1BUgrHo5uM/ts
+BEIN SPORTS 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVdm-72X9qRrdfjcAQcGNZ8/ts
+BEIN SPORTS 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVGkX7fF93vBeCHOLOrwgTM/ts
+BEIN SPORTS 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaURIyN4BzKtJEykws5ZVak0/ts
+BEIN SPORTS 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTrNVHTzF_CWIUdXvm4HxuA/ts
+BEIN SPORTS 8,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYHdqsku0ff6XteIVTOnt2M/ts
+BEIN SPORTS ESPANOL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWDeZDVBxQiZY939IhqWsRc/ts
+BEIN SPORTS LALIGA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXnoZBJJq0aR45T__J0afuo/ts
+BEIN SPORTS UHD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUo7XFv3oIhtMZ182xMiS2Y/ts
+BEIN SPORTS USA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW6RZUIsEBItFpdGNe_ITvM/ts
+BEIN SPORTS XTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ64PqXaCHTif8R67LI_k5I/ts
+BIG TEN NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabUigikb1Xa4dpzrGEGZtyU/ts
+BIG TEN OVERFLOW 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRSqLZQnokJ7jSiH-x_-xyY/ts
+BIG TEN OVERFLOW 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTMpf-La-uOHE2vtdGRHbwA/ts
+BIG TEN OVERFLOW 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXxItX1LgEODehNX3Lk8pCM/ts
+CBS SPORTS NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJFDei7QwHyw6hnKW11tEw/ts
+ESPN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU3Ga4trnddMsYt9LRczhmE/ts
+ESPN 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaecMVpbqooM3tKKl6otFLvs/ts
+ESPN DEPORTES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTDhoF5l8B0KvY19-4tMZDg/ts
+ESPN LONGHORN NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabRL4GoVZxVKEbaHzQk_hzY/ts
+ESPN NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX4nAs5JrT2AuQYBUZeZ900/ts
+ESPN U,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeG4s6vjKB2eBqS9Ibwd7hM/ts
+THE FIGHT NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadEOP8w9q8rDWU7PHVCYNFc/ts
+FIGHTING SPIRIT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaagmGRADC29KBrVc-yYeJxo/ts
+FUBO SPORTS NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWL61nn-1eFKmcbxmOCnExA/ts
+FOX DEPORTES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf0Aq5WewEFBALeqoeiybKE/ts
+FOX SOCCER PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTR9VAQyu3d1pd7leoM4-nk/ts
+FOX SPORTS 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWiWuG1w3FQOh568RAp8h14/ts
+FOX SPORTS 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZR73jlsUo1sieOdDd96EBg/ts
+GINX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ-5rFE_TMKWTH_rrgpXzu4/ts
+GOLF CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWDP6D8ysfZUehfhQ7nWXW0/ts
+GOL TV ENGLISH,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSdxsQPGT1y4kuFDTORp2vI/ts
+HUNT CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadJ-SaFwJ4xIqz8qtqtmZBI/ts
+MARQUEE SPORTS NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTb89sKKbGuD7LYk7m0co-4/ts
+MASN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWL7Hgu0HhMdCiORGpCOyUk/ts
+MASN 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINad4HsMG4puSpsEWdRC5NIj4/ts
+MOTORTREND,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac9UD8MFum4RnPwHe2FABWA/ts
+MSG,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWyAEiQ1AWO_oAlDCg-k7iU/ts
+MSG 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeUsGnycf23W3c3LFlvDXic/ts
+MSG 2 PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadH8C91QLnazd3vcnP1fHwI/ts
+MSG PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeZmJxW3Mh9kwzpxv27DvrY/ts
+NAUTICAL CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafkKFb5blEZcWPbtdaX2w24/ts
+NBC GOLF CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTvqogYXqdmtBe74b1HEXwA/ts
+NBC SPORTS BAY AREA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacC00nc9HT3qupZAt7iTLRE/ts
+NBC SPORTS BAY AREA PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWepTep572Z_oMm-QOTwS2M/ts
+NBC SPORTS BOSTON,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW307tunJogb05FYjuyJ8Jg/ts
+NBC SPORTS CALIFORNIA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTuO1IGtnz9udkWgJBtey8A/ts
+NBC SPORTS CHICAGO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQe7hvYMD-BM7bvlVGlAJ1w/ts
+NBC SPORTS CHICAGO PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSsoVnrKowY2vwfOz0-8svo/ts
+NBC SPORTS NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaURLVVzgB6CAtJPPBzgyiaw/ts
+NBC SPORTS NORTHWEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac9gEWPRBjmd8vXPYzvA3wo/ts
+NBC SPORTS PHILADELPHIA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZR09S2Ihrw4MGJAexDQ14Y/ts
+NBC SPORTS PHILLY PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab13EiKhBEMFmyz-KO812e8/ts
+NBC SPORTS WASHINGTON,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadAsipnD3qQe0LuFLmTK10A/ts
+NBC SPORTS WASHINGTON PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTHSVJloZQuSrSyfqQjPfxE/ts
+NESN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYXrBPWUmdpELxwux0dI_LQ/ts
+NESN PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU8gBAZv_zgCuOWQz7BBKXs/ts
+OLYMPIC CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafPeAw85OBYVNZuDecIA1DY/ts
+OUTDOOR CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQAJFUgzNJFaav8ra-M4qBw/ts
+PAC 12 ARIZONA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWtwN4TMo4CnBzdBNwb9JMU/ts
+PAC 12 BAY AREA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadEPtBWlwDMzoWEwo3YaXGA/ts
+PAC 12 LOS ANGELES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaflHL8JpJVVjtksHC1Kq3Ek/ts
+PAC 12 MOUNTAIN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS4KBoYaRI1pQXoFIUS-1pg/ts
+PAC 12 OREGON,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUukJfTLBqh-IMqYgOZmE9M/ts
+PAC 12 WASHINGTON,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafxQzpq-W7amkDp0whf7vVg/ts
+PURSUITUP,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW3bMfAeyZbHKEipzbabgfs/ts
+REDBULL TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRn41gLsUTo0Fn-sP1tGXbk/ts
+ROOT SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae-CPzmEpLWkF0O8VKeaH_Q/ts
+SEC NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadO3X734mGXdIt7C9Suco9M/ts
+SPECTRUM SPORTSNET DODGERS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSVh0pVFMP0Z_1IrRUgrXL4/ts
+SPECTRUM SPORTSNET LAKERS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabdp5zWTR5bMlpDU7n53szg/ts
+SPECTRUM SPORTSNET LA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYBcmjKK_dmDzvhT442bdKc/ts
+SPECTRUM SPORTSNET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeKAW0daKYjkW9koXdQRYVE/ts
+SPORTSMAN CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYCtEfaDrQLG7X2afvPFcGU/ts
+SPORTSNET NEW YORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabFvjI47oOXFSdA3FFZUWQA/ts
+STADIUM 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVsjNG_Nnq3FI9jTBlS03xY/ts
+STADIUM 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadmB0kFYbAswZLnng86XPVo/ts
+STADIUM 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabCoU5vNC79ex-vwRulfbMo/ts
+TENNIS CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQHLGrNEFUlBLMhbu0ASo_g/ts
+TUDN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUPYIaevVwvhf8ZiHmQAePw/ts
+TVG,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafBtsUDssatroYqk3LKWiMI/ts
+TVG 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaevo4YjFJ0sEZ03NiaZYhs8/ts
+VSIN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTyzn0MzonqF5LRTTwwasTY/ts
+WILLOW CRICKET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeHSDwZrsh5XrEOP1j2s1sA/ts
+WILLOW CRICKET EXTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQlWPJu_zlChmudZerKgQn0/ts
+WORLD FISHING NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVtx4jU-oWyhVm1SK88FFJg/ts
+WWE NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRsdIwIiLewCxX4_gUa6oL8/ts
 
 🐾🦚美国新闻,#genre#
-CNN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418118
-CNN INTERNATIONAL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418117
-ABC NEWS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418131
-ABC NEWS INTERNATIONAL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418132
-ABC NEWS LIVE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418139
-BBC AMERICA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418133
-BBC WORLD NEWS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418112
-CBS NEWS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418126
-CNBC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418115
-CNBC WORLD,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418116
-FOX NEWS NOW,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418140
-FOX NEWS CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418111
-FOX BUSINESS NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418110
-BLACK NEWS CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418134
-BLACK NEWS CHANNEL (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419269
-BLOOMBERG,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418113
-C-SPAN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418124
-C-SPAN 2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418125
-C-SPAN 3,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418135
-CHEDDAR BUSINESS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418114
-CHEDDAR NEWS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418136
-FREE SPEECH TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418127
-HLN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418122
-INFO WARS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418128
-MSNBC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418123
-NECN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418129
-News 12 Brooklyn,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419260
-News 12 Connecticut,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419261
-News 12 Hudson Valley,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419262
-News 12 Long Island,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419263
-News 12 New Jersey,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419264
-News 12 The Bronx,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419266
-News 12 Westchester,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419267
-NEWS NATION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417992
-NEWSMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418119
-NEWSNET,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418137
-NEWSY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418138
-ONE AMERICA NEWS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418121
-THE FIRST,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418142
-THE WEATHER CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418120
-WEATHER NATION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417985
-ACCU WEATHER,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418130
-YAHOO! FINANCE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418141
+THE WEATHER CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaSYtvIZRfTjMTA15gI3Utc/ts
+ABC NEWS LIVE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaajcgnPdKZ8HsC4Rm66sN_U/ts
+CNN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZrzOUeSX6QCSWKKqUaRRew/ts
+CNN INTERNATIONAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXaa319JkN2jHy0tFzPX9cM/ts
+CNBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaei8S-Z7FFiLVcxyqcnuWLc/ts
+CNBC WORLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPRCrdGL-Nehq8oaP4olg8/ts
+FOX NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQt3QGL2eMRyzLhBPLhE2xI/ts
+MSNBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWaKLoxJPtCqQRr0tDgNe0I/ts
+FOX BUSINESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae2-uktnP6uoU4_MskeKSa4/ts
+FOX BUSINESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUkuH0ScBXcIIzvr4gArSuw/ts
+FOX WEATHER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabMfeTGx6CT9LS5Zxchgeas/ts
+NEWSY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRQ1o8bClVMy5fJSzMLL8FA/ts
+NEWSMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQe44eu3iZGCg3B0q0QBkds/ts
+C-SPAN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacs17MhD__ksbpsx5wZcnTE/ts
+C-SPAN 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab2RwVslPm3ag4sf4FvsLmg/ts
+C-SPAN 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTwIRpK5iRouBSa-5K4V4KQ/ts
+CBSN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeXoH3embO5BgUZHBUspFzI/ts
+VOA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabkzEuX_Omz7jB0Dpf86fKo/ts
+NECN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae5nJ3hsexeQKe3J4Nxg8-s/ts
+CHEDDAR NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU_8hCPTPOzTBdysNkeBvM4/ts
+NEWS 12 LONG ISLAND,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRZBRJBfgx44zRiw4Zug63M/ts
+NEWS 12 NEW JERSEY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZpthC3ZdsDVqFJx7Q43Olc/ts
+NEWS 12 THE BRONX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ1BeKReoX5LddfWKcRnaMw/ts
+NEWS 12 WESTCHESTER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadhJJcjmp51OpiDkThRA7g4/ts
+ONE AMERICA NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZulRvYV98OMvFoyuh4fFuY/ts
+CBS NEWS BOSTON,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYhDpsIp_38V7y3fqZtDvOA/ts
+CBS NEWS CHICAGO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTrC-XmxyjVmgE9Ffi_KvJA/ts
+CBS NEWS DALLAS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU9zdHnHLhauYxLUMes6BAQ/ts
+CBS NEWS DENVER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR54mwnToMiWcVG43Nmuj1A/ts
+CBS NEWS LOS ANGELES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUoDn78tNYxpy8SbcyHtBnI/ts
+CBS NEWS MINNESOTA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU1AfvVb4ydxE9_d2lHl1LY/ts
+CBS NEWS NEW YORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVliAfD70CNFnm_a2sr1R2I/ts
+CBS NEWS PHILADELPHIA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQZO4RSiqZqdycls_QpYRqg/ts
+CBS NEWS PITTSBURGH,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZpjQYPXBrZVHYS2LomGTXA/ts
+BLOOMBERG TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV_w2jH1Kbz6skWsE3yeqDg/ts
+BLACK NEWS CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafXj508pCVbxFtyPSiH8q7c/ts
+HLN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafmjT1nOq5V9SFwGmc7bvXQ/ts
 
 🐾🦚美国影视,#genre#
-AMC PLUS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418079
-HBO,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418057
-HBO (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419287
-HBO2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418058
-HBO2 (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419293
-HBO COMEDY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418059
-HBO COMEDY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419288
-HBO FAMILY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418060
-HBO FAMILY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419289
-HBO SIGNATURE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418061
-HBO SIGNATURE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419291
-HBO ZONE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418092
-HBO ZONE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419292
-CINEMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418077
-CINEMAX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419280
-CINEMAX 5 STARMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418081
-CINEMAX ACTIONMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418104
-CINEMAX ACTIONMAX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419281
-CINEMAX MOREMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418078
-CINEMAX MOREMAX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419282
-CINEMAX MOVIEMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418082
-CINEMAX OUTERMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418080
-CINEMAX THRILLERMAX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418105
-CINEMAX THRILLERMAX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419283
-SHOWTIME,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418064
-SHOWTIME (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419294
-SHOWTIME 2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418103
-SHOWTIME 2 (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419295
-SHOWTIME EXTREME,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418065
-SHOWTIME EXTREME (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419296
-SHOWTIME FAMILY ZONE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418066
-SHOWTIME FAMILY ZONE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419297
-SHOWTIME NEXT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418067
-SHOWTIME NEXT (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419298
-SHOWTIME SHOWCASE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418068
-SHOWTIME SHOWCASE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419299
-SHOWTIME WOMEN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418069
-SHOWTIME WOMEN (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419300
-STARZ,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418054
-STARZ (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419301
-STARZ CINEMA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418071
-STARZ CINEMA (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419302
-STARZ COMEDY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418072
-STARZ EDGE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418073
-STARZ EDGE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419303
-STARZ ENCORE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418051
-STARZ ENCORE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419304
-STARZ ENCORE ACTION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418047
-STARZ ENCORE ACTION (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419307
-STARZ ENCORE BLACK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418048
-STARZ ENCORE BLACK (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419308
-STARZ ENCORE CLASSIC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418049
-STARZ ENCORE CLASSIC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419309
-STARZ ENCORE FAMILY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418050
-STARZ ENCORE FAMILY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419310
-STARZ ENCORE SUSPENSE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418052
-STARZ ENCORE SUSPENSE (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419311
-STARZ ENCORE WESTERNS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419305
-STARZ ENCORE WESTERNS (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419306
-STARZ IN BLACK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418074
-STARZ IN BLACK (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419312
-STARZ KIDS AND FAMILY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418075
-STARZ KIDS AND FAMILY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419313
-SHOxBET,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418096
-SONY MOVIE CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418070
-EPIX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418055
-EPIX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419284
-EPIX 2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418099
-EPIX DRIVE IN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418100
-EPIX HITS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418101
-FILM RISE TRUE CRIME,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418085
-FILMRISE CRIME,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418056
-FILMRISE SCI-FI,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418088
-FLIX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419285
-FLIX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419286
-FX MOVIE CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418089
-HALLMARK MOVIES & MORE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418091
-HALLMARK MOVIES & MYSTERIES,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418098
-INDIE PLEX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418063
-LIFETIME MOVIE NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417990
-LIFETIME MOVIE NETWORK (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419319
-MOVIEPLEX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418093
-Mystery Science Theater 3000,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418106
-MY TIME MOVIE NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418107
-NET MOVIES,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418062
-PIXL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/424640
-REELZ CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417906
-RETRO PLEX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418102
-SCREEN PIX VOICES,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418094
-SCREEN PIX WESTERNS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418095
-SUNDANCE TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419314
-SUNDANCE TV (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419315
-TCM,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418076
-THE MOVIE CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418097
-THE MOVIE CHANNEL (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419316
-THE MOVIE CHANNEL EXTRA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/419317
-THE MOVIE CHANNEL EXTRA (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419318
+HBO COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ3_IEpXa6tGHuq9mUj5el0/ts
+HBO COMEDY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVxCnBqVdgYcAEbNM6YTH1g/ts
+HBO EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaViW0O2mmlE56xEmimF_wIA/ts
+HBO WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacSAxPCSxkchYYkb6e8fDYM/ts
+HBO FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXw0UXWXN-aV0gLiwSGu8-4/ts
+HBO FAMILY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZigdIIK0IiQYrdcWktNL5E/ts
+HBO SIGNATURE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab_tpqi9jENFapnw422woZY/ts
+HBO ZONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUtcCPYWNl3IcgDjm2KzsXM/ts
+HBO ZONE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQqof1mxm8VnC7vj_qxTt_o/ts
+HBO 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQhdLDlPvTy-0cwz-kPHhH8/ts
+HBO 2 WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRYSD9-vd3Fe1rVJhb9Fyl8/ts
+HBO SIGNATURE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRgh93nNmgpRgggDxo6-Yi0/ts
+EPIX DRIVE-IN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRCiR6cZnFVEEo6ACW30hkk/ts
+SONY MOVIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUMWAioihPq_H1FqbU9n_Jw/ts
+STARZ CINEMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXnVTeMhLIo5vSR2zYlibKw/ts
+STARZ CINEMA WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacmoALYDr1sL1QGbQH-cIJc/ts
+STARZ EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaack4NNN3zTtZQnj8eG2JIc/ts
+STARZ WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeoFu8OjGBVFbMcByOgjPGs/ts
+STARZ COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTL0ZLBn4HOYisT6iUHyoMU/ts
+STARZ COMEDY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWfzlVxl2omd9Y1e0U1ATUA/ts
+STARZ EDGE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSrseoWQEC0NromjY5sQwjo/ts
+STARZ EDGE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY72kFvJYfCrhS2RqDtvV5o/ts
+STARZ KIDS WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINad5rXxLwT89xYRSR35GfCms/ts
+STARZ IN BLACK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafjUou696ceHHJz8JLPRM4s/ts
+STARZ IN BLACK WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYO4xxif_twSJxRcM-HPssU/ts
+STARZ ENCORE BLACK WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSaMoN6OjEUnT4OLWfJR0SU/ts
+STARZ KIDS & FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWA6wKA21K4bkJcnTm-TuMA/ts
+STARZ ENCORE ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWo8hvMPYIvy0p5h1tfiOA4/ts
+STARZ ENCORE ACTION WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeACKDjKsnbw1YnzebJ0EVY/ts
+STARZ ENCORE CLASSIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadQIpI_4PqREwx85pI3_qjw/ts
+STARZ ENCORE CLASSIC WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQdfMSWySpl1aVQPsrBmkRI/ts
+STARZ ENCORE FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINad8biJSsBeXfdW4bERpPoBI/ts
+STARZ ENCORE FAMILY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQrauNvHeFTWoJMfP4Vft-I/ts
+STARZ ENCORE SUSPENSE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXyaNk9MjKa2jSNYy9-iE0A/ts
+STARZ ENCORE SUSPENSE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ0Paea-ifib3zGZ_NV3HdI/ts
+STARZ ENCORE WESTERNS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSA2VJfX_40171LBe2fpj1o/ts
+STARZ ENCORE WESTERNS WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZpbeuhs9n9KEQI7shdpO7g/ts
+SHOWTIME EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW4lwk7HJHFe10LF_611c2c/ts
+SHOWTIME WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY1nvcLdxYhEtD-6jIVHK3A/ts
+SHOWTIME SHOWCASE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaUtJKbN5uOOwCTu4I7nkzo/ts
+SHOWTIME EXTREME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXWJVhAtDVKObiYDufgfEGk/ts
+SHOWTIME FAMILY ZONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYb5E0-by7lz7feDDercOTs/ts
+SHOWTIME FAMILY ZONE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacfnRj2bU0cDRopWKi8ITmk/ts
+SHOWTIME NEXT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV3PmbeMeVpiayjbkcxehXU/ts
+SHOWTIME NEXT WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacUWAR5QUkdVSLk6m7j8wTc/ts
+SHOWTIME WOMEN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYB54z4kOZtTYfwcg6MacyY/ts
+SHOWTIME WOMEN WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac18pUk5lhGHAg_JIkFAlS0/ts
+SHOWTIME 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacO5kYJrwiqjovXpG5RllgQ/ts
+SHOWTIME 2 WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTtl2Fq86WL1ASLeU86qMwA/ts
+SHOWTIME BET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQLHfHHUjUxf_Rfa6B-vedg/ts
+SHOWTIME BET WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW3HGS2d_npIoyzC9xwNjYI/ts
+ACTIONMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSOOwO7GpsAILFotdghH6io/ts
+ACTIONMAX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVyuwZegdlzqHjEUjWFMKsY/ts
+CINEMAX EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUkqDiytfMyiQu6WjB8dAs4/ts
+CINEMAX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafDTQV1C_InurGv8res1lZk/ts
+MOREMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaeNCjLEvoFzY6JLV-MqFkI/ts
+OUTERMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafAzFRZD7H6Bui0e43xpse8/ts
+THRILLERMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINactDGNvTYhiWex6Z6VuMtsw/ts
+THRILLERMAX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQhuDk38BgaCvCUueU8L_3o/ts
+EPIX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaULcAYyKlZyEHZ9VEejWDhw/ts
+EPIX HITS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafZc3H1TgcpgEMgTs125508/ts
+5 STARMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeSShplA2z6zq5eTXneFxiM/ts
+MORE MAX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeDy1u7_phCE6HDnRMwxDJE/ts
+INDIEPLEX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabW3yArHsyT1C8HrAWNCg8c/ts
+MOVIEPLEX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYFwJMvA3cJDlCnZs7o89go/ts
+RETRO PLEX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaajLNd_eOZmXoQi6MHQcnA0/ts
+RETROPLEX WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae4TmBkmV845SCn9cg_qL_w/ts
+TCM WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV18Qu--p6AakE7LyAbRLfw/ts
+SCREENPIX ACTION US,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ3We5rhv8fYuUwlM5NVyBI/ts
+SCREENPIX US,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac9t_6Yfel_yX8VMhWkcyyw/ts
+SCREENPIX VOICES US,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS8AFThOSkfzIwANZalLp9A/ts
+SCREENPIX WESTERNS US,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQWZYpiNpsHgwN1Bi5QLC-U/ts
 
 🐾🦚美国娱乐,#genre#
-TNT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417915
-TNT (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419362
-BBC AMERICA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417877
-ANIMAL PLANET,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417996
-ANIMAL PLANET (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419321
-NAT GEO WILD,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418005
-NATIONAL GEOGRAPHIC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418006
-NATIONAL GEOGRAPHIC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419345
-DISCOVERY CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418001
-DISCOVERY CHANNEL (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419326
-DISCOVERY FAMILY CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418000
-DISCOVERY LIFE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418002
-INVESTIGATION DISCOVERY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418004
-INVESTIGATION DISCOVERY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419339
-PARAMOUNT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417902
-PARAMOUNT(West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419347
-A&E,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417871
-A&E (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419320
-ABC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417950
-ABC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419373
-ADULT SWIM,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417926
-AMC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417872
-AMC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419279
-AMC Presents,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417953
-AMERICAN HEROES,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417873
-ANTENNA TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417954
-ASPIRE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417874
-AWE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417875
-AWE ENCORE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417994
-AXS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417876
-BET,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417879
-BET (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419374
-BET HER,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417878
-BET HER (WEST),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419375
-BET Jams,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417955
-BET SOUL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417956
-BOUNCE TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417927
-Bravo (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419322
-BUZZR,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417958
-CBS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/424635
-CBS (west),http://ys-users.com:8080/Rebel/45Wgd6Qet7/424636
-CLEO TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/441646
-CMT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417881
-CMT (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419323
-COMEDY CENTRAL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417882
-COMEDY CENTRAL (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419324
-COMET TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417928
-COOKING CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417987
-COURT TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418021
-COWBOY CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417930
-COZI TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417931
-CRIME & INVESTIGATION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418022
-DABL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417986
-Dabl (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419325
-DECADES,http://ys-users.com:8080/Rebel/45Wgd6Qet7/423263
-DESTINATION AMERICA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417999
-DOG TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417932
-E! ENTERTAINMENT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417884
-FETV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/427248
-FOOD NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417885
-FOOD NETWORK (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419327
-FOX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417988
-FOX (west),http://ys-users.com:8080/Rebel/45Wgd6Qet7/424637
-FREEFORM,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417886
-FREEFORM (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419328
-FUSE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417887
-FUSION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417934
-FX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417888
-FX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419329
-FXX,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417889
-FXX (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419330
-FYI,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417890
-FYI (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419331
-GAME SHOW CENTRAL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417970
-GetTV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417971
-GREAT AMERICAN COUNTRY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418007
-GRIT TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417973
-GSN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417891
-GSN (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419334
-HALLMARK CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417892
-Hallmark Channel (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419335
-HALLMARK DRAMA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417937
-HEROES AND ICONS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418012
-HGTV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417997
-HGTV (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419336
-HISTORY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417998
-History (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419337
-IFC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417893
-IFC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419338
-INSP,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417938
-ION Plus,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417975
-ION TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417939
-LAFF TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417976
-LIFETIME,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417894
-LIFETIME (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419340
-LOGO,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417895
-LOGO (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419355
-MAGNOLIA NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418003
-ME TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417978
-MILITARY HISTORY CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418028
-MTV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417898
-MTV (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419342
-MTV 2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417896
-MTV CLASSIC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417897
-MTV Classic (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419343
-MTV U,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417940
-MTV2 (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419344
-NBC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/424639
-NBC (west),http://ys-users.com:8080/Rebel/45Wgd6Qet7/424638
-OUTDOOR CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418014
-OUTSIDE TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417941
-OVATION,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417899
-OWN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417900
-OXYGEN,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417901
-OXYGEN (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419346
-POP,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417903
-POP(West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419349
-PURSUIT CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417944
-QVC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417905
-QVC 2,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417904
-REVOLT,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417907
-RFD TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417908
-RIDE TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417945
-SMITHSONIAN CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417909
-START TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/424885
-SUNDANCE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417910
-SYFY,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417911
-SYFY (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419359
-TBS,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417913
-TBS (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419360
-THE OUTDOOR COOKING CHANNEL,http://ys-users.com:8080/Rebel/45Wgd6Qet7/418016
-TLC,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417914
-TLC (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419361
-Travel Channel (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419365
-TRU TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417917
-TV LAND,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417918
-TV LAND (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419366
-TV ONE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417919
-UP TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417920
-USA NETWORK,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417921
-USA NETWORK (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419369
-VH1,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417922
-VH1 (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419370
-VICE,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417923
-Vice  (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419371
-WE TV,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417924
-WE tv (West),http://ys-users.com:8080/Rebel/45Wgd6Qet7/419372
-WGN AMERICA,http://ys-users.com:8080/Rebel/45Wgd6Qet7/417925
+ABC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXgsU4TQ8h0tVQTgbcozaWk/ts
+QVC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaShvVI9e10jUgrw0BVNO7iQ/ts
+QVC 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabCReQMNFEazFTfYQmwvrbE/ts
+FOX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUfZh7vZoAX2insCy_cbF10/ts
+NBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYTiR4y77f8c-_8yLayNOKM/ts
+ION TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUp9wyMqVqbaDznUE631LZY/ts
+CBS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ5x5L3_Kgq1fpsZSs8t0YI/ts
+COZI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadxT65BIZrv2Fvw1m5Y3qZM/ts
+COURT TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaLl3CSHBO8_B0N1YuIkHhk/ts
+TBS EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV0EpxTngaSXyMJjs_yGhcM/ts
+TBS WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacnF7wo25J-SDFITjFYFSNo/ts
+E! ENTERTAINMENT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX9ZO9gtaOS1bw1yZsohHf8/ts
+E! ENTERTAINMENT WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZxmFtcG3HZOY60MyiIUggo/ts
+TLC EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVRkIn5_OvuC9zE3iPdi8xU/ts
+TLC WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR7ogt8rmAt_pyRs1KzN0L4/ts
+PARAMOUNT CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ020FNC6qZSyI8L6fXs93g/ts
+A&E,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRMxzoUh4uMeXjai83R4ALQ/ts
+TASTEMADE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUo9x_C0CQg8jWqrOvcCjeo/ts
+HGTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT7fsHt_EJbhdDwo3Xv3bg4/ts
+HGTV WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSR6vviOJnSYgefyO62LZx0/ts
+LIFETIME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZd_fMB1VPDp48a8owSlZ9Y/ts
+USA NETWORK EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU6hUNQG_TmEkoo8KWmVOMk/ts
+USA NETWORK WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabaXHYthqshPn0a-cCK42FI/ts
+FX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabmJodtA4fpbsM9vNDFGfDA/ts
+FX EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ91mK57id3rKy3r48vbFzY/ts
+FX MOVIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadK2kkdT7pUqkb2TorCG8Dg/ts
+FXX EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUgTc4zCi_PIJHSeJsuFZvA/ts
+FXM,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ18pAow9WTTWiUc8yu_TqU/ts
+AMC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRzOTqevkWA3CC1D9B572mU/ts
+AMC PLUS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUzK-55qLDlyhy65gAFv7Ug/ts
+AMC PRESENTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabr3MJ6edFfZopdp8w-qVO8/ts
+SYFY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadXosdRdzK0IXDKPpuF07Kw/ts
+FUSE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacBC3mw9W-4Tyq4StFNfoWQ/ts
+OWN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRleMFVCsQiQIFYeZeTkFaU/ts
+OWN WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXMg0IRfOvrHwqfTAtc5Tc8/ts
+VICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab8vAvs1xlR125T8R5KXaC4/ts
+FYI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJ6WsQCPTHkQ43m9up3l50/ts
+AWE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWTbjglbCcFWncasqBUVUXA/ts
+TV LAND,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUW4us8i2QszZft1QqNKhWM/ts
+TV LAND WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRUg8QvxTpJJDAjsy33-Bv0/ts
+TRUTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWjXJdglu396aTUBr1Ah8FU/ts
+TRUTV WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafcJqMnPgxBGdaqG5OfmAI0/ts
+START TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW3SQFB2UOOA6fmB6bQehBg/ts
+HSN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWAVXro5YTe0eeG95h_XQgM/ts
+HSN 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacQauliM_f-GDW4YDdpzifE/ts
+FREEFORM,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSlzxB9SXvO8ngUNvTFjCgs/ts
+FREEFORM WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ-VGdz6pDl3qzVvOP89wVo/ts
+OXYGEN EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZXjdhWZrIa2WBhjtxq2q5w/ts
+OXYGEN WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeFxutAmomURXJyHOGR2YMA/ts
+ASPIRE TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWVKo-z5tTaCViSDASEAj1U/ts
+COMEDY DYNAMICS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY9od67ZdQalcQXXPPeRA6c/ts
+TV ONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRxmSToYHwyZpd0DDYjkUvA/ts
+JUSTICE CENTRAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVX0rbewXY6USiufBQyBX2k/ts
+REELZ,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac7dN0JmYp-9qX3iDleWrLQ/ts
+PEOPLE TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf-9_vdADZJQ6qx0qBHElNY/ts
+GAME SHOW NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab0r_0qV5wj1J8nEOQhaMFs/ts
+COMEDY CENTRAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaPoDWLGhx24dTWqAxzkChc/ts
+COMEDY CENTRAL WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS4LCw4iZ6jc9aTET103LS0/ts
+COMET TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSQ_49VKGodhmQ0JCKGY_GM/ts
+BOUNCE TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabbpp-97IG2dxBEWCAhN-W4/ts
+BOUNCE XL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZkTd7gXz1Epk_Vn2yqjzfw/ts
+AXS TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaYQNVBR6_C4MoxI2spadkY/ts
+GRIT TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYGiV9RYq8s2SQeZqqBgw7w/ts
+LIFETIME MOVIE NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaebmtDBYDg3Rli0G14z7A9k/ts
+METV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXUymNtPGnsmSptoB_Q0tog/ts
+HALLMARK CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXQl664biIpzhQMpIO-9HyI/ts
+HALLMARK DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafuX_U7EA4LFNk5IGApWE98/ts
+HALLMARK MOVIES & MYSTERIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW8upQjOl2FpTSKxvnEyhLA/ts
+INSP,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXzXPZ-VPMqJ_2_FHQK9hZ4/ts
+TNT EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXFIRDTRR4amsXTIKELIs4s/ts
+WE TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ1eTYYPxyCIYRwDFzgAF_Y/ts
+ANTENNA TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYrnIqWXfamZq3uVll4cWjQ/ts
+FOOD NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY-z1SVoDZTmihN6D6K_jbY/ts
+FOOD NETWORK WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSMJ2mcx_015us0P80svs08/ts
+ADULT SWIM,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS5-ew6TsqhKgl1Iaj_09KI/ts
+AMG TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabTSLqcKru9UZ9fz5B7OFHw/ts
+BET EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafpPCukJK5oUa3rgpEdkUVA/ts
+BET WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacr2fqOguiN_HfPOpgTvRsE/ts
+BET HER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ_sPtx92fJ209BKgHqtLnk/ts
+BET JAMS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac3ZPQYo0WT-RBBqzmE8qrg/ts
+BET SOUL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab9dSGe3ijBRjrOb2YDuuno/ts
+BUZZER TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZkEgZHBXshMsTD-lbRhoOk/ts
+CIRCLE TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXbQpgyn-6h-Z1hLQk0fBSA/ts
+CLEO TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabMK1fgS7nq8ZWMGeEVbNN0/ts
+CONTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZxJ9_Qc7liZdPZS-SoNYBU/ts
+DABL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTSKMYaarJWi2l7u1dd3I7g/ts
+DAYSTAR,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadgmHQVy75d-OqL0cV3hZSY/ts
+DECADES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZbPY9u7zxfrZlN3DtpDFiE/ts
+CRACKLE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZW4D5eREaDMfInRK8FWmEQ/ts
+FETV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTk3rLNlPP6j1rexhL4AHFw/ts
+FOX SOUL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQtVtrHaCP8PAnqM4mJNXEY/ts
+GAC FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaenzQSnun0sJcUy2aHlpnNI/ts
+GAC LIVING,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafwOFSofczHVl1yh9ll4PRA/ts
+GETTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacMClWXvFpjdD_yaIKCSY_k/ts
+GREAT AMERICAN COUNTRY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZTNeIoptuZlncmK-dX0YM8/ts
+GUSTO TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTqp0N35Q_CswIZAWF5Jb2w/ts
+HEROES AND ICONS EAST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWS-iP0ofTaxKlYrYTNISlc/ts
+HEROES AND ICONS WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeOox9wkCZ58vi13aTE54m0/ts
+HLN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac1rzHpHCZEpVdFNz6Hcr3Y/ts
+IFC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeGVvdOx1z8YN5Jx8EGVuEU/ts
+LAFF TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSUCb-5ss4cxtiXPPxoFe9M/ts
+LOGO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZLczF_KMOECjZxn2G2r318/ts
+MAGNOLIA NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ04PuZuNh3ANiuWIL5cbnM/ts
+DESIGN NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9Bwwr2jogYQvWbh6zTD7s/ts
+POP,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaL9Wy_2Vm4D78v3rPnnhEU/ts
+REVOLT TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU4CF7vQOqIfq-jQxFepCLU/ts
+RFD TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSM2DcJAm4GxCe3BR6piWKg/ts
+THE COWBOY CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWVbgW9XDPB1DkAurhJnZJo/ts
+TRUE CRIME NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRqmB-VC9EQEFBH8pfSYgLM/ts
+UPTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabgdVLajGnYeMaFnpB1O1Yg/ts
 
-•●★英国体育★●•,#genre#
-EUROSPORT 1,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/81243
-EUROSPORT 1,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/81255
-EUROSPORT 1,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/81256
-EUROSPORT 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/81257
-EUROSPORT 2,http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/81258
-EUROSPORT 1,http://tvpanel.one:80/den9179/611carc/586801
-EUROSPORT 1,http://tvpanel.one:80/den9179/611carc/586802
-EUROSPORT 2,http://tvpanel.one:80/den9179/611carc/586803
-EUROSPORT 2,http://tvpanel.one:80/den9179/611carc/586804
-SKY SPORTS NEWS,http://tvpanel.one:80/den9179/611carc/586757
-SKY SPORTS NEWS,http://tvpanel.one:80/den9179/611carc/586758
-SKY SPORTS MAIN EVENTS,http://tvpanel.one:80/den9179/611carc/586759
-SKY SPORTS MAIN EVENTS,http://tvpanel.one:80/den9179/611carc/586760
-SKY SPORTS PREMIER LEAGUE,http://tvpanel.one:80/den9179/611carc/586761
-SKY SPORTS PREMIER LEAGUE,http://tvpanel.one:80/den9179/611carc/586762
-SKY SPORTS FOOTBALL,http://tvpanel.one:80/den9179/611carc/586763
-SKY SPORTS FOOTBALL,http://tvpanel.one:80/den9179/611carc/586764
-SKY SPORTS CRICKET,http://tvpanel.one:80/den9179/611carc/586765
-SKY SPORTS CRICKET,http://tvpanel.one:80/den9179/611carc/586766
-SKY SPORTS GOLF,http://tvpanel.one:80/den9179/611carc/586767
-SKY SPORTS GOLF,http://tvpanel.one:80/den9179/611carc/586768
-SKY SPORTS NFL,http://tvpanel.one:80/den9179/611carc/586769
-SKY SPORTS NFL,http://tvpanel.one:80/den9179/611carc/586770
-SKY SPORTS ACTION,http://tvpanel.one:80/den9179/611carc/586771
-SKY SPORTS ACTION,http://tvpanel.one:80/den9179/611carc/586772
-SKY SPORTS ARENA,http://tvpanel.one:80/den9179/611carc/586773
-SKY SPORTS ARENA,http://tvpanel.one:80/den9179/611carc/586774
-SKY SPORTS F1,http://tvpanel.one:80/den9179/611carc/586775
-SKY SPORTS F1,http://tvpanel.one:80/den9179/611carc/586776
-SKY SPORTS RACING,http://tvpanel.one:80/den9179/611carc/586777
-SKY SPORTS RACING,http://tvpanel.one:80/den9179/611carc/586778
-SKY SPORTS MIX,http://tvpanel.one:80/den9179/611carc/586779
-SKY SPORTS MIX,http://tvpanel.one:80/den9179/611carc/586780
-BT SPORTS 1,http://tvpanel.one:80/den9179/611carc/586781
-BT SPORT 1,http://tvpanel.one:80/den9179/611carc/586782
-BT SPORTS 2,http://tvpanel.one:80/den9179/611carc/586783
-BT SPORT 2,http://tvpanel.one:80/den9179/611carc/586784
-BT SPORTS 3,http://tvpanel.one:80/den9179/611carc/586785
-BT SPORTS 3,http://tvpanel.one:80/den9179/611carc/586786
-BT SPORTS ESPN,http://tvpanel.one:80/den9179/611carc/586787
-BT SPORTS ESPN,http://tvpanel.one:80/den9179/611carc/586788
-BT SPORT EXTRA 1,http://tvpanel.one:80/den9179/611carc/586789
-BT SPORT EXTRA 1,http://tvpanel.one:80/den9179/611carc/586790
-BT SPORT EXTRA 2,http://tvpanel.one:80/den9179/611carc/586791
-BT SPORT EXTRA 2,http://tvpanel.one:80/den9179/611carc/586792
-BT SPORT EXTRA 3,http://tvpanel.one:80/den9179/611carc/586793
-BT SPORT EXTRA 3,http://tvpanel.one:80/den9179/611carc/586794
-BT SPORT EXTRA 4,http://tvpanel.one:80/den9179/611carc/586795
-BT SPORT EXTRA 4,http://tvpanel.one:80/den9179/611carc/586796
-BT SPORT EXTRA 5,http://tvpanel.one:80/den9179/611carc/586797
-BT SPORT EXTRA 5,http://tvpanel.one:80/den9179/611carc/586798
-BT SPORT EXTRA 6,http://tvpanel.one:80/den9179/611carc/586799
-BT SPORT EXTRA 6,http://tvpanel.one:80/den9179/611carc/586800
-PREMIER SPORTS 1,http://tvpanel.one:80/den9179/611carc/586809
-PREMIER SPORTS 1,http://tvpanel.one:80/den9179/611carc/586810
-PREMIER SPORTS 2,http://tvpanel.one:80/den9179/611carc/586811
-PREMIER SPORTS 2,http://tvpanel.one:80/den9179/611carc/586812
-MUTV,http://tvpanel.one:80/den9179/611carc/586813
-MUTV,http://tvpanel.one:80/den9179/611carc/586814
-LFC,http://tvpanel.one:80/den9179/611carc/586815
-LFC,http://tvpanel.one:80/den9179/611carc/586816
-FREESPORTS,http://tvpanel.one:80/den9179/611carc/586817
-FREESPORTS,http://tvpanel.one:80/den9179/611carc/586818
-RACING UK,http://tvpanel.one:80/den9179/611carc/586819
-RACING UK,http://tvpanel.one:80/den9179/611carc/586820
-BOXNATION,http://tvpanel.one:80/den9179/611carc/586821
-BOXNATION,http://tvpanel.one:80/den9179/611carc/586822
-GINX ESPORT,http://tvpanel.one:80/den9179/611carc/586823
-GINX ESPORTS,http://tvpanel.one:80/den9179/611carc/586824
-SPORTY STUFF TV,http://tvpanel.one:80/den9179/611carc/586825
-SPORTY STUFF TV,http://tvpanel.one:80/den9179/611carc/586826
+•●★英国BT&SKY体育★●•,#genre#
+BT SPORT BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ28K1Stk0U7x0b-L7Z9JyE/ts
+BT SPORT 4K,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabfD-uJcSEgxcNAfJTMsqgk/ts
+BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRL6jzdnA0thE29T2Jjo2Oc/ts
+BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWQNMVyDfa2iFFYLgZ-VXEo/ts
+BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaflb05aeOFXMmpxJ12Td3z0/ts
+BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeQuwtXWA0ABIVG6Yd-KyRQ/ts
+BT SPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVH6YR8SUk_M5oY7OBzX-Zw/ts
+BT SPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYGTEX-LBZduQkHLekEwzXI/ts
+BT SPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabEOV9anEUvnVDf-7RvirMg/ts
+BT SPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWjudnoiSeTv_veznxB3wRs/ts
+BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXNfr18wQOXtRPV-lx1B7l0/ts
+BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaejjpcg5vVc7UI1VZ-yiZfw/ts
+BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabd25d1vyGcP7ftuIewRoGs/ts
+BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacyomqzS78vv0TT8ik6AShU/ts
+BT SPORT 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRN6o8Mc6mPUXAhG0pcmvho/ts
+BT SPORT 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacdtLkuJn4i8KQFFpTeoiwE/ts
+BT SPORT 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadMVYvodUkX1qW-K1hX5Oxk/ts
+BT SPORT 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabMGDvxtJtAD4OFb6g5UEDo/ts
+BT SPORT 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabOywpS3LGqCW6l_jJ1FcAI/ts
+BT SPORT 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWB4wIldZCgxFouZOZ72f7w/ts
+BT SPORT 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab45fQvtnLiXjIYVEn9S-JU/ts
+BT SPORT 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZxfsQ2JoL1M5XFhw3S8AsQ/ts
+BT SPORT 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSOrlnDvGZ4BPKeNxNss890/ts
+BT SPORT 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeqGfGEaSXSsUcT8iXbXXdQ/ts
+BT SPORT 8,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUxWGGwIca0WcmOkKN1-soQ/ts
+BT SPORT 8,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWdPAFc2vsY2AuoCtwsRYPw/ts
+BT SPORT 9,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaebauRuvKvgLKNIzl73pQzU/ts
+BT SPORT 9,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXn-iEDi09hDL_SSRZhjlgk/ts
+BT SPORT 10,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadmC3TXY-5G_BSe-nGdMFXQ/ts
+BT SPORT 10,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWNSExOTp9MM4gZYTNFNYMQ/ts
+NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafR_hi9eCSxow5maqyBq9Rs/ts
+NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXR1F8k2SJW04ME9MN5NaXU/ts
+NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR6s367z0rtkpAoF5XZioIY/ts
+MAIN EVENT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSzPA4c_EOPtkzSZ9gxWoGw/ts
+MAIN EVENT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadUCMywPYfGngnEcFUsHBBo/ts
+MAIN EVENT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac4cr9YCYnzNajnDpAtszhE/ts
+PREMIER LEAGUE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZMhpRISJFr-wxSA_wNK5z0/ts
+PREMIER LEAGUE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaelJeHjw413l1m7EWp4GnQc/ts
+PREMIER LEAGUE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadWCj3X6FrluzUDh15aW5eU/ts
+FOOTBALL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW0DFIqB7t341uP6mEDM7kw/ts
+FOOTBALL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTThWb8wD7t5wTzt95kZk7A/ts
+FOOTBALL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafXPwi1igz7NvAlsuwaQiU4/ts
+CRICKET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVwGCfHvdyyt4PGrk-Xgm-4/ts
+CRICKET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVisq12PT9IIxBMH-Onk8uc/ts
+CRICKET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVJvAGQ9XD0FZe_16AtFjGE/ts
+GOLF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabb1nDEIoqfZxTZ0YtWrFzE/ts
+GOLF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ8YFmNauDcWPjKV_l0HEQQ/ts
+GOLF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVaaM-WBsBrOnra585_OiSk/ts
+F1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaBIMuBLVFuG5Fry1MkRuH0/ts
+F1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUcSRf8jASMTzpXkpq0MzVY/ts
+F1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafAqcJUzwVBd1bonQPSivIk/ts
+NFL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVrqjk1DUoVevkOODPKO3DQ/ts
+NFL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZQKfRZ6c_1RTFW_rymOXSo/ts
+NFL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT1NcFlZ2wA-XXn25sAEIoQ/ts
+ARENA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ9kk8c5vCjFhKaVlXilquE/ts
+ARENA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRcGhW5nsp-G0Y0JVFaCZug/ts
+ARENA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWOr-Ds0SvN7goCvz52NX-Q/ts
+MIX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafj__tdMw2VAUP6fLmm56cA/ts
+MIX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVwHWqlqUPZktjD2REn0HoI/ts
+MIX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZfK4YA6PxdyS6pgEoIy0sg/ts
+RACING,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSPhUyk90aoeMGizWV5qlqU/ts
+RACING,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaan9RjDLd5WBK1Hu3_3fS8/ts
+RACING,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafRcKBLlIxEliyqQmErOZaE/ts
+BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS4d5QHEhFXwXdpa1c4wFJQ/ts
+BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVVd22eS4s5vUKr9yoPoTqs/ts
+BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafKReMx0BvDCYLMJ2ofUAvs/ts
+
+•●★英国其他体育★●•,#genre#
+DAZN|EVENT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQyz3SDo91N4MhFNvlUVGPg/ts
+DAZN|EVENT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae-i3Lu3aAznBuaSWyygYTk/ts
+DAZN|EVENT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSV_U-w9rXwKEBOLozUqkDs/ts
+DAZN|EVENT 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYNc41oblmMMnW3xvohSlc0/ts
+DAZN|EVENT 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYBPS5wRZNjRPhN-qLjGsLs/ts
+DAZN|EVENT 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZMWZM708hKvmQ2ig9OzkEU/ts
+DAZN|EVENT 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf8KxPNGArTNkHkU9xAqgNc/ts
+DAZN|RED BULL TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWYYH6R_omNUfRp2eMoQUXs/ts
+EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadZ7y1S5nE1GdCZGF6hNloY/ts
+EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQjMA37NtB1jygGToDTHXtY/ts
+EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedQXEjVTptE1yf-3VJ1fS0/ts
+EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9mukYc0H0sbC9f9jGhqb4/ts
+EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPNqZ2Uu6pCDyGS1fP6apM/ts
+EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJagQ9GixsmORmKI7GJzcc/ts
+PREMIER SPORTS 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTvaHFZ1OfnwFWzkrB1yJRM/ts
+PREMIER SPORTS 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafHHI3dpXTU6tje5TdWjJXc/ts
+PREMIER SPORTS 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVVwCXAsRq-wbkebt-MIdvU/ts
+PREMIER SPORTS 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYXrt-a5T8k1EWAb4PCNwts/ts
+PREMIER SPORTS 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVWbO_6lpDVUa1dBfH1dxM8/ts
+PREMIER SPORTS 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafj0tcCX0upWYyS7zdLxVWY/ts
+FREE SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacUmAkwY-gdqawntUNGTSGQ/ts
+FREE SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacWR9c23bUijUGw9UF16dNY/ts
+FREE SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadxGyheZsnPrqiu9UDcN_bc/ts
+GINX E-SPORTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR9U-for9WIewKxe78kgTPs/ts
+SPORTY STUFF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVI8Fu-L_LxhnqTcH7A4OQs/ts
+SPORTY STUFF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUF__7PRKIEGDETyVPi5ds8/ts
+SPORTY STUFF,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ1UvkGGtcaZR-bdN-sGlDI/ts
+MUTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS--cJ79sf_c245WickQR_w/ts
+MUTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabLe1IItLBNHvDazWpYZ9vg/ts
+MUTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINactbYKFfstXWBefhYxhMilQ/ts
+LFC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWL2KeGZnO0j_-3V63e4T-k/ts
+LFC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWVRYLyMziELYURfVAhf_yU/ts
+LFC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVN2j0OmBc3xhVa83KVa8IM/ts
+RACING UK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQR1ECAuzwCtwkN5uuQH3XY/ts
+RACING UK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUjW-ui-taS4g_P2mqLQSuI/ts
+RACING UK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSexzPvez0_q3_h8QKHxlog/ts
+LA LIGA TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa1B00hXAwTm89swbZdm9SM/ts
+LA LIGA TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab2RdACY__0gXYXVFxIaymE/ts
+LA LIGA TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVc9FO-9ZAy9IAQw5gNqDBo/ts
+SKY SPORTS ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUENmWfN7IH0RtEkkxIKyJY/ts
+BOX NATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZYFTZTHc0rG3JkSSLj-0XE/ts
 
 
 •●★英国新闻★●•,#genre#
-CNN,http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8?
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-CNN International,http://213.172.73.170:8081/nimble_live/1044__CNN_International/playlist.m3u8
-CNN,http://tvpanel.one:80/den9179/611carc/195621
-BBC NEWS,http://tvpanel.one:80/den9179/611carc/195614
-GB NEWS,http://tvpanel.one:80/den9179/611carc/528742
-EURO NEWS,http://tvpanel.one:80/den9179/611carc/195618
-FRANCE24,http://tvpanel.one:80/den9179/611carc/197003
-FOX NEWS,http://tvpanel.one:80/den9179/611carc/195620
-SKY NEWS,http://tvpanel.one:80/den9179/611carc/195619
-BBC PARLIAMENT,http://tvpanel.one:80/den9179/611carc/195615
-RTE NEWS NOW,http://tvpanel.one:80/den9179/611carc/195616
-BLOOMBERG,http://tvpanel.one:80/den9179/611carc/195617
-TALK TV,http://tvpanel.one:80/den9179/611carc/579068
-RT (RUSSIA TODAY),http://tvpanel.one:80/den9179/611carc/195622
-ALJAZARA,http://tvpanel.one:80/den9179/611carc/195623
+SKY NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRiCacw4NQy-F8Z9YzZERLA/ts
+SKY NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTzjtxY3olBallUY4-d5WIU/ts
+SKY NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaekC58R7QKTqui9NiA70D3M/ts
+BBC NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeMwHdRgSI8yQ-sA4rFlqP8/ts
+BBC NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWIBHU624T-Zb3SfyMJ02DE/ts
+BBC NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeXUFPV_DAWEtA5k3C7kzw8/ts
+BBC PARLIAMENT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSWYH5Whfj38gPoiJYslzVw/ts
+CNN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWNS-cBG4cHY60_khiqO6HM/ts
+CNN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRVF4x0GB_Now186cbQ6tLA/ts
+CNBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTtnujIbEuo12WC8OMKhN6s/ts
+GB NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab-7miH_iVv7TjO_RKw3X0k/ts
+FRANCE 24 ,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR9TRBncjfSzcIuZu-KAlFk/ts
+EURO NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVafd_E2YMdvILLslooVxSQ/ts
+AL JAZEERA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaNl2Sy1JU8MBGQRfJm-NVg/ts
+AL JAZEERA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINad7MoYoKrAMTFvAJIz21EEU/ts
+AL JAZEERA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRzcKbo60b4cYs8HvNbxJoU/ts
+BLOOMBERG,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRhYz76Tg7zCN_Iv8PiqjYE/ts
+GOOD NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTGoMiqwiXs-p6rA0mKi-pc/ts
+RT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTFw5LJrSOQQgQRexOjJNI0/ts
 
 •●★英国娱乐★●•,#genre#
-BBC ONE,http://tvpanel.one:80/den9179/611carc/548868
-BBC TWO,http://tvpanel.one:80/den9179/611carc/548870
-BBC THREE,http://tvpanel.one:80/den9179/611carc/571278
-BBC FOUR,http://tvpanel.one:80/den9179/611carc/548874
-BBC ALBA,http://tvpanel.one:80/den9179/611carc/548872
-BBC SCOTLAND,http://tvpanel.one:80/den9179/611carc/548873
-ITV1,http://tvpanel.one:80/den9179/611carc/548875
-ITV2,http://tvpanel.one:80/den9179/611carc/548894
-ITV3,http://tvpanel.one:80/den9179/611carc/548895
-ITV4,http://tvpanel.one:80/den9179/611carc/548896
-ITVBE,http://tvpanel.one:80/den9179/611carc/548897
-SKY SHOWCASE,http://tvpanel.one:80/den9179/611carc/548879
-SKY WITNESS,http://tvpanel.one:80/den9179/611carc/548880
-SKY ATLANTIC,http://tvpanel.one:80/den9179/611carc/548881
-SKY MAX,http://tvpanel.one:80/den9179/611carc/548882
-SKY COMEDY,http://tvpanel.one:80/den9179/611carc/548883
-SKY ARTS,http://tvpanel.one:80/den9179/611carc/548884
-SKY REPLAY,http://tvpanel.one:80/den9179/611carc/548885
-RTE ONE,http://tvpanel.one:80/den9179/611carc/548869
-RTE TWO,http://tvpanel.one:80/den9179/611carc/548871
-PARAMOUNT,http://tvpanel.one:80/den9179/611carc/548914
-VIRGIN MEDIA ONE,http://tvpanel.one:80/den9179/611carc/548886
-VIRGIN MEDIA TWO,http://tvpanel.one:80/den9179/611carc/548887
-VIRGIN MEDIA THREE,http://tvpanel.one:80/den9179/611carc/548888
-CHANNEL 4,http://tvpanel.one:80/den9179/611carc/548876
-CHANNEL 5,http://tvpanel.one:80/den9179/611carc/548878
-TG4,http://tvpanel.one:80/den9179/611carc/548877
-WATCH,http://tvpanel.one:80/den9179/611carc/548889
-GOLD,http://tvpanel.one:80/den9179/611carc/548890
-LONDON LIVE,http://tvpanel.one:80/den9179/611carc/548893
-E4,http://tvpanel.one:80/den9179/611carc/548898
-MORE4,http://tvpanel.one:80/den9179/611carc/548899
-4SEVEN,http://tvpanel.one:80/den9179/611carc/548900
-5USA,http://tvpanel.one:80/den9179/611carc/548902
-5SELECT,http://tvpanel.one:80/den9179/611carc/548903
-5STAR,http://tvpanel.one:80/den9179/611carc/551253
-ALIBI,http://tvpanel.one:80/den9179/611carc/548904
-TLC,http://tvpanel.one:80/den9179/611carc/548905
-S4C,http://tvpanel.one:80/den9179/611carc/548901
-FOOD NETWORK,http://tvpanel.one:80/den9179/611carc/548906
-REALLY,http://tvpanel.one:80/den9179/611carc/548907
-QUEST,http://tvpanel.one:80/den9179/611carc/548908
-QUEST RED,http://tvpanel.one:80/den9179/611carc/548909
-DRAMA,http://tvpanel.one:80/den9179/611carc/548910
-CBS REALITY,http://tvpanel.one:80/den9179/611carc/548911
-CBS JUSTICE,http://tvpanel.one:80/den9179/611carc/548912
-CBS DRAMA/REALITY XTRA,http://tvpanel.one:80/den9179/611carc/548913
-E!,http://tvpanel.one:80/den9179/611carc/548915
-COMEDY CENTRAL,http://tvpanel.one:80/den9179/611carc/548916
-COMEDY XTRA,http://tvpanel.one:80/den9179/611carc/548917
-SYFY,http://tvpanel.one:80/den9179/611carc/548918
-HGTV,http://tvpanel.one:80/den9179/611carc/548919
-PICK,http://tvpanel.one:80/den9179/611carc/548920
-GOLD,http://tvpanel.one:80/den9179/611carc/548921
-CHALLENGE,http://tvpanel.one:80/den9179/611carc/548922
-LIVE 360,http://tvpanel.one:80/den9179/611carc/548923
-COURT TV,http://tvpanel.one:80/den9179/611carc/548924
-FORCES TV,http://tvpanel.one:80/den9179/611carc/548925
-FOOD XP,http://tvpanel.one:80/den9179/611carc/548928
-TOGETHER,http://tvpanel.one:80/den9179/611carc/548929
+BBC ONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadq6zvbazHADh9TT32J12T0/ts
+BBC ONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQ_1sE_B_qRfpTXUNNMSFAc/ts
+BBC ONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXrX7wyBrKiDQf188srTwrY/ts
+BBC TWO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT8rOGmxwVQRqHX-Ma-KzY8/ts
+BBC TWO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf7QgE9kyZPKBVRfa-TM2CQ/ts
+BBC TWO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf44l00FuKlU_jyh43oL5qQ/ts
+BBC THREE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQRQYAweR-y-HIpm-lsVbd4/ts
+BBC THREE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae97dU3SUmKvg4ybk3evbHs/ts
+BBC THREE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT_JZDGuVcDYQMTaSW_bYZ4/ts
+BBC FOUR,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVcLc1txy36p45jospUGLUA/ts
+ITV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac0vHQX9zIUqH4x-58bZPHc/ts
+ITV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafLc871zhWlVww7yz0yw-bo/ts
+ITV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXhsYjuozY7k7vkFSt7Kloc/ts
+ITV +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUnTXTr71H0n1nadQuOWDBQ/ts
+ITV2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf1bXcKssD_QA5e9f5jUTtI/ts
+ITV2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS4qFVmbOv8F8ezAS2_WY24/ts
+ITV2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTc0HRjkAu1CVaFnoFipasQ/ts
+ITV2 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYptBOqKerbdUu2TE8fYVww/ts
+ITV3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabfoZpt_pt8hFSsOMkmVgaM/ts
+ITV3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabWl4k1Zl09bPlUZhcG2njs/ts
+ITV3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab9hvDtwczFt1R0eacq26L0/ts
+ITV3 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTDLMtFZ0VWgdy8cwdAP154/ts
+ITV4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSiMQ1g0Qp0a07htqhrHw-s/ts
+ITV4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf5KenB5Cz-NbVJBz0un-xs/ts
+ITV4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTFRss4n8KgeZYDLnI0dOoA/ts
+ITV4 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaemL2miYRwqAxQOzXli41J8/ts
+ITVBE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaVicvXv_nWbC9HcQK2EYc8/ts
+CHANNEL 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadgl_s0OhELNWCpGgCfnywU/ts
+CHANNEL 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTWJQA2RDsFnGAG9X1lACkQ/ts
+CHANNEL 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacP_ov--GNrX6PxydtLxK60/ts
+CHANNEL 4 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYT1byfhCavymWJGFucg8_w/ts
+CHANNEL 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSHf8W6Ib2J7_0zqHmQr9pk/ts
+CHANNEL 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZibdmQ5gWe4snTJ6bnU6Gw/ts
+CHANNEL 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT6NWu7_HtrOcKJsHM67qok/ts
+CHANNEL 5 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabM6rmQi5A4F2vPY1PgMGjY/ts
+SKY MAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae_6gjPJbZL1UpvifuhkTEU/ts
+SKY MAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeu_7Eh7ie-79FClw0xtnoI/ts
+SKY MAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQtf5gsy2QVINap7UYqKJD4/ts
+SKY REPLAY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZdYHHsiQOejix1q1Opd2dU/ts
+SKY SHOWCASE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafiTRctI2-tX07UaE5SF1bU/ts
+SKY SHOWCASE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS_vO-VWucgkTNL9R1xy7WU/ts
+SKY SHOWCASE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVtCNB1bbiOOlOjpP1yOM9Y/ts
+SKY ATLANTIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQbYUE86zOe0TamUu6Ti4XE/ts
+SKY ATLANTIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ7T8xcFHsubs8vTLmUWGL0/ts
+SKY ATLANTIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXzMVh_F6a8t8bB32Bgs0p0/ts
+SKY ATLANTIC +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaL7aGULsFp6ZniDrCL7er4/ts
+SKY WITNESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaey6VmVVguA5oHJWu2Wzff0/ts
+SKY WITNESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUZcmPj_eOy19z8X_4K_mto/ts
+SKY WITNESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR2_xH3hEzfkJtX1rjSoQZs/ts
+SKY CRIME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaJgx7-IRMt_G_0I3NNNhIs/ts
+SKY CRIME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR2wPL5P_EEdPPX6c1V6P6g/ts
+SKY CRIME,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWfjyfj5cemFdHsiUwUbMg0/ts
+SKY CRIME +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaerSii6qqGAPK5GwhP4MHJY/ts
+W,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVKLKYi-GuqhmBFV1i3rugI/ts
+W,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW7xGeBzkLmTtVn_Dv6ZbhE/ts
+W,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRCvgbH0qvw-XKpVUZlJWdQ/ts
+GOLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTETozTpADSaqFPsQQ97cuo/ts
+GOLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR8uCvtuuUtE1irdkyyxGDU/ts
+GOLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWO9cE5x0yz-Piqo4Ez0_yo/ts
+GOLD +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX13ZmcJr26dHtdPbPWIsjQ/ts
+SKY COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaflyfsUoCtAgT8g5fraDEaw/ts
+SKY COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadkWwTPUmQYAsDeiFJsgAwY/ts
+SKY COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSrqYuchaZmowQtL-S77Ak8/ts
+COMEDY CENTRAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacPz4ELRTYNLmfRMxmWAyCc/ts
+COMEDY CENTRAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQOK0YEOFNa50i4ni3zTof4/ts
+COMEDY CENTRAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9a6jaAujiA98Wj0D6Z7XU/ts
+COMEDYXTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUnkiUkQppH8WP01Grto11I/ts
+COMEDY CENTRAL +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSE0Ygl1OiC-tfr71B1mQNU/ts
+SKY SYFY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXQ5VpvIsxzQp1QBZ1bwPSo/ts
+SKY SYFY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeyfnLdWdkhioB2mv_v2nlQ/ts
+SKY SYFY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRd2o5Wq5XcfB90s8yIzdCc/ts
+SMITHSONIAN CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRGTdjcCJ5qgRloxvLI7mD8/ts
+FOOD NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacfhoZbA8W0GOCViQ3buIV4/ts
+FOOD NETWORK +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVfTjnQNQ_5gCf-KF7q44dY/ts
+FOODXP,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVokNTF6RcGAZg3KDl9TLD8/ts
+DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZv112cua6VdpXzJtnD7Nys/ts
+DRAMA +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUpex9yTuhMwRnd2lpNZSQI/ts
+CREATE & CRAFT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRj3t-uYkkNzikPY_G6GoEc/ts
+LIVE 360,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafNkdixFh4DxXTdI4uVeP8w/ts
+COURT TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX6Wx0cflj77tbtlxdEFSnQ/ts
+BEST DIRECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYbJeY50XSPEYq-WOB24Z9U/ts
+TOGETHER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZMZMGUEhjoMNwgGIfve6JQ/ts
+HGTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV102mC8SRA5O2RL9ZEx9No/ts
+HGTV +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae6CdjZyO4TLB6I8EtbVzKg/ts
+LONDON LIVE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf_h6kB9sW32UBBhiPE7SpY/ts
+S4C,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW7uTqiriL-JEfRXHHITwyA/ts
+S4C,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaklLATY8eFiuPe4kVaa4qQ/ts
+FORCES TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacw2Hy__-jte8oEfz-vWGfg/ts
+E4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSu3yVld-bk2AclICpO5T14/ts
+E4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaw6et2Xs7vJ-qb0oGPSdkE/ts
+E4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWSAvOQrxn-QrX8RjSfxmT8/ts
+E4 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa4YxXJa-hz5ebHhF_BHX_w/ts
+TLC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQdWX8iULGh7imWx9HeWsoY/ts
+TLC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRAX_eufmWYkgu5C1XstfMQ/ts
+TLC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ9TUvuA0Pr5Oi2utN0ud8s/ts
+MORE4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX8anoGblG3CPABeVxJSl68/ts
+MORE4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZJBwnG7sKGkq2nL70pyBWs/ts
+MORE4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ9CV7EVvR3XAoD0fmhYPr4/ts
+MORE4 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabEx4YYnqdphzWBCeO8cUKM/ts
+ALIBI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQfe532n5MnXVUcbcKkvOQA/ts
+ALIBI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRWp_sJXId8CAXPk2ZjGZ90/ts
+ALIBI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZMxVRgxeAG0NSPGE8vcUBs/ts
+E!,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSMGNbRb-FI9V_ZB0XQZGwk/ts
+E!,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSvVJ9-8q5StU__esnRmZr0/ts
+E!,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafh3WOZBL_aLc9LXb2G0Oyk/ts
+SKY ARTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWjTS0z6uOs1sYuKqRdm5e0/ts
+SKY ARTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR--yjoxBsn4N7kzBCksVOs/ts
+SKY ARTS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae-yja7AThySE2WQ76hIwl8/ts
+TALK TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSvPwqFtaRA2LRLX8wJrr-s/ts
+BBC FOUR,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQcGaxVRf3MrO5TCWqUQ9wM/ts
+BLAZE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeiA1VTIe6Ml54y3Mc9WYj8/ts
+IDEAL WORLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadujqMqYfXnutKS9Yb-0MGw/ts
+CHALLENGE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaGAMtZjXWUrCbHREK5fu-Y/ts
+PICK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae4aE2pRLuxvn2_bdVQlZII/ts
+CRAFT EXTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUQ8FdRCeasQ6_Mw6ZI0bac/ts
+QVC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSCni7zUOQi7TG3dgEavPYg/ts
+QVC BEAUTY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZiudq1_RBEQZ2IswciPlIM/ts
+QVC STYLE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX5WWEaG1Dw_12bASj4ryWs/ts
+QVC EXTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRvGLRi3askxP825NQksl30/ts
+JML DIRECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXjtPYTaLyzOCVMkja2unrw/ts
+PBS AMERICA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWhS6QWBeHW1bTk_9RWanj4/ts
+TV WAREHOUSE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafSIfdrj2ApYMyF5dGrK46k/ts
+IDEAL EXTRA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaboCDb4Ty1JbTwILUJdQJTc/ts
+DMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac8s2bhvg5dk414zk282vMA/ts
+DMAX +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYrgnkdNx1Pmfd_wwVETxfs/ts
+PARAMOUNT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV1r1_5_yiLV6a8WzNX5JpA/ts
+CBS DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaViSAsJrgVcNACvAwjcRNbw/ts
+CBS JUSTICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadXSnyBYye6GHguItaJcFSs/ts
+CBS REALITY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadHa95ZihVYbkDa3qZ_cAb0/ts
+CBS REALITY +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafQ5Ypvl6lP7X4sShU9F8t0/ts
+QUEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVf0kPQdvKvsWsFUUsuEQl0/ts
+QUEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTKo4SaCxtxjIbvGM8d2Ha8/ts
+QUEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRWpHE99dVTtJ1gHTABHX_s/ts
+QUEST +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeEFy_DjSLUlzZ7gNCikjXw/ts
+QUEST RED,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS8dWfTh8JzvPgcZxhQY520/ts
+QUEST RED +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXQQrVRSCuYN0sturGNBsfs/ts
+REALLY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTRyMyhxHZMC8b6qdXNbfUI/ts
+5SELECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWlIzG_8PXNuGvDID8F3GNE/ts
+5ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW5kxalOkCRH00IdJ-bN5gM/ts
+5USA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUToxbqvOHgx18iJYrIlN8s/ts
+5USA +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRSrqxFLzjjUNK2TBPfWMVk/ts
+5STAR,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZEl6WBPbEkfp_aekSVt76U/ts
+5STAR +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVJ5yFQtQvX5h3VfbvpV7-A/ts
+4SEVEN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafOk6odT5YpgeWBfLX3MMk4/ts
+WILLIAM HILL BTV 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedImknHGFj8P3H0fAzEk-Q/ts
+WILLIAM HILL BTV 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaRHn0M3GNpPpbv5dkOSSQY/ts
+WILLIAM HILL BTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZeqDxzqP2wBDXzqZ2OCRZk/ts
+SIS ONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabONihW8Pt74oOMiE7UyR7Q/ts
+SIS TWO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadk_xYYjem-QnF04zEA6L6k/ts
+SIS RACING,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY5KgRTKKN9Sig971LVl7pA/ts
+WILLIAM HILL BTV 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQKZ7CJxHuiPNMiQBIEZCxA/ts
+CORAL TV 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadtWazmsT4SSIt_9cJUkbsM/ts
+CORAL TV 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUUfJ75NQcC4ogqErFjp9G4/ts
+LADBROKES TV 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSeOSliMlK_1Fag4u7Q5gJg/ts
+LADBROKES TV 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT5tieBj4tSfP-OuJxLZOWg/ts
+LADBROKES TV 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafRDqaMqC_y_r2NLEvdyg2g/ts
+PADDY POWER TV 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXcrGx7SstF_FQQb5aYSaHM/ts
+PADDY POWER TV 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYnsv1w48vn1MMAfBjWupUM/ts
+PADDY POWER TV 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacfYYADAeyW8Y08eiSQlM2w/ts
+RACING.COM,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeK1EdP02r28F8GrWfzQ1JA/ts
+BET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabM9GggpbLLqxS1nHBguA14/ts
+5 SPIKE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeKWo-emlPhfKZCTfVcQnAk/ts
 
 
 •●★英国纪实★●•,#genre#
-SKY DOCUMENTARIES,http://tvpanel.one:80/den9179/611carc/548930
-SKY CRIME,http://tvpanel.one:80/den9179/611carc/548931
-SKY HISTORY,http://tvpanel.one:80/den9179/611carc/548932
-SKY HISTORY 2,http://tvpanel.one:80/den9179/611carc/548933
-SKY NATURE,http://tvpanel.one:80/den9179/611carc/548934
-ANIMAL PLANET,http://tvpanel.one:80/den9179/611carc/548945
-DISCOVERY,http://tvpanel.one:80/den9179/611carc/548935
-DISCOVERY TURBO,http://tvpanel.one:80/den9179/611carc/548936
-DISCOVERY SCIENCE,http://tvpanel.one:80/den9179/611carc/548937
-DISCOVERY HISTORY,http://tvpanel.one:80/den9179/611carc/548938
-DISCOVERY ID,http://tvpanel.one:80/den9179/611carc/548942
-NATIONAL GEOGRAPHIC,http://tvpanel.one:80/den9179/611carc/548939
-NAT GEO WILD,http://tvpanel.one:80/den9179/611carc/548940
-SMITHSONIAN CHANNEL,http://tvpanel.one:80/den9179/611carc/548947
-BLAZE,http://tvpanel.one:80/den9179/611carc/548941
-YESTERDAY,http://tvpanel.one:80/den9179/611carc/548943
-CRIME & INVESTIGATION,http://tvpanel.one:80/den9179/611carc/548944
-EDEN,http://tvpanel.one:80/den9179/611carc/548946
-PBS AMERICA,http://tvpanel.one:80/den9179/611carc/548948
-VICE,http://tvpanel.one:80/den9179/611carc/548949
+DISCOVERY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQPL6wYWYDVj4TWHCrJ8VzI/ts
+DISCOVERY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSf6t3acn09U2lmE6uaqJ3c/ts
+DISCOVERY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS20O5RABJmUlYD0S9chees/ts
+DISCOVERY +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeDwPn5PSejYYRhd2PaZY0o/ts
+DISCOVERY TURBO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVRyGauFoTDGeVFW4m6rFow/ts
+DISCOVERY TURBO +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWqCvUxRgEGuF7ti73tfkWQ/ts
+DISCOVERY SCIENCE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXqK9Uqycsx_q1CAkCcok9Q/ts
+DISCOVERY HISTORY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabgJFdoYbw-3QBneos___SY/ts
+DISCOVERY HISTORY +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY4WE3xYSbmXOgng1FKY9TI/ts
+INVESTIGATION DISCOVERY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXS9xB25uwxqDfe1n1l3xt4/ts
+INVESTIGATION DISCOVERY +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaemC8tPWi1CRpqm0Iyo8iOk/ts
+SKY DOCUMENTARIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINachedCl_IFRDPvaQLSwOFrw/ts
+SKY DOCUMENTARIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadERmhRPYaBrub0ebrDLxeE/ts
+SKY DOCUMENTARIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae9WLZqwGTSOhHPBkrrQBDI/ts
+CRIME & INVESTIGATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa0tGapQH4fMGWwH3WJQFL8/ts
+CRIME & INVESTIGATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaT2bNxLmMRUu6Ry0SgM3TGI/ts
+CRIME & INVESTIGATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWYnvUxL5toDJOm4MFIS2vU/ts
+SKY HISTORY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSWT3uJEc8evOCOilevDXqI/ts
+SKY HISTORY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadwCYI8U0pVDpJn8alSfhbM/ts
+SKY HISTORY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW4aV7_lf6QhviCauRC5L_U/ts
+SKY HISTORY 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaEcZmIEJW-zETCVh_m7OzI/ts
+SKY HISTORY 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSaN1wSylHzsJq7GtFNZzng/ts
+SKY HISTORY 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTbstEJOnB7619vfXJQD__w/ts
+SKY NATURE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacXOv_wBw1XR2XZamVEQR2s/ts
+SKY NATURE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ5Zmkl_h5mlqDh1mIbjmcA/ts
+SKY NATURE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadK6ZWv02CLX9_o2GeTbP-U/ts
+NATIONAL GEOGRAPHIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXr-1Ghx2SpHMI0dkkImd_k/ts
+NATIONAL GEOGRAPHIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRFSQiMgvgkA9dnG9Rn40AU/ts
+NATIONAL GEOGRAPHIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUID56ShVwS7JNDiTqP6Mbw/ts
+NAT GEO WILD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadVyula96irHNN9nAUcgiEc/ts
+NAT GEO WILD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWGvVq_mjMVpfPYmtmOB_Nc/ts
+NAT GEO WILD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ4lgS22t7HH4Cn77O-EbtA/ts
+YESTERDAY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaevAqQL2jNMzltRY9qiQokA/ts
+YESTERDAY +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZduWdiEetbRvErBnOIrKhA/ts
+ANIMAL PLANET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacIvmVizSh2VaZlqQfJUCXU/ts
+ANIMAL PLANET +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV490OINvWEBgWvGkEK5Ph4/ts
+EDEN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadE9_vBSRKkabCEewSK8_SU/ts
+EDEN +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQzhdQZ2-KzHdkikK4sazfY/ts
 
 
-•●★世界体育★●•,#genre#
-ASTRO SUPERSPORT 01,http://tvpanel.one:80/den9179/611carc/689877
-ASTRO SUPERSPORT 02,http://tvpanel.one:80/den9179/611carc/689878
-ASTRO SUPERSPORT 03,http://tvpanel.one:80/den9179/611carc/689879
-ASTRO SUPERSPORT 04,http://tvpanel.one:80/den9179/611carc/689880
-ELEVEN SPORTS 01,http://tvpanel.one:80/den9179/611carc/689881
-ELEVEN SPORTS 02,http://tvpanel.one:80/den9179/611carc/689882
-ELEVEN SPORTS 03,http://tvpanel.one:80/den9179/611carc/689883
-ELEVEN SPORTS 04,http://tvpanel.one:80/den9179/611carc/689884
-ELEVEN SPORTS 05,http://tvpanel.one:80/den9179/611carc/689885
-ELEVEN SPORTS 06,http://tvpanel.one:80/den9179/611carc/689886
-HUB PREMIER 01,http://tvpanel.one:80/den9179/611carc/689887
-HUB PREMIER 02,http://tvpanel.one:80/den9179/611carc/689888
-HUB PREMIER 03,http://tvpanel.one:80/den9179/611carc/689889
-HUB PREMIER 04,http://tvpanel.one:80/den9179/611carc/689890
-HUB PREMIER 05,http://tvpanel.one:80/den9179/611carc/689891
-HUB PREMIER 06,http://tvpanel.one:80/den9179/611carc/689892
-HUB PREMIER 07,http://tvpanel.one:80/den9179/611carc/689893
-HUB PREMIER 08,http://tvpanel.one:80/den9179/611carc/689894
-HUB PREMIER 09,http://tvpanel.one:80/den9179/611carc/689895
-HUB PREMIER 10,http://tvpanel.one:80/den9179/611carc/689896
-HUB PREMIER 11,http://tvpanel.one:80/den9179/611carc/689897
-NOW SPORTS 01,http://tvpanel.one:80/den9179/611carc/689910
-NOW SPORTS 02,http://tvpanel.one:80/den9179/611carc/689911
-NOW SPORTS 03,http://tvpanel.one:80/den9179/611carc/689912
-NOW SPORTS 04,http://tvpanel.one:80/den9179/611carc/689913
-NOW SPORTS 05,http://tvpanel.one:80/den9179/611carc/689914
-NOW SPORTS 06,http://tvpanel.one:80/den9179/611carc/689915
-NOW SPORTS 07,http://tvpanel.one:80/den9179/611carc/689916
-NOW SPORTS 01 [4K],http://tvpanel.one:80/den9179/611carc/689917
-NOW SPORTS 02 [4K],http://tvpanel.one:80/den9179/611carc/689918
-ARENA SPORT 01,http://tvpanel.one:80/den9179/611carc/689871
-ARENA SPORT 02,http://tvpanel.one:80/den9179/611carc/689872
-ARENA SPORT 03,http://tvpanel.one:80/den9179/611carc/689873
-ARENA SPORT 04,http://tvpanel.one:80/den9179/611carc/689874
-ARENA SPORT 05,http://tvpanel.one:80/den9179/611carc/689875
-ARENA SPORT 06,http://tvpanel.one:80/den9179/611carc/689876
-LE SPORTS 01,http://tvpanel.one:80/den9179/611carc/689898
-LE SPORTS 02,http://tvpanel.one:80/den9179/611carc/689899
-LE SPORTS 03,http://tvpanel.one:80/den9179/611carc/689900
-LE SPORTS 04,http://tvpanel.one:80/den9179/611carc/689901
-LE SPORTS 05,http://tvpanel.one:80/den9179/611carc/689902
-LE SPORTS 06,http://tvpanel.one:80/den9179/611carc/689903
-LE SPORTS 07,http://tvpanel.one:80/den9179/611carc/689904
-LE SPORTS 08,http://tvpanel.one:80/den9179/611carc/689905
-LE SPORTS 09,http://tvpanel.one:80/den9179/611carc/689906
-LE SPORTS 10,http://tvpanel.one:80/den9179/611carc/689907
-LE SPORTS 11,http://tvpanel.one:80/den9179/611carc/689908
-LE SPORTS 12,http://tvpanel.one:80/den9179/611carc/689909
-OPTUS SPORTS 01,http://tvpanel.one:80/den9179/611carc/689919
-OPTUS SPORTS 02,http://tvpanel.one:80/den9179/611carc/689920
-OPTUS SPORTS 03,http://tvpanel.one:80/den9179/611carc/689921
-OPTUS SPORTS 04,http://tvpanel.one:80/den9179/611carc/689922
-OPTUS SPORTS 05,http://tvpanel.one:80/den9179/611carc/689923
-OPTUS SPORTS 06,http://tvpanel.one:80/den9179/611carc/689924
-OPTUS SPORTS 07,http://tvpanel.one:80/den9179/611carc/689925
-OPTUS SPORTS 08,http://tvpanel.one:80/den9179/611carc/689926
-RUSH SPORTS 01,http://tvpanel.one:80/den9179/611carc/689927
-RUSH SPORTS 02,http://tvpanel.one:80/den9179/611carc/689928
-RUSH SPORTS 03,http://tvpanel.one:80/den9179/611carc/689929
-RUSH SPORTS 04,http://tvpanel.one:80/den9179/611carc/689930
-RUSH SPORTS 05,http://tvpanel.one:80/den9179/611carc/689931
-RUSH SPORTS 06,http://tvpanel.one:80/den9179/611carc/689932
-RUSH SPORTS 07,http://tvpanel.one:80/den9179/611carc/689933
-RUSH SPORTS 08,http://tvpanel.one:80/den9179/611carc/689934
-RUSH SPORTS 09,http://tvpanel.one:80/den9179/611carc/689935
-RUSH SPORTS 10,http://tvpanel.one:80/den9179/611carc/689936
-SKY SPORT BUNDESLIGA 01,http://tvpanel.one:80/den9179/611carc/689937
-SKY SPORT BUNDESLIGA 02,http://tvpanel.one:80/den9179/611carc/689938
-SKY SPORT BUNDESLIGA 03,http://tvpanel.one:80/den9179/611carc/689939
-SKY SPORT BUNDESLIGA 04,http://tvpanel.one:80/den9179/611carc/689940
-SKY SPORT BUNDESLIGA 05,http://tvpanel.one:80/den9179/611carc/689941
-SKY SPORT BUNDESLIGA 06,http://tvpanel.one:80/den9179/611carc/689942
-SKY SPORT BUNDESLIGA 07,http://tvpanel.one:80/den9179/611carc/689943
-SKY SPORT BUNDESLIGA 08,http://tvpanel.one:80/den9179/611carc/689944
-SKY SPORT BUNDESLIGA 09,http://tvpanel.one:80/den9179/611carc/689945
-SKY SPORT BUNDESLIGA 10,http://tvpanel.one:80/den9179/611carc/689946
-SKY SPORT NZ 01,http://tvpanel.one:80/den9179/611carc/689947
-SKY SPORT NZ 02,http://tvpanel.one:80/den9179/611carc/689948
-SKY SPORT NZ 03,http://tvpanel.one:80/den9179/611carc/689949
-SKY SPORT NZ 04,http://tvpanel.one:80/den9179/611carc/689950
-SKY SPORT NZ 05,http://tvpanel.one:80/den9179/611carc/689951
-SKY SPORT NZ 06,http://tvpanel.one:80/den9179/611carc/689952
-SKY SPORT NZ 07,http://tvpanel.one:80/den9179/611carc/689953
-SKY SPORT NZ 08,http://tvpanel.one:80/den9179/611carc/689954
-SKY SPORT NZ 09,http://tvpanel.one:80/den9179/611carc/689955
-SKY SPORT SELECT,http://tvpanel.one:80/den9179/611carc/689956
-SPARK SPORTS 01,http://tvpanel.one:80/den9179/611carc/689957
-SPARK SPORTS 02,http://tvpanel.one:80/den9179/611carc/689958
-SPARK SPORTS 03,http://tvpanel.one:80/den9179/611carc/689959
-SPARK SPORTS 04,http://tvpanel.one:80/den9179/611carc/689960
-SPARK SPORTS 05,http://tvpanel.one:80/den9179/611carc/689961
-SPARK SPORTS 06,http://tvpanel.one:80/den9179/611carc/689962
-SPARK SPORTS 07,http://tvpanel.one:80/den9179/611carc/689963
-SPARK SPORTS 08,http://tvpanel.one:80/den9179/611carc/689964
-SPORT KLUB 01,http://tvpanel.one:80/den9179/611carc/689965
-SPORT KLUB 02,http://tvpanel.one:80/den9179/611carc/689966
-SPORT KLUB 03,http://tvpanel.one:80/den9179/611carc/689967
-SPORT KLUB 04,http://tvpanel.one:80/den9179/611carc/689968
-SPORT KLUB 05,http://tvpanel.one:80/den9179/611carc/689969
-SPORT KLUB 06,http://tvpanel.one:80/den9179/611carc/689970
-SPORT KLUB 07 [LIVE DURING EVENTS ONLY],http://tvpanel.one:80/den9179/611carc/689971
-SPORT KLUB 08 [LIVE DURING EVENTS ONLY],http://tvpanel.one:80/den9179/611carc/689972
-SPORT KLUB 09,http://tvpanel.one:80/den9179/611carc/689973
-SPORT KLUB 10,http://tvpanel.one:80/den9179/611carc/689974
-SPORT KLUB GOLF,http://tvpanel.one:80/den9179/611carc/689975
-SPORT KLUB,http://tvpanel.one:80/den9179/611carc/689976
-SUPERSPORT GRANDSTAND,http://tvpanel.one:80/den9179/611carc/689977
-SUPERSPORT ACTION,http://tvpanel.one:80/den9179/611carc/689978
-SUPERSPORT BLITZ,http://tvpanel.one:80/den9179/611carc/689979
-SUPERSPORT CRICKET,http://tvpanel.one:80/den9179/611carc/689980
-SUPERSPORT LA LIGA,http://tvpanel.one:80/den9179/611carc/689981
-SUPERSPORT PREMIER LEAGUE,http://tvpanel.one:80/den9179/611carc/689982
-SUPERSPORT PSL,http://tvpanel.one:80/den9179/611carc/689983
-SUPERSPORT RUGBY,http://tvpanel.one:80/den9179/611carc/689984
-SUPERSPORT FOOTBALL,http://tvpanel.one:80/den9179/611carc/689985
-SUPERSPORT VARIETY 01,http://tvpanel.one:80/den9179/611carc/689986
-SUPERSPORT VARIETY 02,http://tvpanel.one:80/den9179/611carc/689987
-SUPERSPORT VARIETY 03,http://tvpanel.one:80/den9179/611carc/689988
-SUPERSPORT VARIETY 04,http://tvpanel.one:80/den9179/611carc/689989
-VIDIO SPORT 01,http://tvpanel.one:80/den9179/611carc/689990
-VIDIO SPORT 02,http://tvpanel.one:80/den9179/611carc/689991
-VIDIO SPORT 03,http://tvpanel.one:80/den9179/611carc/689992
-VIDIO SPORT 04,http://tvpanel.one:80/den9179/611carc/689993
-VIDIO SPORT 05,http://tvpanel.one:80/den9179/611carc/689994
-VIDIO SPORT 06,http://tvpanel.one:80/den9179/611carc/689995
-VIDIO SPORT 07,http://tvpanel.one:80/den9179/611carc/689996
-VIDIO SPORT 08,http://tvpanel.one:80/den9179/611carc/689997
-VIDIO SPORT 09,http://tvpanel.one:80/den9179/611carc/689998
-VIDIO SPORT 10,http://tvpanel.one:80/den9179/611carc/689999
+•●★英国影视★●•,#genre#
+SKY CINEMA ANIMATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadHTwp0ZMzpHlLnwFWkgrxM/ts
+SKY CINEMA ANIMATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUxltZxz2ixjYkmqd9qQJMY/ts
+SKY CINEMA ANIMATION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQhWUBHtBsj8DFMMKNlUy-Q/ts
+SKY CINEMA SELECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUm9EoMTTdbtfRhRhp4EcGs/ts
+SKY CINEMA SELECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa4Cbs5xsrpnTKnKv0LWjW4/ts
+SKY CINEMA SELECT,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab41-n40EWzYHf05fUUUes0/ts
+SKY CINEMA GREATS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSNd88sVdMPjtmqkqqMid5g/ts
+SKY CINEMA GREATS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadd7S9gm2-YH2PDMBTVYWF8/ts
+SKY CINEMA GREATS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQWvkPf8izGm4JASwjNcV2c/ts
+SKY CINEMA THRILLER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWkrv_ORoEolwhYv2YDNj0k/ts
+SKY CINEMA THRILLER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVMAzdP2f9no1xExbsfztrg/ts
+SKY CINEMA THRILLER,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWXeNwOc0I_ZvTAO87Ry8kc/ts
+SKY CINEMA SCI-FI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeNCBwGyl3VIdnLEhFPrJ8I/ts
+SKY CINEMA SCI-FI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVzXQuCugjJcxaBln-MQtx4/ts
+SKY CINEMA SCI-FI,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaba5ZJ8WeK4XaoUz8l8pSv8/ts
+SKY CINEMA DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINac5uORsEC1yjPHyQGsKYWWo/ts
+SKY CINEMA DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVCUPpDKVbq4YCyTSqJtrPA/ts
+SKY CINEMA DRAMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaR8FJO1ZLTC24PbIM-KyoxU/ts
+SKY CINEMA ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedfpOsp6le2s5PkgSFROH8/ts
+SKY CINEMA ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUgTnR9O_e31DyMBMxPfoE0/ts
+SKY CINEMA ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabXhEbX_XQihoT7ZfZvOMvU/ts
+SKY CINEMA COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ2FGktlPZX8i1Bte-6gusU/ts
+SKY CINEMA COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUcO3gvLBQgYJ8DxFJqUELc/ts
+SKY CINEMA COMEDY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUbgGpOlL4mUbGV9xh_8svo/ts
+SKY CINEMA FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSOJaNqVJ7znOgkbR_xwHAE/ts
+SKY CINEMA FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaRO7ukLzWxtexhSOLu_6wg/ts
+SKY CINEMA FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa3x3uPtazd32CqV9fowxVY/ts
+SKY CINEMA HITS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSzwrNObsaW4LwE5Vgxo-sk/ts
+SKY CINEMA HITS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaXKzdR3ugw6QqXsSnUan_8/ts
+SKY CINEMA HITS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU9pgSNFBBy2wZ2fZyTPvfs/ts
+SKY CINEMA PREMIERE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSCTtC_i5es7P0AMWTd3mxk/ts
+SKY CINEMA PREMIERE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWFcYiu2jZLftCjoZ5n96Yw/ts
+SKY CINEMA PREMIERE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadIf1yEJLcB_YbhS-NCwBd0/ts
+HORROR CHANNEL +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZVT0IWmy1cE-u0FS7cFN8Y/ts
+HORROR CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabfWkD-abQh3gonfubtyBzc/ts
+SONY MAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYwS46QSZuV47YElbaFWE3U/ts
+SONY TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf-pLm5wZ0jmKNO-smcEF7s/ts
+GREAT! TV +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWUBvjlMyAzh9lS8jdkk3do/ts
+GREAT! TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaY4tNvqeKipJ-bFsj3U_n0s/ts
+GREAT! CLASSIC +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYOlXWpV9c504FpO1tqvg0E/ts
+GREAT! CLASSIC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeyr4UMNz7Rxx51AkJt53Gc/ts
+GREAT! ACTION+1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabFNOPNILjO9CS_soguhfrg/ts
+GREAT! ACTION,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaSA5XSUqUC6KSn8uLxtAta0/ts
+GREAT! MOVIES +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae9UZo3xW18qX2g_MK9S2rQ/ts
+GREAT! MOVIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaW2_0eYkz3MYjOpcex_5KPU/ts
+TALKING PICTURES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVaFWCnR6c_cVR_ymaemHBo/ts
+MOVIES 24 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWc1YL3YmCb23E9Saz2veBU/ts
+MOVIES 24,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaamqlrU9gbrC5aKoqbUAeKc/ts
+TCM MOVIES +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYvK7hFPxYn1WMOW4--V4YQ/ts
+TCM MOVIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeAiwfZ5hUWSMfT-5OAXF9w/ts
+FILM4 +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUdy6_p2dTV_ckNX_gvPF8I/ts
+FILM4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYEtYXuMdDSVzOZDWVU-kjs/ts
+FILM4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZjje2XR9pIJR_92jIzcmjM/ts
+FILM4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabWYY_aX496zGCr0Xy1yXx8/ts
 
 
-
+•●★英国DISCOVERY+★●•,#genre#
+EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXazNgd0VrSVg6viR-61_kU/ts
+EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYjolLM9W-roJvwoz898IHE/ts
+DMAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafGsn0GmgPutlGuhYGmYfr8/ts
+DISCOVERY TURBO,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX1kgvFQDptDKIiVchgWer8/ts
+DISCOVERY SCIENCE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaV9mBa_GIOy2NFBiQWayVbU/ts
+DISCOVERY HISTORY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYLNdrVnhlAQzGQBKvBIkXI/ts
+DISCOVERY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadHntXF8ZlahtKgA5DcI0DY/ts
+ID,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUk5UFU-A-5UE5dTxRMk5dE/ts
+ANIMAL PLANET,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaU3PwO22ozOMb5o4FdAVzxE/ts
+TLC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQwVeKxQeFVRpM-zG6v5jKQ/ts
+REALLY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaapCXUzFqu7lgKaRYeSkxBw/ts
+QUEST RED,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaa2yYQdBGT4BiphbbgCnTfo/ts
+QUEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVvG2AZc20qXVqBKCgQy5aM/ts
+HGTV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUWpQr8359PTskBInHeUFrU/ts
+FOOD NETWORK,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadQYF4E2ZnzsoZFqRxnEbMc/ts
 
 💞巴西1,#genre#
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
