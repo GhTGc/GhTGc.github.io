@@ -3436,11 +3436,11 @@ HBO WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacSAxPCSxkchYYkb6e8fDYM/ts
 HBO FAMILY,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXw0UXWXN-aV0gLiwSGu8-4/ts
 HBO FAMILY WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZigdIIK0IiQYrdcWktNL5E/ts
 HBO SIGNATURE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab_tpqi9jENFapnw422woZY/ts
+HBO SIGNATURE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRgh93nNmgpRgggDxo6-Yi0/ts
 HBO ZONE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUtcCPYWNl3IcgDjm2KzsXM/ts
 HBO ZONE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQqof1mxm8VnC7vj_qxTt_o/ts
 HBO 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQhdLDlPvTy-0cwz-kPHhH8/ts
 HBO 2 WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRYSD9-vd3Fe1rVJhb9Fyl8/ts
-HBO SIGNATURE WEST,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRgh93nNmgpRgggDxo6-Yi0/ts
 EPIX DRIVE-IN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRCiR6cZnFVEEo6ACW30hkk/ts
 SONY MOVIES,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUMWAioihPq_H1FqbU9n_Jw/ts
 STARZ CINEMA,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXnVTeMhLIo5vSR2zYlibKw/ts
