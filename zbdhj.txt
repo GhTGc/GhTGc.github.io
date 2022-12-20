@@ -128,530 +128,6 @@ ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
 
 
-💞StarHub&NowHK,#genre#
-HubPremier 2 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348096
-HubPremier 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348097
-HubPremier 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348098
-HubPremier 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348099
-HubPremier 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348100
-HubPremier 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348101
-HubPremier 6,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348102
-HubPremier 7,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348103
-HubPremier 8,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348104
-HubPremier 9,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348105
-HubPremier 10,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348106
-HubPremier 11,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348107
-HubPremier 1,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5178
-HubPremier 2,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5179
-HubPremier 3,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5180
-HubPremier 4,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5181
-HubPremier 5,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5182
-HubPremier 6,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5183
-HubPremier 7,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5184
-HubPremier 8,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5185
-HubPremier 9,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5186
-HubPremier 10,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5187
-HubPremier 11,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/5188
-Now Sports 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/117957
-Now Sports 4K,http://ys-users.com:8080/promo5/5thpromotion/425322
-Now Sports 4K,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaS2e0nErVSUxdGnXs4S34jQ/ts
-Now Premier Sports 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaeeN7X_jwoDoA9d026mWdD0/ts
-Now Premier Sports 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTaXM-KsYeMtLcBcsBPbpBI/ts
-Now Premier Sports 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINab0BMnFTmAkxaW03-DYsNZk/ts
-Now Premier Sports 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQwNU9pHLaT4RxSQMaoXo7w/ts
-Now Premier Sports 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaURqGpZNJ2t76e-dwzHwuTM/ts
-Now Premier Sports 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVTIK_MgZA5KbfkJk8pIPhE/ts
-Now Premier Sports 8,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX6IkS0iAf2Y-QykBkeWdv8/ts
-Now Premier Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425332
-Now Premier Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425333
-Now Premier Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425334
-Now Premier Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425335
-Now Premier Sports 5,http://ys-users.com:8080/promo5/5thpromotion/425336
-Now Premier Sports 6,http://ys-users.com:8080/promo5/5thpromotion/425337
-Now Premier Sports 7,http://ys-users.com:8080/promo5/5thpromotion/425331
-Now Premier Sports 8,http://ys-users.com:8080/promo5/5thpromotion/425330
-Now Now668,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYMRLgZIBndW30Ko2JsIPek/ts
-Now Sports 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacB02qjDjPuWZO3dF-of5Wo/ts
-Now Sports 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaX-D4dHJov_1PevGmlpNWkA/ts
-Now Sports 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadFsgSQNBkCSP64fNdS8dng/ts
-Now Sports 4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadHLANB31HVruAoVt49cB5k/ts
-Now Sports 5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXZT9x4Zs75TZHN0rtqePPU/ts
-Now Sports 6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf5tJFojJj1LpHObPSwnUyw/ts
-Now Sports 7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabzoCiYKw1dGHznrVa8G_50/ts
-Now Sports 1,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4855
-Now Sports 2,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4854
-Now Sports 3,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4853
-Now Sports 4,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4852
-Now Sports 5,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4851
-Now Sports 6,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4850
-Now Sports 7,http://conceal.cyou:80/Nikuhiru/MRjw8dLKCK/4849
-Now Sports 1,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1810
-Now Sports 2,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1809
-Now Sports 3,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1808
-Now Sports 4,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1807
-Now Sports 5,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1806
-Now Sports 6,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1805
-Now Sports 7,https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/1804
-Now Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425329
-Now Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425328
-Now Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425327
-Now Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425326
-Now Sports 5,http://ys-users.com:8080/promo5/5thpromotion/425325
-Now Sports 6,http://ys-users.com:8080/promo5/5thpromotion/425324
-Now Sports 7,http://ys-users.com:8080/promo5/5thpromotion/425323
-Astro Super Sports ARENA,http://ys-users.com:8080/promo5/5thpromotion/425437
-Astro Arena 2,http://ys-users.com:8080/promo5/5thpromotion/425450
-Astro beIN Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425447
-Astro beIN Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425448
-Astro beIN Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425449
-Astro Super Sports 1,http://ys-users.com:8080/promo5/5thpromotion/425438
-Astro Super Sports 2,http://ys-users.com:8080/promo5/5thpromotion/425439
-Astro Super Sports 3,http://ys-users.com:8080/promo5/5thpromotion/425440
-Astro Super Sports 4,http://ys-users.com:8080/promo5/5thpromotion/425441
-Astro SuperSport 5,http://ys-users.com:8080/promo5/5thpromotion/425446
-Astro Super Sports eGG Network,http://ys-users.com:8080/promo5/5thpromotion/425442
-Astro Super Sports EUROSPORT,http://ys-users.com:8080/promo5/5thpromotion/425445
-
-
-💞NBA,#genre#
-NBA TV,http://ys-users.com:8080/promo5/5thpromotion/237165
-NBA TV,http://ys-users.com:8080/promo5/5thpromotion/367120
-ABC,http://ys-users.com:8080/promo5/5thpromotion/376410
-ESPN,http://ys-users.com:8080/promo5/5thpromotion/376411
-TNT,http://ys-users.com:8080/promo5/5thpromotion/376412
-Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/437389
-Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/433730
-Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/437410
-Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/433732
-Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/437409
-Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/433734
-Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/437412
-Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/433736
-Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/437402
-Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/433738
-Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/437399
-Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/433740
-Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/437407
-Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/433742
-Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/437406
-Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/433744
-Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/437390
-Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/433746
-Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/437400
-Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/433748
-Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/437403
-Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/433750
-Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/437396
-Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/433752
-Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/437413
-Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/433754
-Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/437398
-Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/433756
-Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/437397
-Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/433758
-Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/437414
-Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/433760
-Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/437395
-Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/433762
-Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/437401
-Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/433764
-New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/437392
-New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/433766
-New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/437405
-New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/433768
-Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/437391
-Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/433770
-Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/437394
-Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/433772
-Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/437408
-Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/433774
-Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/437411
-Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/433776
-Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/437404
-Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/433778
-Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/437415
-Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/433780
-San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/437386
-San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/433782
-Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/437387
-Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/433784
-Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/437388
-Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/433786
-Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/437393
-Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/433788
-NBA01:,http://ys-users.com:8080/promo5/5thpromotion/464234
-NBA02:,http://ys-users.com:8080/promo5/5thpromotion/464235
-NBA03:,http://ys-users.com:8080/promo5/5thpromotion/464236
-NBA04:,http://ys-users.com:8080/promo5/5thpromotion/464237
-NBA05:,http://ys-users.com:8080/promo5/5thpromotion/464238
-NBA06:,http://ys-users.com:8080/promo5/5thpromotion/464239
-NBA07:,http://ys-users.com:8080/promo5/5thpromotion/464240
-NBA08:,http://ys-users.com:8080/promo5/5thpromotion/464241
-NBA09:,http://ys-users.com:8080/promo5/5thpromotion/464242
-NBA10:,http://ys-users.com:8080/promo5/5thpromotion/464243
-NBA11:,http://ys-users.com:8080/promo5/5thpromotion/464244
-NBA12:,http://ys-users.com:8080/promo5/5thpromotion/464245
-NBA13:,http://ys-users.com:8080/promo5/5thpromotion/464246
-NBA14:,http://ys-users.com:8080/promo5/5thpromotion/464247
-NBA League Pass 1,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89941
-NBA League Pass 2,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89942
-NBA League Pass 3,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89943
-NBA League Pass 4,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89944
-NBA League Pass 5,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89945
-NBA League Pass 6,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89946
-NBA League Pass 7,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89947
-NBA League Pass 8,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89948
-NBA League Pass 9,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89949
-NBA League Pass 10,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89950
-NBA League Pass 11,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89951
-NBA League Pass 12,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89952
-
-💞台湾,#genre#
-中天新闻,https://epg.pm/stream/55646cf28f4427bc0704686c43ee4f92a764645767f75f6da5e407178ba6e1a3.m3u8
-中天新闻,https://epg.pm/stream/eed2da2074222063a94841b5c8348bf93384d9012e3142d25160862974c03109.m3u8
-中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian72905.m3u8
-中天新闻,http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
-寰宇新闻,https://epg.pm/stream/bb842a051c548e3b6ff18a2e689ac94bebfaf265b2b70e005bebaeab1f8443d0.m3u8
-寰宇新闻,https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
-三立iNews,https://epg.pm/stream/8531f82afc3848b36fa9de967cb19339c1c59749512383036775efed038100fe.m3u8
-中视新闻,https://epg.pm/stream/b593683c590af333097b0e5b2268576d2bdbe5cd5f735aded969ab9e1b32858b.m3u8
-民视新闻,https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8
-探索频道,https://epg.pm/stream/3e12a6f872afce77689199e83ddb94c98ba6b82c884d4038ea15f59351527316.m3u8
-探索动力,https://epg.pm/stream/67ac5da0f9ef87e73151860f0991afee53db7b0c35647852990138b004f32106.m3u8
-中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-东森 Global,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340660.ts
-东森新闻,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340661.ts
-东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-台视,http://23.237.10.66:16344
-中视,rtmp://59.124.75.138:1935/sat/tv091
-中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
-华视,rtmp://59.124.75.138:1935/sat/tv111
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
-民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民视,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视新闻,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=MA8A6605176766051767&ct=19193&tsum=37e8e3780b1b2bf198c95c2e6b3a9746
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5622100467.m3u8
-TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-TVBS欢乐台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视综合,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
-CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-CN,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-Hollywood Movies,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-美亚电影台,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-东森电影,http://jyjxy.7766.org:808/hls/58/index.m3u8
-东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-东森洋片,http://jyjxy.7766.org:808/hls/59/index.m3u8
-东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-龙华洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
-龙华偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-龙祥电影,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-龙祥电影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-星卫电影台,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-Channel V,http://175.154.201.15:5003/custom22.m3u8
-星空卫视,http://175.154.201.15:5003/custom21.m3u8
-星空卫视,http://jyjxy.7766.org:808/hls/31/index.m3u8
-星空卫视,http://120.84.96.71:808/hls/79/index.m3u8
-龙祥时代,http://jyjxy.7766.org:808/hls/38/index.m3u8
-大立電视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-三立综合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
-纬来体育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-CI,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-八大综合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-非凡新闻,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
-国家地理,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
-华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-靖天国际台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-靖天卡通台,http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-龙华经典,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-龙华偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-民视新闻,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-卫视中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-ELEVEN1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-FoxNews,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-France24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
-TLC,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-ABCNews,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-BabyTV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-BTESPN,http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
-CartoonNetwork,http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
-CBS News,http://198.16.64.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CNA,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-CNAJapan,http://198.16.64.10:8278/cna_japan/playlist.m3u8?tid=MDBD9115772291157722&ct=19225&tsum=afdf94a5d0b7efaa3e64a42a4fde7455
-CNN International,http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
-Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-HISTORY,http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
-Itv2,http://198.16.64.10:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
-MusicTV,http://198.16.64.10:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
-SkyNews,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
-SkySportsArena,http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
-天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
-AEC,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
-AOD350,http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
-ASSP1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
-BBC1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-BBC2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBCLifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-BBCWORLDNEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-BERNAMA,http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
-Bloomberg,http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
-HBOFamily,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-NATGEO,http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
-NATGEOWILD,http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-TLC,http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
-WarnerTV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=1DqYBRcTvT9fH2zTKPhb7hBErG1PqED6d2
-WWE,http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-ASTV News 1,http://news1.live14.com/stream/news1.m3u8
-Channel 5,http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
-Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-
-💞澳门&新加坡,#genre#
-星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
-新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8?zgangd
-澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
-澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
-澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
-澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
-澳门莲花,http://nettvpro.live/hls/lotustv.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-
-💞HBO&体育泰马源,#genre#
-HBO,http://line.premiumpowers.net:80/Manuel/1234567/571204
-HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115833
-HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/40763
-HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115833
-HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/40763
-Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115628
-Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115629
-Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115630
-Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115631
-Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115628
-Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115629
-Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115630
-Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115631
-ASTRO SUPERSports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115615
-ASTRO SUPERSports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115616
-ASTRO SUPERSports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115617
-ASTRO SUPERSports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115618
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115757
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115758
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115759
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115760
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115762
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115508
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115509
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115510
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115511
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115512
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115513
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115768
-Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115515
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115516
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115771
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115518
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115520
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115521
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115522
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115523
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115524
-Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115525
-MY Astro Supersport 4K 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348094
-MY Astro Supersport 4K 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348095
-HubPremier 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348096
-HubPremier 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348097
-HubPremier 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348098
-HubPremier 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348099
-HubPremier 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348100
-HubPremier 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348101
-HubPremier 6,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348102
-HubPremier 7,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348103
-HubPremier 8,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348104
-HubPremier 9,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348105
-HubPremier 10,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348106
-HubPremier 11,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348107
-Fubo Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120187
-Fubo Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120186
-Fubo Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120185
-Fubo Sports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120184
-Fubo Sports 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120183
-HK Now Sports 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/117957
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94453
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94452
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94451
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94450
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94449
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94448
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94447
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94446
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94445
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94444
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94443
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94442
-Flow Sports 1 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28096
-Flow Sports 2 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28095
-SuperSport Variety 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39411
-SuperSport Variety 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39410
-SuperSport Variety 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39415
-SuperSport Variety 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39414
-SuperSport Action,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39520
-SuperSport Blitz,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39519
-SuperSport Cricket,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39417
-SuperSport Football,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39413
-SuperSport Grandstand,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39409
-SuperSport LaLiga,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39406
-SuperSport Motorsport,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39412
-SuperSport Premier League,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39408
-SuperSport PSL,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39407
-SuperSport Rugby,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39416
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115758
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115759
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115760
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115762
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115508
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115509
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115510
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115511
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115512
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115513
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115768
-Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115515
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115516
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115771
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115518
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115520
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115521
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115522
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115523
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115524
-Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115525
-ASTRO SUPERSports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115615
-ASTRO SUPERSports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115616
-ASTRO SUPERSports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115617
-ASTRO SUPERSports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115618
-MY Astro Supersport 4K 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348094
-MY Astro Supersport 4K 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348095
-HubPremier 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348096
-HubPremier 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348097
-HubPremier 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348098
-HubPremier 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348099
-HubPremier 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348100
-HubPremier 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348101
-HubPremier 6,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348102
-HubPremier 7,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348103
-HubPremier 8,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348104
-HubPremier 9,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348105
-HubPremier 10,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348106
-HubPremier 11,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348107
-Fubo Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120187
-Fubo Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120186
-Fubo Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120185
-Fubo Sports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120184
-Fubo Sports 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120183
-HK Now Sports 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/117957
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94453
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94452
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94451
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94450
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94449
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94448
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94447
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94446
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94445
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94444
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94443
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94442
-Flow Sports 1 [Premier League],http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/28096
-SuperSport Variety 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39411
-SuperSport Variety 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39410
-SuperSport Variety 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39415
-SuperSport Action,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39520
-SuperSport Blitz,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39519
-SuperSport Cricket,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39417
-SuperSport Football,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39413
-SuperSport Grandstand,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39409
-SuperSport LaLiga,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39406
-SuperSport Motorsport,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39412
-SuperSport Premier League,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39408
-SuperSport PSL,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39407
-SuperSport Rugby,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39416
-
-
 💞酒店源,#genre#
 凤凰卫视中文,http://fyld.eatuo.com:9901/tsfile/live/1037_1.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
@@ -1082,6 +558,7 @@ CCTV-4中文国际[1920x1080],http://39.134.115.163:8080/PLTV/88888910/224/32212
 CCTV-4中文国际[1920x1080],http://111.59.189.40:8445/tsfile/live/1003_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV-4中文国际[1920x1080],http://183.196.25.171:808/hls/4/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV-4中文国际[1920x1080],http://39.135.138.59:18890/TVOD/88888910/224/3221225621/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%ABCCTV4
+CCTV-5体育[1920x1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV-5体育[1920x1080],http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5体育[1920x1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5体育[1920x1080],http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
@@ -1649,6 +1126,7 @@ CCTV3[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 CCTV4[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 CCTV4欧洲[1920x1080],http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227093/index.m3u8
 CCTV4美洲[1920x1080],http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/10000100000000060000000000890996_0.smil/01.m3u8?fmt=ts2hls
+CCTV5[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 CCTV5+[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
 CCTV6[1920x1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8
@@ -2592,47 +2070,10 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
 
-🚗🚒咪咕,#genre#
-周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
-古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-周星驰影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-成龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
-张国荣影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-刘德华影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
-金庸频道,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-盗墓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-CCTV6电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
-CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
-经典影视速看,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
-试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-高能烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-杨幂影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
-刘亦菲影视展播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
-咪咕云上电影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-咪咕暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-军旅剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-古天乐影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
-热剧联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
-喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-僵尸剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-深夜失眠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
-红色谍战剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
-经典贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-追剧少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
-
 🐳斗鱼(ljk播放器),#genre#
 野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=5994a5ed03abcfc06dec876c134a6cf4&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cb0efc2d84bb8e8fda1c6f8a6c91d715f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3/9808720rARBuGkMZ.flv?wsAuth=6880862e1b0daf0339a1cd577c4fdae7&token=cpn-androidmpro-0-9808720-ed0be6aaacaf113965b20873665f65cf41645542f1bc5ac2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 周末电影院[1920x1080],http://epg.112114.xyz/douyu/3637726
 周末电影院2,http://epg.112114.xyz/douyu/3637765
@@ -3035,6 +2476,327 @@ PP看动漫[1280x720],http://epg.112114.xyz/douyu/9837291
 足球超级猎食者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
 足球超级猎食者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 
+💞新加坡,#genre#
+BBC LIFESTYLE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941668
+BBC EARTH,http://line.premiumpowers.net:80/Dave2022/Dave2022/941667
+CRIME + INVESTIGATION,http://line.premiumpowers.net:80/Dave2022/Dave2022/941666
+TIONAL GEOGRAPHIC,http://line.premiumpowers.net:80/Dave2022/Dave2022/941665
+T GEO WILD,http://line.premiumpowers.net:80/Dave2022/Dave2022/941664
+LOVETURE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941663
+HISTORY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941661
+AXN,http://line.premiumpowers.net:80/Dave2022/Dave2022/941660
+CINEMAX,http://line.premiumpowers.net:80/Dave2022/Dave2022/941659
+CINEMAWORLD,http://line.premiumpowers.net:80/Dave2022/Dave2022/941658
+CURIOSITYSTREAM,http://line.premiumpowers.net:80/Dave2022/Dave2022/941657
+DREAMWORKS CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941656
+MAKEFUL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941655
+PARAMOUNT NETWORK,http://line.premiumpowers.net:80/Dave2022/Dave2022/941654
+SMITHSONIAN CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941653
+WARNERTV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941652
+HUB VVDRAMA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941651
+HUB E CITY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941650
+HUB E CITY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941649
+HBO,http://line.premiumpowers.net:80/Dave2022/Dave2022/941648
+HBO HITS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941647
+HBO FAMILY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941646
+HBO SIGNATURE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941645
+BLUE ANT ENTERTAINMENT,http://line.premiumpowers.net:80/Dave2022/Dave2022/941643
+PREVIEW CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941642
+CCM,http://line.premiumpowers.net:80/Dave2022/Dave2022/941639
+CTI TV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941638
+DRAGON TV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941637
+SEA TODAY INDONESIA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941636
+GEM,http://line.premiumpowers.net:80/Dave2022/Dave2022/941635
+HUB VVDRAMA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941634
+HUB E CITY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941633
+HUB E CITY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941632
+KBS WORLD,http://line.premiumpowers.net:80/Dave2022/Dave2022/941631
+NOW JELLI,http://line.premiumpowers.net:80/Dave2022/Dave2022/941630
+OH!K,http://line.premiumpowers.net:80/Dave2022/Dave2022/941629
+ONE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941628
+PHOENIX INFONEWS CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941627
+PHOENIX CHINESE CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941626
+SCM,http://line.premiumpowers.net:80/Dave2022/Dave2022/941625
+STAR CHINESE CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941624
+TVN,http://line.premiumpowers.net:80/Dave2022/Dave2022/941623
+TVBS-NEWS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941622
+TVBS ASIA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941621
+TVB XING HE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941620
+TVB JADE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941619
+CELESTIAL MOVIES,http://line.premiumpowers.net:80/Dave2022/Dave2022/941618
+CHANNEL U,http://line.premiumpowers.net:80/Dave2022/Dave2022/941617
+CHANNEL 8,http://line.premiumpowers.net:80/Dave2022/Dave2022/941616
+CHANNEL 5,http://line.premiumpowers.net:80/Dave2022/Dave2022/941615
+ARIRANG TV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941614
+HUB SPORTS 1,http://line.premiumpowers.net:80/Dave2022/Dave2022/941573
+HUB SPORTS 2,http://line.premiumpowers.net:80/Dave2022/Dave2022/941572
+HUB SPORTS 3,http://line.premiumpowers.net:80/Dave2022/Dave2022/941571
+PREMIER SPORTS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941570
+BEIN SPORTS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941569
+BEIN SPORTS 2,http://line.premiumpowers.net:80/Dave2022/Dave2022/941568
+BEIN SPORTS 3,http://line.premiumpowers.net:80/Dave2022/Dave2022/941567
+BEIN SPORTS 4,http://line.premiumpowers.net:80/Dave2022/Dave2022/941566
+BEIN SPORTS 5,http://line.premiumpowers.net:80/Dave2022/Dave2022/941565
+SPOTV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941564
+SPOTV2,http://line.premiumpowers.net:80/Dave2022/Dave2022/941563
+NBA TV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941562
+BBC WORLD NEWS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941693
+BLOOMBERG TELEVISION,http://line.premiumpowers.net:80/Dave2022/Dave2022/941692
+CGTN,http://line.premiumpowers.net:80/Dave2022/Dave2022/941691
+CNN,http://line.premiumpowers.net:80/Dave2022/Dave2022/941690
+CNBC,http://line.premiumpowers.net:80/Dave2022/Dave2022/941689
+CNA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941688
+EURONEWS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941686
+FOX NEWS CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/941685
+SKY NEWS,http://line.premiumpowers.net:80/Dave2022/Dave2022/941684
+TV5MONDE,http://line.premiumpowers.net:80/Dave2022/Dave2022/941683
+ABC AUSTRALIA,http://line.premiumpowers.net:80/Dave2022/Dave2022/941682
+RUSSIA TODAY,http://line.premiumpowers.net:80/Dave2022/Dave2022/941681
+LIVE+,http://line.premiumpowers.net:80/Dave2022/Dave2022/941680
+LIVE 2,http://line.premiumpowers.net:80/Dave2022/Dave2022/941679
+LIVE 1,http://line.premiumpowers.net:80/Dave2022/Dave2022/941678
+FASHIONTV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941677
+ANIMAX,http://line.premiumpowers.net:80/Dave2022/Dave2022/941676
+BABY FIRST TV,http://line.premiumpowers.net:80/Dave2022/Dave2022/941675
+BOOMERANG,http://line.premiumpowers.net:80/Dave2022/Dave2022/941674
+CARTOON NETWORK ,http://line.premiumpowers.net:80/Dave2022/Dave2022/941673
+CBEEBIES,http://line.premiumpowers.net:80/Dave2022/Dave2022/941672
+NICKELODEON,http://line.premiumpowers.net:80/Dave2022/Dave2022/941671
+NICK JR,http://line.premiumpowers.net:80/Dave2022/Dave2022/941670
+LIFETIME,http://line.premiumpowers.net:80/Dave2022/Dave2022/941669
+
+💞马来西亚,#genre#
+TVN MOVIES [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571261
+TVN [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571260
+HITS [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571252
+HBO [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571204
+HISTORY [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571201
+HITS MOVIES [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571200
+iQIYI [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571198
+TVB CLASSIC [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571197
+KIX [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571196
+KPLUS [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571195
+Oh!K [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571194
+ONE [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571193
+QUAN JIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571192
+SHUANG XING [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571191
+TVB E-NEWS [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571188
+TVB JADE [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571187
+TVB XING HE [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571186
+TVBS ASIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571185
+WWE NETWORK [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571184
+CELESTIAL CLASSIC MOVIES [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571182
+DISCOVERY ASIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571181
+FOOD NETWORK [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571179
+ASIAN FOOD CHANNEL,http://line.premiumpowers.net:80/Dave2022/Dave2022/534440
+WARNA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571231
+XIAO TAI YANG [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571230
+ANIMAL PLANET [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571227
+AOD 351 [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571226
+AOD 352 [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571225
+AOD 353 [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571229
+AOD 355 [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571223
+AXN [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571222
+CELESTIAL MOVIES [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571218
+CRIME INVESTIGATION [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571215
+CINEMAX [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571214
+CLASSIC MOVIES [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571213
+CTI ASIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571212
+DISCOVERY SCI [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571211
+DISCOVERY [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571210
+DISNEY CHANNEL [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571209
+DISNEY JUNIOR [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571208
+DMAX [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571206
+eGG NETWORK [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571205
+CNA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571251
+SUPERSPORTS 1 [SP],http://line.premiumpowers.net:80/Dave2022/Dave2022/571245
+SUPERSPORTS 2 [SP],http://line.premiumpowers.net:80/Dave2022/Dave2022/571248
+SUPERSPORTS 3 [SP],http://line.premiumpowers.net:80/Dave2022/Dave2022/571247
+SUPERSPORTS 4 [SP],http://line.premiumpowers.net:80/Dave2022/Dave2022/571246
+CRICKET [SP],http://line.premiumpowers.net:80/Dave2022/Dave2022/571244
+AWANI [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571243
+BOLLYONE [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571242
+CERIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571241
+URA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571239
+OASIS [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571238
+PRIMA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571237
+RIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571236
+STAR VIJAY APAC [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571235
+VINMEEN [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571232
+AEC [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571228
+CGTN [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571216
+HELLO [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571203
+HGTV [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571202
+TLC [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571189
+SUN TV APAC [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571190
+BERNAMA NEWS [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571307
+NICKELODEON [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571283
+SALAAM [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571276
+SONY SETMAX APAC [H],http://line.premiumpowers.net:80/Dave2022/Dave2022/571271
+AURA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571257
+RANIA [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571256
+DRAMA SANGAT [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571255
+RUGBY PASS TV [ASTRO],http://line.premiumpowers.net:80/Dave2022/Dave2022/571253
+
+💞HBO&体育泰马源,#genre#
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/571204
+HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115833
+HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/40763
+HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115833
+HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/40763
+Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115628
+Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115629
+Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115630
+Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115631
+Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115628
+Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115629
+Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115630
+Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115631
+ASTRO SUPERSports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115615
+ASTRO SUPERSports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115616
+ASTRO SUPERSports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115617
+ASTRO SUPERSports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115618
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115757
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115758
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115759
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115760
+Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115762
+Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115508
+Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115509
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115510
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115511
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115512
+Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115513
+Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115768
+Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115515
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115516
+Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115771
+Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115518
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115520
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115521
+Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115522
+Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115523
+Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115524
+Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115525
+MY Astro Supersport 4K 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348094
+MY Astro Supersport 4K 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348095
+HubPremier 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348096
+HubPremier 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348097
+HubPremier 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348098
+HubPremier 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348099
+HubPremier 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348100
+HubPremier 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348101
+HubPremier 6,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348102
+HubPremier 7,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348103
+HubPremier 8,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348104
+HubPremier 9,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348105
+HubPremier 10,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348106
+HubPremier 11,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348107
+Fubo Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120187
+Fubo Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120186
+Fubo Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120185
+Fubo Sports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120184
+Fubo Sports 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120183
+HK Now Sports 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/117957
+beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94453
+beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94452
+beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94451
+beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94450
+beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94449
+beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94448
+beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94447
+beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94446
+beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94445
+beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94444
+beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94443
+beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94442
+Flow Sports 1 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28096
+Flow Sports 2 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28095
+SuperSport Variety 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39411
+SuperSport Variety 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39410
+SuperSport Variety 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39415
+SuperSport Variety 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39414
+SuperSport Action,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39520
+SuperSport Blitz,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39519
+SuperSport Cricket,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39417
+SuperSport Football,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39413
+SuperSport Grandstand,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39409
+SuperSport LaLiga,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39406
+SuperSport Motorsport,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39412
+SuperSport Premier League,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39408
+SuperSport PSL,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39407
+SuperSport Rugby,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39416
+Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115758
+Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115759
+Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115760
+Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115762
+Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115508
+Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115509
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115510
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115511
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115512
+Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115513
+Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115768
+Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115515
+Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115516
+Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115771
+Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115518
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115520
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115521
+Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115522
+Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115523
+Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115524
+Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115525
+ASTRO SUPERSports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115615
+ASTRO SUPERSports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115616
+ASTRO SUPERSports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115617
+ASTRO SUPERSports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115618
+MY Astro Supersport 4K 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348094
+MY Astro Supersport 4K 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348095
+HubPremier 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348096
+HubPremier 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348097
+HubPremier 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348098
+HubPremier 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348099
+HubPremier 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348100
+HubPremier 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348101
+HubPremier 6,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348102
+HubPremier 7,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348103
+HubPremier 8,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348104
+HubPremier 9,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348105
+HubPremier 10,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348106
+HubPremier 11,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348107
+Fubo Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120187
+Fubo Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120186
+Fubo Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120185
+Fubo Sports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120184
+Fubo Sports 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120183
+HK Now Sports 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/117957
+beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94453
+beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94452
+beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94451
+beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94450
+beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94449
+beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94448
+beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94447
+beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94446
+beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94445
+beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94444
+beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94443
+beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94442
+Flow Sports 1 [Premier League],http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/28096
+SuperSport Variety 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39411
+SuperSport Variety 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39410
+SuperSport Variety 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39415
+SuperSport Action,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39520
+SuperSport Blitz,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39519
+SuperSport Cricket,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39417
+SuperSport Football,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39413
+SuperSport Grandstand,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39409
+SuperSport LaLiga,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39406
+SuperSport Motorsport,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39412
+SuperSport Premier League,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39408
+SuperSport PSL,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39407
+SuperSport Rugby,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39416
 
 🎎日本频道,#genre#
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -3213,6 +2975,98 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
+💞NBA,#genre#
+NBA TV,http://ys-users.com:8080/promo5/5thpromotion/237165
+NBA TV,http://ys-users.com:8080/promo5/5thpromotion/367120
+ABC,http://ys-users.com:8080/promo5/5thpromotion/376410
+ESPN,http://ys-users.com:8080/promo5/5thpromotion/376411
+TNT,http://ys-users.com:8080/promo5/5thpromotion/376412
+Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/437389
+Atlanta Hawks,http://ys-users.com:8080/promo5/5thpromotion/433730
+Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/437410
+Boston Celtics,http://ys-users.com:8080/promo5/5thpromotion/433732
+Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/437409
+Brooklyn Nets,http://ys-users.com:8080/promo5/5thpromotion/433734
+Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/437412
+Charlotte Hornets,http://ys-users.com:8080/promo5/5thpromotion/433736
+Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/437402
+Chicago Bulls,http://ys-users.com:8080/promo5/5thpromotion/433738
+Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/437399
+Cleveland Cavaliers,http://ys-users.com:8080/promo5/5thpromotion/433740
+Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/437407
+Dallas Mavericks,http://ys-users.com:8080/promo5/5thpromotion/433742
+Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/437406
+Denver Nuggets,http://ys-users.com:8080/promo5/5thpromotion/433744
+Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/437390
+Detroit Pistons,http://ys-users.com:8080/promo5/5thpromotion/433746
+Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/437400
+Golden State Warriors,http://ys-users.com:8080/promo5/5thpromotion/433748
+Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/437403
+Houston Rockets,http://ys-users.com:8080/promo5/5thpromotion/433750
+Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/437396
+Indiana Pacers,http://ys-users.com:8080/promo5/5thpromotion/433752
+Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/437413
+Los Angeles Clippers,http://ys-users.com:8080/promo5/5thpromotion/433754
+Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/437398
+Los Angeles Lakers,http://ys-users.com:8080/promo5/5thpromotion/433756
+Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/437397
+Memphis Grizzlies,http://ys-users.com:8080/promo5/5thpromotion/433758
+Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/437414
+Miami Heat,http://ys-users.com:8080/promo5/5thpromotion/433760
+Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/437395
+Milwaukee Bucks,http://ys-users.com:8080/promo5/5thpromotion/433762
+Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/437401
+Minnesota Timberwolves,http://ys-users.com:8080/promo5/5thpromotion/433764
+New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/437392
+New Orleans Pelicans,http://ys-users.com:8080/promo5/5thpromotion/433766
+New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/437405
+New York Knicks,http://ys-users.com:8080/promo5/5thpromotion/433768
+Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/437391
+Oklahoma City Thunder,http://ys-users.com:8080/promo5/5thpromotion/433770
+Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/437394
+Orlando Magic,http://ys-users.com:8080/promo5/5thpromotion/433772
+Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/437408
+Philadelphia 76ers,http://ys-users.com:8080/promo5/5thpromotion/433774
+Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/437411
+Phoenix Suns,http://ys-users.com:8080/promo5/5thpromotion/433776
+Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/437404
+Portland Trail Blazers,http://ys-users.com:8080/promo5/5thpromotion/433778
+Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/437415
+Sacramento Kings,http://ys-users.com:8080/promo5/5thpromotion/433780
+San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/437386
+San Antonio Spurs,http://ys-users.com:8080/promo5/5thpromotion/433782
+Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/437387
+Toronto Raptors,http://ys-users.com:8080/promo5/5thpromotion/433784
+Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/437388
+Utah Jazz,http://ys-users.com:8080/promo5/5thpromotion/433786
+Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/437393
+Washington Wizards,http://ys-users.com:8080/promo5/5thpromotion/433788
+NBA01:,http://ys-users.com:8080/promo5/5thpromotion/464234
+NBA02:,http://ys-users.com:8080/promo5/5thpromotion/464235
+NBA03:,http://ys-users.com:8080/promo5/5thpromotion/464236
+NBA04:,http://ys-users.com:8080/promo5/5thpromotion/464237
+NBA05:,http://ys-users.com:8080/promo5/5thpromotion/464238
+NBA06:,http://ys-users.com:8080/promo5/5thpromotion/464239
+NBA07:,http://ys-users.com:8080/promo5/5thpromotion/464240
+NBA08:,http://ys-users.com:8080/promo5/5thpromotion/464241
+NBA09:,http://ys-users.com:8080/promo5/5thpromotion/464242
+NBA10:,http://ys-users.com:8080/promo5/5thpromotion/464243
+NBA11:,http://ys-users.com:8080/promo5/5thpromotion/464244
+NBA12:,http://ys-users.com:8080/promo5/5thpromotion/464245
+NBA13:,http://ys-users.com:8080/promo5/5thpromotion/464246
+NBA14:,http://ys-users.com:8080/promo5/5thpromotion/464247
+NBA League Pass 1,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89941
+NBA League Pass 2,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89942
+NBA League Pass 3,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89943
+NBA League Pass 4,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89944
+NBA League Pass 5,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89945
+NBA League Pass 6,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89946
+NBA League Pass 7,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89947
+NBA League Pass 8,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89948
+NBA League Pass 9,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89949
+NBA League Pass 10,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89950
+NBA League Pass 11,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89951
+NBA League Pass 12,http://letmein.fun:8080/BekimPanxha/tITr4nwWLp/89952
 
 🐾🦚红牛频道,#genre#
 红牛TV,http://sinotv-la.com:80/88486A95D3AA205/A1g337Ozhe/43306
