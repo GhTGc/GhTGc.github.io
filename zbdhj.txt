@@ -2913,8 +2913,8 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
-TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/237165
-TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/367120
+NBA TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/237165
+NBA TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/367120
 ABC,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376410
 ESPN,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376411
 TNT,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376412
