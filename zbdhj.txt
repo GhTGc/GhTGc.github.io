@@ -3630,6 +3630,237 @@ Astro Super Sports 3,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/
 Astro Super Sports 4,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/485567
 Astro Super Sports 5,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/485569
 
+💞西欧体育,#genre#
+UK:Sky Sports News,http://54.36.63.52:7646/tv73/xx280522/530
+UK:Sky Sports Premier League,http://54.36.63.52:7646/tv73/xx280522/531
+UK:Sky Sports Arena,http://54.36.63.52:7646/tv73/xx280522/532
+UK:Sky Sports Action,http://54.36.63.52:7646/tv73/xx280522/533
+UK:Sky Sports Main Event,http://54.36.63.52:7646/tv73/xx280522/534
+UK:Sky Sports Football,http://54.36.63.52:7646/tv73/xx280522/535
+UK:Sky Sports Golf,http://54.36.63.52:7646/tv73/xx280522/536
+UK:Sky Sports Mix,http://54.36.63.52:7646/tv73/xx280522/537
+UK:Sky Sports F1,http://54.36.63.52:7646/tv73/xx280522/538
+UK:Sky Sports Cricket,http://54.36.63.52:7646/tv73/xx280522/539
+UK:BT Sport ESPN,http://54.36.63.52:7646/tv73/xx280522/540
+UK:BT Sport 1,http://54.36.63.52:7646/tv73/xx280522/541
+UK:BT Sport 2,http://54.36.63.52:7646/tv73/xx280522/542
+UK:Boxnation,http://54.36.63.52:7646/tv73/xx280522/4734
+UK:CHELSEA TV,http://54.36.63.52:7646/tv73/xx280522/4735
+UK:Liverpool TV,http://54.36.63.52:7646/tv73/xx280522/4736
+UK:Manchester United TV,http://54.36.63.52:7646/tv73/xx280522/4737
+IT:Sky Sport 24,http://54.36.63.52:7646/tv73/xx280522/338
+IT:Sky Sport Calcio,http://54.36.63.52:7646/tv73/xx280522/339
+IT:Sky Sport Uno,http://54.36.63.52:7646/tv73/xx280522/340
+IT:Sky Sport Arena,http://54.36.63.52:7646/tv73/xx280522/349
+IT:Sky Sport F1,http://54.36.63.52:7646/tv73/xx280522/350
+IT:Sky Sport Football,http://54.36.63.52:7646/tv73/xx280522/351
+IT:Sky Sport MotoGP,http://54.36.63.52:7646/tv73/xx280522/352
+IT:Sky Sport NBA,http://54.36.63.52:7646/tv73/xx280522/353
+IT:Sky Calcio 1,http://54.36.63.52:7646/tv73/xx280522/4826
+IT:Sky Calcio 2,http://54.36.63.52:7646/tv73/xx280522/4827
+IT:Sky Calcio 3,http://54.36.63.52:7646/tv73/xx280522/4828
+IT:Sky Calcio 4,http://54.36.63.52:7646/tv73/xx280522/4829
+IT:Infinity 1,http://54.36.63.52:7646/tv73/xx280522/354
+IT:Infinity 2,http://54.36.63.52:7646/tv73/xx280522/355
+IT:Infinity 3,http://54.36.63.52:7646/tv73/xx280522/356
+IT:Super Tennis,http://54.36.63.52:7646/tv73/xx280522/1074
+IT:Rai Sport  ,http://54.36.63.52:7646/tv73/xx280522/346
+IT:Zelig Sport,http://54.36.63.52:7646/tv73/xx280522/345
+IT:Motor Trend,http://54.36.63.52:7646/tv73/xx280522/341
+IT:Sport Italia,http://54.36.63.52:7646/tv73/xx280522/347
+IT:Dazn Channel,http://54.36.63.52:7646/tv73/xx280522/1795
+IT:Sky Sport Action,http://54.36.63.52:7646/tv73/xx280522/348
+IT:EQU tv,http://54.36.63.52:7646/tv73/xx280522/4842
+IT:Extra TV LIVE Sport,http://54.36.63.52:7646/tv73/xx280522/4844
+IT:MSchannel TV,http://54.36.63.52:7646/tv73/xx280522/4846
+IT:MSmotor TV,http://54.36.63.52:7646/tv73/xx280522/4847
+DE:Sky Sport News,http://54.36.63.52:7646/tv73/xx280522/544
+DE:Sky Sport Austria 1,http://54.36.63.52:7646/tv73/xx280522/545
+DE:Sky Sport 1,http://54.36.63.52:7646/tv73/xx280522/546
+DE:Sky Sport 2,http://54.36.63.52:7646/tv73/xx280522/547
+DE:Sky Sport 3,http://54.36.63.52:7646/tv73/xx280522/548
+DE:Sky Sport 4,http://54.36.63.52:7646/tv73/xx280522/549
+DE:Sky Sport 5,http://54.36.63.52:7646/tv73/xx280522/550
+DE:Sky Sport 6,http://54.36.63.52:7646/tv73/xx280522/551
+DE:Sky Sport 7,http://54.36.63.52:7646/tv73/xx280522/552
+DE:Sky Sport 8,http://54.36.63.52:7646/tv73/xx280522/553
+DE:Sky Sport 9,http://54.36.63.52:7646/tv73/xx280522/554
+DE:Sky Sport 11,http://54.36.63.52:7646/tv73/xx280522/555
+DE:Sky Sport 10,http://54.36.63.52:7646/tv73/xx280522/556
+DE:Dazn 1,http://54.36.63.52:7646/tv73/xx280522/557
+DE:Dazn 2,http://54.36.63.52:7646/tv73/xx280522/558
+DE:Eurosport 1,http://54.36.63.52:7646/tv73/xx280522/559
+DE:Eurosport 2,http://54.36.63.52:7646/tv73/xx280522/560
+DE:Motorvision TV,http://54.36.63.52:7646/tv73/xx280522/561
+DE:Sport 1,http://54.36.63.52:7646/tv73/xx280522/562
+DE:Telekom - FC Bayern TV Full,http://54.36.63.52:7646/tv73/xx280522/563
+DE:Sky Sport Bundesliga 1,http://54.36.63.52:7646/tv73/xx280522/564
+DE:Sky Sport Bundesliga 2,http://54.36.63.52:7646/tv73/xx280522/565
+DE:Sky Sport Bundesliga 3,http://54.36.63.52:7646/tv73/xx280522/566
+DE:Sky Sport Bundesliga 4,http://54.36.63.52:7646/tv73/xx280522/567
+DE:Sky Sport Bundesliga 5,http://54.36.63.52:7646/tv73/xx280522/568
+DE:Sky Sport Bundesliga 6,http://54.36.63.52:7646/tv73/xx280522/569
+DE:Sky Sport Bundesliga 7,http://54.36.63.52:7646/tv73/xx280522/570
+DE:Sky Sport Bundesliga 8,http://54.36.63.52:7646/tv73/xx280522/571
+DE:Sky Sport Bundesliga 9,http://54.36.63.52:7646/tv73/xx280522/572
+DE:Sky Sport Bundesliga 10,http://54.36.63.52:7646/tv73/xx280522/573
+DE:TeleClub Sport 1,http://54.36.63.52:7646/tv73/xx280522/574
+DE:TeleClub Sport 2,http://54.36.63.52:7646/tv73/xx280522/575
+FR:RMC SPORT 1,http://54.36.63.52:7646/tv73/xx280522/577
+FR:RMC SPORT 2,http://54.36.63.52:7646/tv73/xx280522/578
+FR:RMC SPORT 3,http://54.36.63.52:7646/tv73/xx280522/579
+FR:BEINSPORT 1,http://54.36.63.52:7646/tv73/xx280522/580
+FR:BEINSPORT 2,http://54.36.63.52:7646/tv73/xx280522/581
+FR:BEINSPORT 3,http://54.36.63.52:7646/tv73/xx280522/582
+FR:BEINSPORT MAX 4,http://54.36.63.52:7646/tv73/xx280522/583
+FR:BEINSPORT MAX 5,http://54.36.63.52:7646/tv73/xx280522/584
+FR:BEINSPORT MAX 6,http://54.36.63.52:7646/tv73/xx280522/585
+FR:BEINSPORT MAX 9,http://54.36.63.52:7646/tv73/xx280522/586
+FR:BEINSPORT MAX 8,http://54.36.63.52:7646/tv73/xx280522/587
+FR:BEINSPORT MAX 7,http://54.36.63.52:7646/tv73/xx280522/588
+FR:BEINSPORT MAX 10,http://54.36.63.52:7646/tv73/xx280522/589
+FR:EUROSPORT 1,http://54.36.63.52:7646/tv73/xx280522/590
+FR:EUROSPORT 2,http://54.36.63.52:7646/tv73/xx280522/591
+FR:FOOT 24,http://54.36.63.52:7646/tv73/xx280522/593
+FR:CANAL SPORT,http://54.36.63.52:7646/tv73/xx280522/594
+FR:AB MOTEURS,http://54.36.63.52:7646/tv73/xx280522/595
+ES:Movistar Liga De Campeones,http://54.36.63.52:7646/tv73/xx280522/597
+ES:M.DEPORTES 1,http://54.36.63.52:7646/tv73/xx280522/598
+ES:M.DEPORTES 2,http://54.36.63.52:7646/tv73/xx280522/599
+ES:Real Madrid TV,http://54.36.63.52:7646/tv73/xx280522/600
+ES:Barca TV,http://54.36.63.52:7646/tv73/xx280522/601
+ES:Movistar F1,http://54.36.63.52:7646/tv73/xx280522/602
+ES:La LIGA 1 BAR,http://54.36.63.52:7646/tv73/xx280522/603
+ES:La LIGA 2 BAR,http://54.36.63.52:7646/tv73/xx280522/604
+ES:GOL,http://54.36.63.52:7646/tv73/xx280522/605
+PT:SPORT TV 1,http://54.36.63.52:7646/tv73/xx280522/607
+PT:SPORT TV 2,http://54.36.63.52:7646/tv73/xx280522/608
+PT:SPORT TV 3,http://54.36.63.52:7646/tv73/xx280522/609
+PT:SPORT TV 4,http://54.36.63.52:7646/tv73/xx280522/610
+PT:SPORT TV 5,http://54.36.63.52:7646/tv73/xx280522/611
+PT:Eleven Sport 1,http://54.36.63.52:7646/tv73/xx280522/612
+PT:Eleven Sport 2,http://54.36.63.52:7646/tv73/xx280522/613
+PT:Eleven Sport 3,http://54.36.63.52:7646/tv73/xx280522/614
+PT:Eleven Sport 4,http://54.36.63.52:7646/tv73/xx280522/615
+PT:Eleven Sport 5,http://54.36.63.52:7646/tv73/xx280522/616
+PT:Eleven Sport 6,http://54.36.63.52:7646/tv73/xx280522/617
+NL:Ziggo Sport Voetbal,http://54.36.63.52:7646/tv73/xx280522/678
+NL:Ziggo Sport Select,http://54.36.63.52:7646/tv73/xx280522/679
+NL:Ziggo Sport Racing,http://54.36.63.52:7646/tv73/xx280522/680
+NL:Ziggo Sport Golf,http://54.36.63.52:7646/tv73/xx280522/681
+NL:FOX Sports 1,http://54.36.63.52:7646/tv73/xx280522/682
+NL:FOX Sports 2,http://54.36.63.52:7646/tv73/xx280522/683
+NL:FOX Sports 3,http://54.36.63.52:7646/tv73/xx280522/684
+NL:FOX Sports 4,http://54.36.63.52:7646/tv73/xx280522/685
+NL:FOX Sports 5,http://54.36.63.52:7646/tv73/xx280522/686
+NL:FOX Sports 6,http://54.36.63.52:7646/tv73/xx280522/687
+
+💞东欧&阿拉伯体育,#genre#
+AR:beIN Sports News,http://54.36.63.52:7646/tv73/xx280522/660
+AR:beIN Sports 1,http://54.36.63.52:7646/tv73/xx280522/661
+AR:beIN Sports 2,http://54.36.63.52:7646/tv73/xx280522/662
+AR:beIN Sports 3,http://54.36.63.52:7646/tv73/xx280522/663
+AR:beIN Sports 4,http://54.36.63.52:7646/tv73/xx280522/664
+AR:beIN Sports 5,http://54.36.63.52:7646/tv73/xx280522/665
+AR:beIN Sports 6,http://54.36.63.52:7646/tv73/xx280522/666
+AR:beIN Sports 7,http://54.36.63.52:7646/tv73/xx280522/667
+AR:BeIN Sports Premium 1,http://54.36.63.52:7646/tv73/xx280522/668
+AR:BeIN Sports Premium 2,http://54.36.63.52:7646/tv73/xx280522/669
+AR:BeIN Sports Premium 3,http://54.36.63.52:7646/tv73/xx280522/670
+AR:BeIN Sports NBA,http://54.36.63.52:7646/tv73/xx280522/671
+TR:A Spor,http://54.36.63.52:7646/tv73/xx280522/672
+TR:TURKMEN SPORT,http://54.36.63.52:7646/tv73/xx280522/673
+TR:TRT SPOR,http://54.36.63.52:7646/tv73/xx280522/674
+TR:EUROSPORT 1,http://54.36.63.52:7646/tv73/xx280522/4670
+TR:EUROSPORT 2,http://54.36.63.52:7646/tv73/xx280522/4672
+TR:BEIN SPORTS 1,http://54.36.63.52:7646/tv73/xx280522/675
+TR:BEIN SPORTS 2,http://54.36.63.52:7646/tv73/xx280522/676
+TR:BEIN SPORTS 3,http://54.36.63.52:7646/tv73/xx280522/677
+TR:TIVIBU SPOR 1,http://54.36.63.52:7646/tv73/xx280522/4667
+TR:TIVIBU SPOR 2,http://54.36.63.52:7646/tv73/xx280522/4668
+TR:TIVIBU SPOR 3,http://54.36.63.52:7646/tv73/xx280522/4669
+AL:SuperSport 1,http://54.36.63.52:7646/tv73/xx280522/1054
+AL:SuperSport 2,http://54.36.63.52:7646/tv73/xx280522/1055
+AL:SuperSport 3,http://54.36.63.52:7646/tv73/xx280522/1056
+AL:SuperSport 4,http://54.36.63.52:7646/tv73/xx280522/1057
+AL:SuperSport 5,http://54.36.63.52:7646/tv73/xx280522/1058
+AL:SuperSport 6,http://54.36.63.52:7646/tv73/xx280522/4819
+AL:SuperSport 7,http://54.36.63.52:7646/tv73/xx280522/4820
+AL:SuperSport 1,http://54.36.63.52:7646/tv73/xx280522/201
+AL:SuperSport 2,http://54.36.63.52:7646/tv73/xx280522/202
+AL:SuperSport 3,http://54.36.63.52:7646/tv73/xx280522/203
+AL:SuperSport 4,http://54.36.63.52:7646/tv73/xx280522/204
+AL:SuperSport 5,http://54.36.63.52:7646/tv73/xx280522/205
+AL:SuperSport 6,http://54.36.63.52:7646/tv73/xx280522/206
+AL:SuperSport 1,http://54.36.63.52:7646/tv73/xx280522/208
+AL:SuperSport 2,http://54.36.63.52:7646/tv73/xx280522/209
+AL:SuperSport 3,http://54.36.63.52:7646/tv73/xx280522/210
+AL:SuperSport 4,http://54.36.63.52:7646/tv73/xx280522/211
+AL:SuperSport 5,http://54.36.63.52:7646/tv73/xx280522/212
+AL:Over Sport News,http://54.36.63.52:7646/tv73/xx280522/228
+AL:Over Sport 1,http://54.36.63.52:7646/tv73/xx280522/229
+AL:Over Sport 2,http://54.36.63.52:7646/tv73/xx280522/230
+AL:Over Sport 3,http://54.36.63.52:7646/tv73/xx280522/231
+AL:Over Sport 4,http://54.36.63.52:7646/tv73/xx280522/4682
+AL:Tring Sport News,http://54.36.63.52:7646/tv73/xx280522/220
+AL:Tring Sport 1,http://54.36.63.52:7646/tv73/xx280522/221
+AL:Tring Sport 2,http://54.36.63.52:7646/tv73/xx280522/222
+AL:Tring Sport 3,http://54.36.63.52:7646/tv73/xx280522/223
+AL:Tring Sport 4,http://54.36.63.52:7646/tv73/xx280522/224
+AL:K Sport 1,http://54.36.63.52:7646/tv73/xx280522/216
+AL:K Sport 2,http://54.36.63.52:7646/tv73/xx280522/217
+AL:K Sport 3,http://54.36.63.52:7646/tv73/xx280522/218
+AL:K Sport 4,http://54.36.63.52:7646/tv73/xx280522/219
+AL:Eurosport 1,http://54.36.63.52:7646/tv73/xx280522/214
+AL:Eurosport 2,http://54.36.63.52:7646/tv73/xx280522/215
+AL:Rtsh Sport,http://54.36.63.52:7646/tv73/xx280522/227
+GR:Nova Sport Premier League,http://54.36.63.52:7646/tv73/xx280522/4835
+GR:Nova Sport Extra 1,http://54.36.63.52:7646/tv73/xx280522/1444
+GR:Nova Sport Extra 2,http://54.36.63.52:7646/tv73/xx280522/1435
+GR:Nova Sport Prime,http://54.36.63.52:7646/tv73/xx280522/1432
+GR:Nova Sport 24,http://54.36.63.52:7646/tv73/xx280522/1429
+GR:Nova Sport 1,http://54.36.63.52:7646/tv73/xx280522/4831
+GR:Nova Sport 2,http://54.36.63.52:7646/tv73/xx280522/4832
+GR:Nova Sport 3,http://54.36.63.52:7646/tv73/xx280522/4833
+GR:Nova Sport 4,http://54.36.63.52:7646/tv73/xx280522/4834
+EX-YO:Arena Sport 1 HR,http://54.36.63.52:7646/tv73/xx280522/619
+EX-YO:Arena Sport 2 HR,http://54.36.63.52:7646/tv73/xx280522/620
+EX-YO:Arena Sport 3 HR,http://54.36.63.52:7646/tv73/xx280522/621
+EX-YO:Arena Sport 4 HR,http://54.36.63.52:7646/tv73/xx280522/622
+EX-YO:Arena Sport 5 HR,http://54.36.63.52:7646/tv73/xx280522/623
+EX-YO:Arena Sport 1 RS,http://54.36.63.52:7646/tv73/xx280522/624
+EX-YO:Arena Sport 2 RS,http://54.36.63.52:7646/tv73/xx280522/625
+EX-YO:Arena Sport 3 RS,http://54.36.63.52:7646/tv73/xx280522/626
+EX-YO:Arena Sport 4 RS,http://54.36.63.52:7646/tv73/xx280522/627
+EX-YO:Arena Sport 5 RS,http://54.36.63.52:7646/tv73/xx280522/628
+EX-YO:Sport Klub 1,http://54.36.63.52:7646/tv73/xx280522/629
+EX-YO:Sport Klub 2,http://54.36.63.52:7646/tv73/xx280522/630
+EX-YO:Sport Klub 3,http://54.36.63.52:7646/tv73/xx280522/631
+EX-YO:Sport Klub 4,http://54.36.63.52:7646/tv73/xx280522/632
+EX-YO:Sport Klub 5,http://54.36.63.52:7646/tv73/xx280522/633
+EX-YO:Sport Klub 6,http://54.36.63.52:7646/tv73/xx280522/634
+PL:Eleven Sports 1,http://54.36.63.52:7646/tv73/xx280522/636
+PL:Eleven Sports 2,http://54.36.63.52:7646/tv73/xx280522/637
+PL:Eleven Sports 3,http://54.36.63.52:7646/tv73/xx280522/638
+PL:Eleven Sports 4,http://54.36.63.52:7646/tv73/xx280522/639
+PL:Canal + Sports 1,http://54.36.63.52:7646/tv73/xx280522/640
+PL:Canal + Sports 2,http://54.36.63.52:7646/tv73/xx280522/641
+PL:Polsat SPORTS,http://54.36.63.52:7646/tv73/xx280522/642
+PL:Polsat SPORTS News,http://54.36.63.52:7646/tv73/xx280522/643
+PL:Polsat SPORTS Premium 1,http://54.36.63.52:7646/tv73/xx280522/644
+PL:Fightbox,http://54.36.63.52:7646/tv73/xx280522/645
+PL:Extreme Sports,http://54.36.63.52:7646/tv73/xx280522/646
+RO:Digi Sport 1,http://54.36.63.52:7646/tv73/xx280522/648
+RO:Digi Sport 2,http://54.36.63.52:7646/tv73/xx280522/649
+RO:Digi Sport 3,http://54.36.63.52:7646/tv73/xx280522/650
+RO:Digi Sport 4,http://54.36.63.52:7646/tv73/xx280522/651
+RO:Telekom Sport 1,http://54.36.63.52:7646/tv73/xx280522/652
+RO:Telekom Sport 2,http://54.36.63.52:7646/tv73/xx280522/653
+RO:Telekom Sport 3,http://54.36.63.52:7646/tv73/xx280522/654
+RO:Telekom Sport 4,http://54.36.63.52:7646/tv73/xx280522/655
+RO:Eurosport 1,http://54.36.63.52:7646/tv73/xx280522/656
+RO:Eurosport 2,http://54.36.63.52:7646/tv73/xx280522/657
+
 💞巴西1,#genre#
 Brasil 2002: Os Bastidores do Penta (2022),http://meumd.com:80/movie/Denise01/denise001/208554.mp4
 Brasil 2002: Os Bastidores do Penta Nacional,http://meumd.com:80/movie/Denise01/denise001/208553.mp4
