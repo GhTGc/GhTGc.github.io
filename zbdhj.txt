@@ -85,6 +85,10 @@
 凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
 凤凰香港,http://jyjxy.7766.org:808/hls/34/index.m3u8
 凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 香港電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
@@ -98,10 +102,12 @@
 無綫新聞台,http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews7294=124.m3u8
 無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 有线直播新闻,https://api.leonardpark.dev/live/icable/110
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340594.ts
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
+J2台,http://r.jdshipin.com/Nr5jq
 J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台 华丽,http://98.142.138.122:1636/zhiboyuandakaTV/tvbhuali1723956.m3u8
 翡翠台 Jade,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
@@ -123,9 +129,8 @@ TVB J1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340600.ts
 TVB J1,http://dmtn.tv:8080/6BeenqFE7E/rfhUrbDCSB/340639.ts
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+
+
 
 💞港台杂源,#genre#
 TVB新闻台,http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
