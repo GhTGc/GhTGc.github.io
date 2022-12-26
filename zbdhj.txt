@@ -3978,11 +3978,11 @@ HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/60978
 HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/6109
 HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/60977
 HBO FAMILY,http://propdsrv.com:80/hiu67his/z4rtomtl/4364
-Cine Sky³ 1,http://propdsrv.com:80/hiu67his/z4rtomtl/59967
-Cine Sky³ 2,http://propdsrv.com:80/hiu67his/z4rtomtl/59966
-Cine Sky³ 3,http://propdsrv.com:80/hiu67his/z4rtomtl/59968
-Cine Sky³ 4,http://propdsrv.com:80/hiu67his/z4rtomtl/59969
-Cine Sky³ 5,http://propdsrv.com:80/hiu67his/z4rtomtl/59970
+CineSky 1,http://propdsrv.com:80/hiu67his/z4rtomtl/59967
+CineSky 2,http://propdsrv.com:80/hiu67his/z4rtomtl/59966
+CineSky 3,http://propdsrv.com:80/hiu67his/z4rtomtl/59968
+CineSky 4,http://propdsrv.com:80/hiu67his/z4rtomtl/59969
+CineSky 5,http://propdsrv.com:80/hiu67his/z4rtomtl/59970
 Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/10993
 Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/61198
 Cinemax,http://propdsrv.com:80/hiu67his/z4rtomtl/7802
@@ -3997,13 +3997,13 @@ Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97168
 Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97169
 Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/6142
 Animal Planet,http://propdsrv.com:80/hiu67his/z4rtomtl/97170
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113087
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113085
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113086
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113084
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113083
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113082
-Natgeo,http://propdsrv.com:80/hiu67his/z4rtomtl/113081
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113087
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113085
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113086
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113084
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113083
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113082
+NATGEO,http://propdsrv.com:80/hiu67his/z4rtomtl/113081
 Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/97172
 Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/69150
 Discovery Channel,http://propdsrv.com:80/hiu67his/z4rtomtl/39331
@@ -4057,6 +4057,16 @@ HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/13211
 HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/6104
 HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/97247
 HISTORY,http://propdsrv.com:80/hiu67his/z4rtomtl/4314
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97244
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/69152
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/61239
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/13187
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97245
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/6111
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80171
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97246
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/4367
+H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80170
 ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/75488
 ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/94106
 ARTE 1,http://propdsrv.com:80/hiu67his/z4rtomtl/75487
@@ -4189,16 +4199,6 @@ GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97551
 GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97006
 GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97552
 GNT,http://propdsrv.com:80/hiu67his/z4rtomtl/97005
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97244
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/69152
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/61239
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/13187
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97245
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/6111
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80171
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/97246
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/4367
-H2,http://propdsrv.com:80/hiu67his/z4rtomtl/80170
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97544
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/71200
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/13208
@@ -4206,11 +4206,6 @@ HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97545
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/7862
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/97546
 HGTV,http://propdsrv.com:80/hiu67his/z4rtomtl/10236
-Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/100332
-Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/110375
-Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97766
-Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97281
-Jovem Pan News,http://propdsrv.com:80/hiu67his/z4rtomtl/97765
 Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/97640
 Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/69157
 Lifetime,http://propdsrv.com:80/hiu67his/z4rtomtl/11540
@@ -4728,7 +4723,7 @@ E!,http://uva.bccdn.xyz:80/526073711396/396039998666/471
 FILM & ART,http://uva.bccdn.xyz:80/526073711396/396039998666/855
 FILM & ART,http://uva.bccdn.xyz:80/526073711396/396039998666/125
 FILM & ART,http://uva.bccdn.xyz:80/526073711396/396039998666/478
-FOOD  NETWORK,http://uva.bccdn.xyz:80/526073711396/396039998666/863
+FOOD NETWORK,http://uva.bccdn.xyz:80/526073711396/396039998666/863
 FOOD NETWORK,http://uva.bccdn.xyz:80/526073711396/396039998666/240
 FOOD NETWORK,http://uva.bccdn.xyz:80/526073711396/396039998666/27
 FOOD NETWORK,http://uva.bccdn.xyz:80/526073711396/396039998666/480
