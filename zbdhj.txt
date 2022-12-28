@@ -1761,7 +1761,7 @@ CCTV17,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 CGTN,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ottcctvnews/1300000/mnf.m3u8
 CETV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 CETV4,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-湖北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u
+湖北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 湖南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 浙江卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 东方卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
