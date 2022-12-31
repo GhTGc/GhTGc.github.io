@@ -3864,6 +3864,8 @@ EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedQXEjVTptE1yf-3VJ1fS0/t
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9mukYc0H0sbC9f9jGhqb4/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPNqZ2Uu6pCDyGS1fP6apM/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJagQ9GixsmORmKI7GJzcc/ts
+EUROSPORT 1,http://88.111422.net:2052/00:1A:79:09:9F:0F/6AeRkal126/323760
+EUROSPORT 2,http://88.111422.net:2052/00:1A:79:09:9F:0F/6AeRkal126/323762
 EUROSPORT 1,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428251
 EUROSPORT 2,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428253
 BT SPORT BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ28K1Stk0U7x0b-L7Z9JyE/ts
