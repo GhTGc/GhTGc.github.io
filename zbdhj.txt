@@ -1744,80 +1744,121 @@ CHC高清电影,http://fyld.eatuo.com:9901/tsfile/live/1044_1.m3u8
 甘肃卫视,http://fyld.eatuo.com:9901/tsfile/live/1097_1.m3u8
 兵团卫视,http://fyld.eatuo.com:9901/tsfile/live/1098_1.m3u8
 中国交通高清,http://fyld.eatuo.com:9901/tsfile/live/1099_1.m3u8
-五华台,http://fyld.eatuo.com:9901/tsfile/live/1000_1.m3u8
-五华影视,http://fyld.eatuo.com:9901/tsfile/live/1001_1.m3u8
-梅州1,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
-梅州2,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
-梅州导视,http://fyld.eatuo.com:9901/tsfile/live/1004_1.m3u8
-山歌台,http://fyld.eatuo.com:9901/tsfile/live/1005_1.m3u8
+
+♨️NewTV,#genre#
+黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
+NewTV超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
+NewTV超级电影,http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+NewTV超级体育,http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+NewTV超级综艺,http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+NewTV动作电影,http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+NewTV家庭剧场,http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+NewTV金牌综艺,http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+NewTV惊悚悬疑,http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+NewTV精品大剧,http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+NewTV精品纪录,http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+NewTV精品体育,http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+NewTV魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+NewTV明星大片,http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 
 ♨️iHOT,#genre#
-爱猎奇,http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135801301517&channel-id=wasusyt&Contentid=6000000006000190630
-爱猎奇,http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961020221014135801297426&channel-id=wasusyt&Contentid=6000000006000190630
-爱猎奇,http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959720221014135754286358&channel-id=wasusyt&Contentid=6000000006000190630
-爱猎奇,http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135754301515&channel-id=wasusyt&Contentid=6000000006000190630
-爱解密,http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014135726306339&channel-id=wasusyt&Contentid=6000000006000200630
-爱解密,http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014135725310312&channel-id=wasusyt&Contentid=6000000006000200630
-爱解密,http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014135721303915&channel-id=wasusyt&Contentid=6000000006000200630
-爱奇谈,http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
-爱奇谈,http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630
-爱都市,http://111.11.123.28:6610/000000001000/6000000006000080630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014141030294619&channel-id=wasusyt&Contentid=6000000006000080630
-爱经典,http://111.11.123.28:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014141024294069&channel-id=wasusyt&Contentid=6000000006000060630
-爱经典,http://111.11.123.28:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014141024303998&channel-id=wasusyt&Contentid=6000000006000060630
-爱历史,http://111.11.123.28:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014141019310378&channel-id=wasusyt&Contentid=6000000006000150630
-爱青春,http://111.11.123.28:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956720221014141458304245&channel-id=wasusyt&Contentid=6000000006000100630
-爱青春,http://111.11.123.28:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960220221014141458302585&channel-id=wasusyt&Contentid=6000000006000100630
-爱科幻,http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221015131047298202&channel-id=wasusyt&Contentid=6000000006000020630
-爱科幻,http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221015131047319400&channel-id=wasusyt&Contentid=6000000006000020630
-爱科幻,http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015131038300777&channel-id=wasusyt&Contentid=6000000006000020630
-爱科学,http://111.11.123.28:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630
+爱猎奇,http://39.135.7.4:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135801301517&channel-id=wasusyt&Contentid=6000000006000190630
+爱猎奇,http://39.135.7.4:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961020221014135801297426&channel-id=wasusyt&Contentid=6000000006000190630
+爱猎奇,http://39.135.7.4:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959720221014135754286358&channel-id=wasusyt&Contentid=6000000006000190630
+爱猎奇,http://39.135.7.4:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135754301515&channel-id=wasusyt&Contentid=6000000006000190630
+爱解密,http://39.135.7.4:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014135726306339&channel-id=wasusyt&Contentid=6000000006000200630
+爱解密,http://39.135.7.4:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014135725310312&channel-id=wasusyt&Contentid=6000000006000200630
+爱解密,http://39.135.7.4:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014135721303915&channel-id=wasusyt&Contentid=6000000006000200630
+爱奇谈,http://39.135.7.4:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
+爱奇谈,http://39.135.7.4:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630
+爱都市,http://39.135.7.4:6610/000000001000/6000000006000080630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014141030294619&channel-id=wasusyt&Contentid=6000000006000080630
+爱经典,http://39.135.7.4:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014141024294069&channel-id=wasusyt&Contentid=6000000006000060630
+爱经典,http://39.135.7.4:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014141024303998&channel-id=wasusyt&Contentid=6000000006000060630
+爱历史,http://39.135.7.4:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014141019310378&channel-id=wasusyt&Contentid=6000000006000150630
+爱青春,http://39.135.7.4:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956720221014141458304245&channel-id=wasusyt&Contentid=6000000006000100630
+爱青春,http://39.135.7.4:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960220221014141458302585&channel-id=wasusyt&Contentid=6000000006000100630
+爱科幻,http://39.135.7.4:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221015131047298202&channel-id=wasusyt&Contentid=6000000006000020630
+爱科幻,http://39.135.7.4:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221015131047319400&channel-id=wasusyt&Contentid=6000000006000020630
+爱科幻,http://39.135.7.4:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015131038300777&channel-id=wasusyt&Contentid=6000000006000020630
+爱科学,http://39.135.7.4:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630
 爱悬疑,http://111.11.123.31:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1891220221014135811192524&channel-id=wasusyt&Contentid=6000000006000050630
 爱悬疑,http://111.11.123.31:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1892920221014135811182497&channel-id=wasusyt&Contentid=6000000006000050630
-爱悬疑,http://111.11.123.28:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014135806305779&channel-id=wasusyt&Contentid=6000000006000050630
-爱悬疑,http://111.11.123.28:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221014135806302371&channel-id=wasusyt&Contentid=6000000006000050630
-爱探索,http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
-爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014141442306403&channel-id=wasusyt&Contentid=6000000006000070630
-爱科幻,http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958220221014141436296807&channel-id=wasusyt&Contentid=6000000006000020630
+爱悬疑,http://39.135.7.4:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014135806305779&channel-id=wasusyt&Contentid=6000000006000050630
+爱悬疑,http://39.135.7.4:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221014135806302371&channel-id=wasusyt&Contentid=6000000006000050630
+爱探索,http://39.135.7.4:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
+爱谍战,http://39.135.7.4:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014141442306403&channel-id=wasusyt&Contentid=6000000006000070630
+爱科幻,http://39.135.7.4:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958220221014141436296807&channel-id=wasusyt&Contentid=6000000006000020630
 爱院线,http://111.11.123.31:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630
-爱院线,http://111.11.123.28:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221014141424292715&channel-id=wasusyt&Contentid=6000000006000030630
-爱世界,http://111.11.123.28:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960420221015130011307610&channel-id=wasusyt&Contentid=6000000006000210630
-爱世界,http://111.11.123.28:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221015130011284542&channel-id=wasusyt&Contentid=6000000006000210630
-爱江湖,http://111.11.123.28:6610/000000001000/6000000006000110630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960120221015130207299754&channel-id=wasusyt&Contentid=6000000006000110630
-爱娱乐,http://111.11.123.28:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630
-爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630
-爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
-爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630
-爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131206302227&channel-id=wasusyt&Contentid=6000000006000070630
-爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221015131152299181&channel-id=wasusyt&Contentid=6000000006000070630
-爱历史,http://111.11.123.28:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957720221014140909304245&channel-id=wasusyt&Contentid=6000000006000150630
-爱喜剧,http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014141111305853&channel-id=wasusyt&Contentid=6000000006000010630
-爱喜剧,http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958820221014141111289135&channel-id=wasusyt&Contentid=6000000006000010630
-爱家庭,http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131414302251&channel-id=wasusyt&Contentid=6000000006000090630
-爱家庭,http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956620221015131414319445&channel-id=wasusyt&Contentid=6000000006000090630
-爱家庭,http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961220221015131340309385&channel-id=wasusyt&Contentid=6000000006000090630
-爱赛车,http://111.11.123.28:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014133355305703&channel-id=wasusyt&Contentid=6000000006000240630
-爱赛车,http://111.11.123.28:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133355301960&channel-id=wasusyt&Contentid=6000000006000240630
-爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
-爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
-爱玩具,http://111.11.123.28:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630
-爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630
-爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135750301514&channel-id=wasusyt&Contentid=6000000006000180630
-爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014135745294013&channel-id=wasusyt&Contentid=6000000006000180630
-爱旅行,http://111.11.123.28:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630
-爱怀旧,http://111.11.123.28:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630
+爱院线,http://39.135.7.4:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221014141424292715&channel-id=wasusyt&Contentid=6000000006000030630
+爱世界,http://39.135.7.4:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960420221015130011307610&channel-id=wasusyt&Contentid=6000000006000210630
+爱世界,http://39.135.7.4:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221015130011284542&channel-id=wasusyt&Contentid=6000000006000210630
+爱江湖,http://39.135.7.4:6610/000000001000/6000000006000110630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960120221015130207299754&channel-id=wasusyt&Contentid=6000000006000110630
+爱娱乐,http://39.135.7.4:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630
+爱极限,http://39.135.7.4:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630
+爱极限,http://39.135.7.4:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
+爱谍战,http://39.135.7.4:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630
+爱谍战,http://39.135.7.4:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131206302227&channel-id=wasusyt&Contentid=6000000006000070630
+爱谍战,http://39.135.7.4:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221015131152299181&channel-id=wasusyt&Contentid=6000000006000070630
+爱历史,http://39.135.7.4:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957720221014140909304245&channel-id=wasusyt&Contentid=6000000006000150630
+爱喜剧,http://39.135.7.4:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014141111305853&channel-id=wasusyt&Contentid=6000000006000010630
+爱喜剧,http://39.135.7.4:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958820221014141111289135&channel-id=wasusyt&Contentid=6000000006000010630
+爱家庭,http://39.135.7.4:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131414302251&channel-id=wasusyt&Contentid=6000000006000090630
+爱家庭,http://39.135.7.4:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956620221015131414319445&channel-id=wasusyt&Contentid=6000000006000090630
+爱家庭,http://39.135.7.4:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961220221015131340309385&channel-id=wasusyt&Contentid=6000000006000090630
+爱赛车,http://39.135.7.4:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014133355305703&channel-id=wasusyt&Contentid=6000000006000240630
+爱赛车,http://39.135.7.4:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133355301960&channel-id=wasusyt&Contentid=6000000006000240630
+爱电竞,http://39.135.7.4:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
+爱电竞,http://39.135.7.4:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
+爱玩具,http://39.135.7.4:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630
+爱幼教,http://39.135.7.4:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630
+爱幼教,http://39.135.7.4:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135750301514&channel-id=wasusyt&Contentid=6000000006000180630
+爱幼教,http://39.135.7.4:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014135745294013&channel-id=wasusyt&Contentid=6000000006000180630
+爱旅行,http://39.135.7.4:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630
+爱怀旧,http://39.135.7.4:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630
 爱体育,http://111.11.123.31:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1889520221014135601185158&channel-id=wasusyt&Contentid=6000000006000290630
 爱体育,http://111.11.123.31:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1890420221014135601179073&channel-id=wasusyt&Contentid=6000000006000290630
-爱美食,http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630
-爱时尚,http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221015130638311630&channel-id=wasusyt&Contentid=6000000006000140630
-爱时尚,http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015130638300743&channel-id=wasusyt&Contentid=6000000006000140630
-爱时尚,http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959320221015130548311714&channel-id=wasusyt&Contentid=6000000006000140630
-爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
-爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958020221015130801305837&channel-id=wasusyt&Contentid=6000000006000280630
-爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956420221015130801308674&channel-id=wasusyt&Contentid=6000000006000280630
-爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130756305943&channel-id=wasusyt&Contentid=6000000006000280630
-爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221015130909297281&channel-id=wasusyt&Contentid=6000000006000040630
-爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221015130853306954&channel-id=wasusyt&Contentid=6000000006000040630
-爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221015130909306301&channel-id=wasusyt&Contentid=6000000006000040630
+爱美食,http://39.135.7.4:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630
+爱时尚,http://39.135.7.4:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221015130638311630&channel-id=wasusyt&Contentid=6000000006000140630
+爱时尚,http://39.135.7.4:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015130638300743&channel-id=wasusyt&Contentid=6000000006000140630
+爱时尚,http://39.135.7.4:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959320221015130548311714&channel-id=wasusyt&Contentid=6000000006000140630
+爱动漫,http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
+爱动漫,http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958020221015130801305837&channel-id=wasusyt&Contentid=6000000006000280630
+爱动漫,http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956420221015130801308674&channel-id=wasusyt&Contentid=6000000006000280630
+爱动漫,http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130756305943&channel-id=wasusyt&Contentid=6000000006000280630
+爱浪漫,http://39.135.7.4:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221015130909297281&channel-id=wasusyt&Contentid=6000000006000040630
+爱浪漫,http://39.135.7.4:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221015130853306954&channel-id=wasusyt&Contentid=6000000006000040630
+爱浪漫,http://39.135.7.4:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221015130909306301&channel-id=wasusyt&Contentid=6000000006000040630
+爱世界,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+爱解密,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+爱猎奇,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+爱幼教,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+爱军武,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+爱科学,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+爱历史,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+爱时尚,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+爱娱乐,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
+爱美食,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+爱谍战,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+爱经典,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+爱探索,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+爱体育,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+爱动漫,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+爱奇谈,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+爱怀旧,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+爱旅行,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+爱赛车,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+爱电竞,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
+爱玩具,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+爱悬疑,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+爱浪漫,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+爱江湖,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+爱青春,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+爱家庭,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+爱都市,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+爱喜剧,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+爱科幻,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+爱院线,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 
 
 ❤️上海百事通源,#genre#
@@ -3177,165 +3218,6 @@ RANIA,http://line.premiumpowers.net:80/Manuel/1234567/571256
 DRAMA SANGAT,http://line.premiumpowers.net:80/Manuel/1234567/571255
 RUGBY PASS TV,http://line.premiumpowers.net:80/Manuel/1234567/571253
 
-💞HBO&体育泰马源,#genre#
-HBO,http://line.premiumpowers.net:80/Manuel/1234567/571204
-HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115833
-HBO,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/40763
-HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115833
-HBO,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/40763
-Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115628
-Blue Anttertainment,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115629
-Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115630
-Blue Ant Extreme,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115631
-Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115628
-Blue Anttertainment,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115629
-Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115630
-Blue Ant Extreme,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115631
-ASTRO SUPERSports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115615
-ASTRO SUPERSports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115616
-ASTRO SUPERSports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115617
-ASTRO SUPERSports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115618
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115757
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115758
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115759
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115760
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115762
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115508
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115509
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115510
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115511
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115512
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115513
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115768
-Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115515
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115516
-Premier Football1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115771
-Premier Football2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115518
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115520
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115521
-Premier Football3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115522
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115523
-Premier Football4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115524
-Premier Football5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115525
-MY Astro Supersport 4K 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348094
-MY Astro Supersport 4K 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348095
-HubPremier 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348096
-HubPremier 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348097
-HubPremier 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348098
-HubPremier 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348099
-HubPremier 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348100
-HubPremier 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348101
-HubPremier 6,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348102
-HubPremier 7,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348103
-HubPremier 8,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348104
-HubPremier 9,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348105
-HubPremier 10,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348106
-HubPremier 11,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/348107
-Fubo Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120187
-Fubo Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120186
-Fubo Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120185
-Fubo Sports 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120184
-Fubo Sports 5,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/120183
-HK Now Sports 4K,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/117957
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94453
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94452
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94451
-beIN Sports 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94450
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94449
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94448
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94447
-beIN Sports 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94446
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94445
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94444
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94443
-beIN Sports 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/94442
-Flow Sports 1 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28096
-Flow Sports 2 [Premier League],http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/28095
-SuperSport Variety 1,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39411
-SuperSport Variety 2,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39410
-SuperSport Variety 3,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39415
-SuperSport Variety 4,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39414
-SuperSport Action,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39520
-SuperSport Blitz,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39519
-SuperSport Cricket,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39417
-SuperSport Football,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39413
-SuperSport Grandstand,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39409
-SuperSport LaLiga,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39406
-SuperSport Motorsport,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39412
-SuperSport Premier League,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39408
-SuperSport PSL,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39407
-SuperSport Rugby,http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/39416
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115758
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115759
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115760
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115762
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115508
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115509
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115510
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115511
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115512
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115513
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115768
-Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115515
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115516
-Premier Football1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115771
-Premier Football2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115518
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115520
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115521
-Premier Football3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115522
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115523
-Premier Football4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115524
-Premier Football5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115525
-ASTRO SUPERSports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115615
-ASTRO SUPERSports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115616
-ASTRO SUPERSports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115617
-ASTRO SUPERSports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115618
-MY Astro Supersport 4K 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348094
-MY Astro Supersport 4K 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348095
-HubPremier 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348096
-HubPremier 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348097
-HubPremier 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348098
-HubPremier 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348099
-HubPremier 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348100
-HubPremier 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348101
-HubPremier 6,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348102
-HubPremier 7,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348103
-HubPremier 8,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348104
-HubPremier 9,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348105
-HubPremier 10,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348106
-HubPremier 11,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/348107
-Fubo Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120187
-Fubo Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120186
-Fubo Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120185
-Fubo Sports 4,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120184
-Fubo Sports 5,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/120183
-HK Now Sports 4K,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/117957
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94453
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94452
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94451
-beIN Sports 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94450
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94449
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94448
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94447
-beIN Sports 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94446
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94445
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94444
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94443
-beIN Sports 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/94442
-Flow Sports 1 [Premier League],http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/28096
-SuperSport Variety 1,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39411
-SuperSport Variety 2,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39410
-SuperSport Variety 3,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39415
-SuperSport Action,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39520
-SuperSport Blitz,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39519
-SuperSport Cricket,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39417
-SuperSport Football,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39413
-SuperSport Grandstand,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39409
-SuperSport LaLiga,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39406
-SuperSport Motorsport,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39412
-SuperSport Premier League,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39408
-SuperSport PSL,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39407
-SuperSport Rugby,http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/39416
 
 🎎日本频道,#genre#
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -3515,103 +3397,76 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
-NBA TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/237165
-NBA TV,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/367120
-ABC,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376410
-ESPN,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376411
-TNT,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/376412
-Atlanta Hawks (ATL) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437389
-Atlanta Hawks (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433730
-Boston Celtics (BOS) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437410
-Boston Celtics (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433732
-Brooklyn Nets (BKN) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437409
-Brooklyn Nets (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433734
-Charlotte Hornets (CHA) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437412
-Charlotte Hornets (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433736
-Chicago Bulls (CHI) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437402
-Chicago Bulls (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433738
-Cleveland Cavaliers (CLE) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437399
-Cleveland Cavaliers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433740
-Dallas Mavericks (DAL) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437407
-Dallas Mavericks (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433742
-Denver Nuggets (DEN)  (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437406
-Denver Nuggets (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433744
-Detroit Pistons (DET) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437390
-Detroit Pistons (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433746
-Golden State Warriors (GSW (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437400
-Golden State Warriors (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433748
-Houston Rockets (HOU) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437403
-Houston Rockets (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433750
-Indiana Pacers (IND) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437396
-Indiana Pacers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433752
-Los Angeles Clippers (LAC) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437413
-Los Angeles Clippers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433754
-Los Angeles Lakers (LAL)  (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437398
-Los Angeles Lakers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433756
-Memphis Grizzlies (MEM) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437397
-Memphis Grizzlies (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433758
-Miami Heat (MIA) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437414
-Miami Heat (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433760
-Milwaukee Bucks (MIL) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437395
-Milwaukee Bucks (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433762
-Minnesota Timerwolves  (MIN) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437401
-Minnesota Timberwolves (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433764
-New Orleans Pelicans (NOP) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437392
-New Orleans Pelicans (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433766
-New York Knicks (NYK) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437405
-New York Knicks (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433768
-Oklahoma City Thunder (OKC) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437391
-Oklahoma City Thunder (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433770
-Orlando Magic (ORL) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437394
-Orlando Magic (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433772
-Philadelphia 76ers (PHI) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437408
-Philadelphia 76ers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433774
-Phoenıx Sun (PHX) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437411
-Phoenix Suns (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433776
-Portland Trail Blazers (POR) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437404
-Portland Trail Blazers (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433778
-Sacramento Kings (SAC) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437415
-Sacramento Kings (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433780
-San Antonio Spurs (SAS) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437386
-San Antonio Spurs (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433782
-Toronto Raptors (TOR) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437387
-Toronto Raptors (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433784
-Utah Jazz (UTA) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437388
-Utah Jazz (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433786
-Washington Wizards (WAS) (Y),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/437393
-Washington Wizards (HD) (S),http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/433788
-NBA01:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464234
-NBA02:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464235
-NBA03:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464236
-NBA04:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464237
-NBA05:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464238
-NBA06:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464239
-NBA07:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464240
-NBA08:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464241
-NBA09:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464242
-NBA10:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464243
-NBA11:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464244
-NBA12:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464245
-NBA13:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464246
-NBA14:,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/464247
-NBA LEAGUE PASS 01,http://loadbl2.online:8080/76381345/82875316/1108655
-NBA LEAGUE PASS 02,http://loadbl2.online:8080/76381345/82875316/1108656
-NBA LEAGUE PASS 03,http://loadbl2.online:8080/76381345/82875316/1108657
-NBA LEAGUE PASS 04,http://loadbl2.online:8080/76381345/82875316/1108658
-NBA LEAGUE PASS 05,http://loadbl2.online:8080/76381345/82875316/1108659
-NBA LEAGUE PASS 07,http://loadbl2.online:8080/76381345/82875316/1108660
-NBA LEAGUE PASS 08,http://loadbl2.online:8080/76381345/82875316/1108661
-NBA LEAGUE PASS 09,http://loadbl2.online:8080/76381345/82875316/1108662
+NBA TV,http://iptvglobal.site:25461/2021/1010/147389
+Sky Sport NBA(IT),http://iptvglobal.site:25461/2021/1010/163076
+Toronto Raptors,http://iptvglobal.site:25461/2021/1010/147360
+Toronto Raptors,http://iptvglobal.site:25461/2021/1010/158947
+Orlando Magic,http://iptvglobal.site:25461/2021/1010/147361
+Orlando Magic,http://iptvglobal.site:25461/2021/1010/158940
+NewYork Knicks,http://iptvglobal.site:25461/2021/1010/147362
+NewYork Knicks,http://iptvglobal.site:25461/2021/1010/158938
+NewOrleans Pelicans,http://iptvglobal.site:25461/2021/1010/147363
+NewOrleans Pelicans,http://iptvglobal.site:25461/2021/1010/158945
+Minnesota Timberwolves,http://iptvglobal.site:25461/2021/1010/147364
+Minnesota Timberwolves,http://iptvglobal.site:25461/2021/1010/158953
+Los Angeles Lakers,http://iptvglobal.site:25461/2021/1010/147365
+Los Angeles Lakers,http://iptvglobal.site:25461/2021/1010/158939
+Los Angeles Clippers,http://iptvglobal.site:25461/2021/1010/147366
+Los Angeles Clippers,http://iptvglobal.site:25461/2021/1010/158931
+Indiana Pacers,http://iptvglobal.site:25461/2021/1010/147367
+Indiana Pacers,http://iptvglobal.site:25461/2021/1010/158944
+Houston Rockets,http://iptvglobal.site:25461/2021/1010/147368
+Houston Rockets,http://iptvglobal.site:25461/2021/1010/158948
+GoldenState Warriors,http://iptvglobal.site:25461/2021/1010/147369
+GoldenState Warriors,http://iptvglobal.site:25461/2021/1010/158954
+Denver Nuggets,http://iptvglobal.site:25461/2021/1010/147370
+Denver Nuggets,http://iptvglobal.site:25461/2021/1010/158943
+Dallas Mavericks,http://iptvglobal.site:25461/2021/1010/147371
+Dallas Mavericks,http://iptvglobal.site:25461/2021/1010/158941
+Cleveland Cavaliers,http://iptvglobal.site:25461/2021/1010/147372
+Cleveland Caveliers,http://iptvglobal.site:25461/2021/1010/158929
+Brooklyn Nets,http://iptvglobal.site:25461/2021/1010/147373
+Brooklyn Nets,http://iptvglobal.site:25461/2021/1010/158942
+Boston Celtics,http://iptvglobal.site:25461/2021/1010/147374
+Boston Celtics,http://iptvglobal.site:25461/2021/1010/158930
+Utah Jazz,http://iptvglobal.site:25461/2021/1010/147375
+Utah Jazz,http://iptvglobal.site:25461/2021/1010/158936
+Washington Wizards,http://iptvglobal.site:25461/2021/1010/147376
+Washington Wizards,http://iptvglobal.site:25461/2021/1010/158955
+SAN ANTONIO Spurs,http://iptvglobal.site:25461/2021/1010/147377
+SAN ANTONIO Spurs,http://iptvglobal.site:25461/2021/1010/158949
+Milwaukee Bucks,http://iptvglobal.site:25461/2021/1010/147378
+Milwaukee Bucks,http://iptvglobal.site:25461/2021/1010/158927
+Detroit Pistons,http://iptvglobal.site:25461/2021/1010/147379
+Detroit Pistons,http://iptvglobal.site:25461/2021/1010/158946
+Chicago Bulls,http://iptvglobal.site:25461/2021/1010/147380
+Chicago Bulls,http://iptvglobal.site:25461/2021/1010/158928
+Charlotte Hornets,http://iptvglobal.site:25461/2021/1010/147381
+Charlotte Hornets,http://iptvglobal.site:25461/2021/1010/158935
+Phoenix Suns,http://iptvglobal.site:25461/2021/1010/147382
+Phoenix Suns,http://iptvglobal.site:25461/2021/1010/158950
+Atlanta Hawks,http://iptvglobal.site:25461/2021/1010/147383
+Atlanta Hawks,http://iptvglobal.site:25461/2021/1010/158933
+Portland Trail Blazers,http://iptvglobal.site:25461/2021/1010/147384
+Portland Trail Blazers,http://iptvglobal.site:25461/2021/1010/158952
+Philadelphia 76ers,http://iptvglobal.site:25461/2021/1010/147385
+Philadelphia 76ers,http://iptvglobal.site:25461/2021/1010/158926
+Miami Heat,http://iptvglobal.site:25461/2021/1010/147386
+Miami Heat,http://iptvglobal.site:25461/2021/1010/158934
+Oklahoma Thunder,http://iptvglobal.site:25461/2021/1010/147387
+Oklahoma Thunder,http://iptvglobal.site:25461/2021/1010/158951
+Memphis Grizzlies,http://iptvglobal.site:25461/2021/1010/147388
+Memphis Grizzlies,http://iptvglobal.site:25461/2021/1010/158932
+Sacramento Kings,http://iptvglobal.site:25461/2021/1010/158937
 
 
 🐾🦚红牛频道,#genre#
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/156897
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/156927
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/150356
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/156930
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/156878
-红牛TV,http://line.sohakiller.net:80/Dirk2022/Dirk2022/920099
-红牛TV,http://mains.vip:2086/Lucas1/FYq2HfUpCnaa/8450
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/1088241
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156927
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/150356
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156930
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156878
+红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/920099
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
