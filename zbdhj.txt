@@ -5256,7 +5256,36 @@ TR: SSPORT+4,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaVvc5zMX7SQ28L6zX6XafMw/
 TR: SSPORT+5,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXy6HUPADSFY8fUSA4baQuw/ts
 TR: SSPORT+6,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadghUABYUdE83DPBho8Qdrg/ts
 TR: SSPORT+7,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYut0yojXSRRnKGSU5_a1Yo/ts
-
+HR:Arena Sport 1,http://superbits.tv:80/d4Je5xwD/yadTXB63/102548
+HR:Arena Sport 1,http://superbits.tv:80/d4Je5xwD/yadTXB63/41396
+HR:Arena Sport 2,http://superbits.tv:80/d4Je5xwD/yadTXB63/102549
+HR:Arena Sport 2,http://superbits.tv:80/d4Je5xwD/yadTXB63/41395
+HR:Arena Sport 3,http://superbits.tv:80/d4Je5xwD/yadTXB63/102550
+HR:Arena Sport 3,http://superbits.tv:80/d4Je5xwD/yadTXB63/41394
+HR:Arena Sport 4,http://superbits.tv:80/d4Je5xwD/yadTXB63/102551
+HR:Arena Sport 4,http://superbits.tv:80/d4Je5xwD/yadTXB63/41393
+HR:Arena Sport 5,http://superbits.tv:80/d4Je5xwD/yadTXB63/102552
+HR:Arena Sport 6,http://superbits.tv:80/d4Je5xwD/yadTXB63/9727
+HR:Arena Sport 7,http://superbits.tv:80/d4Je5xwD/yadTXB63/123592
+HR:Arena Sport 8,http://superbits.tv:80/d4Je5xwD/yadTXB63/123593
+HR:Arena Sport 9,http://superbits.tv:80/d4Je5xwD/yadTXB63/123594
+HR:Arena Sport 10,http://superbits.tv:80/d4Je5xwD/yadTXB63/123595
+RS:Arena Sport 1,http://superbits.tv:80/d4Je5xwD/yadTXB63/9726
+RS:Arena Sport 1,http://superbits.tv:80/d4Je5xwD/yadTXB63/9725
+RS:Arena Sport 1 Premium,http://superbits.tv:80/d4Je5xwD/yadTXB63/130979
+RS:Arena Sport 2,http://superbits.tv:80/d4Je5xwD/yadTXB63/9724
+RS:Arena Sport 2,http://superbits.tv:80/d4Je5xwD/yadTXB63/9723
+RS:Arena Sport 2 Premium,http://superbits.tv:80/d4Je5xwD/yadTXB63/130980
+RS:Arena Sport 3,http://superbits.tv:80/d4Je5xwD/yadTXB63/9722
+RS:Arena Sport 3,http://superbits.tv:80/d4Je5xwD/yadTXB63/9721
+RS:Arena Sport 3 Premium,http://superbits.tv:80/d4Je5xwD/yadTXB63/130981
+RS:Arena Sport 4,http://superbits.tv:80/d4Je5xwD/yadTXB63/9720
+RS:Arena Sport 4,http://superbits.tv:80/d4Je5xwD/yadTXB63/9719
+RS:Arena Sport 5,http://superbits.tv:80/d4Je5xwD/yadTXB63/9718
+RS:Arena Sport 5,http://superbits.tv:80/d4Je5xwD/yadTXB63/9717
+RS:Arena Sport 6,http://superbits.tv:80/d4Je5xwD/yadTXB63/123623
+RS:Arena Sport 7,http://superbits.tv:80/d4Je5xwD/yadTXB63/123624
+RS:Arena Sport 8,http://superbits.tv:80/d4Je5xwD/yadTXB63/123625
 
 💞巴西1,#genre#
 FASHION TV,http://propdsrv.com:80/hiu67his/z4rtomtl/75491
