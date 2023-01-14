@@ -3711,6 +3711,15 @@ Utah Jazz,http://superbits.tv:80/d4Je5xwD/yadTXB63/428889
 Washington Wizards,http://superbits.tv:80/d4Je5xwD/yadTXB63/428890
 
 🐾🦚红牛频道,#genre#
+红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/12129
+红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/12129
+红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/12129
+红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/25084
+红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/25084
+红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/25084
+红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/141869
+红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/141869
+红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/141869
 红牛TV,http://nordicstream.xyz:2095/c8JQKTqm/mG7SgFqZ/141867
 红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/1088241
 红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156927
@@ -4300,10 +4309,6 @@ EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedQXEjVTptE1yf-3VJ1fS0/t
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9mukYc0H0sbC9f9jGhqb4/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPNqZ2Uu6pCDyGS1fP6apM/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJagQ9GixsmORmKI7GJzcc/ts
-EUROSPORT 1,http://88.111422.net:2052/00:1A:79:09:9F:0F/6AeRkal126/323760
-EUROSPORT 2,http://88.111422.net:2052/00:1A:79:09:9F:0F/6AeRkal126/323762
-EUROSPORT 1,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428251
-EUROSPORT 2,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428253
 BT SPORT BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ28K1Stk0U7x0b-L7Z9JyE/ts
 BT SPORT 4K,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabfD-uJcSEgxcNAfJTMsqgk/ts
 BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRL6jzdnA0thE29T2Jjo2Oc/ts
@@ -4830,6 +4835,18 @@ Sony Movies Channel,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/4
 
 
 💞西欧体育,#genre#
+Eurosport 1,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/8339
+Eurosport 1,http://aabb.is:2095/2259489080/e8zMufUW/8339
+Eurosport 1,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/8339
+Eurosport 1,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/247684
+Eurosport 1,http://aabb.is:2095/2259489080/e8zMufUW/247684
+Eurosport 1,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/247684
+Eurosport 2,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/9852
+Eurosport 2,http://aabb.is:2095/2259489080/e8zMufUW/9852
+Eurosport 2,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/9852
+Eurosport 2,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/247685
+Eurosport 2,http://aabb.is:2095/2259489080/e8zMufUW/247685
+Eurosport 2,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/247685
 PT: CANAL 11,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQBUhNZ_LoTzPHNDIW0vHqA/ts
 PT: CANAL 11,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaevmlylK0zFP8dkp5ZCeXmQ/ts
 PT: CANAL 11,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafEI1GFvPwmamUHUZFo0xow/ts
