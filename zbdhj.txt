@@ -2679,11 +2679,10 @@ CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyH
 
 
 📺咪咕体育频道,#genre#
-JJ斗地主官方,https://epg.pm/stream/99af827c1a083c2149b8eb21cab0b57eae806e5228d62d1a1804f285808c3254.ctv
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+JJ斗地主,https://epg.pm/stream/99af827c1a083c2149b8eb21cab0b57eae806e5228d62d1a1804f285808c3254.ctv
+JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+JJ斗地主,http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=14079954
+JJ斗地主,http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 咪咕4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
@@ -2782,16 +2781,6 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 特魯姆普,http://txtest-xp2p.p2p.huya.com/1099531627782-1099531627782-85899371689803776-2199063379020-10057-A-0-1.xs
 虎牙斯諾克,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
 虎牙斯諾克副舞台,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
-足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-足球1,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-足球2,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
-足球3,http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-足球4,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-足球5,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-足球6,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
-足球7,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
-足球8,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
-足球9,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
 非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
 华数,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
