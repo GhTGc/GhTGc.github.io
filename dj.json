@@ -1,0 +1,29 @@
+{
+    "lives" : [
+            {
+            "name" : "大合集",
+            "type" : 0,
+            "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/zbdhj.txt",
+            "logo" : "",
+            "epg" : "http://epg.51zmt.top:8000/e.xml",
+            "ua" : ""
+        },
+            {
+            "name" : "肥羊",
+            "type" : 0,
+            "url" : "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+            "logo" : "",
+            "epg" : "http://epg.51zmt.top:8000/e.xml",
+            "ua" : ""
+        },
+            {
+            "name" : "Adult",
+            "type" : 0,
+            "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/Adult.m3u",
+            "logo" : "",
+            "epg" : "",
+            "ua" : ""
+           }
+
+      ]
+}
