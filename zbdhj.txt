@@ -221,9 +221,12 @@ BOO驚悚台,http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f66
 天映电影台,http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 东森洋片台,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 东森电影台,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+HBO,http://xtv.ooo:8080/311009689/6471777/228255
+HBO,http://xtv.ooo:8080/311009689/6471777/228263
 HBO,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO原创电影,http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO强档影院,http://xtv.ooo:8080/311009689/6471777/228260
 HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 探索频道,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 Bili卡式台,http://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
@@ -3961,6 +3964,8 @@ Unsolved Mysteries,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/40
 WWE Network,http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/405955
 
 •●★英国体育★●•,#genre#
+EUROSPORT 1,http://xtv.ooo:8080/311009689/6471777/222656
+EUROSPORT 2,http://xtv.ooo:8080/311009689/6471777/222657
 EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXazNgd0VrSVg6viR-61_kU/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYjolLM9W-roJvwoz898IHE/ts
 EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINadZ7y1S5nE1GdCZGF6hNloY/ts
@@ -3969,8 +3974,10 @@ EUROSPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaedQXEjVTptE1yf-3VJ1fS0/t
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf9mukYc0H0sbC9f9jGhqb4/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPNqZ2Uu6pCDyGS1fP6apM/ts
 EUROSPORT 2,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaTJagQ9GixsmORmKI7GJzcc/ts
-BT SPORT BOX OFFICE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZ28K1Stk0U7x0b-L7Z9JyE/ts
 BT SPORT 4K,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabfD-uJcSEgxcNAfJTMsqgk/ts
+BT SPORT 1,http://xtv.ooo:8080/311009689/6471777/222640
+BT SPORT 2,http://xtv.ooo:8080/311009689/6471777/222641
+BT SPORT 3,http://xtv.ooo:8080/311009689/6471777/222642
 BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaRL6jzdnA0thE29T2Jjo2Oc/ts
 BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWQNMVyDfa2iFFYLgZ-VXEo/ts
 BT SPORT 1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaflb05aeOFXMmpxJ12Td3z0/ts
