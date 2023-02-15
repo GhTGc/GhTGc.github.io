@@ -3325,98 +3325,46 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
-NBA TV,http://iptvglobal.site:25461/2021/1010/147389
-Sky Sport NBA(IT),http://iptvglobal.site:25461/2021/1010/163076
-Toronto Raptors,http://iptvglobal.site:25461/2021/1010/147360
-Toronto Raptors,http://iptvglobal.site:25461/2021/1010/158947
-Orlando Magic,http://iptvglobal.site:25461/2021/1010/147361
-Orlando Magic,http://iptvglobal.site:25461/2021/1010/158940
-NewYork Knicks,http://iptvglobal.site:25461/2021/1010/147362
-NewYork Knicks,http://iptvglobal.site:25461/2021/1010/158938
-NewOrleans Pelicans,http://iptvglobal.site:25461/2021/1010/147363
-NewOrleans Pelicans,http://iptvglobal.site:25461/2021/1010/158945
-Minnesota Timberwolves,http://iptvglobal.site:25461/2021/1010/147364
-Minnesota Timberwolves,http://iptvglobal.site:25461/2021/1010/158953
-Los Angeles Lakers,http://iptvglobal.site:25461/2021/1010/147365
-Los Angeles Lakers,http://iptvglobal.site:25461/2021/1010/158939
-Los Angeles Clippers,http://iptvglobal.site:25461/2021/1010/147366
-Los Angeles Clippers,http://iptvglobal.site:25461/2021/1010/158931
-Indiana Pacers,http://iptvglobal.site:25461/2021/1010/147367
-Indiana Pacers,http://iptvglobal.site:25461/2021/1010/158944
-Houston Rockets,http://iptvglobal.site:25461/2021/1010/147368
-Houston Rockets,http://iptvglobal.site:25461/2021/1010/158948
-GoldenState Warriors,http://iptvglobal.site:25461/2021/1010/147369
-GoldenState Warriors,http://iptvglobal.site:25461/2021/1010/158954
-Denver Nuggets,http://iptvglobal.site:25461/2021/1010/147370
-Denver Nuggets,http://iptvglobal.site:25461/2021/1010/158943
-Dallas Mavericks,http://iptvglobal.site:25461/2021/1010/147371
-Dallas Mavericks,http://iptvglobal.site:25461/2021/1010/158941
-Cleveland Cavaliers,http://iptvglobal.site:25461/2021/1010/147372
-Cleveland Caveliers,http://iptvglobal.site:25461/2021/1010/158929
-Brooklyn Nets,http://iptvglobal.site:25461/2021/1010/147373
-Brooklyn Nets,http://iptvglobal.site:25461/2021/1010/158942
-Boston Celtics,http://iptvglobal.site:25461/2021/1010/147374
-Boston Celtics,http://iptvglobal.site:25461/2021/1010/158930
-Utah Jazz,http://iptvglobal.site:25461/2021/1010/147375
-Utah Jazz,http://iptvglobal.site:25461/2021/1010/158936
-Washington Wizards,http://iptvglobal.site:25461/2021/1010/147376
-Washington Wizards,http://iptvglobal.site:25461/2021/1010/158955
-San Antonio Spurs,http://iptvglobal.site:25461/2021/1010/147377
-San Antonio Spurs,http://iptvglobal.site:25461/2021/1010/158949
-Milwaukee Bucks,http://iptvglobal.site:25461/2021/1010/147378
-Milwaukee Bucks,http://iptvglobal.site:25461/2021/1010/158927
-Detroit Pistons,http://iptvglobal.site:25461/2021/1010/147379
-Detroit Pistons,http://iptvglobal.site:25461/2021/1010/158946
-Chicago Bulls,http://iptvglobal.site:25461/2021/1010/147380
-Chicago Bulls,http://iptvglobal.site:25461/2021/1010/158928
-Charlotte Hornets,http://iptvglobal.site:25461/2021/1010/147381
-Charlotte Hornets,http://iptvglobal.site:25461/2021/1010/158935
-Phoenix Suns,http://iptvglobal.site:25461/2021/1010/147382
-Phoenix Suns,http://iptvglobal.site:25461/2021/1010/158950
-Atlanta Hawks,http://iptvglobal.site:25461/2021/1010/147383
-Atlanta Hawks,http://iptvglobal.site:25461/2021/1010/158933
-Portland Trail Blazers,http://iptvglobal.site:25461/2021/1010/147384
-Portland Trail Blazers,http://iptvglobal.site:25461/2021/1010/158952
-Philadelphia 76ers,http://iptvglobal.site:25461/2021/1010/147385
-Philadelphia 76ers,http://iptvglobal.site:25461/2021/1010/158926
-Miami Heat,http://iptvglobal.site:25461/2021/1010/147386
-Miami Heat,http://iptvglobal.site:25461/2021/1010/158934
-Oklahoma Thunder,http://iptvglobal.site:25461/2021/1010/147387
-Oklahoma Thunder,http://iptvglobal.site:25461/2021/1010/158951
-Memphis Grizzlies,http://iptvglobal.site:25461/2021/1010/147388
-Memphis Grizzlies,http://iptvglobal.site:25461/2021/1010/158932
-Sacramento Kings,http://iptvglobal.site:25461/2021/1010/158937
+NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/7787.ts
+NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51361.ts
+NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51009.ts
+SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
+掘金,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50997.ts
+凯尔特人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51004.ts
+76人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50993.ts
+篮网,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51005.ts
+热火,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50986.ts
+奇才,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50979.ts
+爵士,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50980.ts
+国王,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50983.ts
+猛龙,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50981.ts
+马刺,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50982.ts
+开拓者,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50984.ts
+灰熊,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50985.ts
+雄鹿,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50987.ts
+森林狼,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50988.ts
+鹈鹕,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50989.ts
+尼克斯,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50990.ts
+雷霆,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50991.ts
+魔术,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50992.ts
+太阳,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50994.ts
+老鹰,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50995.ts
+独行侠,http://flysilo.top:8080/live/7381662208002780/5261662208002780/50996.ts
+活塞,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50998.ts
+勇士,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50999.ts
+火箭,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51000.ts
+步行者,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51001.ts
+快船,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51002.ts
+湖人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51003.ts
+黄蜂,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51006.ts
+公牛,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51007.ts
+骑士,http://superbits.tv:80/d4Je5xwD/yadTXB63/428866
 
-Atlanta Hawks,http://superbits.tv:80/d4Je5xwD/yadTXB63/428861
-Boston Celtics,http://superbits.tv:80/d4Je5xwD/yadTXB63/428862
-Brooklyn Nets,http://superbits.tv:80/d4Je5xwD/yadTXB63/428863
-Charlotte Hornets,http://superbits.tv:80/d4Je5xwD/yadTXB63/428864
-Chicago Bulls,http://superbits.tv:80/d4Je5xwD/yadTXB63/428865
-Cleveland Cavaliers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428866
-Dallas Mavericks,http://superbits.tv:80/d4Je5xwD/yadTXB63/428867
-Denver Nuggets,http://superbits.tv:80/d4Je5xwD/yadTXB63/428868
-Detroit Pistons,http://superbits.tv:80/d4Je5xwD/yadTXB63/428869
-GoldenState Warriors,http://superbits.tv:80/d4Je5xwD/yadTXB63/428870
-Houston Rockets,http://superbits.tv:80/d4Je5xwD/yadTXB63/428871
-Indiana Pacers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428872
-Los Angeles Clippers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428873
-Los Angeles Lakers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428874
-Memphis Grizzlies,http://superbits.tv:80/d4Je5xwD/yadTXB63/428875
-Miami Heat,http://superbits.tv:80/d4Je5xwD/yadTXB63/428876
-Milwaukee Bucks,http://superbits.tv:80/d4Je5xwD/yadTXB63/428877
-Minnesota Timberwolves,http://superbits.tv:80/d4Je5xwD/yadTXB63/428878
-NewOrleans Pelicans,http://superbits.tv:80/d4Je5xwD/yadTXB63/428879
-NewYork Knicks,http://superbits.tv:80/d4Je5xwD/yadTXB63/428880
-Oklahoma Thunder,http://superbits.tv:80/d4Je5xwD/yadTXB63/428881
-Orlando Magic,http://superbits.tv:80/d4Je5xwD/yadTXB63/428882
-Philadelphia 76ers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428883
-Phoenix Suns,http://superbits.tv:80/d4Je5xwD/yadTXB63/428884
-Portland Trail Blazers,http://superbits.tv:80/d4Je5xwD/yadTXB63/428885
-Sacramento Kings,http://superbits.tv:80/d4Je5xwD/yadTXB63/428886
-San Antonio Spurs,http://superbits.tv:80/d4Je5xwD/yadTXB63/428887
-Toronto Raptors,http://superbits.tv:80/d4Je5xwD/yadTXB63/428892
-Utah Jazz,http://superbits.tv:80/d4Je5xwD/yadTXB63/428889
-Washington Wizards,http://superbits.tv:80/d4Je5xwD/yadTXB63/428890
+
+
+
+
+
 
 🐾🦚红牛频道,#genre#
 红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/12129
