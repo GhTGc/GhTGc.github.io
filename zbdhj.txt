@@ -3325,9 +3325,13 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
+NBA TV,http://xtv.ooo:8080/311009689/6471777/223256
 NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/7787.ts
 NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51361.ts
 NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51009.ts
+TNT,http://xtv.ooo:8080/311009689/6471777/223339
+TNT,http://xtv.ooo:8080/311009689/6471777/223340
+YES,http://xtv.ooo:8080/311009689/6471777/223174
 SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
 掘金,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50997.ts
 凯尔特人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51004.ts
