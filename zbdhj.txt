@@ -2039,6 +2039,120 @@ CCTV17,http://223.109.70.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 七彩戏剧,http://223.109.70.11/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 上海教育,http://223.109.70.11/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 
+❤️蜀小果,#genre#
+CCTV-1 综合,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-1H265_4000.m3u8
+CCTV-2 财经,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-2H265_4000.m3u8
+CCTV-3 综艺,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-3H265_4000.m3u8
+CCTV-4 中文国际,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-4H265_4000.m3u8
+CCTV-5 体育,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5H265_4000.m3u8
+CCTV-5+ 体育赛事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5plusH265_4000.m3u8
+CCTV-6 电影,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-6H265_4000.m3u8
+CCTV-7 国防军事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-7H265_4000.m3u8
+CCTV-8 电视剧,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-8H265_4000.m3u8
+CCTV-9 纪录,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-9H265_4000.m3u8
+CCTV-10 科教,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-10H265_4000.m3u8
+CCTV-11 戏曲,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-11-H265_4000.m3u8
+CCTV-12 社会与法,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-12H265_4000.m3u8
+CCTV-13 新闻,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-xw_4000.m3u8
+CCTV-14 少儿,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-14H265_4000.m3u8
+CCTV-15 音乐,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16 奥林匹克,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16_4000.m3u8
+CCTV-16 奥林匹克 4K,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+CCTV-17 农业农村,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-17_4000.m3u8
+CCTV-4K 超高清,http://117.184.239.105/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8
+4K超高清电影 4K,http://117.184.239.105/livehkkp.chinamcache.com/live/emdy4k_8000.m3u8
+欢笑剧场4K,http://117.184.239.105/livehkkp.chinamcache.com/live/hxjc-4k_8000.m3u8
+凤凰中文,http://117.184.239.105/livehkkp.chinamcache.com/live/test1_4000.m3u8
+凤凰资讯,http://117.184.239.105/livehkkp.chinamcache.com/live/test2_4000.m3u8
+安徽卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/ahwsH265_4000.m3u8
+北京卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/bjwsH265_4000.m3u8
+兵团卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/btws_4000.m3u8
+重庆卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/cqwsH265_4000.m3u8
+东方卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/dfwsH265_4000.m3u8
+东南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/dnwsfjwsH265_4000.m3u8
+甘肃卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/gsws_4000.m3u8
+广东卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/gdwsH265_4000.m3u8
+广西卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/gxws_4000.m3u8
+贵州卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/gzwsH265_4000.m3u8
+海南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/hnws_4000.m3u8
+河南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/hnws35_4000.m3u8
+黑龙江卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/hljwsH265_4000.m3u8
+湖北卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/hbwsH265_4000.m3u8
+湖南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/hnwsH265_4000.m3u8
+吉林卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/jlwsH265_4000.m3u8
+江苏卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/jswsH265_4000.m3u8
+江西卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/jxwsH265_4000.m3u8
+康巴卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/kbwsH264_2000.m3u8
+辽宁卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/lnwsHDH264_4000.m3u8
+内蒙古卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/nmgws_4000.m3u8
+山东教育卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/sdjy_4000.m3u8
+山东卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/sdwsH265_4000.m3u8
+山西卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/sxws42_4000.m3u8
+陕西卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/sxws_4000.m3u8
+深圳卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/szwsH265_4000.m3u8
+四川卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/scwsH265_4000.m3u8
+天津卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/tjwsH265_4000.m3u8
+西藏卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/xzwsH264_2000.m3u8
+云南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/ynws_4000.m3u8
+浙江卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/zjwsH265_4000.m3u8
+CETV-1,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-1H264_4000.m3u8
+CETV-4,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-4H264_2000.m3u8
+CBN风尚生活,http://117.184.239.105/livehkkp.chinamcache.com/live/fssh_4000.m3u8
+CBN每日影院,http://117.184.239.105/livehkkp.chinamcache.com/live/mryy_4000.m3u8
+CBN幸福剧场,http://117.184.239.105/livehkkp.chinamcache.com/live/xfjc_4000.m3u8
+CBN幸福娱乐,http://117.184.239.105/livehkkp.chinamcache.com/live/xfyl_4000.m3u8
+CHC动作电影,http://117.184.239.105/livehkkp.chinamcache.com/live/wqCHCdzdyH265_4000.m3u8
+CHC高清电影,http://117.184.239.105/livehkkp.chinamcache.com/live/lnwsCHC-HDH265_4000.m3u8
+CHC家庭影院,http://117.184.239.105/livehkkp.chinamcache.com/live/jbtygqCHCjtyyH265_4000.m3u8
+四川峨嵋电影,http://117.184.239.105/livehkkp.chinamcache.com/live/emdygqH265_4000.m3u8
+四川文化旅游,http://117.184.239.105/livehkkp.chinamcache.com/live/SCTV-2-H265_4000.m3u8
+四川经济,http://117.184.239.105/livehkkp.chinamcache.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,http://117.184.239.105/livehkkp.chinamcache.com/live/SCTV-4H265_4000.m3u8
+四川影视文艺,http://117.184.239.105/livehkkp.chinamcache.com/live/SCTV-5-scysH265_4000.m3u8
+四川科教,http://117.184.239.105/livehkkp.chinamcache.com/live/SCTV-ggSCTV-8_4000.m3u8
+动漫秀场,http://117.184.239.105/livehkkp.chinamcache.com/live/yybb-dmxc-H265_4000.m3u8
+都市剧场,http://117.184.239.105/livehkkp.chinamcache.com/live/yxfydsjcHDH265_4000.m3u8
+法治天地,http://117.184.239.105/livehkkp.chinamcache.com/live/fztx_4000.m3u8
+极速汽车,http://117.184.239.105/livehkkp.chinamcache.com/live/jsqcH265_4000.m3u8
+纪实科教,http://117.184.239.105/livehkkp.chinamcache.com/live/bjjs_2000.m3u8
+嘉佳卡通,http://117.184.239.105/livehkkp.chinamcache.com/live/jjkt_2000.m3u8
+家庭理财,http://117.184.239.105/livehkkp.chinamcache.com/live/jtlc_4000.m3u8
+江苏财富天下,http://117.184.239.105/livehkkp.chinamcache.com/live/cftx_4000.m3u8
+金鹰纪实,http://117.184.239.105/livehkkp.chinamcache.com/live/jyjsHDH265_4000.m3u8
+金鹰卡通,http://117.184.239.105/livehkkp.chinamcache.com/live/jykt_2000.m3u8
+聚鲨环球精选,http://117.184.239.105/livehkkp.chinamcache.com/live/jshqjxHD_4000.m3u8
+卡酷少儿,http://117.184.239.105/livehkkp.chinamcache.com/live/kkkt_4000.m3u8
+快乐垂钓,http://117.184.239.105/livehkkp.chinamcache.com/live/fyzqklcdHDH265_4000.m3u8
+乐游,http://117.184.239.105/livehkkp.chinamcache.com/live/qjs-HDH265_4000.m3u8
+梨园频道,http://117.184.239.105/livehkkp.chinamcache.com/live/ly_4000.m3u8
+魅力足球,http://117.184.239.105/livehkkp.chinamcache.com/live/mlyy_4000.m3u8
+七彩戏剧,http://117.184.239.105/livehkkp.chinamcache.com/live/qcxj_2000.m3u8
+摄影频道,http://117.184.239.105/livehkkp.chinamcache.com/live/sy_4000.m3u8
+生活时尚,http://117.184.239.105/livehkkp.chinamcache.com/live/shssH265_4000.m3u8
+四海钓鱼,http://117.184.239.105/livehkkp.chinamcache.com/live/shdy_4000.m3u8
+天元围棋,http://117.184.239.105/livehkkp.chinamcache.com/live/tywq_2000.m3u8
+武术世界,http://117.184.239.105/livehkkp.chinamcache.com/live/wssj_4000.m3u8
+先锋乒羽,http://117.184.239.105/livehkkp.chinamcache.com/live/xfpy_4000.m3u8
+新视觉,http://117.184.239.105/livehkkp.chinamcache.com/live/ycxsjH265_4000.m3u8
+证劵服务,http://117.184.239.105/livehkkp.chinamcache.com/live/jz_2000.m3u8
+CGTN-俄语,http://117.184.239.105/livehkkp.chinamcache.com/live/ey_2000.m3u8
+CGTN-法语,http://117.184.239.105/livehkkp.chinamcache.com/live/fy_2000.m3u8
+CGTN-西语,http://117.184.239.105/livehkkp.chinamcache.com/live/xbyy_2000.m3u8
+CGTN-英语,http://117.184.239.105/livehkkp.chinamcache.com/live/CGTN_4000.m3u8
+中国天气,http://117.184.239.105/livehkkp.chinamcache.com/live/zgqx_4000.m3u8
+中央新影-发现之旅,http://117.184.239.105/livehkkp.chinamcache.com/live/fxzl_2000.m3u8
+中央新影-老故事,http://117.184.239.105/livehkkp.chinamcache.com/live/lgs_2000.m3u8
+中央新影-中学生,http://117.184.239.105/livehkkp.chinamcache.com/live/zxs_4000.m3u8
+川广融媒,http://117.184.239.105/livehkkp.chinamcache.com/live/cgrh_2000.m3u8
+川网导视,http://117.184.239.105/livehkkp.chinamcache.com/live/cwdsHDH264_4000.m3u8
+精品导视,http://117.184.239.105/livehkkp.chinamcache.com/live/jpdsH265_4000.m3u8
+沙湾融媒,http://117.184.239.105/livehkkp.chinamcache.com/live/swxwzh_2000.m3u8
+成都新闻综合,http://117.184.239.105/livehkkp.chinamcache.com/live/CDTV-1_4000.m3u8
+成都经济资讯,http://117.184.239.105/livehkkp.chinamcache.com/live/CDTV-2_4000.m3u8
+成都都市生活,http://117.184.239.105/livehkkp.chinamcache.com/live/CDTV-3_4000.m3u8
+成都影视文艺,http://117.184.239.105/livehkkp.chinamcache.com/live/CDTV-4_4000.m3u8
+成都公共频道,http://117.184.239.105/livehkkp.chinamcache.com/live/CDTV-5_4000.m3u8
+成都高新区,http://117.184.239.105/livehkkp.chinamcache.com/live/cdgxdstgq_2000.m3u8
 
 ❤️重庆有线源,#genre#
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
