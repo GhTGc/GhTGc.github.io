@@ -3585,14 +3585,25 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
+NBA TV,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/104727
 NBA TV,http://xtv.ooo:8080/311009689/6471777/223256
-NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/7787.ts
-NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51361.ts
-NBA TV,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51009.ts
+NBA TV2,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/100800
 TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
 SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
+League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73265.ts
+League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73266.ts
+League Pass 2,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73268.ts
+League Pass 2,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73269.ts
+League Pass 3,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73271.ts
+League Pass 3,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73272.ts
+League Pass 4,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73274.ts
+League Pass 4,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73275.ts
+League Pass 5,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73277.ts
+League Pass 5,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73278.ts
+League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73280.ts
+League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73281.ts
 掘金,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50997.ts
 凯尔特人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51004.ts
 76人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50993.ts
