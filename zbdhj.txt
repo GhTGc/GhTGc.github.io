@@ -2040,27 +2040,142 @@ CCTV17,http://223.109.70.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 上海教育,http://223.109.70.11/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 
 ❤️蜀小果,#genre#
-CCTV-1 综合,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-1H265_4000.m3u8
-CCTV-2 财经,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-2H265_4000.m3u8
-CCTV-3 综艺,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-3H265_4000.m3u8
-CCTV-4 中文国际,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-4H265_4000.m3u8
-CCTV-5 体育,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5H265_4000.m3u8
-CCTV-5+ 体育赛事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-6 电影,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-6H265_4000.m3u8
-CCTV-7 国防军事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-7H265_4000.m3u8
-CCTV-8 电视剧,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-8H265_4000.m3u8
-CCTV-9 纪录,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-9H265_4000.m3u8
-CCTV-10 科教,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-10H265_4000.m3u8
-CCTV-11 戏曲,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-11-H265_4000.m3u8
-CCTV-12 社会与法,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-12H265_4000.m3u8
-CCTV-13 新闻,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-xw_4000.m3u8
-CCTV-14 少儿,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-14H265_4000.m3u8
-CCTV-15 音乐,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16 奥林匹克,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16_4000.m3u8
-CCTV-16 奥林匹克 4K,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
-CCTV-17 农业农村,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-17_4000.m3u8
-CCTV-4K 超高清,http://117.184.239.105/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8
-4K超高清电影 4K,http://117.184.239.105/livehkkp.chinamcache.com/live/emdy4k_8000.m3u8
+CCTV4K 超高清,http://jiandjh.51vip.biz:5678/sxg.php?id=ys4Kcq_2000
+4K超高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=emdy4k_8000
+欢笑剧场4K,http://jiandjh.51vip.biz:5678/sxg.php?id=hxjc4k_8000
+1905电影,http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+CBN每日影院,http://jiandjh.51vip.biz:5678/sxg.php?id=mryy_4000
+CBN幸福剧场,http://jiandjh.51vip.biz:5678/sxg.php?id=xfjc_4000
+CBN幸福娱乐,http://jiandjh.51vip.biz:5678/sxg.php?id=xfyl_4000
+CHC动作电影,http://jiandjh.51vip.biz:5678/sxg.php?id=wqCHCdzdyH265_4000
+CHC高清电影,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsCHCHDH265_4000
+CHC家庭影院,http://jiandjh.51vip.biz:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
+四川峨嵋电影,http://jiandjh.51vip.biz:5678/sxg.php?id=emdygqH265_4000
+凤凰中文,http://jiandjh.51vip.biz:5678/sxg.php?id=test1_4000
+凤凰资讯,http://jiandjh.51vip.biz:5678/sxg.php?id=test2_4000
+CCTV1 综合,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV1H265_4000
+CCTV2 财经,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV2H265_4000
+CCTV3 综艺,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV3H265_4000
+CCTV4 中文国际,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV4H265_4000
+CCTV5 体育,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV5H265_4000
+CCTV5+ 体育赛事,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV5plusH265_4000
+CCTV6 电影,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV6H265_4000
+CCTV7 国防军事,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV7H265_4000
+CCTV8 电视剧,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV8H265_4000
+CCTV9 纪录,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV9H265_4000
+CCTV10 科教,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV10H265_4000
+CCTV11 戏曲,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV11H265_4000
+CCTV12 社会与法,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV12H265_4000
+CCTV13 新闻,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTVxw_4000
+CCTV14 少儿,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV14H265_4000
+CCTV15 音乐,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV15yyH265_4000
+CCTV16 奥林匹克,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV164K_8000
+CCTV16 奥林匹克,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV16_4000
+CCTV17 农业农村,http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV17_4000
+安徽卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=ahwsH265_4000
+北京卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=bjwsH265_4000
+兵团卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=btws_4000
+重庆卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=cqwsH265_4000
+东方卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=dfwsH265_4000
+东南卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=dnwsfjwsH265_4000
+甘肃卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=gsws_4000
+广东卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=gdwsH265_4000
+广西卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=gxws_4000
+贵州卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=gzwsH265_4000
+海南卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hnws_4000
+河南卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hnws35_4000
+黑龙江卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hljwsH265_4000
+湖北卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hbwsH265_4000
+湖南卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=hnwsH265_4000
+吉林卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=jlwsH265_4000
+江苏卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=jswsH265_4000
+江西卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=jxwsH265_4000
+康巴卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=kbwsH264_2000
+辽宁卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=lnwsHDH264_4000
+内蒙古卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=nmgws_4000
+山东教育卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=sdjy_4000
+山东卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=sdwsH265_4000
+山西卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=sxws42_4000
+陕西卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=sxws_4000
+深圳卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=szwsH265_4000
+四川卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=scwsH265_4000
+天津卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=tjwsH265_4000
+西藏卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=xzwsH264_2000
+云南卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=ynws_4000
+浙江卫视,http://jiandjh.51vip.biz:5678/sxg.php?id=zjwsH265_4000
+CETV1,http://jiandjh.51vip.biz:5678/sxg.php?id=CETV1H264_4000
+CETV4,http://jiandjh.51vip.biz:5678/sxg.php?id=CETV4H264_2000
+CBN风尚生活,http://jiandjh.51vip.biz:5678/sxg.php?id=fssh_4000
+四川文化旅游,http://jiandjh.51vip.biz:5678/sxg.php?id=SCTV2H265_4000
+四川经济,http://jiandjh.51vip.biz:5678/sxg.php?id=SCTV3H265_4000
+四川新闻,http://jiandjh.51vip.biz:5678/sxg.php?id=SCTV4H265_4000
+四川影视文艺,http://jiandjh.51vip.biz:5678/sxg.php?id=SCTV5scysH265_4000
+四川科教,http://jiandjh.51vip.biz:5678/sxg.php?id=SCTVggSCTV8_4000
+动漫秀场,http://jiandjh.51vip.biz:5678/sxg.php?id=yybbdmxcH265_4000
+都市剧场,http://jiandjh.51vip.biz:5678/sxg.php?id=yxfydsjcHDH265_4000
+法治天地,http://jiandjh.51vip.biz:5678/sxg.php?id=fztx_4000
+极速汽车,http://jiandjh.51vip.biz:5678/sxg.php?id=jsqcH265_4000
+纪实科教,http://jiandjh.51vip.biz:5678/sxg.php?id=bjjs_2000
+嘉佳卡通,http://jiandjh.51vip.biz:5678/sxg.php?id=jjkt_2000
+家庭理财,http://jiandjh.51vip.biz:5678/sxg.php?id=jtlc_4000
+江苏财富天下,http://jiandjh.51vip.biz:5678/sxg.php?id=cftx_4000
+金鹰纪实,http://jiandjh.51vip.biz:5678/sxg.php?id=jyjsHDH265_4000
+金鹰卡通,http://jiandjh.51vip.biz:5678/sxg.php?id=jykt_2000
+聚鲨环球精选,http://jiandjh.51vip.biz:5678/sxg.php?id=jshqjxHD_4000
+卡酷少儿,http://jiandjh.51vip.biz:5678/sxg.php?id=kkkt_4000
+快乐垂钓,http://jiandjh.51vip.biz:5678/sxg.php?id=fyzqklcdHDH265_4000
+乐游,http://jiandjh.51vip.biz:5678/sxg.php?id=qjsHDH265_4000
+梨园频道,http://jiandjh.51vip.biz:5678/sxg.php?id=ly_4000
+魅力足球,http://jiandjh.51vip.biz:5678/sxg.php?id=mlyy_4000
+七彩戏剧,http://jiandjh.51vip.biz:5678/sxg.php?id=qcxj_2000
+摄影频道,http://jiandjh.51vip.biz:5678/sxg.php?id=sy_4000
+生活时尚,http://jiandjh.51vip.biz:5678/sxg.php?id=shssH265_4000
+四海钓鱼,http://jiandjh.51vip.biz:5678/sxg.php?id=shdy_4000
+天元围棋,http://jiandjh.51vip.biz:5678/sxg.php?id=tywq_2000
+武术世界,http://jiandjh.51vip.biz:5678/sxg.php?id=wssj_4000
+先锋乒羽,http://jiandjh.51vip.biz:5678/sxg.php?id=xfpy_4000
+新视觉,http://jiandjh.51vip.biz:5678/sxg.php?id=ycxsjH265_4000
+证劵服务,http://jiandjh.51vip.biz:5678/sxg.php?id=jz_2000
+CGTN俄语,http://jiandjh.51vip.biz:5678/sxg.php?id=ey_2000
+CGTN法语,http://jiandjh.51vip.biz:5678/sxg.php?id=fy_2000
+CGTN西语,http://jiandjh.51vip.biz:5678/sxg.php?id=xbyy_2000
+CGTN英语,http://jiandjh.51vip.biz:5678/sxg.php?id=CGTN_4000
+中国天气,http://jiandjh.51vip.biz:5678/sxg.php?id=zgqx_4000
+中央新影发现之旅,http://jiandjh.51vip.biz:5678/sxg.php?id=fxzl_2000
+中央新影老故事,http://jiandjh.51vip.biz:5678/sxg.php?id=lgs_2000
+中央新影中学生,http://jiandjh.51vip.biz:5678/sxg.php?id=zxs_4000
+川广融媒,http://jiandjh.51vip.biz:5678/sxg.php?id=cgrh_2000
+川网导视,http://jiandjh.51vip.biz:5678/sxg.php?id=cwdsHDH264_4000
+精品导视,http://jiandjh.51vip.biz:5678/sxg.php?id=jpdsH265_4000
+沙湾融媒,http://jiandjh.51vip.biz:5678/sxg.php?id=swxwzh_2000
+成都新闻综合,http://jiandjh.51vip.biz:5678/sxg.php?id=CDTV1_4000
+成都经济资讯,http://jiandjh.51vip.biz:5678/sxg.php?id=CDTV2_4000
+成都都市生活,http://jiandjh.51vip.biz:5678/sxg.php?id=CDTV3_4000
+成都影视文艺,http://jiandjh.51vip.biz:5678/sxg.php?id=CDTV4_4000
+成都公共频道,http://jiandjh.51vip.biz:5678/sxg.php?id=CDTV5_4000
+成都高新区,http://jiandjh.51vip.biz:5678/sxg.php?id=cdgxdstgq_2000
+
+CCTV1 综合,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-1H265_4000.m3u8
+CCTV2 财经,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-2H265_4000.m3u8
+CCTV3 综艺,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-3H265_4000.m3u8
+CCTV4 中文国际,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-4H265_4000.m3u8
+CCTV5 体育,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5H265_4000.m3u8
+CCTV5+ 体育赛事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-5plusH265_4000.m3u8
+CCTV6 电影,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-6H265_4000.m3u8
+CCTV7 国防军事,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-7H265_4000.m3u8
+CCTV8 电视剧,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-8H265_4000.m3u8
+CCTV9 纪录,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-9H265_4000.m3u8
+CCTV10 科教,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-10H265_4000.m3u8
+CCTV11 戏曲,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-11-H265_4000.m3u8
+CCTV12 社会与法,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-12H265_4000.m3u8
+CCTV13 新闻,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-xw_4000.m3u8
+CCTV14 少儿,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-14H265_4000.m3u8
+CCTV15 音乐,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV16 奥林匹克,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+CCTV16 奥林匹克,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-16_4000.m3u8
+CCTV17 农业农村,http://117.184.239.105/livehkkp.chinamcache.com/live/CCTV-17_4000.m3u8
+CCTV4K 超高清,http://117.184.239.105/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8
+4K超高清电影,http://117.184.239.105/livehkkp.chinamcache.com/live/emdy4k_8000.m3u8
 欢笑剧场4K,http://117.184.239.105/livehkkp.chinamcache.com/live/hxjc-4k_8000.m3u8
 凤凰中文,http://117.184.239.105/livehkkp.chinamcache.com/live/test1_4000.m3u8
 凤凰资讯,http://117.184.239.105/livehkkp.chinamcache.com/live/test2_4000.m3u8
@@ -2095,8 +2210,8 @@ CCTV-4K 超高清,http://117.184.239.105/livehkkp.chinamcache.com/live/ys4Kcq_20
 西藏卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/xzwsH264_2000.m3u8
 云南卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/ynws_4000.m3u8
 浙江卫视,http://117.184.239.105/livehkkp.chinamcache.com/live/zjwsH265_4000.m3u8
-CETV-1,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-1H264_4000.m3u8
-CETV-4,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-4H264_2000.m3u8
+CETV1,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-1H264_4000.m3u8
+CETV4,http://117.184.239.105/livehkkp.chinamcache.com/live/CETV-4H264_2000.m3u8
 CBN风尚生活,http://117.184.239.105/livehkkp.chinamcache.com/live/fssh_4000.m3u8
 CBN每日影院,http://117.184.239.105/livehkkp.chinamcache.com/live/mryy_4000.m3u8
 CBN幸福剧场,http://117.184.239.105/livehkkp.chinamcache.com/live/xfjc_4000.m3u8
