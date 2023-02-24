@@ -3478,6 +3478,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 💞NBA,#genre#
 NBA TV,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/104727
+NBA TV,http://7go.xyz:88/guilhermecli/58295512/296375
 NBA TV,http://xtv.ooo:8080/311009689/6471777/223256
 NBA TV2,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/100800
 TNT,http://xtv.ooo:8080/311009689/6471777/242167
@@ -3485,6 +3486,16 @@ TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
 SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
+League Pass 1,http://7go.xyz:88/guilhermecli/58295512/296377
+League Pass 1,http://7go.xyz:88/guilhermecli/58295512/27274
+League Pass 2,http://7go.xyz:88/guilhermecli/58295512/29638
+League Pass 3,http://7go.xyz:88/guilhermecli/58295512/296381
+League Pass 4,http://7go.xyz:88/guilhermecli/58295512/296379
+League Pass 5,http://7go.xyz:88/guilhermecli/58295512/296382
+League Pass 6,http://7go.xyz:88/guilhermecli/58295512/296376
+League Pass 7,http://7go.xyz:88/guilhermecli/58295512/296378
+League Pass 8,http://7go.xyz:88/guilhermecli/58295512/296383
+
 League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73265.ts
 League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73266.ts
 League Pass 2,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73268.ts
