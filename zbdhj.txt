@@ -3569,11 +3569,15 @@ League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73281.ts
 🐾🦚美国新闻,#genre#
 THE WEATHER CHANNEL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaaSYtvIZRfTjMTA15gI3Utc/ts
 ABC NEWS LIVE,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaajcgnPdKZ8HsC4Rm66sN_U/ts
+CNN,http://thehive.tv:25461/BrianT/4506493630/27
 CNN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaZrzOUeSX6QCSWKKqUaRRew/ts
 CNN INTERNATIONAL,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXaa319JkN2jHy0tFzPX9cM/ts
 CNBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaei8S-Z7FFiLVcxyqcnuWLc/ts
+CNBC WORLD,http://thehive.tv:25461/BrianT/4506493630/32
 CNBC WORLD,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWPRCrdGL-Nehq8oaP4olg8/ts
+FOX NEWS,http://thehive.tv:25461/BrianT/4506493630/51
 FOX NEWS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaQt3QGL2eMRyzLhBPLhE2xI/ts
+MSNBC,http://thehive.tv:25461/BrianT/4506493630/136
 MSNBC,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWaKLoxJPtCqQRr0tDgNe0I/ts
 FOX BUSINESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINae2-uktnP6uoU4_MskeKSa4/ts
 FOX BUSINESS,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaUkuH0ScBXcIIzvr4gArSuw/ts
