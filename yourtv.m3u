@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="News",BBC News
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577227&extension=ts
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="News",CNN
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=552000&extension=ts
+#EXTINF:-1,tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://epg.112114.xyz/logo/ABCNEWSLIVE.png" group-title="News",ABC News Live
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=551995&extension=ts
+#EXTINF:-1,tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="News",CBS News
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=551996&extension=ts
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="News",FOX News
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=551982&extension=ts
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="News",France24
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=551983&extension=ts
+#EXTINF:-1,tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://epg.112114.xyz/logo/MSNBC.png" group-title="News",MSNBC
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=551986&extension=ts
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.112114.xyz/logo/EUROSPORT.png" group-title="UK Sports",EuroSport 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577963&extension=ts
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.112114.xyz/logo/EUROSPORT.png" group-title="UK Sports",EuroSport 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577962&extension=ts
+#EXTINF:-1,tvg-id="PremierSport Laliga" tvg-name="PremierSport Laliga" tvg-logo="https://epg.112114.xyz/logo/PREMIERSPORTLALIGA.png" group-title="UK Sports",PremierSport Laliga
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577961&extension=ts
+#EXTINF:-1,tvg-id="BT Sport 1" tvg-name="BT Sport 1" tvg-logo="https://epg.112114.xyz/logo/BTSPORT1.png" group-title="UK Sports",BT Sport 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=578001&extension=ts
+#EXTINF:-1,tvg-id="BT Sport 1" tvg-name="BT Sport 1" tvg-logo="https://epg.112114.xyz/logo/BTSPORT1.png" group-title="UK Sports",BT Sport 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577967&extension=ts
+#EXTINF:-1,tvg-id="BT Sport 2" tvg-name="BT Sport 2" tvg-logo="https://epg.112114.xyz/logo/BTSPORT2.png" group-title="UK Sports",BT Sport 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577966&extension=ts
+#EXTINF:-1,tvg-id="BT Sport 3" tvg-name="BT Sport 3" tvg-logo="https://epg.112114.xyz/logo/BTSPORT3.png" group-title="UK Sports",BT Sport 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577965&extension=ts
+#EXTINF:-1,tvg-id="BT Sport 4" tvg-name="BT Sport 4" tvg-logo="https://epg.112114.xyz/logo/BTSPORT4.png" group-title="UK Sports",BT Sport 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=577964&extension=ts
+#EXTINF:-1,tvg-id="Canal+ 360" tvg-name="Canal+ 360" tvg-logo="https://epg.112114.xyz/logo/CANAL+.png" group-title="FR Sports",Canal+ 360
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=770797&extension=ts
+#EXTINF:-1,tvg-id="Canal+ Premier League" tvg-name="Canal+ Premier League" tvg-logo="https://epg.112114.xyz/logo/CANAL+PREMIERLEAGUE.png" group-title="FR Sports",Canal+ Premier League
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845392&extension=ts
+#EXTINF:-1,tvg-id="Canal+ Premier League" tvg-name="Canal+ Premier League" tvg-logo="https://epg.112114.xyz/logo/CANAL+PREMIERLEAGUE.png" group-title="FR Sports",Canal+ Premier League
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=554015&extension=ts
+#EXTINF:-1,tvg-id="Canal+ Premier League" tvg-name="Canal+ Premier League" tvg-logo="https://epg.112114.xyz/logo/CANAL+PREMIERLEAGUE.png" group-title="FR Sports",Canal+ Premier League
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=756583&extension=ts
+#EXTINF:-1,tvg-id="Canal+ F1" tvg-name="Canal+ F1" tvg-logo="https://epg.112114.xyz/logo/CANAL+F1.png" group-title="FR Sports",Canal+ F1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845372&extension=ts
+#EXTINF:-1,tvg-id="Canal+ MotoGP" tvg-name="Canal+ MotoGP" tvg-logo="https://epg.112114.xyz/logo/CANAL+MOTOGP.png" group-title="FR Sports",Canal+ MotoGP
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845371&extension=ts
+#EXTINF:-1,tvg-id="Foot+" tvg-name="Foot+" tvg-logo="https://epg.112114.xyz/logo/FOOT+.png" group-title="FR Sports",Foot+
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845393&extension=ts
+#EXTINF:-1,tvg-id="Golf+" tvg-name="Golf+" tvg-logo="https://epg.112114.xyz/logo/GOLF+.png" group-title="FR Sports",Golf+
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=756587&extension=ts
+#EXTINF:-1,tvg-id="NBC Golf" tvg-name="NBC Golf" tvg-logo="https://epg.112114.xyz/logo/NBCGOLF.png" group-title="FR Sports",NBC Golf
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=756586&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport 1" tvg-name="BeIN Sport 1" tvg-logo="https://epg.112114.xyz/logo/BEINSPORT1.png" group-title="FR Sports",BeIN Sport 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845390&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport 2" tvg-name="BeIN Sport 2" tvg-logo="https://epg.112114.xyz/logo/BEINSPORT2.png" group-title="FR Sports",BeIN Sport 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845389&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport 3" tvg-name="BeIN Sport 3" tvg-logo="https://epg.112114.xyz/logo/BEINSPORT3.png" group-title="FR Sports",BeIN Sport 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=845388&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 4" tvg-name="BeIN Sport Max 4" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX4.png" group-title="FR Sports",BeIN Sport Max 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548746&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 5" tvg-name="BeIN Sport Max 5" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX5.png" group-title="FR Sports",BeIN Sport Max 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548747&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 6" tvg-name="BeIN Sport Max 6" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX6.png" group-title="FR Sports",BeIN Sport Max 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548748&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 7" tvg-name="BeIN Sport Max 7" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX7.png" group-title="FR Sports",BeIN Sport Max 7
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548749&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 8" tvg-name="BeIN Sport Max 8" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX8.png" group-title="FR Sports",BeIN Sport Max 8
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548750&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 9" tvg-name="BeIN Sport Max 9" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX9.png" group-title="FR Sports",BeIN Sport Max 9
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548751&extension=ts
+#EXTINF:-1,tvg-id="BeIN Sport Max 10" tvg-name="BeIN Sport Max 10" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTMAX10.png" group-title="FR Sports",BeIN Sport Max 10
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=548745&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605978&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605977&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605976&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605975&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605974&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605973&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 7
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605972&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 8
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=605971&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603210&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603209&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603208&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603207&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603206&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603205&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 7
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603204&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="FR Sports",Amazon Prime 8
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603203&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="DE Sports",Dazn Bar 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699785&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="DE Sports",Dazn Bar 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699783&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga" tvg-name="Sky Sport Bundesliga" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA.png" group-title="DE Sports",Sky Sport Bundesliga
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=750139&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA1.png" group-title="DE Sports",Sky Sport Bundesliga 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699772&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 2" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA2.png" group-title="DE Sports",Sky Sport Bundesliga 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699770&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 3" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA3.png" group-title="DE Sports",Sky Sport Bundesliga 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699768&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 4" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA4.png" group-title="DE Sports",Sky Sport Bundesliga 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699766&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 5" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA5.png" group-title="DE Sports",Sky Sport Bundesliga 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699764&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 6" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA6.png" group-title="DE Sports",Sky Sport Bundesliga 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699762&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 7" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA7.png" group-title="DE Sports",Sky Sport Bundesliga 7
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699760&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 8" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA8.png" group-title="DE Sports",Sky Sport Bundesliga 8
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699758&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 9" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA9.png" group-title="DE Sports",Sky Sport Bundesliga 9
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699756&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Bundesliga 10" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBUNDESLIGA10.png" group-title="DE Sports",Sky Sport Bundesliga 10
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=699754&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport UNO" tvg-name="Sky Sport UNO" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTUNO.png" group-title="IT Sports",Sky Sport UNO
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601808&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport BarUNO" tvg-name="Sky Sport BarUNO" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTBARUNO.png" group-title="IT Sports",Sky Sport BarUNO
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=603943&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTARENA.png" group-title="IT Sports",Sky Sport Arena
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601851&extension=ts
+#EXTINF:-1,tvg-id="Super Tennis" tvg-name="Super Tennis" tvg-logo="https://epg.112114.xyz/logo/SUPERTENNIS.png" group-title="IT Sports",Super Tennis
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601802&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTTENNIS.png" group-title="IT Sports",Sky Sport Tennis
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601848&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Sport Calcio
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601832&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTNBA.png" group-title="IT Sports",Sky Sport NBA
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601835&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTFOOTBALL.png" group-title="IT Sports",Sky Sport Football
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601841&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTF1.png" group-title="IT Sports",Sky Sport F1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601844&extension=ts
+#EXTINF:-1,tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTMOTOGP.png" group-title="IT Sports",Sky Sport MotoGP
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601838&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="IT Sports",Sky Dazn Bar
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601795&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601829&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601826&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601823&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601820&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601817&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601814&extension=ts
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="IT Sports",Sky Calcio 7
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=601812&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="ES Sports",Dazn Laliga
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=760761&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="ES Sports",Dazn Laliga 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=800992&extension=ts
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="ES Sports",Dazn F1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=754448&extension=ts
+#EXTINF:-1,tvg-id="Laliga123" tvg-name="Laliga123" tvg-logo="https://epg.112114.xyz/logo/LALIGA.png" group-title="ES Sports",Laliga123
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=477216&extension=ts
+#EXTINF:-1,tvg-id="Laliga123" tvg-name="Laliga123" tvg-logo="https://epg.112114.xyz/logo/LALIGA.png" group-title="ES Sports",Laliga123
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=408217&extension=ts
+#EXTINF:-1,tvg-id="LaligaTV Bar" tvg-name="LaligaTV Bar" tvg-logo="https://epg.112114.xyz/logo/LALIGATVBAR.png" group-title="ES Sports",LaligaTV Bar
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505619&extension=ts
+#EXTINF:-1,tvg-id="LaligaTV Bar 1" tvg-name="LaligaTV Bar 1" tvg-logo="https://epg.112114.xyz/logo/LALIGATVBAR1.png" group-title="ES Sports",LaligaTV Bar 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505644&extension=ts
+#EXTINF:-1,tvg-id="LaligaTV Bar 2" tvg-name="LaligaTV Bar 2" tvg-logo="https://epg.112114.xyz/logo/LALIGATVBAR2.png" group-title="ES Sports",LaligaTV Bar 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505645&extension=ts
+#EXTINF:-1,tvg-id="LaligaTV Bar 3" tvg-name="LaligaTV Bar 3" tvg-logo="https://epg.112114.xyz/logo/LALIGATVBAR3.png" group-title="ES Sports",LaligaTV Bar 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505646&extension=ts
+#EXTINF:-1,tvg-id="LaligaTV Bar 4" tvg-name="LaligaTV Bar 4" tvg-logo="https://epg.112114.xyz/logo/LALIGATVBAR4.png" group-title="ES Sports",LaligaTV Bar 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505647&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga" tvg-name="M.Laliga" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA.png" group-title="ES Sports",M.Laliga
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718917&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 1" tvg-name="M.Laliga 1" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA1.png" group-title="ES Sports",M.Laliga 1
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718914&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 2" tvg-name="M.Laliga 2" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA2.png" group-title="ES Sports",M.Laliga 2
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718915&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 3" tvg-name="M.Laliga 3" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA3.png" group-title="ES Sports",M.Laliga 3
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718916&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 4" tvg-name="M.Laliga 4" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA4.png" group-title="ES Sports",M.Laliga 4
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718918&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 5" tvg-name="M.Laliga 5" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA5.png" group-title="ES Sports",M.Laliga 5
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=505625&extension=ts
+#EXTINF:-1,tvg-id="M.Laliga 6" tvg-name="M.Laliga 6" tvg-logo="https://epg.112114.xyz/logo/M.LALIGA6.png" group-title="ES Sports",M.Laliga 6
+http://4kmini.live/play/live.php?mac=00:1A:79:06:e8:f8&stream=718917&extension=ts
