@@ -2049,235 +2049,120 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 
 ❤️蜀小果,#genre#
-CCTV4K 超高清,http://wabc.ml/sxg.php?id=ys4Kcq_2000
-4K超高清电影,http://wabc.ml/sxg.php?id=emdy4k_8000
-欢笑剧场4K,http://wabc.ml/sxg.php?id=hxjc4k_8000
+CCTV4K 超高清,https://live.v1.mk/api/sxg.php?id=ys4Kcq_2000
+4K超高清电影,https://live.v1.mk/api/sxg.php?id=emdy4k_8000
+欢笑剧场4K,https://live.v1.mk/api/sxg.php?id=hxjc4k_8000
 1905电影,http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-CBN每日影院,http://wabc.ml/sxg.php?id=mryy_4000
-CBN幸福剧场,http://wabc.ml/sxg.php?id=xfjc_4000
-CBN幸福娱乐,http://wabc.ml/sxg.php?id=xfyl_4000
-CHC动作电影,http://wabc.ml/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,http://wabc.ml/sxg.php?id=lnwsCHCHDH265_4000
-CHC家庭影院,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
-四川峨嵋电影,http://wabc.ml/sxg.php?id=emdygqH265_4000
-凤凰中文,http://wabc.ml/sxg.php?id=test1_4000
-凤凰资讯,http://wabc.ml/sxg.php?id=test2_4000
-CCTV1 综合,http://wabc.ml/sxg.php?id=CCTV1H265_4000
-CCTV2 财经,http://wabc.ml/sxg.php?id=CCTV2H265_4000
-CCTV3 综艺,http://wabc.ml/sxg.php?id=CCTV3H265_4000
-CCTV4 中文国际,http://wabc.ml/sxg.php?id=CCTV4H265_4000
-CCTV5 体育,http://wabc.ml/sxg.php?id=CCTV5H265_4000
-CCTV5+ 体育赛事,http://wabc.ml/sxg.php?id=CCTV5plusH265_4000
-CCTV6 电影,http://wabc.ml/sxg.php?id=CCTV6H265_4000
-CCTV7 国防军事,http://wabc.ml/sxg.php?id=CCTV7H265_4000
-CCTV8 电视剧,http://wabc.ml/sxg.php?id=CCTV8H265_4000
-CCTV9 纪录,http://wabc.ml/sxg.php?id=CCTV9H265_4000
-CCTV10 科教,http://wabc.ml/sxg.php?id=CCTV10H265_4000
-CCTV11 戏曲,http://wabc.ml/sxg.php?id=CCTV11H265_4000
-CCTV12 社会与法,http://wabc.ml/sxg.php?id=CCTV12H265_4000
-CCTV13 新闻,http://wabc.ml/sxg.php?id=CCTVxw_4000
-CCTV14 少儿,http://wabc.ml/sxg.php?id=CCTV14H265_4000
-CCTV15 音乐,http://wabc.ml/sxg.php?id=CCTV15yyH265_4000
-CCTV16 奥林匹克,http://wabc.ml/sxg.php?id=CCTV164K_8000
-CCTV16 奥林匹克,http://wabc.ml/sxg.php?id=CCTV16_4000
-CCTV17 农业农村,http://wabc.ml/sxg.php?id=CCTV17_4000
-安徽卫视,http://wabc.ml/sxg.php?id=ahwsH265_4000
-北京卫视,http://wabc.ml/sxg.php?id=bjwsH265_4000
-兵团卫视,http://wabc.ml/sxg.php?id=btws_4000
-重庆卫视,http://wabc.ml/sxg.php?id=cqwsH265_4000
-东方卫视,http://wabc.ml/sxg.php?id=dfwsH265_4000
-东南卫视,http://wabc.ml/sxg.php?id=dnwsfjwsH265_4000
-甘肃卫视,http://wabc.ml/sxg.php?id=gsws_4000
-广东卫视,http://wabc.ml/sxg.php?id=gdwsH265_4000
-广西卫视,http://wabc.ml/sxg.php?id=gxws_4000
-贵州卫视,http://wabc.ml/sxg.php?id=gzwsH265_4000
-海南卫视,http://wabc.ml/sxg.php?id=hnws_4000
-河南卫视,http://wabc.ml/sxg.php?id=hnws35_4000
-黑龙江卫视,http://wabc.ml/sxg.php?id=hljwsH265_4000
-湖北卫视,http://wabc.ml/sxg.php?id=hbwsH265_4000
-湖南卫视,http://wabc.ml/sxg.php?id=hnwsH265_4000
-吉林卫视,http://wabc.ml/sxg.php?id=jlwsH265_4000
-江苏卫视,http://wabc.ml/sxg.php?id=jswsH265_4000
-江西卫视,http://wabc.ml/sxg.php?id=jxwsH265_4000
-康巴卫视,http://wabc.ml/sxg.php?id=kbwsH264_2000
-辽宁卫视,http://wabc.ml/sxg.php?id=lnwsHDH264_4000
-内蒙古卫视,http://wabc.ml/sxg.php?id=nmgws_4000
-山东教育卫视,http://wabc.ml/sxg.php?id=sdjy_4000
-山东卫视,http://wabc.ml/sxg.php?id=sdwsH265_4000
-山西卫视,http://wabc.ml/sxg.php?id=sxws42_4000
-陕西卫视,http://wabc.ml/sxg.php?id=sxws_4000
-深圳卫视,http://wabc.ml/sxg.php?id=szwsH265_4000
-四川卫视,http://wabc.ml/sxg.php?id=scwsH265_4000
-天津卫视,http://wabc.ml/sxg.php?id=tjwsH265_4000
-西藏卫视,http://wabc.ml/sxg.php?id=xzwsH264_2000
-云南卫视,http://wabc.ml/sxg.php?id=ynws_4000
-浙江卫视,http://wabc.ml/sxg.php?id=zjwsH265_4000
-CETV1,http://wabc.ml/sxg.php?id=CETV1H264_4000
-CETV4,http://wabc.ml/sxg.php?id=CETV4H264_2000
-CBN风尚生活,http://wabc.ml/sxg.php?id=fssh_4000
-四川文化旅游,http://wabc.ml/sxg.php?id=SCTV2H265_4000
-四川经济,http://wabc.ml/sxg.php?id=SCTV3H265_4000
-四川新闻,http://wabc.ml/sxg.php?id=SCTV4H265_4000
-四川影视文艺,http://wabc.ml/sxg.php?id=SCTV5scysH265_4000
-四川科教,http://wabc.ml/sxg.php?id=SCTVggSCTV8_4000
-动漫秀场,http://wabc.ml/sxg.php?id=yybbdmxcH265_4000
-都市剧场,http://wabc.ml/sxg.php?id=yxfydsjcHDH265_4000
-法治天地,http://wabc.ml/sxg.php?id=fztx_4000
-极速汽车,http://wabc.ml/sxg.php?id=jsqcH265_4000
-纪实科教,http://wabc.ml/sxg.php?id=bjjs_2000
-嘉佳卡通,http://wabc.ml/sxg.php?id=jjkt_2000
-家庭理财,http://wabc.ml/sxg.php?id=jtlc_4000
-江苏财富天下,http://wabc.ml/sxg.php?id=cftx_4000
-金鹰纪实,http://wabc.ml/sxg.php?id=jyjsHDH265_4000
-金鹰卡通,http://wabc.ml/sxg.php?id=jykt_2000
-聚鲨环球精选,http://wabc.ml/sxg.php?id=jshqjxHD_4000
-卡酷少儿,http://wabc.ml/sxg.php?id=kkkt_4000
-快乐垂钓,http://wabc.ml/sxg.php?id=fyzqklcdHDH265_4000
-乐游,http://wabc.ml/sxg.php?id=qjsHDH265_4000
-梨园频道,http://wabc.ml/sxg.php?id=ly_4000
-魅力足球,http://wabc.ml/sxg.php?id=mlyy_4000
-七彩戏剧,http://wabc.ml/sxg.php?id=qcxj_2000
-摄影频道,http://wabc.ml/sxg.php?id=sy_4000
-生活时尚,http://wabc.ml/sxg.php?id=shssH265_4000
-四海钓鱼,http://wabc.ml/sxg.php?id=shdy_4000
-天元围棋,http://wabc.ml/sxg.php?id=tywq_2000
-武术世界,http://wabc.ml/sxg.php?id=wssj_4000
-先锋乒羽,http://wabc.ml/sxg.php?id=xfpy_4000
-新视觉,http://wabc.ml/sxg.php?id=ycxsjH265_4000
-证劵服务,http://wabc.ml/sxg.php?id=jz_2000
-CGTN俄语,http://wabc.ml/sxg.php?id=ey_2000
-CGTN法语,http://wabc.ml/sxg.php?id=fy_2000
-CGTN西语,http://wabc.ml/sxg.php?id=xbyy_2000
-CGTN英语,http://wabc.ml/sxg.php?id=CGTN_4000
-中国天气,http://wabc.ml/sxg.php?id=zgqx_4000
-中央新影发现之旅,http://wabc.ml/sxg.php?id=fxzl_2000
-中央新影老故事,http://wabc.ml/sxg.php?id=lgs_2000
-中央新影中学生,http://wabc.ml/sxg.php?id=zxs_4000
-川广融媒,http://wabc.ml/sxg.php?id=cgrh_2000
-川网导视,http://wabc.ml/sxg.php?id=cwdsHDH264_4000
-精品导视,http://wabc.ml/sxg.php?id=jpdsH265_4000
-沙湾融媒,http://wabc.ml/sxg.php?id=swxwzh_2000
-成都新闻综合,http://wabc.ml/sxg.php?id=CDTV1_4000
-成都经济资讯,http://wabc.ml/sxg.php?id=CDTV2_4000
-成都都市生活,http://wabc.ml/sxg.php?id=CDTV3_4000
-成都影视文艺,http://wabc.ml/sxg.php?id=CDTV4_4000
-成都公共频道,http://wabc.ml/sxg.php?id=CDTV5_4000
-成都高新区,http://wabc.ml/sxg.php?id=cdgxdstgq_2000
-
-❤️广东谷豆,#genre#
-CCTV4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=4005
-CCTV16 4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=4010
-广东综艺4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
-CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CHCHD_7000
-求索纪录,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSJLHD_7000
-求索科学,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=qiusuokexueHD_7000
-求索动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSDWHD_7000
-求索生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSSHHD_7000
-魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=meiliyinyueHD_7000
-广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1413
-翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
-CCTV1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV1HD_7000
-CCTV2,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV2HD_7000
-CCTV3,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV3HD_7000
-CCTV4,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-4HD_7500
-CCTV5,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1605_4500
-CCTV5+,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1403_4500
-CCTV6,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV6HD_7000
-CCTV7,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV7HD_7000
-CCTV8,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV8HD_7000
-CCTV9,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV9HD_7000
-CCTV10,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV10HD_7000
-CCTV11,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-11HD_7500
-CCTV12,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV12HD_7000
-CCTV13,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1613
-CCTV14,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV14HD_7000
-CCTV15,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-15HD_7500
-CCTV16,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1617_4500
-CCTV17,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV17HD
-CGTN,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV15news_1500
-广东卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=guangdongHD_7000
-深圳卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=shenzhenHD_7000
-东方卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=dongfangHD_7000
-北京卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=beijingHD_7000
-湖南卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=hunanHD_7000
-江西卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jiangxiHD_7000
-四川卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=sichuanHD_7000
-江苏卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jiangsuHD_7000
-浙江卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=zhejiangHD_7000
-天津卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1415_4500
-河北卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1426_4500
-重庆卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=chongqingHD_7000
-贵州卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=guizhouHD_7000
-辽宁卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=liaoningHD_7000
-湖北卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=hubeiHD_7000
-安徽卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=anhuiHD_7000
-黑龙江卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=heilongjiangHD_7000
-海南卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1451_4500
-陕西卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1452_4500
-东南卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=dongnanweishiHD
-三沙卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1453
-广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdzhujiangHD_7500
-广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDjingjikejiaoHD_7000
-导视高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GHDdaoshi_7500
-乐游,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=quanjishiHD_7000
-
-CCTV4K,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=4005
-CCTV16-4K,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=4010
-广东综艺4K,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
-CHC高清电影,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CHCHD_7000
-求索纪录,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSJLHD_7000
-求索科学,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=qiusuokexueHD_7000
-求索动物,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSDWHD_7000
-求索生活,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=QSSHHD_7000
-魅力足球,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=meiliyinyueHD_7000
-广东体育,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1413
-翡翠台,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-明珠台,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
-CCTV1,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV1HD_7000
-CCTV2,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV2HD_7000
-CCTV3,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV3HD_7000
-CCTV4,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-4HD_7500
-CCTV5,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1605_4500
-CCTV5+,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1403_4500
-CCTV6,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV6HD_7000
-CCTV7,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV7HD_7000
-CCTV8,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV8HD_7000
-CCTV9,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV9HD_7000
-CCTV10,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV10HD_7000
-CCTV11,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-11HD_7500
-CCTV12,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV12HD_7000
-CCTV13,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1613
-CCTV14,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV14HD_7000
-CCTV15,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV-15HD_7500
-CCTV16,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1617_4500
-CCTV17,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV17HD
-CGTN,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=CCTV15news_1500
-广东卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=guangdongHD_7000
-深圳卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=shenzhenHD_7000
-东方卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=dongfangHD_7000
-北京卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=beijingHD_7000
-湖南卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=hunanHD_7000
-江西卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jiangxiHD_7000
-四川卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=sichuanHD_7000
-江苏卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jiangsuHD_7000
-浙江卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=zhejiangHD_7000
-天津卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1415_4500
-河北卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1426_4500
-重庆卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=chongqingHD_7000
-贵州卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=guizhouHD_7000
-辽宁卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=liaoningHD_7000
-湖北卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=hubeiHD_7000
-安徽卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=anhuiHD_7000
-黑龙江卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=heilongjiangHD_7000
-海南卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1451_4500
-陕西卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1452_4500
-东南卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=dongnanweishiHD
-三沙卫视,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1453
-广东珠江,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdzhujiangHD_7500
-广东经济科教,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDjingjikejiaoHD_7000
-导视高清,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GHDdaoshi_7500
-乐游,http://zm.210366.xyz:25678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=quanjishiHD_7000
+CBN每日影院,https://live.v1.mk/api/sxg.php?id=mryy_4000
+CBN幸福剧场,https://live.v1.mk/api/sxg.php?id=xfjc_4000
+CBN幸福娱乐,https://live.v1.mk/api/sxg.php?id=xfyl_4000
+CHC动作电影,https://live.v1.mk/api/sxg.php?id=wqCHCdzdyH265_4000
+CHC高清电影,https://live.v1.mk/api/sxg.php?id=lnwsCHCHDH265_4000
+CHC家庭影院,https://live.v1.mk/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+四川峨嵋电影,https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
+凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
+凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
+CCTV1 综合,https://live.v1.mk/api/sxg.php?id=CCTV1H265_4000
+CCTV2 财经,https://live.v1.mk/api/sxg.php?id=CCTV2H265_4000
+CCTV3 综艺,https://live.v1.mk/api/sxg.php?id=CCTV3H265_4000
+CCTV4 中文国际,https://live.v1.mk/api/sxg.php?id=CCTV4H265_4000
+CCTV5 体育,https://live.v1.mk/api/sxg.php?id=CCTV5H265_4000
+CCTV5+ 体育赛事,https://live.v1.mk/api/sxg.php?id=CCTV5plusH265_4000
+CCTV6 电影,https://live.v1.mk/api/sxg.php?id=CCTV6H265_4000
+CCTV7 国防军事,https://live.v1.mk/api/sxg.php?id=CCTV7H265_4000
+CCTV8 电视剧,https://live.v1.mk/api/sxg.php?id=CCTV8H265_4000
+CCTV9 纪录,https://live.v1.mk/api/sxg.php?id=CCTV9H265_4000
+CCTV10 科教,https://live.v1.mk/api/sxg.php?id=CCTV10H265_4000
+CCTV11 戏曲,https://live.v1.mk/api/sxg.php?id=CCTV11H265_4000
+CCTV12 社会与法,https://live.v1.mk/api/sxg.php?id=CCTV12H265_4000
+CCTV13 新闻,https://live.v1.mk/api/sxg.php?id=CCTVxw_4000
+CCTV14 少儿,https://live.v1.mk/api/sxg.php?id=CCTV14H265_4000
+CCTV15 音乐,https://live.v1.mk/api/sxg.php?id=CCTV15yyH265_4000
+CCTV16 奥林匹克,https://live.v1.mk/api/sxg.php?id=CCTV164K_8000
+CCTV16 奥林匹克,https://live.v1.mk/api/sxg.php?id=CCTV16_4000
+CCTV17 农业农村,https://live.v1.mk/api/sxg.php?id=CCTV17_4000
+安徽卫视,https://live.v1.mk/api/sxg.php?id=ahwsH265_4000
+北京卫视,https://live.v1.mk/api/sxg.php?id=bjwsH265_4000
+兵团卫视,https://live.v1.mk/api/sxg.php?id=btws_4000
+重庆卫视,https://live.v1.mk/api/sxg.php?id=cqwsH265_4000
+东方卫视,https://live.v1.mk/api/sxg.php?id=dfwsH265_4000
+东南卫视,https://live.v1.mk/api/sxg.php?id=dnwsfjwsH265_4000
+甘肃卫视,https://live.v1.mk/api/sxg.php?id=gsws_4000
+广东卫视,https://live.v1.mk/api/sxg.php?id=gdwsH265_4000
+广西卫视,https://live.v1.mk/api/sxg.php?id=gxws_4000
+贵州卫视,https://live.v1.mk/api/sxg.php?id=gzwsH265_4000
+海南卫视,https://live.v1.mk/api/sxg.php?id=hnws_4000
+河南卫视,https://live.v1.mk/api/sxg.php?id=hnws35_4000
+黑龙江卫视,https://live.v1.mk/api/sxg.php?id=hljwsH265_4000
+湖北卫视,https://live.v1.mk/api/sxg.php?id=hbwsH265_4000
+湖南卫视,https://live.v1.mk/api/sxg.php?id=hnwsH265_4000
+吉林卫视,https://live.v1.mk/api/sxg.php?id=jlwsH265_4000
+江苏卫视,https://live.v1.mk/api/sxg.php?id=jswsH265_4000
+江西卫视,https://live.v1.mk/api/sxg.php?id=jxwsH265_4000
+康巴卫视,https://live.v1.mk/api/sxg.php?id=kbwsH264_2000
+辽宁卫视,https://live.v1.mk/api/sxg.php?id=lnwsHDH264_4000
+内蒙古卫视,https://live.v1.mk/api/sxg.php?id=nmgws_4000
+山东教育卫视,https://live.v1.mk/api/sxg.php?id=sdjy_4000
+山东卫视,https://live.v1.mk/api/sxg.php?id=sdwsH265_4000
+山西卫视,https://live.v1.mk/api/sxg.php?id=sxws42_4000
+陕西卫视,https://live.v1.mk/api/sxg.php?id=sxws_4000
+深圳卫视,https://live.v1.mk/api/sxg.php?id=szwsH265_4000
+四川卫视,https://live.v1.mk/api/sxg.php?id=scwsH265_4000
+天津卫视,https://live.v1.mk/api/sxg.php?id=tjwsH265_4000
+西藏卫视,https://live.v1.mk/api/sxg.php?id=xzwsH264_2000
+云南卫视,https://live.v1.mk/api/sxg.php?id=ynws_4000
+浙江卫视,https://live.v1.mk/api/sxg.php?id=zjwsH265_4000
+CETV1,https://live.v1.mk/api/sxg.php?id=CETV1H264_4000
+CETV4,https://live.v1.mk/api/sxg.php?id=CETV4H264_2000
+CBN风尚生活,https://live.v1.mk/api/sxg.php?id=fssh_4000
+四川文化旅游,https://live.v1.mk/api/sxg.php?id=SCTV2H265_4000
+四川经济,https://live.v1.mk/api/sxg.php?id=SCTV3H265_4000
+四川新闻,https://live.v1.mk/api/sxg.php?id=SCTV4H265_4000
+四川影视文艺,https://live.v1.mk/api/sxg.php?id=SCTV5scysH265_4000
+四川科教,https://live.v1.mk/api/sxg.php?id=SCTVggSCTV8_4000
+动漫秀场,https://live.v1.mk/api/sxg.php?id=yybbdmxcH265_4000
+都市剧场,https://live.v1.mk/api/sxg.php?id=yxfydsjcHDH265_4000
+法治天地,https://live.v1.mk/api/sxg.php?id=fztx_4000
+极速汽车,https://live.v1.mk/api/sxg.php?id=jsqcH265_4000
+纪实科教,https://live.v1.mk/api/sxg.php?id=bjjs_2000
+嘉佳卡通,https://live.v1.mk/api/sxg.php?id=jjkt_2000
+家庭理财,https://live.v1.mk/api/sxg.php?id=jtlc_4000
+江苏财富天下,https://live.v1.mk/api/sxg.php?id=cftx_4000
+金鹰纪实,https://live.v1.mk/api/sxg.php?id=jyjsHDH265_4000
+金鹰卡通,https://live.v1.mk/api/sxg.php?id=jykt_2000
+聚鲨环球精选,https://live.v1.mk/api/sxg.php?id=jshqjxHD_4000
+卡酷少儿,https://live.v1.mk/api/sxg.php?id=kkkt_4000
+快乐垂钓,https://live.v1.mk/api/sxg.php?id=fyzqklcdHDH265_4000
+乐游,https://live.v1.mk/api/sxg.php?id=qjsHDH265_4000
+梨园频道,https://live.v1.mk/api/sxg.php?id=ly_4000
+魅力足球,https://live.v1.mk/api/sxg.php?id=mlyy_4000
+七彩戏剧,https://live.v1.mk/api/sxg.php?id=qcxj_2000
+摄影频道,https://live.v1.mk/api/sxg.php?id=sy_4000
+生活时尚,https://live.v1.mk/api/sxg.php?id=shssH265_4000
+四海钓鱼,https://live.v1.mk/api/sxg.php?id=shdy_4000
+天元围棋,https://live.v1.mk/api/sxg.php?id=tywq_2000
+武术世界,https://live.v1.mk/api/sxg.php?id=wssj_4000
+先锋乒羽,https://live.v1.mk/api/sxg.php?id=xfpy_4000
+新视觉,https://live.v1.mk/api/sxg.php?id=ycxsjH265_4000
+证劵服务,https://live.v1.mk/api/sxg.php?id=jz_2000
+CGTN俄语,https://live.v1.mk/api/sxg.php?id=ey_2000
+CGTN法语,https://live.v1.mk/api/sxg.php?id=fy_2000
+CGTN西语,https://live.v1.mk/api/sxg.php?id=xbyy_2000
+CGTN英语,https://live.v1.mk/api/sxg.php?id=CGTN_4000
+中国天气,https://live.v1.mk/api/sxg.php?id=zgqx_4000
+中央新影发现之旅,https://live.v1.mk/api/sxg.php?id=fxzl_2000
+中央新影老故事,https://live.v1.mk/api/sxg.php?id=lgs_2000
+中央新影中学生,https://live.v1.mk/api/sxg.php?id=zxs_4000
+川广融媒,https://live.v1.mk/api/sxg.php?id=cgrh_2000
+川网导视,https://live.v1.mk/api/sxg.php?id=cwdsHDH264_4000
+精品导视,https://live.v1.mk/api/sxg.php?id=jpdsH265_4000
+沙湾融媒,https://live.v1.mk/api/sxg.php?id=swxwzh_2000
+成都新闻综合,https://live.v1.mk/api/sxg.php?id=CDTV1_4000
+成都经济资讯,https://live.v1.mk/api/sxg.php?id=CDTV2_4000
+成都都市生活,https://live.v1.mk/api/sxg.php?id=CDTV3_4000
+成都影视文艺,https://live.v1.mk/api/sxg.php?id=CDTV4_4000
+成都公共频道,https://live.v1.mk/api/sxg.php?id=CDTV5_4000
+成都高新区,https://live.v1.mk/api/sxg.php?id=cdgxdstgq_2000
 
 📺咪咕体育频道,#genre#
 JJ斗地主,http://111.62.156.24/tx.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.xs
