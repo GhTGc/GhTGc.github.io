@@ -1743,7 +1743,71 @@ LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001447/in
 达啵赛事,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 达啵赛事,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-
+♨️爱尚TV,#genre#
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+爱上4K,http://live.cooltv.top/tv/aishang.php?id=as4k
+CCTV1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV5+ 体育赛事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
+CCTV6 电影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV9 纪录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
+CCTV10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+CGTN,http://live.cooltv.top/tv/aishang.php?id=cgtnhd
+湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
+浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
+东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
+江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
+辽宁卫视,http://live.cooltv.top/tv/aishang.php?id=lnwshd
+北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
+深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
+山东卫视,http://live.cooltv.top/tv/aishang.php?id=sdwshd
+广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
+安徽卫视,http://live.cooltv.top/tv/aishang.php?id=ahwshd
+东南卫视,http://live.cooltv.top/tv/aishang.php?id=dnwshd
+天津卫视,http://live.cooltv.top/tv/aishang.php?id=tjwshd
+重庆卫视,http://live.cooltv.top/tv/aishang.php?id=cqws
+湖北卫视,http://live.cooltv.top/tv/aishang.php?id=hubwshd
+四川卫视,http://live.cooltv.top/tv/aishang.php?id=scws
+河南卫视,http://live.cooltv.top/tv/aishang.php?id=hnws
+陕西卫视,http://live.cooltv.top/tv/aishang.php?id=sxws
+吉林卫视,http://live.cooltv.top/tv/aishang.php?id=jlws
+云南卫视,http://live.cooltv.top/tv/aishang.php?id=ynws
+广西卫视,http://live.cooltv.top/tv/aishang.php?id=gxws
+江西卫视,http://live.cooltv.top/tv/aishang.php?id=jxws
+黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
+河北卫视,http://live.cooltv.top/tv/aishang.php?id=hbwshd
+青海卫视,http://live.cooltv.top/tv/aishang.php?id=qhws
+贵州卫视,http://live.cooltv.top/tv/aishang.php?id=gzwshd
+西藏卫视,http://live.cooltv.top/tv/aishang.php?id=xzws
+甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws
+新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws
+厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
+内蒙古卫视,http://live.cooltv.top/tv/aishang.php?id=nmws
+CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+中国教育,http://live.cooltv.top/tv/aishang.php?id=cetv1hd
+中国教育2,http://live.cooltv.top/tv/aishang.php?id=cetv2
+中国教育4,http://live.cooltv.top/tv/aishang.php?id=cetv4
+山东教育卫视,http://live.cooltv.top/tv/aishang.php?id=sdjy
+金鹰纪实,http://live.cooltv.top/tv/aishang.php?id=jyjs
+金鹰卡通,http://live.cooltv.top/tv/aishang.php?id=jykt
+卡酷少儿,http://live.cooltv.top/tv/aishang.php?id=kkse
+嘉佳卡通,http://live.cooltv.top/tv/aishang.php?id=jjkt
+新动漫,http://live.cooltv.top/tv/aishang.php?id=xdm
 
 ♨️NewTV,#genre#
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
