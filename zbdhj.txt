@@ -1,4 +1,6 @@
-💞香港,#genre#
+💞港台,#genre#
+TVBS新聞,https://epg.pw/stream/66d5e8c4cea97606ab6afcd2754ae3e95e5660eefd808cd6873fd32405010f35.m3u8
+鳳凰香港,https://epg.pw/stream/c3185415d5f6fb95555c641e3abae8c4071c614d0260a469ba72510409296092.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 凤凰中文,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8?zxinjd
