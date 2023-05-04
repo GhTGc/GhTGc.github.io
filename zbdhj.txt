@@ -1,4 +1,5 @@
 💞港台,#genre#
+TVB E-News,http://xtv.ooo:8080/311009689/6471777/229634
 TVBS新聞,https://epg.pw/stream/66d5e8c4cea97606ab6afcd2754ae3e95e5660eefd808cd6873fd32405010f35.m3u8
 鳳凰香港,https://epg.pw/stream/c3185415d5f6fb95555c641e3abae8c4071c614d0260a469ba72510409296092.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
