@@ -2378,37 +2378,33 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
-NBA TV,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/104727
-NBA TV,http://7go.xyz:88/guilhermecli/58295512/296375
-NBA TV,http://xtv.ooo:8080/311009689/6471777/223256
-NBA TV2,http://propdsrv.com:80/ntezmvna/pZ81zv6d0F/100800
+SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
+TNT,http://nv1connect.com:80/12345678/87654321/77439
+TNT,http://nv1connect.com:80/12345678/87654321/72620
+TNT,http://nv1connect.com:80/12345678/87654321/1142
+TNT,http://nv1connect.com:80/12345678/87654321/1141
 TNT,http://xtv.ooo:8080/311009689/6471777/242167
 TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
-SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
-League Pass 1,http://7go.xyz:88/guilhermecli/58295512/296377
-League Pass 1,http://7go.xyz:88/guilhermecli/58295512/27274
-League Pass 2,http://7go.xyz:88/guilhermecli/58295512/29638
-League Pass 3,http://7go.xyz:88/guilhermecli/58295512/296381
-League Pass 4,http://7go.xyz:88/guilhermecli/58295512/296379
-League Pass 5,http://7go.xyz:88/guilhermecli/58295512/296382
-League Pass 6,http://7go.xyz:88/guilhermecli/58295512/296376
-League Pass 7,http://7go.xyz:88/guilhermecli/58295512/296378
-League Pass 8,http://7go.xyz:88/guilhermecli/58295512/296383
-
-League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73265.ts
-League Pass 1,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73266.ts
-League Pass 2,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73268.ts
-League Pass 2,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73269.ts
-League Pass 3,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73271.ts
-League Pass 3,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73272.ts
-League Pass 4,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73274.ts
-League Pass 4,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73275.ts
-League Pass 5,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73277.ts
-League Pass 5,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73278.ts
-League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73280.ts
-League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73281.ts
+NBA LeaguePass01,http//nv1connect.com80/12345678/87654321/93523
+NBA LeaguePass02,http//nv1connect.com80/12345678/87654321/93524
+NBA LeaguePass03,http//nv1connect.com80/12345678/87654321/93525
+NBA LeaguePass04,http//nv1connect.com80/12345678/87654321/93526
+NBA LeaguePass05,http//nv1connect.com80/12345678/87654321/93527
+NBA LeaguePass06,http//nv1connect.com80/12345678/87654321/93528
+NBA LeaguePass07,http//nv1connect.com80/12345678/87654321/93529
+NBA LeaguePass08,http//nv1connect.com80/12345678/87654321/93530
+NBA LeaguePass09,http//nv1connect.com80/12345678/87654321/93531
+NBA LeaguePass10,http//nv1connect.com80/12345678/87654321/93532
+NBA LeaguePass11,http//nv1connect.com80/12345678/87654321/93533
+NBA LeaguePass12,http//nv1connect.com80/12345678/87654321/93534
+NBA LeaguePass13,http//nv1connect.com80/12345678/87654321/93535
+NBA LeaguePass14,http//nv1connect.com80/12345678/87654321/93536
+NBA LeaguePass15,http//nv1connect.com80/12345678/87654321/93537
+NBA LeaguePass16,http//nv1connect.com80/12345678/87654321/93538
+NBA LeaguePass17,http//nv1connect.com80/12345678/87654321/93539
+NBA LeaguePass18,http//nv1connect.com80/12345678/87654321/93540
 掘金,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50997.ts
 凯尔特人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51004.ts
 76人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50993.ts
@@ -2441,12 +2437,60 @@ League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73281.ts
 骑士,http://superbits.tv:80/d4Je5xwD/yadTXB63/428866
 
 
-
-
+💞英超,#genre#
+USA Network,http://nv1connect.com:80/12345678/87654321/1135
+USA Network,http://nv1connect.com:80/12345678/87654321/77440
+USA Network,http://nv1connect.com:80/12345678/87654321/72622
+USA Network,http://nv1connect.com:80/12345678/87654321/69239
+Optus 1,http://nv1connect.com:80/12345678/87654321/93810
+Optus 1,http://nv1connect.com:80/12345678/87654321/93971
+Optus 2,http://nv1connect.com:80/12345678/87654321/93970
+Optus 3,http://nv1connect.com:80/12345678/87654321/93969
+Optus 4,http://nv1connect.com:80/12345678/87654321/93968
+Optus 5,http://nv1connect.com:80/12345678/87654321/93967
+Optus 6,http://nv1connect.com:80/12345678/87654321/93966
+Optus 7,http://nv1connect.com:80/12345678/87654321/93965
+Optus 8,http://nv1connect.com:80/12345678/87654321/93964
+Optus 9,http://nv1connect.com:80/12345678/87654321/93963
+Optus 10,http://nv1connect.com:80/12345678/87654321/93962
+Optus 11,http://nv1connect.com:80/12345678/87654321/93961
+Optus 12,http://nv1connect.com:80/12345678/87654321/93960
+Optus 13,http://nv1connect.com:80/12345678/87654321/93959
+LE 01,http://nv1connect.com:80/12345678/87654321/89209
+LE 02,http://nv1connect.com:80/12345678/87654321/89210
+LE 03,http://nv1connect.com:80/12345678/87654321/89211
+LE 04,http://nv1connect.com:80/12345678/87654321/89212
+LE 05,http://nv1connect.com:80/12345678/87654321/89213
+LE 06,http://nv1connect.com:80/12345678/87654321/89214
+LE 07,http://nv1connect.com:80/12345678/87654321/89215
+LE 08,http://nv1connect.com:80/12345678/87654321/89216
+LE 09,http://nv1connect.com:80/12345678/87654321/89217
+LE 10,http://nv1connect.com:80/12345678/87654321/89218
+LE 11,http://nv1connect.com:80/12345678/87654321/89219
+LE 12,http://nv1connect.com:80/12345678/87654321/89220
+LE 13,http://nv1connect.com:80/12345678/87654321/89221
+LE 14,http://nv1connect.com:80/12345678/87654321/89222
+LE 15,http://nv1connect.com:80/12345678/87654321/89223
+LE 16,http://nv1connect.com:80/12345678/87654321/89224
+LE 17,http://nv1connect.com:80/12345678/87654321/89225
+LE 18,http://nv1connect.com:80/12345678/87654321/89226
+LE 19,http://nv1connect.com:80/12345678/87654321/89227
+LE 20,http://nv1connect.com:80/12345678/87654321/89228
+LE 21,http://nv1connect.com:80/12345678/87654321/89229
+LE 22,http://nv1connect.com:80/12345678/87654321/89230
+LE 23,http://nv1connect.com:80/12345678/87654321/89231
+LE 24,http://nv1connect.com:80/12345678/87654321/89232
+LE 25,http://nv1connect.com:80/12345678/87654321/89233
+LE 26,http://nv1connect.com:80/12345678/87654321/89234
+LE 27,http://nv1connect.com:80/12345678/87654321/89235
+LE 28,http://nv1connect.com:80/12345678/87654321/89236
+LE 29,http://nv1connect.com:80/12345678/87654321/89237
+LE 30,http://nv1connect.com:80/12345678/87654321/89238
 
 
 
 🐾🦚红牛频道,#genre#
+红牛TV,http://nv1connect.com:80/12345678/87654321/4478
 红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/12129
 红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/12129
 红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/12129
@@ -2457,12 +2501,6 @@ League Pass 6,http://esrv.cc:80/AkumaBruno/Dn2jEjbfy/73281.ts
 红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/141869
 红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/141869
 红牛TV,http://nordicstream.xyz:2095/c8JQKTqm/mG7SgFqZ/141867
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/1088241
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156927
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/150356
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156930
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/156878
-红牛TV,http://line.premiumpowers.net:80/Manuel/1234567/920099
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
