@@ -32,14 +32,16 @@ HBO强档影院,http://xtv.ooo:8080/311009689/6471777/228260
 新宿,http://www.terrykang.xyz:35455/youtube/RQA5RcIZlAM
 鳳凰衛視PhoenixTV,http://www.terrykang.xyz:35455/youtube/dmDg7NfUoSw
 Nat Geo WILD,http://www.terrykang.xyz:35455/youtube/6zGV59Ldp3s
-中天直播,http://www.terrykang.xyz:35455/youtube/kNKMz8c8U9g
+中天直播,http://www.terrykang.xyz:35455/youtube/WUzColuDmQ4
 CTI中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新闻,http://www.terrykang.xyz:35455/youtube/i0sRMo0qMQs
 頭條開講,http://www.terrykang.xyz:35455/youtube/lWEzh3fNsCI
 中天亞洲台HD,http://www.terrykang.xyz:35455/youtube/oPx1u9WQrWg
 寰宇新聞台,http://www.terrykang.xyz:35455/youtube/B7Zp3d6xXWw
 寰宇新闻Global,http://www.terrykang.xyz:35455/youtube/1baN3SZYWc0
 TVBS新聞台,http://www.terrykang.xyz:35455/youtube/f5UfEhcKJIE
-TVBS NEWS,http://www.terrykang.xyz:35455/youtube/W2pibCY0m-c
+TVBS 55台,http://www.terrykang.xyz:35455/youtube/2mCSYvcfhtc
+TVBS 56台,http://www.terrykang.xyz:35455/youtube/w1jqRWoI-VI
 東森新聞CH51,http://www.terrykang.xyz:35455/youtube/khuZW5GdBXo
 台視新聞台,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 华视新闻直播,http://www.terrykang.xyz:35455/youtube/wM0g8EoUZ_E
@@ -50,25 +52,30 @@ TVBS NEWS,http://www.terrykang.xyz:35455/youtube/W2pibCY0m-c
 民視新聞,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
 镜新闻,http://www.terrykang.xyz:35455/youtube/5n0y6b0Q25o
 新加坡亚洲新闻,http://www.terrykang.xyz:35455/youtube/XWq5kBlakcQ
-ABC News,http://www.terrykang.xyz:35455/youtube/w_Ma8oQLmSM
+Al Jazeera English,http://www.terrykang.xyz:35455/youtube/gCNeDWCI0vo
+ABC NewsLive,http://www.terrykang.xyz:35455/youtube/w_Ma8oQLmSM
 Sky News,http://www.terrykang.xyz:35455/youtube/9Auq9mYxFEE
 CNBC,http://www.terrykang.xyz:35455/youtube/9NyxcX3rhQs
-Watch ABC,http://www.terrykang.xyz:35455/youtube/vOTiJkg1voo
-NBC News NOW,http://www.terrykang.xyz:35455/youtube/WSnht5nBoe4
+ABC Australia,http://www.terrykang.xyz:35455/youtube/vOTiJkg1voo
+NBC News NOW,http://www.terrykang.xyz:35455/youtube/pHsVtHVay2s
 FRANCE 24 English,http://www.terrykang.xyz:35455/youtube/h3MuIUNCCzI
-NDTV 24x7 Live,http://www.terrykang.xyz:35455/youtube/WB-y7_ymPJ4
-GMA News,http://www.terrykang.xyz:35455/youtube/m_Tyae0D7Zc
+CNA 24/7LIVE,http://www.terrykang.xyz:35455/youtube/XWq5kBlakcQ
+NDTV 24x7 Live,http://www.terrykang.xyz:35455/youtube/oEK6yK8PG-Q
+TIMES NOW,http://www.terrykang.xyz:35455/youtube/L7ix22usbgk
+
 新宿,http://lttv.ddqq.fun:35455/youtube/RQA5RcIZlAM
 鳳凰衛視PhoenixTV,http://lttv.ddqq.fun:35455/youtube/dmDg7NfUoSw
 Nat Geo WILD,http://lttv.ddqq.fun:35455/youtube/6zGV59Ldp3s
-中天直播,http://lttv.ddqq.fun:35455/youtube/kNKMz8c8U9g
+中天直播,http://lttv.ddqq.fun:35455/youtube/WUzColuDmQ4
 CTI中天新聞,http://lttv.ddqq.fun:35455/youtube/oIgbl7t0S_w
+中天新闻,http://lttv.ddqq.fun:35455/youtube/i0sRMo0qMQs
 頭條開講,http://lttv.ddqq.fun:35455/youtube/lWEzh3fNsCI
 中天亞洲台HD,http://lttv.ddqq.fun:35455/youtube/oPx1u9WQrWg
 寰宇新聞台,http://lttv.ddqq.fun:35455/youtube/B7Zp3d6xXWw
 寰宇新闻Global,http://lttv.ddqq.fun:35455/youtube/1baN3SZYWc0
 TVBS新聞台,http://lttv.ddqq.fun:35455/youtube/f5UfEhcKJIE
-TVBS NEWS,http://lttv.ddqq.fun:35455/youtube/W2pibCY0m-c
+TVBS 55台,http://lttv.ddqq.fun:35455/youtube/2mCSYvcfhtc
+TVBS 56台,http://lttv.ddqq.fun:35455/youtube/w1jqRWoI-VI
 東森新聞CH51,http://lttv.ddqq.fun:35455/youtube/khuZW5GdBXo
 台視新聞台,http://lttv.ddqq.fun:35455/youtube/xL0ch83RAK8
 华视新闻直播,http://lttv.ddqq.fun:35455/youtube/wM0g8EoUZ_E
@@ -79,15 +86,16 @@ TVBS NEWS,http://lttv.ddqq.fun:35455/youtube/W2pibCY0m-c
 民視新聞,http://lttv.ddqq.fun:35455/youtube/ylYJSBUgaMA
 镜新闻,http://lttv.ddqq.fun:35455/youtube/5n0y6b0Q25o
 新加坡亚洲新闻,http://lttv.ddqq.fun:35455/youtube/XWq5kBlakcQ
-ABC News,http://lttv.ddqq.fun:35455/youtube/w_Ma8oQLmSM
+Al Jazeera English,http://lttv.ddqq.fun:35455/youtube/gCNeDWCI0vo
+ABC NewsLive,http://lttv.ddqq.fun:35455/youtube/w_Ma8oQLmSM
 Sky News,http://lttv.ddqq.fun:35455/youtube/9Auq9mYxFEE
 CNBC,http://lttv.ddqq.fun:35455/youtube/9NyxcX3rhQs
-Watch ABC,http://lttv.ddqq.fun:35455/youtube/vOTiJkg1voo
-NBC News NOW,http://lttv.ddqq.fun:35455/youtube/WSnht5nBoe4
+ABC Australia,http://lttv.ddqq.fun:35455/youtube/vOTiJkg1voo
+NBC News NOW,http://lttv.ddqq.fun:35455/youtube/pHsVtHVay2s
 FRANCE 24 English,http://lttv.ddqq.fun:35455/youtube/h3MuIUNCCzI
-NDTV 24x7 Live,http://lttv.ddqq.fun:35455/youtube/WB-y7_ymPJ4
-GMA News,http://lttv.ddqq.fun:35455/youtube/m_Tyae0D7Zc
-
+CNA 24/7LIVE,http://lttv.ddqq.fun:35455/youtube/XWq5kBlakcQ
+NDTV 24x7 Live,http://lttv.ddqq.fun:35455/youtube/oEK6yK8PG-Q
+TIMES NOW,http://lttv.ddqq.fun:35455/youtube/L7ix22usbgk
 
 
 ❤️央视高清,#genre#
