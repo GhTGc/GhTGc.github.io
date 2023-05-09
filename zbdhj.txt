@@ -1624,42 +1624,44 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 叮咚音乐,http://pull-hls-l6.douyincdn.com/radio/stream-112984852059914275/index.m3u8
 
 🐆🐅虎牙1,#genre#
-郭德纲(无唱),http://al.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=c89df3f8f196162353ceb63f29115d91&wsTime=645a0745&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500
-郭德纲(有唱),http://aldirect.flv.huya.com/huyalive/1199547376549-1199547376549-5375155715587440640-2399094876554-10057-A-0-1.flv?wsSecret=7f5a5cfe2966b9ef255e8f7038cfbe4e&wsTime=645a092e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
-郭德纲相声动画版,http://al.flv.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.flv?wsSecret=3b9a5721930270130c0dce0741d0cc13&wsTime=645a097f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
-易中天品三国,http://al.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.flv?wsSecret=a5a741d03b6391adcdb5a6e43b57bfb5&wsTime=645a0a30&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
-阿斗归来了,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.flv?wsSecret=81538c24c601d09dff3618db711bbf66&wsTime=645a0ab5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000
-罗翔说法,http://tx.flv.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.flv?wsSecret=30b19c9e39b4b52fae9612d5e8f1f82f&wsTime=645a0b2a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
-杰森·斯坦森,http://live.aptvapp.com/live/huya/21059588
-巨石强森,http://live.aptvapp.com/live/huya/21059581
-007系列,http://live.aptvapp.com/live/huya/21059585
-周星驰-粤语,http://live.aptvapp.com/live/huya/11336587
-星爷经典,http://txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=bc3179a13b6815834ceab6fcbc067095&wsTime=645a0b67&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aqzeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000
-林正英,http://live.aptvapp.com/live/huya/11342421
-沈腾,http://live.aptvapp.com/live/huya/11601968
-甄子丹,http://live.aptvapp.com/live/huya/11352935
-成龙,http://live.aptvapp.com/live/huya/11342386
-李连杰,http://live.aptvapp.com/live/huya/11342390
-周润发,http://live.aptvapp.com/live/huya/11342387
-刘德华,http://live.aptvapp.com/live/huya/11342424
-洪金宝,http://live.aptvapp.com/live/huya/11279251
-黄渤,http://live.aptvapp.com/live/huya/11342429
-王晶导演,http://live.aptvapp.com/live/huya/11602058
-黑帮系列,http://live.aptvapp.com/live/huya/11336719
-警匪系列,http://live.aptvapp.com/live/huya/11352886
-喜剧系列,http://live.aptvapp.com/live/huya/11602044
-动作大片,http://live.aptvapp.com/live/huya/11602077
-玄幻系列,http://live.aptvapp.com/live/huya/11352973
-古墓系列,http://live.aptvapp.com/live/huya/11352913
-各类经典电影,http://live.aptvapp.com/live/huya/27203821
-贺岁喜剧,http://live.aptvapp.com/live/huya/11601986
-金庸武侠系列,http://live.aptvapp.com/live/huya/11342427
-虎牙斯諾克,http://live.aptvapp.com/live/huya/880214
-虎牙斯諾克副舞台,http://live.aptvapp.com/live/huya/880625
-丁俊晖1,http://live.aptvapp.com/live/huya/880211
-丁俊晖2,http://live.aptvapp.com/live/huya/19197127
-奧沙利文,http://live.aptvapp.com/live/huya/880237
-特魯姆普,http://live.aptvapp.com/live/huya/17455032
+郭德纲(无唱),http://epg.112114.xyz/huya/10132155
+郭德纲(有唱),http://epg.112114.xyz/huya/22809600
+郭德纲相声动画版,http://epg.112114.xyz/huya/25343324
+易中天品三国,http://epg.112114.xyz/huya/11602032
+阿斗归来了,http://epg.112114.xyz/huya/13303478
+罗翔说法,http://epg.112114.xyz/huya/11601965
+杰森·斯坦森,http://epg.112114.xyz/huya/21059588
+巨石强森,http://epg.112114.xyz/huya/21059581
+007系列,http://epg.112114.xyz/huya/21059585
+周星驰-粤语,http://epg.112114.xyz/huya/11336587
+星爷经典,http://epg.112114.xyz/huya/11342412
+林正英,http://epg.112114.xyz/huya/11342421
+沈腾,http://epg.112114.xyz/huya/11601968
+甄子丹,http://epg.112114.xyz/huya/11352935
+成龙,http://epg.112114.xyz/huya/11342386
+李连杰,http://epg.112114.xyz/huya/11342390
+周润发,http://epg.112114.xyz/huya/11342387
+刘德华,http://epg.112114.xyz/huya/11342424
+洪金宝,http://epg.112114.xyz/huya/11279251
+黄渤,http://epg.112114.xyz/huya/11342429
+王晶导演,http://epg.112114.xyz/huya/11602058
+黑帮系列,http://epg.112114.xyz/huya/11336719
+警匪系列,http://epg.112114.xyz/huya/11352886
+喜剧系列,http://epg.112114.xyz/huya/11602044
+动作大片,http://epg.112114.xyz/huya/11602077
+玄幻系列,http://epg.112114.xyz/huya/11352973
+古墓系列,http://epg.112114.xyz/huya/11352913
+各类经典电影,http://epg.112114.xyz/huya/27203821
+贺岁喜剧,http://epg.112114.xyz/huya/11601986
+金庸武侠系列,http://epg.112114.xyz/huya/11342427
+虎牙斯諾克,http://epg.112114.xyz/huya/880214
+虎牙斯諾克副舞台,http://epg.112114.xyz/huya/880625
+丁俊晖1,http://epg.112114.xyz/huya/880211
+丁俊晖2,http://epg.112114.xyz/huya/19197127
+奧沙利文,http://epg.112114.xyz/huya/880237
+特魯姆普,http://epg.112114.xyz/huya/17455032
+
+
 
 郭德纲(无唱),http://live.aptvapp.com/live/huya/10132155
 郭德纲(有唱),http://live.aptvapp.com/live/huya/22809600
@@ -1699,128 +1701,7 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 特魯姆普,http://live.aptvapp.com/live/huya/17455032
 
 
-🐆🐅虎牙2,#genre#
-微竞-项星星,http://live.aptvapp.com/live/huya/20492590
-阿斗归来了,http://live.aptvapp.com/live/huya/13303478
-陈翔六点半,http://live.aptvapp.com/live/huya/11274154
-微竞-想好白,http://live.aptvapp.com/live/huya/23726107
-虎牙【蛋蛋侠】,http://live.aptvapp.com/live/huya/396734
-yd丶小九,http://live.aptvapp.com/live/huya/27858229
-DD-娜娜,http://live.aptvapp.com/live/huya/26590882
-DD-香菜,http://live.aptvapp.com/live/huya/631395
-赢城-江爽,http://live.aptvapp.com/live/huya/23796393
-SJ-饭宝,http://live.aptvapp.com/live/huya/28359460
-DD-七七宝,http://live.aptvapp.com/live/huya/25375199
-DD-小秋,http://live.aptvapp.com/live/huya/17440076
-SJ-安安啊,http://live.aptvapp.com/live/huya/25646817
-扁豆看电影,http://live.aptvapp.com/live/huya/16028551
-心动--羡儿,http://live.aptvapp.com/live/huya/27865650
-DD-小熊,http://live.aptvapp.com/live/huya/27125437
-SJ-灰灰,http://live.aptvapp.com/live/huya/27773247
-余小二【824余孽】,http://live.aptvapp.com/live/huya/10279885
-乔晚晚【蓝光】,http://live.aptvapp.com/live/huya/25258907
-婧丶,http://live.aptvapp.com/live/huya/26298751
-心动--铁柱妹妹,http://live.aptvapp.com/live/huya/28426547
-狗哥吃火锅,http://live.aptvapp.com/live/huya/17269326
-【林正英】电影系列,http://live.aptvapp.com/live/huya/28274529
-科幻梦工场,http://live.aptvapp.com/live/huya/15152155
-周星星,http://live.aptvapp.com/live/huya/11342412
-武林萌主唐小姐,http://live.aptvapp.com/live/huya/11336726
-虎牙影院,http://live.aptvapp.com/live/huya/11601968
-傻妞,http://live.aptvapp.com/live/huya/11342426
-心疼得抱住胖胖的自己,http://live.aptvapp.com/live/huya/11342425
-偷心大盗ヽ龍宝,http://live.aptvapp.com/live/huya/11342386
-老雷,http://live.aptvapp.com/live/huya/11602034
-昵称违规-QQFbPxwM1A,http://live.aptvapp.com/live/huya/11352958
-普通司机小马,http://live.aptvapp.com/live/huya/23749096
-萌新司机,http://live.aptvapp.com/live/huya/11352881
-核桃姐姐,http://live.aptvapp.com/live/huya/11342390
-呆萌小岳岳,http://live.aptvapp.com/live/huya/11342398
-樹袋熊小九九,http://live.aptvapp.com/live/huya/11282233
-鸽宝小改改,http://live.aptvapp.com/live/huya/11601970
-老王夸我帅,http://live.aptvapp.com/live/huya/11352964
-四大裁子之首,http://live.aptvapp.com/live/huya/11602058
-鄉8佬,http://live.aptvapp.com/live/huya/11352920
-小猪猪,http://live.aptvapp.com/live/huya/11342416
-埋堆搞搞震,http://live.aptvapp.com/live/huya/23734169
-小妖孽,http://live.aptvapp.com/live/huya/11602088
-港剧慢品汇,http://live.aptvapp.com/live/huya/23865142
-简小熙,http://live.aptvapp.com/live/huya/11342399
-逗比宝宝,http://live.aptvapp.com/live/huya/11342427
-堆堆港剧日记,http://live.aptvapp.com/live/huya/23903130
-浮生没有若梦,http://live.aptvapp.com/live/huya/11601986
-重口味爱好者,http://live.aptvapp.com/live/huya/11352889
-南西视频,http://live.aptvapp.com/live/huya/16913382
-非凡武林,http://live.aptvapp.com/live/huya/21674665
-力哥影視,http://live.aptvapp.com/live/huya/23419131
-经历,http://live.aptvapp.com/live/huya/27203821
-止戈电影,http://live.aptvapp.com/live/huya/19863777
-DD-解说,http://live.aptvapp.com/live/huya/25650806
-宋少宝,http://live.aptvapp.com/live/huya/16923449
-亮哥讲电影,http://live.aptvapp.com/live/huya/16144175
-斌哥漫说,http://live.aptvapp.com/live/huya/18632116
-糊了的胡萝卜,http://live.aptvapp.com/live/huya/25725150
-S哥影视,http://live.aptvapp.com/live/huya/24720260
-缔爵丶小阿杜,http://live.aptvapp.com/live/huya/16755322
-好尸,http://live.aptvapp.com/live/huya/15981239
-YeShi小哥,http://live.aptvapp.com/live/huya/14363949
-老P仔动漫,http://live.aptvapp.com/live/huya/26510802
-音乐小石榴,http://live.aptvapp.com/live/huya/17091681
-幻海航行,http://live.aptvapp.com/live/huya/17105786
-悸动,http://live.aptvapp.com/live/huya/28272846
-君子杉,http://live.aptvapp.com/live/huya/15321830
-小丑讲电影,http://live.aptvapp.com/live/huya/16857432
-小田儿解说,http://live.aptvapp.com/live/huya/27833739
-江雨霏霏衔岭月,http://live.aptvapp.com/live/huya/27675697
-阿良说美剧,http://live.aptvapp.com/live/huya/20488841
-小川侃电影,http://live.aptvapp.com/live/huya/15870999
-小阿掌,http://live.aptvapp.com/live/huya/28182904
-越哥说电影,http://live.aptvapp.com/live/huya/15894162
-大鱼爱路飞,http://live.aptvapp.com/live/huya/25818873
-楚门聊电影,http://live.aptvapp.com/live/huya/16507906
-硬汉影探,http://live.aptvapp.com/live/huya/24614407
-熊妹撩电影,http://live.aptvapp.com/live/huya/15966357
-
 🐆🐅埋堆堆港剧,#genre#
-TVB官方,http://live.aptvapp.com/live/huya/23735126
-埋堆堆官方,http://live.aptvapp.com/live/huya/23740156
-埋堆堆1,http://live.aptvapp.com/live/huya/23749096
-埋堆堆2,http://live.aptvapp.com/live/huya/23728660
-埋堆堆3,http://live.aptvapp.com/live/huya/23865080
-埋堆堆4,http://live.aptvapp.com/live/huya/23864973
-埋堆堆5,http://live.aptvapp.com/live/huya/23734169
-埋堆堆6,http://live.aptvapp.com/live/huya/23865142
-埋堆堆7,http://live.aptvapp.com/live/huya/23863804
-埋堆堆8,http://live.aptvapp.com/live/huya/23903130
-埋堆堆9,http://live.aptvapp.com/live/huya/23860039
-埋堆堆10,http://live.aptvapp.com/live/huya/23903123
-埋堆堆11,http://live.aptvapp.com/live/huya/23865171
-埋堆堆12,http://live.aptvapp.com/live/huya/23734256
-埋堆堆13,http://live.aptvapp.com/live/huya/23903183
-埋堆堆14,http://live.aptvapp.com/live/huya/23749083
-埋堆堆15,http://live.aptvapp.com/live/huya/23728674
-埋堆堆16,http://live.aptvapp.com/live/huya/23903196
-埋堆堆17,http://live.aptvapp.com/live/huya/23829543
-埋堆堆18,http://live.aptvapp.com/live/huya/23863818
-埋堆堆19,http://live.aptvapp.com/live/huya/23734183
-埋堆堆20,http://live.aptvapp.com/live/huya/23865058
-埋堆堆21,http://live.aptvapp.com/live/huya/23865036
-埋堆堆22,http://live.aptvapp.com/live/huya/23829447
-埋堆堆23,http://live.aptvapp.com/live/huya/23860049
-埋堆堆24,http://live.aptvapp.com/live/huya/23865164
-埋堆堆25,http://live.aptvapp.com/live/huya/23865161
-埋堆堆26,http://live.aptvapp.com/live/huya/23865179
-埋堆堆27,http://live.aptvapp.com/live/huya/23863796
-埋堆堆28,http://live.aptvapp.com/live/huya/23824164
-埋堆堆29,http://live.aptvapp.com/live/huya/23734176
-埋堆堆30,http://live.aptvapp.com/live/huya/23863787
-埋堆堆31,http://live.aptvapp.com/live/huya/23863778
-埋堆堆32,http://live.aptvapp.com/live/huya/23749068
-埋堆堆33,http://live.aptvapp.com/live/huya/23734211
-埋堆堆34,http://live.aptvapp.com/live/huya/23746486
-埋堆堆35,http://live.aptvapp.com/live/huya/23735153
-埋堆堆36,http://live.aptvapp.com/live/huya/23734246
-
 
 TVB官方,http://epg.112114.xyz/huya/23735126
 埋堆堆官方,http://epg.112114.xyz/huya/23740156
@@ -1861,6 +1742,46 @@ TVB官方,http://epg.112114.xyz/huya/23735126
 埋堆堆35,http://epg.112114.xyz/huya/23735153
 埋堆堆36,http://epg.112114.xyz/huya/23734246
 
+
+
+TVB官方,http://live.aptvapp.com/live/huya/23735126
+埋堆堆官方,http://live.aptvapp.com/live/huya/23740156
+埋堆堆1,http://live.aptvapp.com/live/huya/23749096
+埋堆堆2,http://live.aptvapp.com/live/huya/23728660
+埋堆堆3,http://live.aptvapp.com/live/huya/23865080
+埋堆堆4,http://live.aptvapp.com/live/huya/23864973
+埋堆堆5,http://live.aptvapp.com/live/huya/23734169
+埋堆堆6,http://live.aptvapp.com/live/huya/23865142
+埋堆堆7,http://live.aptvapp.com/live/huya/23863804
+埋堆堆8,http://live.aptvapp.com/live/huya/23903130
+埋堆堆9,http://live.aptvapp.com/live/huya/23860039
+埋堆堆10,http://live.aptvapp.com/live/huya/23903123
+埋堆堆11,http://live.aptvapp.com/live/huya/23865171
+埋堆堆12,http://live.aptvapp.com/live/huya/23734256
+埋堆堆13,http://live.aptvapp.com/live/huya/23903183
+埋堆堆14,http://live.aptvapp.com/live/huya/23749083
+埋堆堆15,http://live.aptvapp.com/live/huya/23728674
+埋堆堆16,http://live.aptvapp.com/live/huya/23903196
+埋堆堆17,http://live.aptvapp.com/live/huya/23829543
+埋堆堆18,http://live.aptvapp.com/live/huya/23863818
+埋堆堆19,http://live.aptvapp.com/live/huya/23734183
+埋堆堆20,http://live.aptvapp.com/live/huya/23865058
+埋堆堆21,http://live.aptvapp.com/live/huya/23865036
+埋堆堆22,http://live.aptvapp.com/live/huya/23829447
+埋堆堆23,http://live.aptvapp.com/live/huya/23860049
+埋堆堆24,http://live.aptvapp.com/live/huya/23865164
+埋堆堆25,http://live.aptvapp.com/live/huya/23865161
+埋堆堆26,http://live.aptvapp.com/live/huya/23865179
+埋堆堆27,http://live.aptvapp.com/live/huya/23863796
+埋堆堆28,http://live.aptvapp.com/live/huya/23824164
+埋堆堆29,http://live.aptvapp.com/live/huya/23734176
+埋堆堆30,http://live.aptvapp.com/live/huya/23863787
+埋堆堆31,http://live.aptvapp.com/live/huya/23863778
+埋堆堆32,http://live.aptvapp.com/live/huya/23749068
+埋堆堆33,http://live.aptvapp.com/live/huya/23734211
+埋堆堆34,http://live.aptvapp.com/live/huya/23746486
+埋堆堆35,http://live.aptvapp.com/live/huya/23735153
+埋堆堆36,http://live.aptvapp.com/live/huya/23734246
 
 
 🐳斗鱼(ljk播放器),#genre#
