@@ -1600,8 +1600,29 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
-🐆🐅虎牙1,#genre#
-24小时点歌台,http://pull-flv-l26.douyincdn.com/third/stream-112962220266095078_or4.flv?expire=646321a7&sign=f2df391d4ca82093e35990ac1a9a5d2e
+🐆🐅抖音听歌,#genre#
+1,http://pull-flv-l26.douyincdn.com/third/stream-112962220266095078_or4.flv?expire=646321a7&sign=f2df391d4ca82093e35990ac1a9a5d2e
+2,http://pull-flv-l26.douyincdn.com/third/stream-112983990650012134_or4.flv?expire=64632551&sign=b72ed8fe08c2222d882c0e849a0b992a
+2,http://pull-hls-l26.douyincdn.com/third/stream-112983990650012134_or4.m3u8?expire=64632551&sign=4a3fcedb10662c1cd2b245474efff09b
+3,http://pull-flv-f1.douyincdn.com/third/stream-112977686646227627_uhd.flv?keeptime=00093a80&wsSecret=623c15f1b897f615e6c5f36fc025842b&wsTime=6459ed17
+3,http://pull-hls-f1.douyincdn.com/third/stream-112977686646227627_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=51653768f2055446ca0c4ff31abcb069&wsTime=6459ed17
+4,http://pull-flv-l1.douyincdn.com/third/stream-112984833738932262_or4.flv?keeptime=00093a80&wsSecret=098d5e7f32dac20f8f8872ac460aad92&wsTime=6459eb58
+4,http://pull-hls-l1.douyincdn.com/third/stream-112984833738932262_or4/playlist.m3u8?keeptime=00093a80&wsSecret=e902cf704345d25a6c5ccf4b55712f87&wsTime=6459eb58
+5,http://pull-flv-f1.douyincdn.com/third/stream-112984086688301739_or4.flv?keeptime=00093a80&wsSecret=9c49d74ce24b5048f3954e571e3f66d7&wsTime=6459eca4
+5,http://pull-hls-f1.douyincdn.com/third/stream-112984086688301739_or4/playlist.m3u8?keeptime=00093a80&wsSecret=cc12c01c11d4eca4b1b2aeb684647130&wsTime=6459eca4
+6,http://pull-flv-l11.douyincdn.com/third/stream-112980734596350428_uhd.flv?expire=1684219893&sign=7fb805d05c14b3199ac90d083002b89e
+6,http://pull-hls-l11.douyincdn.com/third/stream-112980734596350428_uhd.m3u8?expire=1684219893&sign=30718df9935f8d57e5cf095f02264af7
+菲菲音乐,http://pull-flv-l1.douyincdn.com/third/stream-112918267117699110_or4.flv?keeptime=00093a80&wsSecret=b0e764834e9d8d7aff9e3e10707db052&wsTime=6459ef22
+菲菲音乐,http://pull-hls-l1.douyincdn.com/third/stream-112918267117699110_or4/playlist.m3u8?keeptime=00093a80&wsSecret=7d145a7c4d1086190bd94eabb737b212&wsTime=6459ef22
+音坐标,http://pull-flv-f1.douyincdn.com/third/stream-112981232149594795.flv?keeptime=00093a80&wsSecret=93f982d3ca757afacb0fe49c66e883dc&wsTime=6459ee11
+音坐标,http://pull-hls-f1.douyincdn.com/third/stream-112981232149594795/playlist.m3u8?keeptime=00093a80&wsSecret=d3157af96c53e655f48e6df035d5043d&wsTime=6459ee11
+音乐汇,http://pull-flv-l1.douyincdn.com/third/stream-112983773089103910_or4.flv?keeptime=00093a80&wsSecret=16da4a2c1b57d471f3554b2dd1d56845&wsTime=6459efec
+音乐汇,http://pull-hls-l1.douyincdn.com/third/stream-112983773089103910_or4/playlist.m3u8?keeptime=00093a80&wsSecret=8dbe2043c939f42b70311a4a0b05e95c&wsTime=6459efec
+网抑云音乐,http://pull-flv-l11.douyincdn.com/third/stream-112984756364771804_or4.flv?expire=1684220209&sign=93fc08d2571ff9f63ef87bc9b692539a
+网抑云音乐,http://pull-hls-l11.douyincdn.com/third/stream-112984756364771804_or4.m3u8?expire=1684220209&sign=15d95df3dc981893aa2c2176b5f7e914
+叮咚音乐,http://pull-flv-l6.douyincdn.com/radio/stream-112984852059914275.flv
+叮咚音乐,http://pull-hls-l6.douyincdn.com/radio/stream-112984852059914275/index.m3u8
+
 🐆🐅虎牙1,#genre#
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
