@@ -1624,10 +1624,43 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 叮咚音乐,http://pull-hls-l6.douyincdn.com/radio/stream-112984852059914275/index.m3u8
 
 🐆🐅虎牙1,#genre#
-4K超高清电影,http://159.75.85.63:5681/sxg.php
-非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
-华数,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+郭德纲(无唱),http://al.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=c89df3f8f196162353ceb63f29115d91&wsTime=645a0745&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500
+郭德纲(有唱),http://aldirect.flv.huya.com/huyalive/1199547376549-1199547376549-5375155715587440640-2399094876554-10057-A-0-1.flv?wsSecret=7f5a5cfe2966b9ef255e8f7038cfbe4e&wsTime=645a092e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+郭德纲相声动画版,http://al.flv.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.flv?wsSecret=3b9a5721930270130c0dce0741d0cc13&wsTime=645a097f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+易中天品三国,http://al.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.flv?wsSecret=a5a741d03b6391adcdb5a6e43b57bfb5&wsTime=645a0a30&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+阿斗归来了,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.flv?wsSecret=81538c24c601d09dff3618db711bbf66&wsTime=645a0ab5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Acp1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000
+罗翔说法,http://tx.flv.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.flv?wsSecret=30b19c9e39b4b52fae9612d5e8f1f82f&wsTime=645a0b2a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+杰森·斯坦森,http://live.aptvapp.com/live/huya/21059588
+巨石强森,http://live.aptvapp.com/live/huya/21059581
+007系列,http://live.aptvapp.com/live/huya/21059585
+周星驰-粤语,http://live.aptvapp.com/live/huya/11336587
+星爷经典,http://txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=bc3179a13b6815834ceab6fcbc067095&wsTime=645a0b67&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aqzeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000
+林正英,http://live.aptvapp.com/live/huya/11342421
+沈腾,http://live.aptvapp.com/live/huya/11601968
+甄子丹,http://live.aptvapp.com/live/huya/11352935
+成龙,http://live.aptvapp.com/live/huya/11342386
+李连杰,http://live.aptvapp.com/live/huya/11342390
+周润发,http://live.aptvapp.com/live/huya/11342387
+刘德华,http://live.aptvapp.com/live/huya/11342424
+洪金宝,http://live.aptvapp.com/live/huya/11279251
+黄渤,http://live.aptvapp.com/live/huya/11342429
+王晶导演,http://live.aptvapp.com/live/huya/11602058
+黑帮系列,http://live.aptvapp.com/live/huya/11336719
+警匪系列,http://live.aptvapp.com/live/huya/11352886
+喜剧系列,http://live.aptvapp.com/live/huya/11602044
+动作大片,http://live.aptvapp.com/live/huya/11602077
+玄幻系列,http://live.aptvapp.com/live/huya/11352973
+古墓系列,http://live.aptvapp.com/live/huya/11352913
+各类经典电影,http://live.aptvapp.com/live/huya/27203821
+贺岁喜剧,http://live.aptvapp.com/live/huya/11601986
+金庸武侠系列,http://live.aptvapp.com/live/huya/11342427
+虎牙斯諾克,http://live.aptvapp.com/live/huya/880214
+虎牙斯諾克副舞台,http://live.aptvapp.com/live/huya/880625
+丁俊晖1,http://live.aptvapp.com/live/huya/880211
+丁俊晖2,http://live.aptvapp.com/live/huya/19197127
+奧沙利文,http://live.aptvapp.com/live/huya/880237
+特魯姆普,http://live.aptvapp.com/live/huya/17455032
+
 郭德纲(无唱),http://live.aptvapp.com/live/huya/10132155
 郭德纲(有唱),http://live.aptvapp.com/live/huya/22809600
 郭德纲相声动画版,http://live.aptvapp.com/live/huya/25343324
