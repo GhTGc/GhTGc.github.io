@@ -2378,6 +2378,26 @@ TNT,http://xtv.ooo:8080/311009689/6471777/242167
 TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
+
+League Pass01,http://nv1connect.com:80/12345678/87654321/93523
+League Pass02,http://nv1connect.com:80/12345678/87654321/93524
+League Pass03,http://nv1connect.com:80/12345678/87654321/93525
+League Pass04,http://nv1connect.com:80/12345678/87654321/93526
+League Pass05,http://nv1connect.com:80/12345678/87654321/93527
+League Pass06,http://nv1connect.com:80/12345678/87654321/93528
+League Pass07,http://nv1connect.com:80/12345678/87654321/93529
+League Pass08,http://nv1connect.com:80/12345678/87654321/93530
+League Pass09,http://nv1connect.com:80/12345678/87654321/93531
+League Pass10,http://nv1connect.com:80/12345678/87654321/93532
+League Pass11,http://nv1connect.com:80/12345678/87654321/93533
+League Pass12,http://nv1connect.com:80/12345678/87654321/93534
+League Pass13,http://nv1connect.com:80/12345678/87654321/93535
+League Pass14,http://nv1connect.com:80/12345678/87654321/93536
+League Pass15,http://nv1connect.com:80/12345678/87654321/93537
+League Pass16,http://nv1connect.com:80/12345678/87654321/93538
+League Pass17,http://nv1connect.com:80/12345678/87654321/93539
+League Pass18,http://nv1connect.com:80/12345678/87654321/93540
+
 League Pass01,http//xtv.ooo8080/1122888/8800/232743
 League Pass02,http//xtv.ooo8080/1122888/8800/232744
 League Pass03,http//xtv.ooo8080/1122888/8800/232745
