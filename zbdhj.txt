@@ -1602,26 +1602,30 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 
 🐆🐅抖音听歌,#genre#
 1,http://pull-flv-l26.douyincdn.com/third/stream-112962220266095078_or4.flv?expire=646321a7&sign=f2df391d4ca82093e35990ac1a9a5d2e
-2,http://pull-flv-l26.douyincdn.com/third/stream-112983990650012134_or4.flv?expire=64632551&sign=b72ed8fe08c2222d882c0e849a0b992a
-2,http://pull-hls-l26.douyincdn.com/third/stream-112983990650012134_or4.m3u8?expire=64632551&sign=4a3fcedb10662c1cd2b245474efff09b
-3,http://pull-flv-f1.douyincdn.com/third/stream-112977686646227627_uhd.flv?keeptime=00093a80&wsSecret=623c15f1b897f615e6c5f36fc025842b&wsTime=6459ed17
-3,http://pull-hls-f1.douyincdn.com/third/stream-112977686646227627_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=51653768f2055446ca0c4ff31abcb069&wsTime=6459ed17
-4,http://pull-flv-l1.douyincdn.com/third/stream-112984833738932262_or4.flv?keeptime=00093a80&wsSecret=098d5e7f32dac20f8f8872ac460aad92&wsTime=6459eb58
-4,http://pull-hls-l1.douyincdn.com/third/stream-112984833738932262_or4/playlist.m3u8?keeptime=00093a80&wsSecret=e902cf704345d25a6c5ccf4b55712f87&wsTime=6459eb58
-5,http://pull-flv-f1.douyincdn.com/third/stream-112984086688301739_or4.flv?keeptime=00093a80&wsSecret=9c49d74ce24b5048f3954e571e3f66d7&wsTime=6459eca4
-5,http://pull-hls-f1.douyincdn.com/third/stream-112984086688301739_or4/playlist.m3u8?keeptime=00093a80&wsSecret=cc12c01c11d4eca4b1b2aeb684647130&wsTime=6459eca4
-6,http://pull-flv-l11.douyincdn.com/third/stream-112980734596350428_uhd.flv?expire=1684219893&sign=7fb805d05c14b3199ac90d083002b89e
-6,http://pull-hls-l11.douyincdn.com/third/stream-112980734596350428_uhd.m3u8?expire=1684219893&sign=30718df9935f8d57e5cf095f02264af7
+云听音乐,http://pull-f3.douyincdn.com/third/stream-112947099567915691_uhd.flv?auth_key=1684296858-0-0-0b4d3443a4968873a9a4c7c6a4710036
+云听音乐,http://pull-f3.douyincdn.com/third/stream-112947099567915691_uhd.m3u8?auth_key=1684296858-0-0-665c18521abf1f9e644919913f3a7ae7
+动听音乐,http://pull-f3.douyincdn.com/third/stream-112945375945687723_uhd.flv?auth_key=1684296739-0-0-5f159b7cbb3f93bf81d4f114579b19b0
+动听音乐,http://pull-f3.douyincdn.com/third/stream-112945375945687723_uhd.m3u8?auth_key=1684296739-0-0-e0aa2010ec5d7bd64bd37ae8fcb201d1
+音乐汇,http://pull-flv-l6.douyincdn.com/third/stream-112989661351903271_or4.flv?k=74f8853d372f7a61&t=1684297602
+音乐汇,http://pull-hls-l6.douyincdn.com/third/stream-112989661351903271_or4/index.m3u8?k=44231112723ac3de&t=1684297602
+菲儿音乐,http://pull-flv-l1.douyincdn.com/third/stream-112989285204361254_or4.flv?keeptime=00093a80&wsSecret=3e924a8e578d2f796016b240ab5c7e19&wsTime=645b1db0
+菲儿音乐,http://pull-hls-l1.douyincdn.com/third/stream-112989285204361254_or4/playlist.m3u8?keeptime=00093a80&wsSecret=9ad3e568e1ddd0ee9601bcc705cab04c&wsTime=645b1db0
+静听音乐,http://pull-flv-l26.douyincdn.com/third/stream-112962220266095078_or4.flv?expire=64645902&sign=fa219a5e9138cedc263a1f6fdcd1a9bb
+静听音乐,http://pull-hls-l26.douyincdn.com/third/stream-112962220266095078_or4.m3u8?expire=64645902&sign=3ced58b9788dcb6985eaac15d9baa037
+九听音乐,http://pull-l3.douyincdn.com/third/stream-112986816816087519_uhd.flv?auth_key=1684296295-0-0-43e989309bc69c9016c5f99b57d6a9db
+九听音乐,http://pull-l3.douyincdn.com/third/stream-112986816816087519_uhd.m3u8?auth_key=1684296295-0-0-0cf77ac289f13dc1696b9977113bc62e
+清风点歌台,http://pull-flv-l1.douyincdn.com/third/stream-112986888612872230.flv?keeptime=00093a80&wsSecret=9528ab8243660502a7002dc25e96cc2a&wsTime=645b1f36
+清风点歌台,http://pull-hls-l1.douyincdn.com/third/stream-112986888612872230/playlist.m3u8?keeptime=00093a80&wsSecret=b81ff53bbdab0c9682af600c6dcdf36b&wsTime=645b1f36
 菲菲音乐,http://pull-flv-l1.douyincdn.com/third/stream-112918267117699110_or4.flv?keeptime=00093a80&wsSecret=b0e764834e9d8d7aff9e3e10707db052&wsTime=6459ef22
 菲菲音乐,http://pull-hls-l1.douyincdn.com/third/stream-112918267117699110_or4/playlist.m3u8?keeptime=00093a80&wsSecret=7d145a7c4d1086190bd94eabb737b212&wsTime=6459ef22
 音坐标,http://pull-flv-f1.douyincdn.com/third/stream-112981232149594795.flv?keeptime=00093a80&wsSecret=93f982d3ca757afacb0fe49c66e883dc&wsTime=6459ee11
 音坐标,http://pull-hls-f1.douyincdn.com/third/stream-112981232149594795/playlist.m3u8?keeptime=00093a80&wsSecret=d3157af96c53e655f48e6df035d5043d&wsTime=6459ee11
-音乐汇,http://pull-flv-l1.douyincdn.com/third/stream-112983773089103910_or4.flv?keeptime=00093a80&wsSecret=16da4a2c1b57d471f3554b2dd1d56845&wsTime=6459efec
-音乐汇,http://pull-hls-l1.douyincdn.com/third/stream-112983773089103910_or4/playlist.m3u8?keeptime=00093a80&wsSecret=8dbe2043c939f42b70311a4a0b05e95c&wsTime=6459efec
-网抑云音乐,http://pull-flv-l11.douyincdn.com/third/stream-112984756364771804_or4.flv?expire=1684220209&sign=93fc08d2571ff9f63ef87bc9b692539a
-网抑云音乐,http://pull-hls-l11.douyincdn.com/third/stream-112984756364771804_or4.m3u8?expire=1684220209&sign=15d95df3dc981893aa2c2176b5f7e914
-叮咚音乐,http://pull-flv-l6.douyincdn.com/radio/stream-112984852059914275.flv
-叮咚音乐,http://pull-hls-l6.douyincdn.com/radio/stream-112984852059914275/index.m3u8
+网抑云音乐,http://pull-flv-f26.douyincdn.com/third/stream-112986615620305579_or4.flv?expire=64645a7f&sign=f78f3543a0bd277c8fa1db3fac1e34bd
+网抑云音乐,http://pull-hls-f26.douyincdn.com/third/stream-112986615620305579_or4.m3u8?expire=64645a7f&sign=af59fc719d8248d115bdf7cb4676eb76
+8090点歌台,http://pull-flv-l26.douyincdn.com/third/stream-112988884296794598_or4.flv?expire=64645a22&sign=55e843b2bdefc571eccad746f442a8c3
+8090点歌台,http://pull-hls-l26.douyincdn.com/third/stream-112988884296794598_or4.m3u8?expire=64645a22&sign=b5824a5d123941bf2747237e0725cf86
+梦娜音乐,http://pull-flv-f6.douyincdn.com/third/stream-112989921942438574.flv?k=0de7867b31a19f18&t=1684298429
+梦娜音乐,http://pull-hls-f6.douyincdn.com/third/stream-112989921942438574/index.m3u8?k=2d253befb94001c1&t=1684298429
 
 🐆🐅虎牙1,#genre#
 郭德纲(无唱),http://epg.112114.xyz/huya/10132155
