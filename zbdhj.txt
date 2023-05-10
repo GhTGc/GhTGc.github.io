@@ -1608,10 +1608,10 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 动听音乐,http://pull-f3.douyincdn.com/third/stream-112945375945687723_uhd.m3u8?auth_key=1684296739-0-0-e0aa2010ec5d7bd64bd37ae8fcb201d1
 音乐汇,http://pull-flv-l6.douyincdn.com/third/stream-112989661351903271_or4.flv?k=74f8853d372f7a61&t=1684297602
 音乐汇,http://pull-hls-l6.douyincdn.com/third/stream-112989661351903271_or4/index.m3u8?k=44231112723ac3de&t=1684297602
-菲儿音乐,http://pull-flv-l1.douyincdn.com/third/stream-112989285204361254_or4.flv?keeptime=00093a80&wsSecret=3e924a8e578d2f796016b240ab5c7e19&wsTime=645b1db0
-菲儿音乐,http://pull-hls-l1.douyincdn.com/third/stream-112989285204361254_or4/playlist.m3u8?keeptime=00093a80&wsSecret=9ad3e568e1ddd0ee9601bcc705cab04c&wsTime=645b1db0
-静听音乐,http://pull-flv-l26.douyincdn.com/third/stream-112962220266095078_or4.flv?expire=64645902&sign=fa219a5e9138cedc263a1f6fdcd1a9bb
-静听音乐,http://pull-hls-l26.douyincdn.com/third/stream-112962220266095078_or4.m3u8?expire=64645902&sign=3ced58b9788dcb6985eaac15d9baa037
+小熊音乐,http://pull-flv-l11.douyincdn.com/third/stream-112979888825958876_or4.flv?expire=1684312996&sign=7476def850fd254e2dc177cab6e8befa
+小熊音乐,http://pull-hls-l11.douyincdn.com/third/stream-112979888825958876_or4.m3u8?expire=1684312996&sign=76d70f51bb2b48368203fc039dfe4aab
+静听音乐,http://pull-l3.douyincdn.com/third/stream-112991415586783711_or4.flv?auth_key=1684310733-0-0-c60c6302f14a647e86347631df1c0b0a
+静听音乐,http://pull-l3.douyincdn.com/third/stream-112991415586783711_or4.m3u8?auth_key=1684310733-0-0-aabdeb16c964f1e5b18a6e1225854ae7
 九听音乐,http://pull-l3.douyincdn.com/third/stream-112986816816087519_uhd.flv?auth_key=1684296295-0-0-43e989309bc69c9016c5f99b57d6a9db
 九听音乐,http://pull-l3.douyincdn.com/third/stream-112986816816087519_uhd.m3u8?auth_key=1684296295-0-0-0cf77ac289f13dc1696b9977113bc62e
 清风点歌台,http://pull-flv-l1.douyincdn.com/third/stream-112986888612872230.flv?keeptime=00093a80&wsSecret=9528ab8243660502a7002dc25e96cc2a&wsTime=645b1f36
