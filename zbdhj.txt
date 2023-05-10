@@ -2370,7 +2370,6 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 💞NBA,#genre#
-SPORT TV NBA,http://flysilo.top:8080/live/3141661038729943/8811661038729943/24981.ts
 TNT,http://nv1connect.com:80/12345678/87654321/77439
 TNT,http://nv1connect.com:80/12345678/87654321/72620
 TNT,http://nv1connect.com:80/12345678/87654321/1142
@@ -2379,54 +2378,49 @@ TNT,http://xtv.ooo:8080/311009689/6471777/242167
 TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
-NBA LeaguePass01,http//nv1connect.com80/12345678/87654321/93523
-NBA LeaguePass02,http//nv1connect.com80/12345678/87654321/93524
-NBA LeaguePass03,http//nv1connect.com80/12345678/87654321/93525
-NBA LeaguePass04,http//nv1connect.com80/12345678/87654321/93526
-NBA LeaguePass05,http//nv1connect.com80/12345678/87654321/93527
-NBA LeaguePass06,http//nv1connect.com80/12345678/87654321/93528
-NBA LeaguePass07,http//nv1connect.com80/12345678/87654321/93529
-NBA LeaguePass08,http//nv1connect.com80/12345678/87654321/93530
-NBA LeaguePass09,http//nv1connect.com80/12345678/87654321/93531
-NBA LeaguePass10,http//nv1connect.com80/12345678/87654321/93532
-NBA LeaguePass11,http//nv1connect.com80/12345678/87654321/93533
-NBA LeaguePass12,http//nv1connect.com80/12345678/87654321/93534
-NBA LeaguePass13,http//nv1connect.com80/12345678/87654321/93535
-NBA LeaguePass14,http//nv1connect.com80/12345678/87654321/93536
-NBA LeaguePass15,http//nv1connect.com80/12345678/87654321/93537
-NBA LeaguePass16,http//nv1connect.com80/12345678/87654321/93538
-NBA LeaguePass17,http//nv1connect.com80/12345678/87654321/93539
-NBA LeaguePass18,http//nv1connect.com80/12345678/87654321/93540
-掘金,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50997.ts
-凯尔特人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51004.ts
-76人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50993.ts
-篮网,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51005.ts
-热火,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50986.ts
-奇才,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50979.ts
-爵士,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50980.ts
-国王,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50983.ts
-猛龙,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50981.ts
-马刺,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50982.ts
-开拓者,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50984.ts
-灰熊,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50985.ts
-雄鹿,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50987.ts
-森林狼,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50988.ts
-鹈鹕,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50989.ts
-尼克斯,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50990.ts
-雷霆,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50991.ts
-魔术,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50992.ts
-太阳,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50994.ts
-老鹰,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50995.ts
-独行侠,http://flysilo.top:8080/live/7381662208002780/5261662208002780/50996.ts
-活塞,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50998.ts
-勇士,http://flysilo.top:8080/live/3141661038729943/8811661038729943/50999.ts
-火箭,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51000.ts
-步行者,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51001.ts
-快船,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51002.ts
-湖人,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51003.ts
-黄蜂,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51006.ts
-公牛,http://flysilo.top:8080/live/3141661038729943/8811661038729943/51007.ts
-骑士,http://superbits.tv:80/d4Je5xwD/yadTXB63/428866
+League Pass01,http//xtv.ooo8080/1122888/8800/232743
+League Pass02,http//xtv.ooo8080/1122888/8800/232744
+League Pass03,http//xtv.ooo8080/1122888/8800/232745
+League Pass04,http//xtv.ooo8080/1122888/8800/232746
+League Pass05,http//xtv.ooo8080/1122888/8800/232747
+League Pass06,http//xtv.ooo8080/1122888/8800/232748
+League Pass07,http//xtv.ooo8080/1122888/8800/232749
+League Pass08,http//xtv.ooo8080/1122888/8800/232750
+League Pass09,http//xtv.ooo8080/1122888/8800/232751
+League Pass10,http//xtv.ooo8080/1122888/8800/232752
+League Pass11,http//xtv.ooo8080/1122888/8800/232753
+League Pass12,http//xtv.ooo8080/1122888/8800/232754
+League Pass13,http//xtv.ooo8080/1122888/8800/232755
+Atlanta Hawks,http//xtv.ooo8080/1122888/8800/232756
+Boston Celtics,http//xtv.ooo8080/1122888/8800/232757
+Brooklyn Nets,http//xtv.ooo8080/1122888/8800/232758
+Charlotte Hornets,http//xtv.ooo8080/1122888/8800/232759
+Chicago Bulls,http//xtv.ooo8080/1122888/8800/232760
+Cleveland Cavaliers,http//xtv.ooo8080/1122888/8800/232761
+Dallas Mavericks,http//xtv.ooo8080/1122888/8800/232762
+Denver Nuggets,http//xtv.ooo8080/1122888/8800/232763
+Detroit Pistons,http//xtv.ooo8080/1122888/8800/232764
+Golden State Warriors,http//xtv.ooo8080/1122888/8800/232765
+Houston Rockets,http//xtv.ooo8080/1122888/8800/232766
+Indiana Pacers,http//xtv.ooo8080/1122888/8800/232767
+Los Angeles Clippers,http//xtv.ooo8080/1122888/8800/232768
+Los Angeles Lakers,http//xtv.ooo8080/1122888/8800/232769
+Memphis Grizzlies,http//xtv.ooo8080/1122888/8800/232770
+Miami Heat,http//xtv.ooo8080/1122888/8800/232771
+Milwaukee Bucks,http//xtv.ooo8080/1122888/8800/232772
+Minnesota Timberwolves,http//xtv.ooo8080/1122888/8800/232773
+New Orleans Pelicans,http//xtv.ooo8080/1122888/8800/232774
+New York Knicks,http//xtv.ooo8080/1122888/8800/232775
+Oklahoma City Thunder,http//xtv.ooo8080/1122888/8800/232776
+Orlando Magic,http//xtv.ooo8080/1122888/8800/232777
+Philadelphia 76ers,http//xtv.ooo8080/1122888/8800/232778
+Phoenix Suns,http//xtv.ooo8080/1122888/8800/232779
+Portland Trail Blazers,http//xtv.ooo8080/1122888/8800/232780
+Sacramento Kings,http//xtv.ooo8080/1122888/8800/232781
+San Antonio Spurs,http//xtv.ooo8080/1122888/8800/232782
+Toronto Raptors,http//xtv.ooo8080/1122888/8800/232783
+Utah Jazz,http//xtv.ooo8080/1122888/8800/232784
+Washington Wizards,http//xtv.ooo8080/1122888/8800/232785
 
 
 💞英超,#genre#
