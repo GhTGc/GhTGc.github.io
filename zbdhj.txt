@@ -1487,8 +1487,8 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 
 
 📺湖北武汉,#genre#
-湖北经视,http://pull-flv-f26.douyincdn.com/media/stream-113030677485585068.flv
-湖北经视,http://pull-hls-f26.douyincdn.com/media/stream-113030677485585068.m3u8
+湖北经视,http://pull-flv-f1.douyincdn.com/media/stream-113030677485585068.flv
+湖北经视,http://pull-hls-f1.douyincdn.com/media/stream-113030677485585068/playlist.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://219.140.56.34:3333/tsfile/live/1019_1.m3u8
@@ -1509,8 +1509,8 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 🐆🐅抖音听歌,#genre#
 云听音乐,http://pull-flv-f1.douyincdn.com/third/stream-113010599186137771_uhd.flv?keeptime=00093a80&wsSecret=7cd8f9d6806682a079bd310a0d315f64&wsTime=6461d0ca
 云听音乐,http://pull-hls-f1.douyincdn.com/third/stream-113010599186137771_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=f9a4bf867bef5be9c0f756b951330da9&wsTime=6461d0ca
-24小时音乐,http://pull-flv-f1.douyincdn.com/third/stream-113019167573803691_or4.flv?keeptime=00093a80&wsSecret=8bd0a583d16831edcf3ea60b0ee2b4ce&wsTime=6461d56d
-24小时音乐,http://pull-hls-f1.douyincdn.com/third/stream-113019167573803691_or4/playlist.m3u8?keeptime=00093a80&wsSecret=c66daeb6461220e9f72dfb57280f43d8&wsTime=6461d56d
+24小时音乐,http://pull-flv-f1.douyincdn.com/third/stream-113030520989024939_or4.flv?keeptime=00093a80&wsSecret=1d3ed3784db3a4adc0825626d34ce79a&wsTime=646460c1
+24小时音乐,http://pull-hls-f1.douyincdn.com/third/stream-113030520989024939_or4/playlist.m3u8?keeptime=00093a80&wsSecret=b27f0a4b8c5180774d0244c985401a77&wsTime=646460c1
 小熊音乐,http://pull-flv-f1.douyincdn.com/third/stream-113003868031287979_or4.flv?keeptime=00093a80&wsSecret=cbb57d60c93ae42f273b864cbc09da90&wsTime=6461d1c1
 小熊音乐,http://pull-hls-f1.douyincdn.com/third/stream-113003868031287979_or4/playlist.m3u8?keeptime=00093a80&wsSecret=42469c767ec988f29e6eac33eb75b7f7&wsTime=6461d1c1
 九听音乐,http://pull-l3.douyincdn.com/third/stream-113010605824410079.flv?auth_key=1684735358-0-0-6a35f883a4e1516100bd2f6eb8a84f87
