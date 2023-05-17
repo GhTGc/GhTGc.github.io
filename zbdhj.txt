@@ -1521,8 +1521,8 @@ Luck菲,http://pull-l3.douyincdn.com/third/stream-113030227187466719_or4.m3u8?au
 菲菲音乐,http://pull-hls-f1.douyincdn.com/third/stream-113007534664843947_or4/playlist.m3u8?keeptime=00093a80&wsSecret=e3342d91bff7ec4e41cf3822a794a5d6&wsTime=6461d258
 8090老歌台,http://pull-flv-l26.douyincdn.com/third/stream-113016486105186790_or4.flv?expire=646d9ee9&sign=27994c41872ecb072c6bac155161a22e
 8090老歌台,http://pull-hls-l26.douyincdn.com/third/stream-113016486105186790_or4.m3u8?expire=646d9ee9&sign=263400c8acb6675e9062d51ea37242cf
-音坐标,http://pull-flv-f1.douyincdn.com/third/stream-113007442449924779.flv?keeptime=00093a80&wsSecret=091659258d6dac41cdf6350c259f0c8c&wsTime=646464bb
-音坐标,http://pull-hls-f1.douyincdn.com/third/stream-113007442449924779/playlist.m3u8?keeptime=00093a80&wsSecret=23b9ff18522f775a34cded3f2596892e&wsTime=646464bb
+静听音乐,http://pull-flv-f26.douyincdn.com/third/stream-113016321352663723_uhd.flv?expire=646da522&sign=2ed5b358bdd6741773b27311181db544
+静听音乐,http://pull-hls-f26.douyincdn.com/third/stream-113016321352663723_uhd.m3u8?expire=646da522&sign=5bbec1c4f2bbe26649ced6a56f643dec
 24音乐,http://pull-flv-f26.douyincdn.com/third/stream-113016229418500782.flv?expire=646d9ff1&sign=33fb02c5b24da480df81895f8b23fa38
 24音乐,http://pull-hls-f26.douyincdn.com/third/stream-113016229418500782.m3u8?expire=646d9ff1&sign=1bdb8144a6335f0eff9e6cf5abffc085
 大白音乐,http://pull-flv-f1.douyincdn.com/third/stream-113030054444270251_or4.flv?keeptime=00093a80&wsSecret=02b44ede0f34db4bce150db1c625bb6e&wsTime=646466e7
