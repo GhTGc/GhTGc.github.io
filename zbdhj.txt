@@ -2261,6 +2261,7 @@ Washington Wizards,http//xtv.ooo8080/1122888/8800/232785
 
 
 ⚽英超,#genre#
+USA Network,http://xtv.ooo:8080/311009689/6471777/223349
 USA Network,http://nv1connect.com:80/12345678/87654321/1135
 USA Network,http://nv1connect.com:80/12345678/87654321/77440
 USA Network,http://nv1connect.com:80/12345678/87654321/72622
