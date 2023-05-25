@@ -441,6 +441,8 @@ CCTV-17农业农村,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/inde
 
 📺卫视高清,#genre#
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 求索动物,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=QSDWHD_7000
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
