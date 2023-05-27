@@ -1489,8 +1489,6 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 
 
 📺湖北武汉,#genre#
-经视网播,http://pull-flv-f26.douyincdn.com/media/stream-401266422211150508.flv
-经视网播,http://pull-hls-f26.douyincdn.com/media/stream-401266422211150508.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://219.140.56.34:3333/tsfile/live/1019_1.m3u8
@@ -1509,20 +1507,20 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
 🎵抖音听歌,#genre#
-动听音乐,http://pull-flv-l26.douyincdn.com/third/stream-113032137909207526_uhd.flv?expire=6470226a&sign=44da2f51e6f743ebce278c836748cc6a
-动听音乐,http://pull-hls-l26.douyincdn.com/third/stream-113032137909207526_uhd.m3u8?expire=6470226a&sign=e25d8fc7c2ede3e74853f8fa7a0b3c8f
-梦娜音乐,http://pull-f3.douyincdn.com/third/stream-113039282583110318.flv?auth_key=1685068777-0-0-23d0826b3965803871f17e6cac308f9e
-梦娜音乐,http://pull-f3.douyincdn.com/third/stream-113039282583110318.m3u8?auth_key=1685068777-0-0-cdbc59183c41d03a6d3a42bab56b7053
-菲菲音乐,http://pull-flv-l11.douyincdn.com/third/stream-113043560915796444_or4.flv?expire=1685202494&sign=a487eee01a5b7e2dfe34e56ffa5713f4
-菲菲音乐,http://pull-flv-f1.douyincdn.com/third/stream-113050514734187179_uhd.flv?keeptime=00093a80&wsSecret=669233cb9b92f0f1416370a80dea7010&wsTime=6468ec68
-云听音乐,http://pull-flv-f26.douyincdn.com/third/stream-113043122956272299_uhd.flv?expire=6474a0a4&sign=f2375c04f573fee01936245784f6881b
-云听音乐,http://pull-hls-f26.douyincdn.com/third/stream-113043122956272299_uhd.m3u8?expire=6474a0a4&sign=dd528567d3dc00d3db16d744689eada5
-抖音点歌台,http://pull-flv-l11.douyincdn.com/third/stream-113012729955484124_uhd.flv?expire=1684980004&sign=b660c559c337dd936f30e029730b73ae
-抖音点歌台,http://pull-hls-l11.douyincdn.com/third/stream-113012729955484124_uhd.m3u8?expire=1684980004&sign=56347d116147ff41ec1de942a43a251a
-润雨音乐,http://pull-f3.douyincdn.com/third/stream-113059912389755563_or4.flv?auth_key=1685363197-0-0-ed64140cb0b9ac3eef5e6c610ffd31f3
-润雨音乐,http://pull-f3.douyincdn.com/third/stream-113059912389755563_or4.m3u8?auth_key=1685363197-0-0-e3502cb26b65e13e9c7d6c7a206ede8a
-小旺歌单,http://pull-flv-f1.douyincdn.com/third/stream-113039828513456811_or4.flv?keeptime=00093a80&wsSecret=b0d1f485f2a7309fe2654ad146c2d9b8&wsTime=6466ed2c
-小旺歌单,http://pull-hls-f1.douyincdn.com/third/stream-113039828513456811_or4/playlist.m3u8?keeptime=00093a80&wsSecret=8d62e356b18aea0d85e55cb1fdbf1ce7&wsTime=6466ed2c
+动听音乐,http://pull-flv-l1.douyincdn.com/radio/stream-113090183719288866_or4.flv
+动听音乐,http://pull-hls-l1.douyincdn.com/radio/stream-113090183719288866_or4/playlist.m3u8
+梦娜音乐,http://pull-flv-l1.douyincdn.com/radio/stream-113091030439428130.flv
+梦娜音乐,http://pull-hls-l1.douyincdn.com/radio/stream-113091030439428130/playlist.m3u8
+菲菲音乐,http://pull-flv-l1.douyincdn.com/radio/stream-401309807891709986.flv
+菲菲音乐,http://pull-hls-l1.douyincdn.com/radio/stream-401309807891709986/playlist.m3u8
+云听音乐,http://pull-flv-l6.douyincdn.com/radio/stream-113089369889308707.flv
+云听音乐,http://pull-hls-l6.douyincdn.com/radio/stream-113089369889308707/index.m3u8
+抖音点歌台,http://pull-flv-l6.douyincdn.com/radio/stream-113087746996437027_or4.flv
+抖音点歌台,http://pull-hls-l6.douyincdn.com/radio/stream-113087746996437027_or4/index.m3u8
+润雨音乐,http://pull-flv-l1.douyincdn.com/radio/stream-689536604989554722.flv
+润雨音乐,http://pull-hls-l1.douyincdn.com/radio/stream-689536604989554722/playlist.m3u8
+小旺歌单,http://pull-flv-l6.douyincdn.com/radio/stream-113089463041130531.flv
+小旺歌单,http://pull-hls-l6.douyincdn.com/radio/stream-113089463041130531/index.m3u8
 
 
 🐆🐅虎牙,#genre#
@@ -1774,10 +1772,7 @@ PP看动漫,http://159.75.85.63:35455/douyu/9837291
 
 
 
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-周末电影院,http://epg.112114.xyz/douyu/3637726
-周末电影院2,http://epg.112114.xyz/douyu/3637765
-特辑电影院,http://epg.112114.xyz/douyu/3637778
+
 60帧极致画面,http://epg.112114.xyz/douyu/747764
 科幻 动作 喜剧电影,http://epg.112114.xyz/douyu/323876
 恐怖/经典/搞笑,http://epg.112114.xyz/douyu/74374
