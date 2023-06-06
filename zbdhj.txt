@@ -1507,20 +1507,20 @@ CGTN英语,https://php.ntnas.top/api/sxg.php?id=CGTN_4000
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
 🎵抖音听歌,#genre#
-动听音乐,http://pull-flv-l1.douyincdn.com/radio/stream-113090183719288866_or4.flv
-动听音乐,http://pull-hls-l1.douyincdn.com/radio/stream-113090183719288866_or4/playlist.m3u8
-梦娜音乐,http://pull-flv-l1.douyincdn.com/radio/stream-113091030439428130.flv
-梦娜音乐,http://pull-hls-l1.douyincdn.com/radio/stream-113091030439428130/playlist.m3u8
-菲菲音乐,http://pull-flv-l1.douyincdn.com/radio/stream-401309807891709986.flv
-菲菲音乐,http://pull-hls-l1.douyincdn.com/radio/stream-401309807891709986/playlist.m3u8
-云听音乐,http://pull-flv-l6.douyincdn.com/radio/stream-113089369889308707.flv
-云听音乐,http://pull-hls-l6.douyincdn.com/radio/stream-113089369889308707/index.m3u8
-抖音点歌台,http://pull-flv-l6.douyincdn.com/radio/stream-113087746996437027_or4.flv
-抖音点歌台,http://pull-hls-l6.douyincdn.com/radio/stream-113087746996437027_or4/index.m3u8
-润雨音乐,http://pull-flv-l1.douyincdn.com/radio/stream-689536604989554722.flv
-润雨音乐,http://pull-hls-l1.douyincdn.com/radio/stream-689536604989554722/playlist.m3u8
-小旺歌单,http://pull-flv-l6.douyincdn.com/radio/stream-113089463041130531.flv
-小旺歌单,http://pull-hls-l6.douyincdn.com/radio/stream-113089463041130531/index.m3u8
+Luck菲音乐,http://pull-flv-l6.douyincdn.com/third/stream-113146414032486439_or4.flv?k=51b14c2a4c00c84b&t=1686622155
+Luck菲音乐,http://pull-hls-l6.douyincdn.com/third/stream-113146414032486439_or4/index.m3u8?k=c50715ed0c7be788&t=1686622155
+九听音乐,http://pull-flv-f26.douyincdn.com/third/stream-113136557484933803_or4.flv?expire=6487cec4&sign=b992aa6b7f9ba964f66ea412462ccf5f
+九听音乐,http://pull-hls-f26.douyincdn.com/third/stream-113136557484933803_or4.m3u8?expire=6487cec4&sign=68e3dc084e9656fdf1783c721215dc9c
+梦娜音乐,http://pull-f3.douyincdn.com/third/stream-113143283743982254.flv?auth_key=1686620465-0-0-a4ede15e63ad2f4a051d94c04795ab66
+梦娜音乐,http://pull-f3.douyincdn.com/third/stream-113143283743982254.m3u8?auth_key=1686620465-0-0-5d6c961b05af075c1a26c531d8289af6
+云听音乐,http://pull-flv-f1.douyincdn.com/third/stream-113109211432092331_uhd.flv?keeptime=00093a80&wsSecret=d86bc8f05211433a965af3fcb89acf29&wsTime=647e9490
+云听音乐,http://pull-hls-f1.douyincdn.com/third/stream-113109211432092331_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=e145426054a000347f46f6b58acf08cf&wsTime=647e9490
+抖音点歌台,http://pull-f3.douyincdn.com/third/stream-113143601571824299_uhd.flv?auth_key=1686620279-0-0-7a8e57b95cc0a95d7e06674b9f502af9
+抖音点歌台,http://pull-f3.douyincdn.com/third/stream-113143601571824299_uhd.m3u8?auth_key=1686620279-0-0-3868df359f4288d609a7b3457537ec20
+百听音乐,http://pull-flv-l26.douyincdn.com/third/stream-113140573151166950_uhd.flv?expire=6487d1a8&sign=6af1b432417948c3597ae7d6a80881d2
+百听音乐,http://pull-hls-l26.douyincdn.com/third/stream-113140573151166950_uhd.m3u8?expire=6487d1a8&sign=fb8e2d62383db434e0899cb9e0cdf543
+时光音悦台,http://pull-flv-f1.douyincdn.com/third/stream-113143639629103790_uhd.flv?keeptime=00093a80&wsSecret=00c7db0691e4d23c6aac1f58c86e434e&wsTime=647e94d2
+时光音悦台,http://pull-hls-f1.douyincdn.com/third/stream-113143639629103790_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=102874cc85a5b59f32d7287a4bfb23b7&wsTime=647e94d2
 
 
 🐆🐅虎牙,#genre#
