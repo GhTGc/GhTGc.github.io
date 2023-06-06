@@ -995,6 +995,8 @@ NewTV黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.
 
 ❤️蜀小果,#genre#
 JJ斗地主,http://epg.112114.xyz/douyu/488743
+JJ斗地主,http://pull-flv-l26.douyincdn.com/third/stream-113146674288001510_or4.flv?expire=6487d23b&sign=18eb730c340858b48ae7109eb1cc30e6
+JJ斗地主,http://pull-hls-l26.douyincdn.com/third/stream-113146674288001510_or4.m3u8?expire=6487d23b&sign=59b0d2809bde4313cc378f08a5002e4a
 4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
