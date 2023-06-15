@@ -7,8 +7,9 @@ TVBS新聞,https://epg.pw/stream/66d5e8c4cea97606ab6afcd2754ae3e95e5660eefd808cd
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天綜合,http://107.151.203.111:2209/135/us50.php?id=ztz
-中天綜合,http://23.237.10.66:16372
+中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天綜合,
+中天綜合,
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 翡翠台,http://pull-l3-cny.douyincdn.com/live/bc93b287862818b6abc97fbe5da932a1.flv
 翡翠台,http://pull-l3-cny.douyincdn.com/live/876c9a52cab3d6889fbb7e3ea5e72110.flv
