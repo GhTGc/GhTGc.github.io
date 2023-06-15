@@ -2295,7 +2295,7 @@ HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/253
 HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/43
 HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/498
 HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/798
-HBO XTREME :,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/261
+HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/261
 HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/49
 HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76662
 HBO FAMILY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/795
