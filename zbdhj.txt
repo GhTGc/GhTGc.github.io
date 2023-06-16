@@ -2471,11 +2471,44 @@ CHEDDAR,http://nv1connect.com:80/tamtam/tjfYkCbP3s/413
 CHEDDAR BUSINESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/332
 
 •●★英国体育★●•,#genre#
-EUROSPORT 1,http://xtv.ooo:8080/311009689/6471777/222656
-EUROSPORT 2,http://xtv.ooo:8080/311009689/6471777/222657
-BT SPORT 1,http://xtv.ooo:8080/311009689/6471777/222640
-BT SPORT 2,http://xtv.ooo:8080/311009689/6471777/222641
-BT SPORT 3,http://xtv.ooo:8080/311009689/6471777/222642
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21959
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1364
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80554
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21960
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28661
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28662
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43098
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1363
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80555
+Sky WITNESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80628
+Sky Sports NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73788
+Sky Sports MAIN EVENT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80622
+Sky Sports MAIN EVENT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73795
+Sky Sports FOOTBALL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
+Sky Sports FOOTBALL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80620
+Sky Sports MIX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73787
+Sky Sports PREMIER LEAGUE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73789
+Sky Sports PREMIER LEAGUE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80626
+Sky Sports Golf,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73790
+Sky Sports F1 4K,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
+Sky Sports ARENA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73792
+Sky Sports CRICKET,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73793
+Sky Sports RACING,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80627
+Sky Sports RACING,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73794
+Sky Sports ACTION,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73784
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21954
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33225
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43065
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
+BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/629
+BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
+BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
+UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
+
 
 
 •●★巴西影视★●•,#genre#
