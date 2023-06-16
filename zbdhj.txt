@@ -1863,33 +1863,33 @@ PP看动漫,http://epg.112114.xyz/douyu/9837291
 
 
 🏀NBA,#genre#
-TNT,http://nv1connect.com:80/12345678/87654321/77439
-TNT,http://nv1connect.com:80/12345678/87654321/72620
-TNT,http://nv1connect.com:80/12345678/87654321/1142
-TNT,http://nv1connect.com:80/12345678/87654321/1141
+TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77439
+TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72620
+TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1142
+TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1141
 TNT,http://xtv.ooo:8080/311009689/6471777/242167
 TNT,http://xtv.ooo:8080/311009689/6471777/223339
 TNT,http://xtv.ooo:8080/311009689/6471777/223340
 YES,http://xtv.ooo:8080/311009689/6471777/223174
 
-League Pass01,http://nv1connect.com:80/12345678/87654321/93523
-League Pass02,http://nv1connect.com:80/12345678/87654321/93524
-League Pass03,http://nv1connect.com:80/12345678/87654321/93525
-League Pass04,http://nv1connect.com:80/12345678/87654321/93526
-League Pass05,http://nv1connect.com:80/12345678/87654321/93527
-League Pass06,http://nv1connect.com:80/12345678/87654321/93528
-League Pass07,http://nv1connect.com:80/12345678/87654321/93529
-League Pass08,http://nv1connect.com:80/12345678/87654321/93530
-League Pass09,http://nv1connect.com:80/12345678/87654321/93531
-League Pass10,http://nv1connect.com:80/12345678/87654321/93532
-League Pass11,http://nv1connect.com:80/12345678/87654321/93533
-League Pass12,http://nv1connect.com:80/12345678/87654321/93534
-League Pass13,http://nv1connect.com:80/12345678/87654321/93535
-League Pass14,http://nv1connect.com:80/12345678/87654321/93536
-League Pass15,http://nv1connect.com:80/12345678/87654321/93537
-League Pass16,http://nv1connect.com:80/12345678/87654321/93538
-League Pass17,http://nv1connect.com:80/12345678/87654321/93539
-League Pass18,http://nv1connect.com:80/12345678/87654321/93540
+League Pass01,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93523
+League Pass02,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93524
+League Pass03,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93525
+League Pass04,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93526
+League Pass05,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93527
+League Pass06,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93528
+League Pass07,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93529
+League Pass08,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93530
+League Pass09,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93531
+League Pass10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93532
+League Pass11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93533
+League Pass12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93534
+League Pass13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93535
+League Pass14,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93536
+League Pass15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93537
+League Pass16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93538
+League Pass17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
+League Pass18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
 
 League Pass01,http//xtv.ooo8080/1122888/8800/232743
 League Pass02,http//xtv.ooo8080/1122888/8800/232744
@@ -1950,59 +1950,59 @@ Washington Wizards,http//xtv.ooo8080/1122888/8800/232785
 
 ⚽英超,#genre#
 USA Network,http://xtv.ooo:8080/311009689/6471777/223349
-USA Network,http://nv1connect.com:80/12345678/87654321/1135
-USA Network,http://nv1connect.com:80/12345678/87654321/77440
-USA Network,http://nv1connect.com:80/12345678/87654321/72622
-USA Network,http://nv1connect.com:80/12345678/87654321/69239
-Optus 1,http://nv1connect.com:80/12345678/87654321/93810
-Optus 1,http://nv1connect.com:80/12345678/87654321/93971
-Optus 2,http://nv1connect.com:80/12345678/87654321/93970
-Optus 3,http://nv1connect.com:80/12345678/87654321/93969
-Optus 4,http://nv1connect.com:80/12345678/87654321/93968
-Optus 5,http://nv1connect.com:80/12345678/87654321/93967
-Optus 6,http://nv1connect.com:80/12345678/87654321/93966
-Optus 7,http://nv1connect.com:80/12345678/87654321/93965
-Optus 8,http://nv1connect.com:80/12345678/87654321/93964
-Optus 9,http://nv1connect.com:80/12345678/87654321/93963
-Optus 10,http://nv1connect.com:80/12345678/87654321/93962
-Optus 11,http://nv1connect.com:80/12345678/87654321/93961
-Optus 12,http://nv1connect.com:80/12345678/87654321/93960
-Optus 13,http://nv1connect.com:80/12345678/87654321/93959
-LE 01,http://nv1connect.com:80/12345678/87654321/89209
-LE 02,http://nv1connect.com:80/12345678/87654321/89210
-LE 03,http://nv1connect.com:80/12345678/87654321/89211
-LE 04,http://nv1connect.com:80/12345678/87654321/89212
-LE 05,http://nv1connect.com:80/12345678/87654321/89213
-LE 06,http://nv1connect.com:80/12345678/87654321/89214
-LE 07,http://nv1connect.com:80/12345678/87654321/89215
-LE 08,http://nv1connect.com:80/12345678/87654321/89216
-LE 09,http://nv1connect.com:80/12345678/87654321/89217
-LE 10,http://nv1connect.com:80/12345678/87654321/89218
-LE 11,http://nv1connect.com:80/12345678/87654321/89219
-LE 12,http://nv1connect.com:80/12345678/87654321/89220
-LE 13,http://nv1connect.com:80/12345678/87654321/89221
-LE 14,http://nv1connect.com:80/12345678/87654321/89222
-LE 15,http://nv1connect.com:80/12345678/87654321/89223
-LE 16,http://nv1connect.com:80/12345678/87654321/89224
-LE 17,http://nv1connect.com:80/12345678/87654321/89225
-LE 18,http://nv1connect.com:80/12345678/87654321/89226
-LE 19,http://nv1connect.com:80/12345678/87654321/89227
-LE 20,http://nv1connect.com:80/12345678/87654321/89228
-LE 21,http://nv1connect.com:80/12345678/87654321/89229
-LE 22,http://nv1connect.com:80/12345678/87654321/89230
-LE 23,http://nv1connect.com:80/12345678/87654321/89231
-LE 24,http://nv1connect.com:80/12345678/87654321/89232
-LE 25,http://nv1connect.com:80/12345678/87654321/89233
-LE 26,http://nv1connect.com:80/12345678/87654321/89234
-LE 27,http://nv1connect.com:80/12345678/87654321/89235
-LE 28,http://nv1connect.com:80/12345678/87654321/89236
-LE 29,http://nv1connect.com:80/12345678/87654321/89237
-LE 30,http://nv1connect.com:80/12345678/87654321/89238
+USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
+USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72622
+USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
+Optus 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93810
+Optus 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93971
+Optus 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93970
+Optus 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93969
+Optus 4,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93968
+Optus 5,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93967
+Optus 6,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93966
+Optus 7,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93965
+Optus 8,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93964
+Optus 9,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93963
+Optus 10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93962
+Optus 11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93961
+Optus 12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93960
+Optus 13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93959
+LE 01,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89209
+LE 02,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89210
+LE 03,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89211
+LE 04,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89212
+LE 05,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89213
+LE 06,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89214
+LE 07,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89215
+LE 08,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89216
+LE 09,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89217
+LE 10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89218
+LE 11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89219
+LE 12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89220
+LE 13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89221
+LE 14,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89222
+LE 15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89223
+LE 16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89224
+LE 17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89225
+LE 18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89226
+LE 19,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89227
+LE 20,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89228
+LE 21,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89229
+LE 22,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89230
+LE 23,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89231
+LE 24,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89232
+LE 25,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89233
+LE 26,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89234
+LE 27,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89235
+LE 28,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89236
+LE 29,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89237
+LE 30,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89238
 
 
 
 🏆红牛频道,#genre#
-红牛TV,http://nv1connect.com:80/12345678/87654321/4478
+红牛TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
 红牛TV,http://superbits.tv:80/hAyoxQ3u/mHsKjCKN/12129
 红牛TV,http://aabb.is:2095/2259489080/e8zMufUW/12129
 红牛TV,http://nordicstream.xyz:80/c8JQKTqm/mG7SgFqZ/12129
@@ -2264,10 +2264,211 @@ Vevo Country,https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0e
 Vevo Pop,https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 🦚美国影视,#genre#
+HBO EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
+HBO WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
+HBO 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/16806
+HBO COMEDY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/638
+HBO FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3797
+HBO SIGNATURE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3798
+HBO ZONE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
+Pixl,http://nv1connect.com:80/tamtam/tjfYkCbP3s/87423
+ScreenPix Action,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92268
+ScreenPix,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92269
+ScreenPix Voices,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92270
+ScreenPix Westerns,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92271
+ThrillerMAX (West),http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
+CINEMAX EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/414
+CINEMAX WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/415
+CINEMAX 5 STARMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+CINEMAX ACTION MAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/634
+CINEMAX MOREMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/636
+CINEMAX OUTERMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13503
+CINEMAX THRILLERMAX (East),http://nv1connect.com:80/tamtam/tjfYkCbP3s/13504
+MGM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/637
+MGM 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13470
+MGM DRIVE-IN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13468
+MGM HITS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13469
+HDNET MOVIES,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15818
+MOVIE PLEX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15820
+SHOWTIME EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/268
+SHOWTIME WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3813
+SHOWTIME 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/646
+SHOWTIME EXTREME,http://nv1connect.com:80/tamtam/tjfYkCbP3s/32841
+SHOWTIME NEXT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3815
+SHOWTIME SHOWCASE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3814
+SHOWTIME WOMEN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13471
+SHOWxBET,http://nv1connect.com:80/tamtam/tjfYkCbP3s/61958
+SONY MOVIE CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3812
+STARZ EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
+STARZ WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
+STARZ CINEMA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
+STARZ COMEDY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/649
+STARZ EDGE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3809
+STARZ EDGE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/645
+STARZ ENCORE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3805
+STARZ ENCORE FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3804
+STARZ ENCORE SUSPENSE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
+STARZ ENCORE WESTERNS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
+STARZ ENCORE CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
+STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
+STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
+
 
 🦚美国娱乐,#genre#
+ABC East,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39698
+ABC West,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39699
+ADULT SWIM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/381
+AMC+,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73283
+AMERICAN HEROS CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/9542
+ANIMAL PLANET EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33081
+ANIMAL PLANET WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/249
+ANTENNA TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1101
+ASPIRE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1102
+AWE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1103
+AXS TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89313
+BBC AMERICA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1106
+BET,http://nv1connect.com:80/tamtam/tjfYkCbP3s/394
+BET HER,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1108
+BET JAMS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1109
+BET SOUL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1110
+BOUNCE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1111
+BUZZR,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1113
+CBS East,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39700
+CBS West,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39701
+Chive TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/84466
+CMT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1114
+COMEDY CENTRAL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/410
+COMET,http://nv1connect.com:80/tamtam/tjfYkCbP3s/334
+COOKING CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/7491
+COURT TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/32850
+COZI,http://nv1connect.com:80/tamtam/tjfYkCbP3s/7490
+DABL TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/41358
+DECADES,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73677
+DISCOVERY FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/237
+DISCOVERY LIFE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/426
+DISCOVERY SCIENCE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/244
+DISCOVERY VELOCITY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73448
+DOG TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15797
+E! ENTERTAINMENT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13445
+FILM 4,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15817
+FOOD NETWORK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/58
+FOX East,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39702
+FOX Soul,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93376
+FOX West,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39703
+FREEFORM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/291
+FUSE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1117
+FXM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/215
+FXM Retro,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93515
+FXX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/292
+FYI,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1118
+GAC LIVING,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15791
+GET TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/19675
+GRIT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1119
+GSN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1120
+HALLMARK CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/496
+HALLMARK DRAMA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/497
+HALLMARK MOVIES AND MYSTERIES,http://nv1connect.com:80/tamtam/tjfYkCbP3s/498
+HEROS & ICONS (H&I),http://nv1connect.com:80/tamtam/tjfYkCbP3s/32842
+HGTV EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/309
+HLN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/266
+HSN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1124
+IFC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1122
+INSP,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1178
+ION TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/640
+JUSTICE CENTRAL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/85535
+LAFF TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73449
+LAW & CRIME,http://nv1connect.com:80/tamtam/tjfYkCbP3s/84546
+LIFETIME,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1177
+LIFETIME MOVIE NETWORK (LMN),http://nv1connect.com:80/tamtam/tjfYkCbP3s/1176
+LOGO,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1175
+Magnolia,http://nv1connect.com:80/tamtam/tjfYkCbP3s/84726
+METV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1174
+MTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1172
+MTV 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1169
+MTV CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1171
+MTV LIVE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1170
+NASA TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/87132
+NATGEO,http://nv1connect.com:80/tamtam/tjfYkCbP3s/299
+NBC East,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39704
+NBC West,http://nv1connect.com:80/tamtam/tjfYkCbP3s/39705
+OVATION,http://nv1connect.com:80/tamtam/tjfYkCbP3s/25824
+OWN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1163
+OXYGEN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/534
+PARAMOUNT NETWORK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/541
+PEOPLE TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/546
+POP,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1158
+PURSUIT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1157
+QVC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/547
+QVC 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/60147
+REELZ,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1156
+RETRO PLEX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15822
+REVOLT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/550
+REWIND (80s),http://nv1connect.com:80/tamtam/tjfYkCbP3s/86768
+RFD TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21786
+SMITHSONIAN CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/342
+SPARK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/91975
+SUNDANCE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1151
+SYFY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/259
+TASTEMADE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/31756
+TNT EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1142
+TNT WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1141
+TV LAND,http://nv1connect.com:80/tamtam/tjfYkCbP3s/651
+TV ONE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1136
+UP TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15796
+USA NETWORK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+VH1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/652
+WE TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1131
+WPIX 11 (NEW YORK) ,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72359
+FETV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93685
+NATGEO WILD,http://nv1connect.com:80/tamtam/tjfYkCbP3s/289
+A&E,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1100
+Crime & Investigation,http://nv1connect.com:80/tamtam/tjfYkCbP3s/32851
+HISTORY CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1125
+WEATHER CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1130
+VICELAND,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1132
+TRUTV EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1139
+TRUTV WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1138
+TLC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1144
+TCM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1145
+TBS EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1147
+TBS WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1146
+AMC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/644
+DESTINATION AMERICA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/422
+GAC FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15784
+FX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/214
+DISCOVERY CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/238
+INVESTIGATION DISCOVERY (ID),http://nv1connect.com:80/tamtam/tjfYkCbP3s/252
+HGTV WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1126
+INSP ,http://nv1connect.com:80/tamtam/tjfYkCbP3s/66234
 
-🦚美国纪实,#genre#
+🦚美国新闻,#genre#
+ABC NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/379
+AL JAZEERA ENGLISH,http://nv1connect.com:80/tamtam/tjfYkCbP3s/7107
+BBC WORLD NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/387
+CNBC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/407
+CNBC WORLD,http://nv1connect.com:80/tamtam/tjfYkCbP3s/408
+CNN en Espanol,http://nv1connect.com:80/tamtam/tjfYkCbP3s/260
+CNN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/6943
+CNN INTERNATIONAL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28606
+MSNBC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/510
+FOX BUSINESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/461
+FOX NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4228
+NEWSMAX TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1167
+Sky News America,http://nv1connect.com:80/tamtam/tjfYkCbP3s/78339
+USA Today,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93788
+INFO WARS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1121
+LOCAL NOW,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15785
+NECN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1168
+NEWSY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13460
+ONE AMERICA NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/9309
+RTP,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13464
+Black News Channel,http://nv1connect.com:80/tamtam/tjfYkCbP3s/65728
+BLOOMBERG,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4922
+C-SPAN 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/400
+C-SPAN 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/401
+C-SPAN 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/402
+CHEDDAR,http://nv1connect.com:80/tamtam/tjfYkCbP3s/413
+CHEDDAR BUSINESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/332
 
 •●★英国体育★●•,#genre#
 EUROSPORT 1,http://xtv.ooo:8080/311009689/6471777/222656
