@@ -39,8 +39,8 @@ HBO强档影院,http://xtv.ooo:8080/311009689/6471777/228260
 ❤️Youtube直播(需翻),#genre#
 iPanda,https://ythlsgo.onrender.com/video/MIA8AKVZ0Yk.m3u8
 鳳凰資訊,https://ythlsgo.onrender.com/video/sUISafvOieY.m3u8
-中天電視,https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-中天電視,https://ythlsgo.onrender.com/video/oIgbl7t0S_w.m3u8
+中天電視 1,https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+中天電視 2,https://ythlsgo.onrender.com/video/oIgbl7t0S_w.m3u8
 鏡新聞,https://ythlsgo.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 寰宇新聞 1,https://ythlsgo.onrender.com/video/B7Zp3d6xXWw.m3u8
 寰宇新聞 2,https://ythlsgo.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
