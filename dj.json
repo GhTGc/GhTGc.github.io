@@ -4,25 +4,17 @@
             "name" : "大合集",
             "type" : 0,
             "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/zbdhj.txt",
-            "logo" : "",
-            "epg" : "http://epg.51zmt.top:8000/e.xml",
-            "ua" : ""
-        },
-            {
-            "name" : "肥羊",
-            "type" : 0,
-            "url" : "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
-            "logo" : "",
-            "epg" : "http://epg.51zmt.top:8000/e.xml",
-            "ua" : ""
+            "logo" : "https://epg.112114.xyz/logo/{name}.png",
+            "epg" : "https://epg.112114.xyz/?ch={name}&date={date}",
+            "ua" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         },
             {
             "name" : "Adult",
             "type" : 0,
             "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/Adult.m3u",
-            "logo" : "",
-            "epg" : "",
-            "ua" : ""
+            "logo" : "https://epg.112114.xyz/logo/{name}.png",
+            "epg" : "https://epg.112114.xyz/?ch={name}&date={date}",
+            "ua" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
            }
 
       ]
