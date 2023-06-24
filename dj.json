@@ -4,17 +4,17 @@
             "name" : "大合集",
             "type" : 0,
             "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/zbdhj.txt",
-            "logo" : "https://epg.112114.xyz/logo/{name}.png",
+            "logo" : "",
             "epg" : "https://epg.112114.xyz/?ch={name}&date={date}",
-            "ua" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+            "ua" : ""
         },
             {
             "name" : "Adult",
             "type" : 0,
             "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/Adult.m3u",
-            "logo" : "https://epg.112114.xyz/logo/{name}.png",
+            "logo" : "",
             "epg" : "https://epg.112114.xyz/?ch={name}&date={date}",
-            "ua" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+            "ua" : ""
            }
 
       ]
