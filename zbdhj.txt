@@ -83,7 +83,8 @@ Newsmax,https://ythlsgo.onrender.com/video/HbU2npaxTfU.m3u8
 Bloomberg,https://ythlsgo.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
 Bloomberg Originals,https://ythlsgo.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8
 Bloomberg Originals,https://ythlsgo.onrender.com/video/dp8PhLsUcFE.m3u8
-ABC Learning English,https://ythlsgo.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
+ABC Learning English 1,https://ythlsgo.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
+ABC Learning English 2,https://ythlsgo.onrender.com/video/F8gbJUXaeo0.m3u8
 English Speeches,https://ythlsgo.onrender.com/channel/UCLyr-hfWVCKHcZjV5fg3jbw.m3u8
 Earth From Space Live Stream,https://ythlsgo.onrender.com/channel/UCToyV-kJ2rHSP1YyeYZS2Iw.m3u8
 Expoza Travel,https://ythlsgo.onrender.com/channel/UC3o_gaqvLoPSRVMc2GmkDrg.m3u8
