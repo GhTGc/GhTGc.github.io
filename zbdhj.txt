@@ -1,40 +1,5 @@
 💞港台,#genre#
-纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-TVB E-News,http://xtv.ooo:8080/311009689/6471777/229634
-TVBS新聞,https://epg.pw/stream/66d5e8c4cea97606ab6afcd2754ae3e95e5660eefd808cd6873fd32405010f35.m3u8
-鳳凰香港,https://epg.pw/stream/c3185415d5f6fb95555c641e3abae8c4071c614d0260a469ba72510409296092.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-中天綜合,
-中天綜合,
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-翡翠台,http://pull-l3-cny.douyincdn.com/live/bc93b287862818b6abc97fbe5da932a1.flv
-翡翠台,http://pull-l3-cny.douyincdn.com/live/876c9a52cab3d6889fbb7e3ea5e72110.flv
-翡翠台,http://pull-l3-cny.douyincdn.com/live/8a8b2483c8a021d44858ab554929be13.flv
-翡翠台,http://pull-l3-cny.douyincdn.com/live/5a84582ca1e18bc797624d3ba65dd08e.flv
-翡翠台,http://pull-l3-cny.douyincdn.com/live/7163e91d246f51fc1b348ce7c8581ce1.flv
-无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-功夫,http://pull-l3-cny.douyincdn.com/live/bac024ce8a8d8f34e9d32da1b2e13b12.flv
-Now 剧集台,http://pull-l3-cny.douyincdn.com/live/c14ecdef1160ff9e678186ae31a6df62.flv
-Now 华剧台,http://pull-l3-cny.douyincdn.com/live/91ad47c6c51ce88efc62122a28076cc6.flv
-Now 紫金国际台,http://pull-l3-cny.douyincdn.com/live/0419fbdcfcf376b7c78069977e0ceeb5.flv
-ViuTV,http://r.jdshipin.com/vSJvl
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-有线新闻,https://api.leonardpark.dev/live/icable/109
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有线直播新闻,https://api.leonardpark.dev/live/icable/110
-翡翠台,http://r.jdshipin.com/62WM7
-J2台,http://r.jdshipin.com/Nr5jq
-TVB Jade Overseas Edition,http://23.237.10.66:16410
-TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-TVB J2,https://j3.lhlh.app/mv.m3u8
-HBO强档影院,http://xtv.ooo:8080/311009689/6471777/228260
+http://mmitv.top/iptv/hotel.php?id=cctvystq&user=765a6d3569746d71703965677a48
 
 ❤️Youtube直播(需翻),#genre#
 iPanda,https://ythlsgo.onrender.com/video/MIA8AKVZ0Yk.m3u8
