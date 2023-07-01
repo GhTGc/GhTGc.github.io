@@ -77,11 +77,6 @@ CHC高清剧场,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a4
 中国电影,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=zgdy
 精彩-MTV,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=jc-mtv
 精彩影院,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=jcyy
-IPTV古装剧场,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=iptvgzjc
-IPTV家庭剧场,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=iptvjtjc
-IPTV抗战剧场,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=iptvkzjc
-IPTV经典剧场,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=iptvjdjc
-IPTV高清院线,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=iptvgqyx
 龙鑫网络电影,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=lwldy
 淘电影,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=tdy
 精彩影视,http://mmitv.top/iptv/hotel.php?user=765a6d3569746d71703965677a48&id=jcys
