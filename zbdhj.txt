@@ -176,6 +176,7 @@ Music Hits 6,https://ythlsgo.onrender.com/video/_thKXe8PSXo.m3u8
 Musica Studios,https://ythlsgo.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 Musica Studios,https://ythlsgo.onrender.com/video/A9bqzYMEsKY.m3u8
 Musica Studios,https://ythlsgo.onrender.com/video/h3aG3pZWDQc.m3u8
+Wild Animals,https://ythls.onrender.com/channel/UCqY4QL6bgWeKLN0MOmJIcUg.m3u8
 Nature Relax,https://ythlsgo.onrender.com/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
 Nature Relaxation Music,https://ythlsgo.onrender.com/video/rw7bxTqkYYs.m3u8
 Nuclear Blast Records,https://ythlsgo.onrender.com/video/lCjVa1c5zKw.m3u8
