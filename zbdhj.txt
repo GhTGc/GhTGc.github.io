@@ -682,6 +682,7 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 
 
 🐆🐅虎牙,#genre#
+JJ斗地主,http://159.75.85.63:35455/huya/14079954
 郭德纲(无唱),http://159.75.85.63:35455/huya/10132155
 郭德纲(有唱),http://159.75.85.63:35455/huya/22809600
 郭德纲相声动画版,http://159.75.85.63:35455/huya/25343324
@@ -881,9 +882,7 @@ TVB官方,http://live.aptvapp.com/live/huya/23735126
 
 
 🐳斗鱼,#genre#
-野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=5994a5ed03abcfc06dec876c134a6cf4&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cb0efc2d84bb8e8fda1c6f8a6c91d715f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-野生动物世界,http://tc-tct.douyucdn2.cn/dyliveflv3/9808720rARBuGkMZ.flv?wsAuth=6880862e1b0daf0339a1cd577c4fdae7&token=cpn-androidmpro-0-9808720-ed0be6aaacaf113965b20873665f65cf41645542f1bc5ac2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+JJ斗地主,http://159.75.85.63:35455/douyu/488743
 60帧极致画面,http://159.75.85.63:35455/douyu/747764
 科幻 动作 喜剧电影,http://159.75.85.63:35455/douyu/323876
 恐怖/经典/搞笑,http://159.75.85.63:35455/douyu/74374
