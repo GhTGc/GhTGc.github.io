@@ -1756,7 +1756,7 @@ TVBS新闻,http://sc2022.stream-link.org/tv2306.php?id=t13
 
 ❤️Youtube直播(需翻),#genre#
 iPanda,https://ythlsgo.onrender.com/video/MIA8AKVZ0Yk.m3u8
-鳳凰資訊,https://ythlsgo.onrender.com/video/sUISafvOieY.m3u8
+鳳凰資訊,https://ythlsgo.onrender.com/video/if6yQq_JJyY.m3u8
 中天電視 1,https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 中天電視 2,https://ythlsgo.onrender.com/video/oIgbl7t0S_w.m3u8
 鏡新聞,https://ythlsgo.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
@@ -1764,6 +1764,7 @@ iPanda,https://ythlsgo.onrender.com/video/MIA8AKVZ0Yk.m3u8
 寰宇新聞 2,https://ythlsgo.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
 TVBS NEWS国际,https://ythlsgo.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 TVBS NEWS国际,https://ythlsgo.onrender.com/video/2mCSYvcfhtc.m3u8
+東森新聞 CH51,https://ythlsgo.onrender.com/video/S5WOGu2HSes.m3u8
 東森新聞 CH51,https://ythlsgo.onrender.com/video/khuZW5GdBXo.m3u8
 民視新聞網,https://ythlsgo.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視新聞網,https://ythlsgo.onrender.com/video/ylYJSBUgaMA.m3u8
@@ -1779,7 +1780,9 @@ TaiwanPlus Livestream,https://ythlsgo.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnp
 TaiwanPlus Livestream,https://ythlsgo.onrender.com/video/dZp87qnWelE.m3u8
 新唐人亞太電視台NTDAPTV,https://ythlsgo.onrender.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ.m3u8
 大愛電視 Tzu Chi DaAiVideo,https://ythlsgo.onrender.com/channel/UClrEYreVkBee7ZQYei_6Jqg.m3u8
+东森超视,https://ythlsgo.onrender.com/channel/UCmyVDKnXwdw3McUlcijqmvQ.m3u8
 華視綜藝頻道,https://ythlsgo.onrender.com/channel/UCdpxNQgqL3276yjrK03gMXA.m3u8
+中视经典综艺,https://ythlsgo.onrender.com/video/ADDSmXoPDY8.m3u8
 飢餓遊戲,https://ythlsgo.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
 歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://ythlsgo.onrender.com/video/gFRtAAmiFbE.m3u8
 CGTN Europe,https://ythlsgo.onrender.com/video/gYUfs9RX95s.m3u8
@@ -1802,6 +1805,7 @@ Bloomberg,https://ythlsgo.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
 Bloomberg Originals,https://ythlsgo.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8
 Bloomberg Originals,https://ythlsgo.onrender.com/video/dp8PhLsUcFE.m3u8
 ABC Learning English 1,https://ythlsgo.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
+ABC Learning English 2,https://ythlsgo.onrender.com/video/0_A9J3q3SrE.m3u8
 ABC Learning English 2,https://ythlsgo.onrender.com/video/F8gbJUXaeo0.m3u8
 English Speeches,https://ythlsgo.onrender.com/channel/UCLyr-hfWVCKHcZjV5fg3jbw.m3u8
 Earth From Space Live Stream,https://ythlsgo.onrender.com/channel/UCToyV-kJ2rHSP1YyeYZS2Iw.m3u8
