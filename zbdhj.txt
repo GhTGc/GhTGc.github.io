@@ -1266,6 +1266,7 @@ TaiwanPlus Livestream,https://ythlsgo.onrender.com/video/dZp87qnWelE.m3u8
 东森超视,https://ythlsgo.onrender.com/channel/UCmyVDKnXwdw3McUlcijqmvQ.m3u8
 華視綜藝頻道,https://ythlsgo.onrender.com/channel/UCdpxNQgqL3276yjrK03gMXA.m3u8
 中视经典综艺,https://ythlsgo.onrender.com/video/ADDSmXoPDY8.m3u8
+我愛冰冰Show,https://ythlsgo.onrender.com/video/RsiJlzZPxjQ.m3u8
 飢餓遊戲,https://ythlsgo.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
 歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://ythlsgo.onrender.com/video/gFRtAAmiFbE.m3u8
 CGTN Europe,https://ythlsgo.onrender.com/video/gYUfs9RX95s.m3u8
