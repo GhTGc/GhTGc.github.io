@@ -1355,49 +1355,6 @@ beIN SPORTS Türkiye,https://ythlsgo.onrender.com/video/MZ5D6NK5Qqo.m3u8
 BL Football Talks,https://ythlsgo.onrender.com/channel/UCheoPVfCDFaQs51tDGR7hTA.m3u8
 
 
-
-❤️广电5G云电视,#genre#
-CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
-CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
-CCTV3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
-CCTV4,http://cyz32.livehbindex.hbcatv.cn/live/5b0dff5235e94ba8bff8731427145289.m3u8?bitrate=2300&pt=5
-CCTV5,http://cyz32.livehbindex.hbcatv.cn/live/500000206cd748d58f41b13aa2754139.m3u8?bitrate=2300&pt=5
-CCTV5+,http://cyz32.livehbindex.hbcatv.cn/live/50000020484943edba96ac9f93f858ce.m3u8?bitrate=2300&pt=5
-CCTV6,http://cyz32.livehbindex.hbcatv.cn/live/50000020da6d4c40a2ca3b1bdc786016.m3u8?bitrate=2300&pt=5
-CCTV7,http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5
-CCTV8,http://cyz32.livehbindex.hbcatv.cn/live/500000202d8c4f56ba03e623caa09f1b.m3u8?bitrate=2300&pt=5
-CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
-CCTV10,http://cyz32.livehbindex.hbcatv.cn/live/a66832f3323643189c3a0e91f9fad3e3.m3u8?bitrate=2300&pt=5
-CCTV11,http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
-CCTV12,http://cyz32.livehbindex.hbcatv.cn/live/fbe7688bc539461da71ff649e4ba1d75.m3u8?bitrate=2300&pt=5
-CCTV13,http://cyz32.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be4b01f.m3u8?bitrate=2300&pt=5
-CCTV14,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
-CCTV15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
-CCTV16,http://cyz32.livehbindex.hbcatv.cn/live/50000020c65d4a6b9b4e278405124734.m3u8?bitrate=2300&pt=5
-CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
-湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
-浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
-江苏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201708473e9f4e1dbb0361de6b.m3u8?bitrate=2300&pt=5
-东方卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000203860417eb7f08f9270fc1155.m3u8?bitrate=2300&pt=5
-北京卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020539e48f392fbcbba5cf7f245.m3u8?bitrate=2300&pt=5
-辽宁卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019d84b0ba201007677bbf28c.m3u8?bitrate=2300&pt=5
-东南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c18c4f03a2107aa78ced8fff.m3u8?bitrate=2300&pt=5
-广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
-贵州卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000204b974d7f8ca5b13562b2d820.m3u8?bitrate=2300&pt=5
-海南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5
-河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
-黑龙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020281749ed995f2824759051fa.m3u8?bitrate=2300&pt=5
-湖北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020273747628129718a5717b2dd.m3u8?bitrate=2300&pt=5
-吉林卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5
-江西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5
-安徽卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5
-山东卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bitrate=2300&pt=5
-陕西卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
-深圳卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
-四川卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020407a4a109f5dfc6f26dbf5eb.m3u8?bitrate=2300&pt=5
-天津卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020bbc84ee1afd7177a073393d7.m3u8?bitrate=2300&pt=5
-
-
 ❤️央视高清,#genre#
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
@@ -1837,6 +1794,17 @@ LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/in
 爱探索,http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 
 ♨️抖音听歌,#genre#
+1,http://mygo.zeabur.app/douyin/154588479738
+2,http://mygo.zeabur.app/douyin/846636263953
+3,http://mygo.zeabur.app/douyin/380034390763
+4,http://mygo.zeabur.app/douyin/897066474018
+5,http://mygo.zeabur.app/douyin/182751096044
+6,http://mygo.zeabur.app/douyin/396732585605
+7,http://mygo.zeabur.app/douyin/264588833771
+8,http://mygo.zeabur.app/douyin/634137499406
+9,http://mygo.zeabur.app/douyin/505527789563
+10,http://mygo.zeabur.app/douyin/404451182865
+
 1,http://sarcasticmonthlylava--terryd3.repl.co/douyin/154588479738
 2,http://sarcasticmonthlylava--terryd3.repl.co/douyin/846636263953
 3,http://sarcasticmonthlylava--terryd3.repl.co/douyin/380034390763
@@ -1888,43 +1856,43 @@ JJ斗地主,http://sarcasticmonthlylava--terryd3.repl.co/huya/14079954
 奧沙利文,http://sarcasticmonthlylava--terryd3.repl.co/huya/880237
 特魯姆普,http://sarcasticmonthlylava--terryd3.repl.co/huya/17455032
 
-JJ斗地主,http://mylist-gamma.vercel.app/huya/14079954
-郭德纲(无唱),http://mylist-gamma.vercel.app/huya/10132155
-郭德纲(有唱),http://mylist-gamma.vercel.app/huya/22809600
-郭德纲相声动画版,http://mylist-gamma.vercel.app/huya/25343324
-易中天品三国,http://mylist-gamma.vercel.app/huya/11602032
-阿斗归来了,http://mylist-gamma.vercel.app/huya/13303478
-罗翔说法,http://mylist-gamma.vercel.app/huya/11601965
-杰森·斯坦森,http://mylist-gamma.vercel.app/huya/21059588
-巨石强森,http://mylist-gamma.vercel.app/huya/21059581
-007系列,http://mylist-gamma.vercel.app/huya/21059585
-周星驰-粤语,http://mylist-gamma.vercel.app/huya/11336587
-星爷经典,http://mylist-gamma.vercel.app/huya/11342412
-林正英,http://mylist-gamma.vercel.app/huya/11342421
-沈腾,http://mylist-gamma.vercel.app/huya/11601968
-甄子丹,http://mylist-gamma.vercel.app/huya/11352935
-成龙,http://mylist-gamma.vercel.app/huya/11342386
-李连杰,http://mylist-gamma.vercel.app/huya/11342390
-周润发,http://mylist-gamma.vercel.app/huya/11342387
-刘德华,http://mylist-gamma.vercel.app/huya/11342424
-洪金宝,http://mylist-gamma.vercel.app/huya/11279251
-黄渤,http://mylist-gamma.vercel.app/huya/11342429
-王晶导演,http://mylist-gamma.vercel.app/huya/11602058
-黑帮系列,http://mylist-gamma.vercel.app/huya/11336719
-警匪系列,http://mylist-gamma.vercel.app/huya/11352886
-喜剧系列,http://mylist-gamma.vercel.app/huya/11602044
-动作大片,http://mylist-gamma.vercel.app/huya/11602077
-玄幻系列,http://mylist-gamma.vercel.app/huya/11352973
-古墓系列,http://mylist-gamma.vercel.app/huya/11352913
-各类经典电影,http://mylist-gamma.vercel.app/huya/27203821
-贺岁喜剧,http://mylist-gamma.vercel.app/huya/11601986
-金庸武侠系列,http://mylist-gamma.vercel.app/huya/11342427
-虎牙斯諾克,http://mylist-gamma.vercel.app/huya/880214
-虎牙斯諾克副舞台,http://mylist-gamma.vercel.app/huya/880625
-丁俊晖1,http://mylist-gamma.vercel.app/huya/880211
-丁俊晖2,http://mylist-gamma.vercel.app/huya/19197127
-奧沙利文,http://mylist-gamma.vercel.app/huya/880237
-特魯姆普,http://mylist-gamma.vercel.app/huya/17455032
+JJ斗地主,http://mygo.zeabur.app/huya/14079954
+郭德纲(无唱),http://mygo.zeabur.app/huya/10132155
+郭德纲(有唱),http://mygo.zeabur.app/huya/22809600
+郭德纲相声动画版,http://mygo.zeabur.app/huya/25343324
+易中天品三国,http://mygo.zeabur.app/huya/11602032
+阿斗归来了,http://mygo.zeabur.app/huya/13303478
+罗翔说法,http://mygo.zeabur.app/huya/11601965
+杰森·斯坦森,http://mygo.zeabur.app/huya/21059588
+巨石强森,http://mygo.zeabur.app/huya/21059581
+007系列,http://mygo.zeabur.app/huya/21059585
+周星驰-粤语,http://mygo.zeabur.app/huya/11336587
+星爷经典,http://mygo.zeabur.app/huya/11342412
+林正英,http://mygo.zeabur.app/huya/11342421
+沈腾,http://mygo.zeabur.app/huya/11601968
+甄子丹,http://mygo.zeabur.app/huya/11352935
+成龙,http://mygo.zeabur.app/huya/11342386
+李连杰,http://mygo.zeabur.app/huya/11342390
+周润发,http://mygo.zeabur.app/huya/11342387
+刘德华,http://mygo.zeabur.app/huya/11342424
+洪金宝,http://mygo.zeabur.app/huya/11279251
+黄渤,http://mygo.zeabur.app/huya/11342429
+王晶导演,http://mygo.zeabur.app/huya/11602058
+黑帮系列,http://mygo.zeabur.app/huya/11336719
+警匪系列,http://mygo.zeabur.app/huya/11352886
+喜剧系列,http://mygo.zeabur.app/huya/11602044
+动作大片,http://mygo.zeabur.app/huya/11602077
+玄幻系列,http://mygo.zeabur.app/huya/11352973
+古墓系列,http://mygo.zeabur.app/huya/11352913
+各类经典电影,http://mygo.zeabur.app/huya/27203821
+贺岁喜剧,http://mygo.zeabur.app/huya/11601986
+金庸武侠系列,http://mygo.zeabur.app/huya/11342427
+虎牙斯諾克,http://mygo.zeabur.app/huya/880214
+虎牙斯諾克副舞台,http://mygo.zeabur.app/huya/880625
+丁俊晖1,http://mygo.zeabur.app/huya/880211
+丁俊晖2,http://mygo.zeabur.app/huya/19197127
+奧沙利文,http://mygo.zeabur.app/huya/880237
+特魯姆普,http://mygo.zeabur.app/huya/17455032
 
 JJ斗地主,http://159.75.85.63:35455/huya/14079954
 郭德纲(无唱),http://159.75.85.63:35455/huya/10132155
@@ -1966,6 +1934,45 @@ JJ斗地主,http://159.75.85.63:35455/huya/14079954
 
 
 🐆🐅埋堆堆港剧,#genre#
+TVB官方,http://mygo.zeabur.app/huya/23735126
+埋堆堆官方,http://mygo.zeabur.app/huya/23740156
+埋堆堆1,http://mygo.zeabur.app/huya/23749096
+埋堆堆2,http://mygo.zeabur.app/huya/23728660
+埋堆堆3,http://mygo.zeabur.app/huya/23865080
+埋堆堆4,http://mygo.zeabur.app/huya/23864973
+埋堆堆5,http://mygo.zeabur.app/huya/23734169
+埋堆堆6,http://mygo.zeabur.app/huya/23865142
+埋堆堆7,http://mygo.zeabur.app/huya/23863804
+埋堆堆8,http://mygo.zeabur.app/huya/23903130
+埋堆堆9,http://mygo.zeabur.app/huya/23860039
+埋堆堆10,http://mygo.zeabur.app/huya/23903123
+埋堆堆11,http://mygo.zeabur.app/huya/23865171
+埋堆堆12,http://mygo.zeabur.app/huya/23734256
+埋堆堆13,http://mygo.zeabur.app/huya/23903183
+埋堆堆14,http://mygo.zeabur.app/huya/23749083
+埋堆堆15,http://mygo.zeabur.app/huya/23728674
+埋堆堆16,http://mygo.zeabur.app/huya/23903196
+埋堆堆17,http://mygo.zeabur.app/huya/23829543
+埋堆堆18,http://mygo.zeabur.app/huya/23863818
+埋堆堆19,http://mygo.zeabur.app/huya/23734183
+埋堆堆20,http://mygo.zeabur.app/huya/23865058
+埋堆堆21,http://mygo.zeabur.app/huya/23865036
+埋堆堆22,http://mygo.zeabur.app/huya/23829447
+埋堆堆23,http://mygo.zeabur.app/huya/23860049
+埋堆堆24,http://mygo.zeabur.app/huya/23865164
+埋堆堆25,http://mygo.zeabur.app/huya/23865161
+埋堆堆26,http://mygo.zeabur.app/huya/23865179
+埋堆堆27,http://mygo.zeabur.app/huya/23863796
+埋堆堆28,http://mygo.zeabur.app/huya/23824164
+埋堆堆29,http://mygo.zeabur.app/huya/23734176
+埋堆堆30,http://mygo.zeabur.app/huya/23863787
+埋堆堆31,http://mygo.zeabur.app/huya/23863778
+埋堆堆32,http://mygo.zeabur.app/huya/23749068
+埋堆堆33,http://mygo.zeabur.app/huya/23734211
+埋堆堆34,http://mygo.zeabur.app/huya/23746486
+埋堆堆35,http://mygo.zeabur.app/huya/23735153
+埋堆堆36,http://mygo.zeabur.app/huya/23734246
+
 TVB官方,http://diyp.112114.xyz/huya/23735126
 埋堆堆官方,http://diyp.112114.xyz/huya/23740156
 埋堆堆1,http://diyp.112114.xyz/huya/23749096
@@ -2049,6 +2056,54 @@ TVB官方,http://live.aptvapp.com/live/huya/23735126
 
 
 🐳斗鱼,#genre#
+JJ斗地主,http://mygo.zeabur.app/douyu/488743
+60帧极致画面,http://mygo.zeabur.app/douyu/747764
+科幻 动作 喜剧电影,http://mygo.zeabur.app/douyu/323876
+恐怖/经典/搞笑,http://mygo.zeabur.app/douyu/74374
+史上最佳影片大放送,http://diyp.112114.xyz/douyu/8770422
+译制国语影片,http://mygo.zeabur.app/douyu/2436390
+【贝爷影厅】欧美 日韩 国产 2号厅,http://mygo.zeabur.app/douyu/36337
+【贝爷影厅】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/252802
+【贝爷MAX厅】科幻 动作 经典 喜剧,http://mygo.zeabur.app/douyu/4332
+【贝贝】,http://mygo.zeabur.app/douyu/431460
+凛冬将至，夜王之争,http://mygo.zeabur.app/douyu/8945323
+【变种人】除掉任何阻碍我们的人,http://mygo.zeabur.app/douyu/9651304
+【s1134】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/248753
+【粤语电影】吴孟达 达叔 周星驰 经典,http://mygo.zeabur.app/douyu/1226741
+【果条】电脑修好了偶尔陪看,http://mygo.zeabur.app/douyu/6785471
+「橙記」「最人气港剧直播间」,http://mygo.zeabur.app/douyu/4549169
+腹黑电影,http://mygo.zeabur.app/douyu/8867878
+【超清1】经典港剧天地,http://mygo.zeabur.app/douyu/4290711
+【超清2】经典港剧天地,http://mygo.zeabur.app/douyu/5522351
+【超清3】经典港剧天地,http://mygo.zeabur.app/douyu/5261342
+好看影视剧,http://mygo.zeabur.app/douyu/8475821
+周末狂欢剧场,http://mygo.zeabur.app/douyu/7476264
+粤语【周星驰】【林正英】,http://mygo.zeabur.app/douyu/5033502
+粤语电影⭐周星驰 林正英 经典喜剧,http://mygo.zeabur.app/douyu/6566671
+【牛叔】N分钟带你看完大片,http://mygo.zeabur.app/douyu/2758565
+【牛叔2台】N分钟带你看完大片,http://mygo.zeabur.app/douyu/10010651
+小片片说大片,http://mygo.zeabur.app/douyu/4258555
+【大蓝雀】最新神剧爆笑解说,http://mygo.zeabur.app/douyu/8656759
+1900影剧室,http://mygo.zeabur.app/douyu/7796193
+都市夜魔人老王,http://mygo.zeabur.app/douyu/610972
+虫哥说电影,http://mygo.zeabur.app/douyu/8915074
+【科幻Fans】精彩科幻影视解说,http://mygo.zeabur.app/douyu/3508304
+【看电影了没】深度讲解电影,http://mygo.zeabur.app/douyu/9562616
+【史君说剧】史君说尽天下好剧,http://mygo.zeabur.app/douyu/9419771
+看电影，懂生活,http://mygo.zeabur.app/douyu/9573592
+刘老师说电影,http://mygo.zeabur.app/douyu/8317926
+吸奇侠,http://mygo.zeabur.app/douyu/8986636
+PP看动漫,http://mygo.zeabur.app/douyu/9837291
+史剧解说,http://mygo.zeabur.app/douyu/297689
+影视集装箱,http://mygo.zeabur.app/douyu/8651489
+火龙果说电影,http://mygo.zeabur.app/douyu/9559158
+骑毛驴的八戒,http://mygo.zeabur.app/douyu/1979257
+斗鱼最温情电影解说,http://mygo.zeabur.app/douyu/8799435
+【谁语Whospeak】精彩电影解说,http://mygo.zeabur.app/douyu/8705754
+带你5分钟看一部精彩电影,http://mygo.zeabur.app/douyu/6725858
+
+
+
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
 60帧极致画面,http://159.75.85.63:35455/douyu/747764
 科幻 动作 喜剧电影,http://159.75.85.63:35455/douyu/323876
