@@ -1,69 +1,4 @@
 ❤️酒店,#genre#
-CCTV1,http://171.110.62.72:8181/tsfile/live/1016_1.m3u8
-CCTV2,http://171.110.62.72:8181/tsfile/live/1017_1.m3u8
-CCTV3,http://171.110.62.72:8181/tsfile/live/1018_1.m3u8
-CCTV4,http://171.110.62.72:8181/tsfile/live/1019_1.m3u8
-CCTV5,http://171.110.62.72:8181/tsfile/live/1020_1.m3u8
-CCTV5+,http://171.110.62.72:8181/tsfile/live/1033_1.m3u8
-CCTV6,http://171.110.62.72:8181/tsfile/live/1021_1.m3u8
-CCTV7,http://171.110.62.72:8181/tsfile/live/1022_1.m3u8
-CCTV8,http://171.110.62.72:8181/tsfile/live/1023_1.m3u8
-CCTV10,http://171.110.62.72:8181/tsfile/live/1025_1.m3u8
-CCTV12,http://171.110.62.72:8181/tsfile/live/1027_1.m3u8
-CCTV13,http://171.110.62.72:8181/tsfile/live/1028_1.m3u8
-CCTV14,http://171.110.62.72:8181/tsfile/live/1029_1.m3u8
-CCTV16,http://171.110.62.72:8181/tsfile/live/1031_1.m3u8
-CCTV17,http://171.110.62.72:8181/tsfile/live/1032_1.m3u8
-凤凰中文,http://171.110.62.72:8181/tsfile/live/1070_1.m3u8
-凤凰资讯,http://171.110.62.72:8181/tsfile/live/1069_1.m3u8
-凤凰香港,http://171.110.62.72:8181/tsfile/live/1071_1.m3u8
-凤凰中文,http://171.110.62.72:8181/tsfile/live/1072_1.m3u8
-凤凰资讯,http://171.110.62.72:8181/tsfile/live/1073_1.m3u8
-CHC动作电影,http://171.110.62.72:8181/tsfile/live/1012_1.m3u8
-CHC高清电影,http://171.110.62.72:8181/tsfile/live/1013_1.m3u8
-CHC家庭影院,http://171.110.62.72:8181/tsfile/live/1011_1.m3u8
-星空卫视,http://171.110.62.72:8181/tsfile/live/1074_1.m3u8
-东森洋片,http://171.110.62.72:8181/tsfile/live/1133_1.m3u8
-龙翔电影,http://171.110.62.72:8181/tsfile/live/1077_1.m3u8
-东森电影,http://171.110.62.72:8181/tsfile/live/1075_1.m3u8
-TVB星河,http://171.110.62.72:8181/tsfile/live/1004_1.m3u8
-爱上4K电影,http://171.110.62.72:8181/tsfile/live/1014_1.m3u8
-测试频道-1,http://171.110.62.72:8181/tsfile/live/1076_1.m3u8
-湖南卫视,http://171.110.62.72:8181/tsfile/live/1065_1.m3u8
-江苏卫视,http://171.110.62.72:8181/tsfile/live/1051_1.m3u8
-浙江卫视,http://171.110.62.72:8181/tsfile/live/1066_1.m3u8
-广东卫视,http://171.110.62.72:8181/tsfile/live/1043_1.m3u8
-东方卫视,http://171.110.62.72:8181/tsfile/live/1047_1.m3u8
-安徽卫视,http://171.110.62.72:8181/tsfile/live/1053_1.m3u8
-辽宁卫视,http://171.110.62.72:8181/tsfile/live/1061_1.m3u8
-北京卫视,http://171.110.62.72:8181/tsfile/live/1049_1.m3u8
-山东卫视,http://171.110.62.72:8181/tsfile/live/1052_1.m3u8
-深圳卫视,http://171.110.62.72:8181/tsfile/live/1044_1.m3u8
-贵州卫视,http://171.110.62.72:8181/tsfile/live/1064_1.m3u8
-河北卫视,http://171.110.62.72:8181/tsfile/live/1057_1.m3u8
-甘肃卫视,http://171.110.62.72:8181/tsfile/live/1060_1.m3u8
-黑龙江卫视,http://171.110.62.72:8181/tsfile/live/1048_1.m3u8
-吉林卫视,http://171.110.62.72:8181/tsfile/live/0116_1.m3u8
-天津卫视,http://171.110.62.72:8181/tsfile/live/1050_1.m3u8
-江西卫视,http://171.110.62.72:8181/tsfile/live/1059_1.m3u8
-广西卫视,http://171.110.62.72:8181/tsfile/live/1034_1.m3u8
-广西都市,http://171.110.62.72:8181/tsfile/live/1035_1.m3u8
-广西新闻,http://171.110.62.72:8181/tsfile/live/1036_1.m3u8
-广西影视,http://171.110.62.72:8181/tsfile/live/1015_1.m3u8
-广西综艺,http://171.110.62.72:8181/tsfile/live/1001_1.m3u8
-南宁公共,http://171.110.62.72:8181/tsfile/live/1041_1.m3u8
-南宁生活,http://171.110.62.72:8181/tsfile/live/1042_1.m3u8
-南宁新闻,http://171.110.62.72:8181/tsfile/live/1040_1.m3u8
-南宁影视,http://171.110.62.72:8181/tsfile/live/1039_1.m3u8
-玉林公共,http://171.110.62.72:8181/tsfile/live/1219_1.m3u8
-玉林综合,http://171.110.62.72:8181/tsfile/live/1218_1.m3u8
-玉林公共[1024*576],http://171.110.62.72:8181/tsfile/live/1256_1.m3u8
-玉林新闻[1024*576],http://171.110.62.72:8181/tsfile/live/1255_1.m3u8
-金鹰纪实,http://171.110.62.72:8181/tsfile/live/1058_1.m3u8
-河南文物宝库,http://171.110.62.72:8181/tsfile/live/1139_1.m3u8
-DOXTV,http://171.110.62.72:8181/tsfile/live/1104_1.m3u8
-
-
 CCTV1,http://171.110.62.216:8181/tsfile/live/1016_1.m3u8
 CCTV2,http://171.110.62.216:8181/tsfile/live/1017_1.m3u8
 CCTV3,http://171.110.62.216:8181/tsfile/live/1018_1.m3u8
@@ -128,8 +63,69 @@ TVB星河,http://171.110.62.216:8181/tsfile/live/1004_1.m3u8
 河南文物宝库,http://171.110.62.216:8181/tsfile/live/1139_1.m3u8
 DOXTV,http://171.110.62.216:8181/tsfile/live/1104_1.m3u8
 
-
-
+CCTV1,http://171.110.62.72:8181/tsfile/live/1016_1.m3u8
+CCTV2,http://171.110.62.72:8181/tsfile/live/1017_1.m3u8
+CCTV3,http://171.110.62.72:8181/tsfile/live/1018_1.m3u8
+CCTV4,http://171.110.62.72:8181/tsfile/live/1019_1.m3u8
+CCTV5,http://171.110.62.72:8181/tsfile/live/1020_1.m3u8
+CCTV5+,http://171.110.62.72:8181/tsfile/live/1033_1.m3u8
+CCTV6,http://171.110.62.72:8181/tsfile/live/1021_1.m3u8
+CCTV7,http://171.110.62.72:8181/tsfile/live/1022_1.m3u8
+CCTV8,http://171.110.62.72:8181/tsfile/live/1023_1.m3u8
+CCTV10,http://171.110.62.72:8181/tsfile/live/1025_1.m3u8
+CCTV12,http://171.110.62.72:8181/tsfile/live/1027_1.m3u8
+CCTV13,http://171.110.62.72:8181/tsfile/live/1028_1.m3u8
+CCTV14,http://171.110.62.72:8181/tsfile/live/1029_1.m3u8
+CCTV16,http://171.110.62.72:8181/tsfile/live/1031_1.m3u8
+CCTV17,http://171.110.62.72:8181/tsfile/live/1032_1.m3u8
+凤凰中文,http://171.110.62.72:8181/tsfile/live/1070_1.m3u8
+凤凰资讯,http://171.110.62.72:8181/tsfile/live/1069_1.m3u8
+凤凰香港,http://171.110.62.72:8181/tsfile/live/1071_1.m3u8
+凤凰中文,http://171.110.62.72:8181/tsfile/live/1072_1.m3u8
+凤凰资讯,http://171.110.62.72:8181/tsfile/live/1073_1.m3u8
+CHC动作电影,http://171.110.62.72:8181/tsfile/live/1012_1.m3u8
+CHC高清电影,http://171.110.62.72:8181/tsfile/live/1013_1.m3u8
+CHC家庭影院,http://171.110.62.72:8181/tsfile/live/1011_1.m3u8
+星空卫视,http://171.110.62.72:8181/tsfile/live/1074_1.m3u8
+东森洋片,http://171.110.62.72:8181/tsfile/live/1133_1.m3u8
+龙翔电影,http://171.110.62.72:8181/tsfile/live/1077_1.m3u8
+东森电影,http://171.110.62.72:8181/tsfile/live/1075_1.m3u8
+TVB星河,http://171.110.62.72:8181/tsfile/live/1004_1.m3u8
+爱上4K电影,http://171.110.62.72:8181/tsfile/live/1014_1.m3u8
+测试频道-1,http://171.110.62.72:8181/tsfile/live/1076_1.m3u8
+湖南卫视,http://171.110.62.72:8181/tsfile/live/1065_1.m3u8
+江苏卫视,http://171.110.62.72:8181/tsfile/live/1051_1.m3u8
+浙江卫视,http://171.110.62.72:8181/tsfile/live/1066_1.m3u8
+广东卫视,http://171.110.62.72:8181/tsfile/live/1043_1.m3u8
+东方卫视,http://171.110.62.72:8181/tsfile/live/1047_1.m3u8
+安徽卫视,http://171.110.62.72:8181/tsfile/live/1053_1.m3u8
+辽宁卫视,http://171.110.62.72:8181/tsfile/live/1061_1.m3u8
+北京卫视,http://171.110.62.72:8181/tsfile/live/1049_1.m3u8
+山东卫视,http://171.110.62.72:8181/tsfile/live/1052_1.m3u8
+深圳卫视,http://171.110.62.72:8181/tsfile/live/1044_1.m3u8
+贵州卫视,http://171.110.62.72:8181/tsfile/live/1064_1.m3u8
+河北卫视,http://171.110.62.72:8181/tsfile/live/1057_1.m3u8
+甘肃卫视,http://171.110.62.72:8181/tsfile/live/1060_1.m3u8
+黑龙江卫视,http://171.110.62.72:8181/tsfile/live/1048_1.m3u8
+吉林卫视,http://171.110.62.72:8181/tsfile/live/0116_1.m3u8
+天津卫视,http://171.110.62.72:8181/tsfile/live/1050_1.m3u8
+江西卫视,http://171.110.62.72:8181/tsfile/live/1059_1.m3u8
+广西卫视,http://171.110.62.72:8181/tsfile/live/1034_1.m3u8
+广西都市,http://171.110.62.72:8181/tsfile/live/1035_1.m3u8
+广西新闻,http://171.110.62.72:8181/tsfile/live/1036_1.m3u8
+广西影视,http://171.110.62.72:8181/tsfile/live/1015_1.m3u8
+广西综艺,http://171.110.62.72:8181/tsfile/live/1001_1.m3u8
+南宁公共,http://171.110.62.72:8181/tsfile/live/1041_1.m3u8
+南宁生活,http://171.110.62.72:8181/tsfile/live/1042_1.m3u8
+南宁新闻,http://171.110.62.72:8181/tsfile/live/1040_1.m3u8
+南宁影视,http://171.110.62.72:8181/tsfile/live/1039_1.m3u8
+玉林公共,http://171.110.62.72:8181/tsfile/live/1219_1.m3u8
+玉林综合,http://171.110.62.72:8181/tsfile/live/1218_1.m3u8
+玉林公共[1024*576],http://171.110.62.72:8181/tsfile/live/1256_1.m3u8
+玉林新闻[1024*576],http://171.110.62.72:8181/tsfile/live/1255_1.m3u8
+金鹰纪实,http://171.110.62.72:8181/tsfile/live/1058_1.m3u8
+河南文物宝库,http://171.110.62.72:8181/tsfile/live/1139_1.m3u8
+DOXTV,http://171.110.62.72:8181/tsfile/live/1104_1.m3u8
 
 
 ❤️武汉组播,#genre#
@@ -1794,6 +1790,17 @@ LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/in
 爱探索,http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 
 ♨️抖音听歌,#genre#
+1,http://sarcasticmonthlylava--terryd3.repl.co/douyin/154588479738
+2,http://sarcasticmonthlylava--terryd3.repl.co/douyin/846636263953
+3,http://sarcasticmonthlylava--terryd3.repl.co/douyin/380034390763
+4,http://sarcasticmonthlylava--terryd3.repl.co/douyin/897066474018
+5,http://sarcasticmonthlylava--terryd3.repl.co/douyin/182751096044
+6,http://sarcasticmonthlylava--terryd3.repl.co/douyin/396732585605
+7,http://sarcasticmonthlylava--terryd3.repl.co/douyin/264588833771
+8,http://sarcasticmonthlylava--terryd3.repl.co/douyin/634137499406
+9,http://sarcasticmonthlylava--terryd3.repl.co/douyin/505527789563
+10,http://sarcasticmonthlylava--terryd3.repl.co/douyin/404451182865
+
 1,http://mygo.zeabur.app/douyin/154588479738
 2,http://mygo.zeabur.app/douyin/846636263953
 3,http://mygo.zeabur.app/douyin/380034390763
@@ -1805,16 +1812,7 @@ LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/in
 9,http://mygo.zeabur.app/douyin/505527789563
 10,http://mygo.zeabur.app/douyin/404451182865
 
-1,http://sarcasticmonthlylava--terryd3.repl.co/douyin/154588479738
-2,http://sarcasticmonthlylava--terryd3.repl.co/douyin/846636263953
-3,http://sarcasticmonthlylava--terryd3.repl.co/douyin/380034390763
-4,http://sarcasticmonthlylava--terryd3.repl.co/douyin/897066474018
-5,http://sarcasticmonthlylava--terryd3.repl.co/douyin/182751096044
-6,http://sarcasticmonthlylava--terryd3.repl.co/douyin/396732585605
-7,http://sarcasticmonthlylava--terryd3.repl.co/douyin/264588833771
-8,http://sarcasticmonthlylava--terryd3.repl.co/douyin/634137499406
-9,http://sarcasticmonthlylava--terryd3.repl.co/douyin/505527789563
-10,http://sarcasticmonthlylava--terryd3.repl.co/douyin/404451182865
+
 
 
 🐆🐅虎牙,#genre#
@@ -2056,54 +2054,6 @@ TVB官方,http://live.aptvapp.com/live/huya/23735126
 
 
 🐳斗鱼,#genre#
-JJ斗地主,http://mygo.zeabur.app/douyu/488743
-60帧极致画面,http://mygo.zeabur.app/douyu/747764
-科幻 动作 喜剧电影,http://mygo.zeabur.app/douyu/323876
-恐怖/经典/搞笑,http://mygo.zeabur.app/douyu/74374
-史上最佳影片大放送,http://diyp.112114.xyz/douyu/8770422
-译制国语影片,http://mygo.zeabur.app/douyu/2436390
-【贝爷影厅】欧美 日韩 国产 2号厅,http://mygo.zeabur.app/douyu/36337
-【贝爷影厅】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/252802
-【贝爷MAX厅】科幻 动作 经典 喜剧,http://mygo.zeabur.app/douyu/4332
-【贝贝】,http://mygo.zeabur.app/douyu/431460
-凛冬将至，夜王之争,http://mygo.zeabur.app/douyu/8945323
-【变种人】除掉任何阻碍我们的人,http://mygo.zeabur.app/douyu/9651304
-【s1134】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/248753
-【粤语电影】吴孟达 达叔 周星驰 经典,http://mygo.zeabur.app/douyu/1226741
-【果条】电脑修好了偶尔陪看,http://mygo.zeabur.app/douyu/6785471
-「橙記」「最人气港剧直播间」,http://mygo.zeabur.app/douyu/4549169
-腹黑电影,http://mygo.zeabur.app/douyu/8867878
-【超清1】经典港剧天地,http://mygo.zeabur.app/douyu/4290711
-【超清2】经典港剧天地,http://mygo.zeabur.app/douyu/5522351
-【超清3】经典港剧天地,http://mygo.zeabur.app/douyu/5261342
-好看影视剧,http://mygo.zeabur.app/douyu/8475821
-周末狂欢剧场,http://mygo.zeabur.app/douyu/7476264
-粤语【周星驰】【林正英】,http://mygo.zeabur.app/douyu/5033502
-粤语电影⭐周星驰 林正英 经典喜剧,http://mygo.zeabur.app/douyu/6566671
-【牛叔】N分钟带你看完大片,http://mygo.zeabur.app/douyu/2758565
-【牛叔2台】N分钟带你看完大片,http://mygo.zeabur.app/douyu/10010651
-小片片说大片,http://mygo.zeabur.app/douyu/4258555
-【大蓝雀】最新神剧爆笑解说,http://mygo.zeabur.app/douyu/8656759
-1900影剧室,http://mygo.zeabur.app/douyu/7796193
-都市夜魔人老王,http://mygo.zeabur.app/douyu/610972
-虫哥说电影,http://mygo.zeabur.app/douyu/8915074
-【科幻Fans】精彩科幻影视解说,http://mygo.zeabur.app/douyu/3508304
-【看电影了没】深度讲解电影,http://mygo.zeabur.app/douyu/9562616
-【史君说剧】史君说尽天下好剧,http://mygo.zeabur.app/douyu/9419771
-看电影，懂生活,http://mygo.zeabur.app/douyu/9573592
-刘老师说电影,http://mygo.zeabur.app/douyu/8317926
-吸奇侠,http://mygo.zeabur.app/douyu/8986636
-PP看动漫,http://mygo.zeabur.app/douyu/9837291
-史剧解说,http://mygo.zeabur.app/douyu/297689
-影视集装箱,http://mygo.zeabur.app/douyu/8651489
-火龙果说电影,http://mygo.zeabur.app/douyu/9559158
-骑毛驴的八戒,http://mygo.zeabur.app/douyu/1979257
-斗鱼最温情电影解说,http://mygo.zeabur.app/douyu/8799435
-【谁语Whospeak】精彩电影解说,http://mygo.zeabur.app/douyu/8705754
-带你5分钟看一部精彩电影,http://mygo.zeabur.app/douyu/6725858
-
-
-
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
 60帧极致画面,http://159.75.85.63:35455/douyu/747764
 科幻 动作 喜剧电影,http://159.75.85.63:35455/douyu/323876
@@ -2151,8 +2101,51 @@ PP看动漫,http://159.75.85.63:35455/douyu/9837291
 带你5分钟看一部精彩电影,http://159.75.85.63:35455/douyu/6725858
 
 
-
-
+JJ斗地主,http://mygo.zeabur.app/douyu/488743
+60帧极致画面,http://mygo.zeabur.app/douyu/747764
+科幻 动作 喜剧电影,http://mygo.zeabur.app/douyu/323876
+恐怖/经典/搞笑,http://mygo.zeabur.app/douyu/74374
+史上最佳影片大放送,http://diyp.112114.xyz/douyu/8770422
+译制国语影片,http://mygo.zeabur.app/douyu/2436390
+【贝爷影厅】欧美 日韩 国产 2号厅,http://mygo.zeabur.app/douyu/36337
+【贝爷影厅】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/252802
+【贝爷MAX厅】科幻 动作 经典 喜剧,http://mygo.zeabur.app/douyu/4332
+【贝贝】,http://mygo.zeabur.app/douyu/431460
+凛冬将至，夜王之争,http://mygo.zeabur.app/douyu/8945323
+【变种人】除掉任何阻碍我们的人,http://mygo.zeabur.app/douyu/9651304
+【s1134】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/248753
+【粤语电影】吴孟达 达叔 周星驰 经典,http://mygo.zeabur.app/douyu/1226741
+【果条】电脑修好了偶尔陪看,http://mygo.zeabur.app/douyu/6785471
+「橙記」「最人气港剧直播间」,http://mygo.zeabur.app/douyu/4549169
+腹黑电影,http://mygo.zeabur.app/douyu/8867878
+【超清1】经典港剧天地,http://mygo.zeabur.app/douyu/4290711
+【超清2】经典港剧天地,http://mygo.zeabur.app/douyu/5522351
+【超清3】经典港剧天地,http://mygo.zeabur.app/douyu/5261342
+好看影视剧,http://mygo.zeabur.app/douyu/8475821
+周末狂欢剧场,http://mygo.zeabur.app/douyu/7476264
+粤语【周星驰】【林正英】,http://mygo.zeabur.app/douyu/5033502
+粤语电影⭐周星驰 林正英 经典喜剧,http://mygo.zeabur.app/douyu/6566671
+【牛叔】N分钟带你看完大片,http://mygo.zeabur.app/douyu/2758565
+【牛叔2台】N分钟带你看完大片,http://mygo.zeabur.app/douyu/10010651
+小片片说大片,http://mygo.zeabur.app/douyu/4258555
+【大蓝雀】最新神剧爆笑解说,http://mygo.zeabur.app/douyu/8656759
+1900影剧室,http://mygo.zeabur.app/douyu/7796193
+都市夜魔人老王,http://mygo.zeabur.app/douyu/610972
+虫哥说电影,http://mygo.zeabur.app/douyu/8915074
+【科幻Fans】精彩科幻影视解说,http://mygo.zeabur.app/douyu/3508304
+【看电影了没】深度讲解电影,http://mygo.zeabur.app/douyu/9562616
+【史君说剧】史君说尽天下好剧,http://mygo.zeabur.app/douyu/9419771
+看电影，懂生活,http://mygo.zeabur.app/douyu/9573592
+刘老师说电影,http://mygo.zeabur.app/douyu/8317926
+吸奇侠,http://mygo.zeabur.app/douyu/8986636
+PP看动漫,http://mygo.zeabur.app/douyu/9837291
+史剧解说,http://mygo.zeabur.app/douyu/297689
+影视集装箱,http://mygo.zeabur.app/douyu/8651489
+火龙果说电影,http://mygo.zeabur.app/douyu/9559158
+骑毛驴的八戒,http://mygo.zeabur.app/douyu/1979257
+斗鱼最温情电影解说,http://mygo.zeabur.app/douyu/8799435
+【谁语Whospeak】精彩电影解说,http://mygo.zeabur.app/douyu/8705754
+带你5分钟看一部精彩电影,http://mygo.zeabur.app/douyu/6725858
 
 60帧极致画面,http://epg.112114.xyz/douyu/747764
 科幻 动作 喜剧电影,http://epg.112114.xyz/douyu/323876
@@ -3199,288 +3192,6 @@ BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/629
 BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
 BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
 UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
-
-
-
-•●★巴西影视★●•,#genre#
-HBO,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/792
-HBO,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/251
-HBO,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/41
-HBO,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/495
-HBO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/793
-HBO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/254
-HBO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/39
-HBO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/499
-HBO PLUS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/794
-HBO PLUS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/252
-HBO PLUS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/42
-HBO PLUS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/497
-HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/796
-HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/253
-HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/43
-HBO SIGNATURE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/498
-HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/798
-HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/261
-HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/49
-HBO XTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76662
-HBO FAMILY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/795
-HBO FAMILY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/40
-HBO FAMILY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/496
-HBO MUNDI,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/797
-HBO MUNDI,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/260
-HBO MUNDI,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/48
-HBO POP,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/799
-HBO POP,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/262
-HBO POP,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/50
-PARAMOUNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/845
-PARAMOUNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/272
-PARAMOUNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60
-PARAMOUNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/519
-UNIVERSAL CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/848
-UNIVERSAL CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/301
-UNIVERSAL CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/90
-UNIVERSAL CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/585
-WARNER CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/850
-WARNER CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/303
-WARNER CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/93
-WARNER CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/581
-TNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/785
-TNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/296
-TNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/84
-TNT,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/559
-TNT SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/849
-TNT SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/297
-TNT SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/85
-TNT SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/560
-A&E,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/851
-A&E,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/210
-A&E,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/1
-A&E,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/444
-AMC,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/840
-AMC,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/211
-AMC,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/2
-AMC,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/445
-AXN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/835
-AXN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/213
-AXN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/4
-AXN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/447
-BONS TEMPOS TV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/80161
-BORA FILMES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/63052
-CANAL SONY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/219
-CANAL SONY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/844
-CANAL SONY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/7
-CANAL SONY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/457
-CINECANAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/837
-CINECANAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/29
-CINECANAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/482
-CINEMAX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/841
-CINEMAX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/221
-CINEMAX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/9
-CINEMAX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/460
-ENTRETENDO FILMES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/63864
-FX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/842
-FX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/246
-FX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/34
-FX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/486
-GLN TV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/82855
-MEGAPIX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/843
-MEGAPIX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/263
-MEGAPIX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/51
-MEGAPIX,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/507
-NOVA PLAY FILMES E SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60181
-SPACE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/846
-SPACE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/282
-SPACE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/70
-SPACE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/543
-STAR CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/836
-STAR CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/241
-STAR CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/28
-STAR CHANNEL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/481
-STUDIO UNIVERSAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/847
-STUDIO UNIVERSAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/286
-STUDIO UNIVERSAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/74
-STUDIO UNIVERSAL,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/547
-SYFY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/857
-SYFY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/287
-SYFY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/75
-SYFY,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/548
-TBS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/856
-TBS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/288
-TBS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76
-TBS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/549
-TCM,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/877
-TCM,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/131
-TCM,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/550
-TV CHANNEL NETWORK,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60252
-TV CINE ENTRETENDIMENTO,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60183
-TV SERIES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60180
-WEB TV EXTREME,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/60182
-
-
-
-
-•●★巴西体育★●•,#genre#
-COPA DO BRASIL 01,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86387
-COPA DO BRASIL 02,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86388
-COPA DO BRASIL 03,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86389
-COPA DO BRASIL 04,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86390
-COPA DO BRASIL 05,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86391
-COPA DO BRASIL 06,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86392
-COPA DO BRASIL 07,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86393
-ALL SPORTS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/31745
-BAND SPORTS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/768
-BAND SPORTS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/215
-BAND SPORTS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/5
-BAND SPORTS,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/452
-COMBATE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/784
-COMBATE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/222
-COMBATE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/10
-COMBATE,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/461
-ESPN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/769
-ESPN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/238
-ESPN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/24
-ESPN,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/477
-ESPN 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/771
-ESPN 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/236
-ESPN 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/25
-ESPN 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/475
-ESPN 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/772
-ESPN 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/237
-ESPN 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/23
-ESPN 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/476
-ESPN 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86676
-ESPN 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/483
-ESPN 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86689
-ESPN EXTRA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/770
-ESPN EXTRA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/235
-ESPN EXTRA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/26
-ESPN EXTRA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76661
-FOX SPORTS 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/773
-FOX SPORTS 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/245
-FOX SPORTS 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/32
-FOX SPORTS 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/484
-REDBULL TV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/31744
-SPORTV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/776
-SPORTV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/285
-SPORTV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/73
-SPORTV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/544
-SPORTV 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/777
-SPORTV 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/283
-SPORTV 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/71
-SPORTV 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/545
-SPORTV 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/778
-SPORTV 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/284
-SPORTV 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/72
-SPORTV 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/546
-UFC Fight Pass,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/84480
-UFC Fight Pass,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/84481
-UFC Fight Pass,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86157
-LIBERTADORES (JOGO 1),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/117
-LIBERTADORES (JOGO 2),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/118
-LIBERTADORES (JOGO 3),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/120
-LIBERTADORES (JOGO 4),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/147
-DAZN 01,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/325
-DAZN 02,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/326
-DAZN 03,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/327
-DAZN 04,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/111
-ELEVEN SPORTS CHANNEL (JOGO 1),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/166
-ELEVEN SPORTS CHANNEL (JOGO 2),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/167
-ELEVEN SPORTS CHANNEL (JOGO 3),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/168
-ELEVEN SPORTS CHANNEL (JOGO 4),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/169
-ELEVEN SPORTS CHANNEL (JOGO 5),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/170
-ELEVEN SPORTS CHANNEL (JOGO 6),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/171
-ELEVEN SPORTS CHANNEL (JOGO 7),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/172
-ELEVEN SPORTS CHANNELL (JOGO 8),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/173
-ELEVEN SPORTS CHANNELL (JOGO 9),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/174
-ELEVEN SPORTS CHANNEL (JOGO 10),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/175
-ESTADIO TNT JOGO 1,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/328
-ESTADIO TNT JOGO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/329
-ESTADIO TNT JOGO 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/330
-ESTADIO TNT JOGO 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/331
-FLA TV,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/142
-FURACAO TV (01),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/200
-HBO MAX 01,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/78527
-HBO MAX 02,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/204
-HBO MAX 03,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/205
-HBO MAX 04,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/206
-HBO MAX 05,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76696
-HBO MAX 06,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76697
-HBO MAX 07,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76698
-HBO MAX 08,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76699
-HBO MAX 09,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/76700
-STAR + 1,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/113
-STAR + 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/202
-STAR + 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/207
-STAR + 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/208
-TV NSPORTS (JOGO 1),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/163
-TV NSPORTS (JOGO 2),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/164
-TV NSPORTS (JOGO 3),http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/165
-PRIME VIDEO 1,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83809
-PRIME VIDEO 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83810
-PRIME VIDEO 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83811
-PRIME VIDEO 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83812
-GLOBOPLAY+ 01,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/85879
-GLOBOPLAY+ 02,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/85880
-PPV EVENTOS EXTRAS 01,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86510
-PPV EVENTOS EXTRAS 02,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/86511
-PREMIERE CLUBES ,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/273
-PREMIERE CLUBES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/775
-PREMIERE CLUBES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/67
-PREMIERE CLUBES,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/531
-PREMIERE 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/815
-PREMIERE 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/274
-PREMIERE 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/61
-PREMIERE 2,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/523
-PREMIERE 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/814
-PREMIERE 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/275
-PREMIERE 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/62
-PREMIERE 3,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/524
-PREMIERE 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/813
-PREMIERE 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/276
-PREMIERE 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/63
-PREMIERE 4,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/525
-PREMIERE 5,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/812
-PREMIERE 5,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/277
-PREMIERE 5,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/64
-PREMIERE 5,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/526
-PREMIERE 6,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/811
-PREMIERE 6,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/278
-PREMIERE 6,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/65
-PREMIERE 6,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/527
-PREMIERE 7,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/810
-PREMIERE 7,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/279
-PREMIERE 7,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/66
-PREMIERE 7,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/528
-
-
-•●★巴西LiveShow★●•,#genre#
-SANDY & JUNIOR #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83820
-ROBERTO CARLOS #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83821
-IVETE SANGALO #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83822
-J.QUEST #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83823
-RAÇA NEGRA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83824
-OS MENOTTI #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83825
-FABIO JR #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83826
-SKANK #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83827
-SÉRGIO REIS #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83828
-JOELMA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83829
-NATIRUTS #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83830
-ALEXANDRE PIRES #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83831
-MARILIA MENDONÇA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83832
-BELO #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83833
-BRUNO E MARRONE #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83834
-SIMONE E SIMARAIA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83835
-FELIPE ARAUJO #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83836
-CABARÉ #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83838
-JORGE E MATHEUS #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83839
-MAIARA E MARAISA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83840
-ZÉ NETO E CRISTIANO #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83841
-LEONARDO #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83842
-AMADO BATISTA #FIQUE EM CASA,http://joao-1-us.mainbkonline.shop:80/PTY647388/573727789/83843
-
-
-
-
 
 
 
