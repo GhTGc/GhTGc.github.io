@@ -14,6 +14,14 @@ MissAV,#genre#
 13,https://b-hls-08.doppiocdn.com/hls/69546702/69546702.m3u8
 14,https://b-hls-20.doppiocdn.com/hls/99704428/99704428.m3u8
 15,https://b-hls-09.doppiocdn.com/hls/90170015/90170015.m3u8
+16,https://b-hls-17.doppiocdn.com/hls/78659813/78659813.m3u8
+17,https://b-hls-08.doppiocdn.com/hls/110864852/110864852_720p.m3u8
+18,https://b-hls-11.doppiocdn.com/hls/119554712/119554712.m3u8
+19,https://b-hls-15.doppiocdn.com/hls/112906233/112906233.m3u8
+20,https://b-hls-08.doppiocdn.com/hls/129464977/129464977.m3u8
+21,https://b-hls-13.doppiocdn.com/hls/118446552/118446552.m3u8
+22,https://b-hls-03.doppiocdn.com/hls/105716848/105716848.m3u8
+23,https://b-hls-08.doppiocdn.com/hls/125707901/125707901.m3u8
 
 
 XXX,#genre#
