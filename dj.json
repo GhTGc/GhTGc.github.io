@@ -13,9 +13,18 @@
             "type" : 0,
             "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/Adult.m3u",
             "logo" : "",
-            "epg" : "https://epg.112114.xyz/?ch={name}&date={date}",
+            "epg" : "",
+            "ua" : ""
+       },
+         {
+            "name" : "MissAV",
+            "type" : 0,
+            "url" : "https://ghproxy.com/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/global.txt",
+            "logo" : "",
+            "epg" : "",
             "ua" : ""
            }
+        
 
       ]
 }
