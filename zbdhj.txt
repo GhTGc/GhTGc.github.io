@@ -1397,6 +1397,21 @@ JJ斗地主,http://pull-hls-l26.douyincdn.com/third/stream-113146674288001510_or
 深圳飞扬971,https://lhttp.qtfm.cn/live/1271/64k.mp3?app_id=web&type=广东
 深圳交通频率,https://lhttp.qtfm.cn/live/1272/64k.mp3?app_id=web&type=广东
 深圳生活广播,https://lhttp.qtfm.cn/live/1273/64k.mp3?app_id=web&type=广东
+上海动感101,https://lhttp.qtfm.cn/live/274/64k.mp3
+上海流行音乐LoveRadio,https://lhttp.qtfm.cn/live/273/64k.mp3
+上海KFM981,https://lhttp.qtfm.cn/live/5022023/64k.mp3
+上海经典947,https://lhttp.qtfm.cn/live/267/64k.mp3
+长沙FM101.7城市之声,https://lhttp.qtfm.cn/live/4237/64k.mp3
+长沙FM88.6音乐广播,https://lhttp.qtfm.cn/live/20847/64k.mp3
+芒果时空音乐台,https://lhttp.qtfm.cn/live/4981/64k.mp3
+89.3芒果音乐台,https://lhttp.qtfm.cn/live/4979/64k.mp3
+怀集音乐之声,https://lhttp.qtfm.cn/live/4804/64k.mp3
+清晨音乐台,https://lhttp.qtfm.cn/live/4915/64k.mp3
+AsiaFM 亚洲粤语台,https://lhttp.qtfm.cn/live/15318569/64k.mp3
+AsiaFM HD音乐台,https://lhttp.qtfm.cn/live/15318341/64k.mp3
+AsiaFM 亚洲经典台,https://lhttp.qtfm.cn/live/5021912/64k.mp3
+AsiaFM 亚洲天空台,https://lhttp.qtfm.cn/live/20071/64k.mp3
+Tiktok网络电台,https://lhttp.qtfm.cn/live/5062/64k.mp3
 ABC News Radio,http://live-radio01.mediahubaustralia.com/PBW/mp3
 CNN International,https://bbx.xmgspace.me/radio/cnn/CNNi
 CNN HLN,https://bbx.xmgspace.me/radio/cnn/cnnhln-iad
