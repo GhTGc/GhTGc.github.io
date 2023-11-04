@@ -1385,11 +1385,30 @@ JJ斗地主,http://pull-hls-l26.douyincdn.com/third/stream-113146674288001510_or
 摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
 靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
-
-
-
-
-
+📺电台FM,#genre#
+楚天交通广播,https://lhttp.qtfm.cn/live/1291/64k.mp3?app_id=web&type=湖北
+楚天音乐广播,https://lhttp.qtfm.cn/live/1289/64k.mp3?app_id=web&type=湖北
+武汉经典音乐广播,https://lhttp.qtfm.cn/live/1297/64k.mp3?app_id=web&type=湖北
+武汉动感936-新锐流行音乐广播,https://lhttp.qtfm.cn/live/5011/64k.mp3?app_id=web&type=湖北
+武汉新闻广播,https://lhttp.qtfm.cn/live/20198/64k.mp3?app_id=web&type=湖北
+武汉交通广播,https://lhttp.qtfm.cn/live/4665/64k.mp3?app_id=web&type=湖北
+魅力FM1064城市生活音乐广播,https://lhttp.qtfm.cn/live/5022716/64k.mp3?app_id=web&type=湖北
+深圳先锋898,https://lhttp.qtfm.cn/live/1270/64k.mp3?app_id=web&type=广东
+深圳飞扬971,https://lhttp.qtfm.cn/live/1271/64k.mp3?app_id=web&type=广东
+深圳交通频率,https://lhttp.qtfm.cn/live/1272/64k.mp3?app_id=web&type=广东
+深圳生活广播,https://lhttp.qtfm.cn/live/1273/64k.mp3?app_id=web&type=广东
+ABC News Radio,http://live-radio01.mediahubaustralia.com/PBW/mp3
+CNN International,https://bbx.xmgspace.me/radio/cnn/CNNi
+CNN HLN,https://bbx.xmgspace.me/radio/cnn/cnnhln-iad
+VOA Global English,https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+VOA Learning English,https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8
+Al Jazeera English,https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
+BBC World Service,https://bbx.xmgspace.me/radio/bbc/bbc_world_service
+BBC World Service,https://vprbbc.streamguys1.com/vprbbc24-nopreroll
+BBC World Service,https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+BBC World Service,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+BBC ASIAN NETWORK,https://bbx.xmgspace.me/radio/bbcm3u8/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+BBC ASIAN NETWORK,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 
 
 
