@@ -1200,11 +1200,39 @@ JJ斗地主,http://pull-hls-l26.douyincdn.com/third/stream-113146674288001510_or
 89.3芒果音乐台,https://lhttp.qtfm.cn/live/4979/64k.mp3
 怀集音乐之声,https://lhttp.qtfm.cn/live/4804/64k.mp3
 清晨音乐台,https://lhttp.qtfm.cn/live/4915/64k.mp3
+AsiaFM 亚洲热歌台,http://hot.asiafm.net:8000/asiafm
+AsiaFM 亚洲音乐台,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲经典台,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空台,http://funradio.cn:8000/funradio
+AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲粤语台,http://yyt.asiafm.net:8000/asiafm
 AsiaFM 亚洲粤语台,https://lhttp.qtfm.cn/live/15318569/64k.mp3
 AsiaFM HD音乐台,https://lhttp.qtfm.cn/live/15318341/64k.mp3
 AsiaFM 亚洲经典台,https://lhttp.qtfm.cn/live/5021912/64k.mp3
 AsiaFM 亚洲天空台,https://lhttp.qtfm.cn/live/20071/64k.mp3
+Big B Radio-中文流行,http://cpop.bigbradio.net/s
+Big B Radio-韩语流行,http://kpop.bigbradio.net/s
+Big B Radio-日语流行,http://jpop.bigbradio.net/s
+Big B Radio-亚洲流行,http://apop.bigbradio.net/s
+萤火虫网络台,http://211.149.226.193:8066/1022.mp3
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
 Tiktok网络电台,https://lhttp.qtfm.cn/live/5062/64k.mp3
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+Nice FM,http://netlive.zhxwzx.com/live/1047.m3u8
 ABC News Radio,http://live-radio01.mediahubaustralia.com/PBW/mp3
 CNN International,https://bbx.xmgspace.me/radio/cnn/CNNi
 CNN HLN,https://bbx.xmgspace.me/radio/cnn/cnnhln-iad
