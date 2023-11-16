@@ -1224,24 +1224,24 @@ BBC ASIAN NETWORK,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asia
 1,http://mygo.terryd3.repl.co/douyin/453399571493
 2,http://mygo.terryd3.repl.co/douyin/16227368958
 3,http://mygo.terryd3.repl.co/douyin/380034390763
-4,http://mygo.terryd3.repl.co/douyin/897066474018
+4,http://mygo.terryd3.repl.co/douyin/706596648103
 5,http://mygo.terryd3.repl.co/douyin/17971512257
 6,http://mygo.terryd3.repl.co/douyin/69252189721
 7,http://mygo.terryd3.repl.co/douyin/590888789469
 8,http://mygo.terryd3.repl.co/douyin/634137499406
-9,http://mygo.terryd3.repl.co/douyin/505527789563
-10,http://mygo.terryd3.repl.co/douyin/182751096044
+9,http://mygo.terryd3.repl.co/douyin/986798923450
+10,http://mygo.terryd3.repl.co/douyin/916352155507
 
 1,http://mygo.zeabur.app/douyin/453399571493
 2,http://mygo.zeabur.app/douyin/16227368958
 3,http://mygo.zeabur.app/douyin/380034390763
-4,http://mygo.zeabur.app/douyin/897066474018
+4,http://mygo.zeabur.app/douyin/706596648103
 5,http://mygo.zeabur.app/douyin/17971512257
 6,http://mygo.zeabur.app/douyin/69252189721
 7,http://mygo.zeabur.app/douyin/590888789469
 8,http://mygo.zeabur.app/douyin/634137499406
-9,http://mygo.zeabur.app/douyin/505527789563
-10,http://mygo.zeabur.app/douyin/182751096044
+9,http://mygo.zeabur.app/douyin/986798923450
+10,http://mygo.zeabur.app/douyin/916352155507
 
 
 
