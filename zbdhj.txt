@@ -2339,11 +2339,11 @@ Sky Sports Main Event,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80622
 Sky Sports Main Event,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73795
 Sky Sports Football,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
 Sky Sports Football,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80620
+Sky Sports F1 4K,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
 Sky Sports Mix,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73787
 Sky Sports Premier League,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73789
 Sky Sports Premier League,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80626
 Sky Sports Golf,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73790
-Sky Sports F1 4K,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
 Sky Sports Arena,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73792
 Sky Sports Cricket,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73793
 Sky Sports Racing,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80627
