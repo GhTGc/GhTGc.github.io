@@ -854,329 +854,41 @@ CCTV17,http://wouu.net:9977/udp/239.93.0.92:5140
 
 
 ❤️(需翻)Youtube,#genre#
-NatGeo WILD1,https://mytube.terryd3.repl.co/video/XZ7BWbmvi94.m3u8
-NatGeo WILD2,https://mytube.terryd3.repl.co/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-National Geographic,https://mytube.terryd3.repl.co/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
-iPanda,https://mytube.terryd3.repl.co/video/MIA8AKVZ0Yk.m3u8
-鳳凰資訊,https://mytube.terryd3.repl.co/video/if6yQq_JJyY.m3u8
-中天電視 1,https://mytube.terryd3.repl.co/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-中天電視 2,https://mytube.terryd3.repl.co/video/oIgbl7t0S_w.m3u8
-鏡新聞,https://mytube.terryd3.repl.co/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-寰宇新聞 1,https://mytube.terryd3.repl.co/video/B7Zp3d6xXWw.m3u8
-寰宇新聞 2,https://mytube.terryd3.repl.co/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-TVBS NEWS国际,https://mytube.terryd3.repl.co/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-TVBS NEWS Live,https://mytube.terryd3.repl.co/video/m_dhMSvUCIc.m3u8
-TVBS55 新闻台,https://mytube.terryd3.repl.co/video/2mCSYvcfhtc.m3u8
-TVBS56 選新聞,https://mytube.terryd3.repl.co/video/YvdcZ_jpLXE.m3u8
-東森新聞 CH51,https://mytube.terryd3.repl.co/video/S5WOGu2HSes.m3u8
-東森新聞 CH51,https://mytube.terryd3.repl.co/video/khuZW5GdBXo.m3u8
-民視新聞網,https://mytube.terryd3.repl.co/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-民視新聞網,https://mytube.terryd3.repl.co/video/ylYJSBUgaMA.m3u8
-中視新聞,https://mytube.terryd3.repl.co/channel/UCmH4q-YjeazayYCVHHkGAMA.m3u8
-中視新聞,https://mytube.terryd3.repl.co/video/TCnaIE_SAtM.m3u8
-台視新聞,https://mytube.terryd3.repl.co/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-台視新聞,https://mytube.terryd3.repl.co/video/xL0ch83RAK8.m3u8
-台視新聞,https://mytube.terryd3.repl.co/video/t_AVVEoDzkM.m3u8
-三立iNEWS,https://mytube.terryd3.repl.co/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-Taiwan SETNEWS Channel,https://mytube.terryd3.repl.co/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
-Taiwan SETNEWS Channel,https://mytube.terryd3.repl.co/video/jlldIiGA5bU.m3u8
-TaiwanPlus Livestream,https://mytube.terryd3.repl.co/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-TaiwanPlus Livestream,https://mytube.terryd3.repl.co/video/dZp87qnWelE.m3u8
-新唐人亞太電視台NTDAPTV,https://mytube.terryd3.repl.co/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ.m3u8
-大愛電視 Tzu Chi DaAiVideo,https://mytube.terryd3.repl.co/channel/UClrEYreVkBee7ZQYei_6Jqg.m3u8
-台視百萬大歌星,https://mytube.terryd3.repl.co/video/D1bTnybY_E4.m3u8
-華視綜藝頻道,https://mytube.terryd3.repl.co/channel/UCdpxNQgqL3276yjrK03gMXA.m3u8
-中视经典综艺,https://mytube.terryd3.repl.co/video/ADDSmXoPDY8.m3u8
-我愛冰冰Show,https://mytube.terryd3.repl.co/video/RsiJlzZPxjQ.m3u8
-飢餓遊戲,https://mytube.terryd3.repl.co/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
-歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://mytube.terryd3.repl.co/video/gFRtAAmiFbE.m3u8
-World Poker Tour,https://mytube.terryd3.repl.co/channel/UCEUGxpG2rkyJlCvr46PBr6g.m3u8
-CGTN Europe,https://mytube.terryd3.repl.co/video/gYUfs9RX95s.m3u8
-CGTN Europe,https://mytube.terryd3.repl.co/channel/UCj0TppyxzQWm9JbMg3CP8Rg.m3u8
-ABC News,https://mytube.terryd3.repl.co/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
-ABC News,https://mytube.terryd3.repl.co/video/w_Ma8oQLmSM.m3u8
-Al Jazeera English,https://mytube.terryd3.repl.co/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
-CNA,https://mytube.terryd3.repl.co/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-CNA,https://mytube.terryd3.repl.co/video/XWq5kBlakcQ.m3u8
-CNBC,https://mytube.terryd3.repl.co/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
-CNBC,https://mytube.terryd3.repl.co/video/9NyxcX3rhQs.m3u8
-CNN News18,https://mytube.terryd3.repl.co/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
-CNN-News18,https://mytube.terryd3.repl.co/video/4nNqFV68Kuo.m3u8
-NBC News,https://mytube.terryd3.repl.co/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
-NBC2 News,https://mytube.terryd3.repl.co/video/MJB6CUxvZcU.m3u8
-NBC2 News,https://mytube.terryd3.repl.co/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
-Newsmax,https://mytube.terryd3.repl.co/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
-Newsmax,https://mytube.terryd3.repl.co/video/HbU2npaxTfU.m3u8
-Bloomberg,https://mytube.terryd3.repl.co/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
-Bloomberg Originals,https://mytube.terryd3.repl.co/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8
-Bloomberg Originals,https://mytube.terryd3.repl.co/video/dp8PhLsUcFE.m3u8
-ABC Learning English 1,https://mytube.terryd3.repl.co/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
-ABC Learning English 2,https://mytube.terryd3.repl.co/video/0_A9J3q3SrE.m3u8
-ABC Learning English 2,https://mytube.terryd3.repl.co/video/F8gbJUXaeo0.m3u8
-English Speeches,https://mytube.terryd3.repl.co/channel/UCLyr-hfWVCKHcZjV5fg3jbw.m3u8
-Earth From Space Live Stream,https://mytube.terryd3.repl.co/channel/UCToyV-kJ2rHSP1YyeYZS2Iw.m3u8
-Expoza Travel,https://mytube.terryd3.repl.co/channel/UC3o_gaqvLoPSRVMc2GmkDrg.m3u8
-Expoza Travel,https://mytube.terryd3.repl.co/video/AKimWXUm7UM.m3u8
-France 24 English,https://mytube.terryd3.repl.co/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-France 24 English,https://mytube.terryd3.repl.co/video/h3MuIUNCCzI.m3u8
-JAPAN 4K,https://mytube.terryd3.repl.co/video/cH7VBI4QQzA.m3u8
-親親2o音樂LîvË【中文音樂】,https://mytube.terryd3.repl.co/channel/UCcHWhgSsMBemnyLhg6GL1vA.m3u8
-EDM Club,https://mytube.terryd3.repl.co/video/J9gFLQak7hY.m3u8
-Enhanced Music,https://mytube.terryd3.repl.co/channel/UCGXkgynD9YyoEIVyqpaUElw.m3u8
-Epidemic Pop,https://mytube.terryd3.repl.co/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8
-8FM881,https://mytube.terryd3.repl.co/channel/UCXKqVoc7khb8cg3ugfrih4g.m3u8
-Chillhop Music 1,https://mytube.terryd3.repl.co/video/5yx6BWlEVcY.m3u8
-Chillhop Music 2,https://mytube.terryd3.repl.co/channel/UCOxqgCwgOqC2lMqC5PYz_Dg.m3u8
-Lofi Girl 1,https://mytube.terryd3.repl.co/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
-Lofi Girl 1,https://mytube.terryd3.repl.co/video/MVPTGNGiI-4.m3u8
-Lofi Girl 2,https://mytube.terryd3.repl.co/video/rUxyKA_-grg.m3u8
-Lofi Girl 3,https://mytube.terryd3.repl.co/video/jfKfPfyJRdk.m3u8
-Music Hits 1,https://mytube.terryd3.repl.co/channel/UC-ITe1nKavRL6-Sl2aE3LKA.m3u8
-Music Hits 2,https://mytube.terryd3.repl.co/video/kwOVzOBaNrE.m3u8
-Music Hits 3,https://mytube.terryd3.repl.co/video/hgLi2KVNK6Y.m3u8
-Music Hits 4,https://mytube.terryd3.repl.co/video/R6_3OchvW_c.m3u8
-Music Hits 5,https://mytube.terryd3.repl.co/video/ZRcPTEYoxwI.m3u8
-Music Hits 6,https://mytube.terryd3.repl.co/video/_thKXe8PSXo.m3u8
-Musica Studios,https://mytube.terryd3.repl.co/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
-Musica Studios,https://mytube.terryd3.repl.co/video/A9bqzYMEsKY.m3u8
-Musica Studios,https://mytube.terryd3.repl.co/video/h3aG3pZWDQc.m3u8
-Nature Relax,https://mytube.terryd3.repl.co/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
-Nature Relaxation Music,https://mytube.terryd3.repl.co/video/rw7bxTqkYYs.m3u8
-Nuclear Blast Records,https://mytube.terryd3.repl.co/video/lCjVa1c5zKw.m3u8
-Nuclear Blast Records,https://mytube.terryd3.repl.co/channel/UCoxg3Kml41wE3IPq-PC-LQw.m3u8
-Peaceful Relaxation 4K 1,https://mytube.terryd3.repl.co/channel/UCfhqk1LwYmPBH8ALa3nqAdg.m3u8
-Peaceful Relaxation 4K 2,https://mytube.terryd3.repl.co/video/ZB-ClMzZA14.m3u8
-Peaceful Relaxation 4K 3,https://mytube.terryd3.repl.co/video/7ZO1r1-QgTE.m3u8
-Pop Radio 101.5,https://mytube.terryd3.repl.co/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
-Pop Radio 101.5,https://mytube.terryd3.repl.co/video/RfEhh--POhA.m3u8
-THE K-POP,https://mytube.terryd3.repl.co/video/JVocS7Yftw8.m3u8
-THE K-POP,https://mytube.terryd3.repl.co/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-THE K-POP2,https://mytube.terryd3.repl.co/video/9PYFL6OsrZI.m3u8
-THE K-POP3,https://mytube.terryd3.repl.co/channel/UCITH7URIRpb8yoshUwGE9jg.m3u8
-THE K-POP4,https://mytube.terryd3.repl.co/video/betc0sM3zb0.m3u8
-Thuý Hằng Official,https://mytube.terryd3.repl.co/channel/UCLMssMdE_I8g6QpHWyTUqtA.m3u8
-We Are Diamond 1,https://mytube.terryd3.repl.co/video/sgEJ4sOwboM.m3u8
-We Are Diamond 2,https://mytube.terryd3.repl.co/video/5W3niGQWM10.m3u8
-UPROXX Music,https://mytube.terryd3.repl.co/channel/UCI2HI_aQ_S3v4vfDQgNtK1g.m3u8
-NASA,https://mytube.terryd3.repl.co/video/21X5lGlDOfg.m3u8
-NCS Arcade,https://mytube.terryd3.repl.co/channel/UCiJnBO_XuDsi1SSRAmt4n5g.m3u8
-tvN D ENT,https://mytube.terryd3.repl.co/channel/UCsRIHt5FkbGc6cQtCxt-ufA.m3u8
-United Nations TV,https://mytube.terryd3.repl.co/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
-Victory Channel,https://mytube.terryd3.repl.co/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
-Volcanoverse,https://mytube.terryd3.repl.co/video/b0PRz34OtHg.m3u8
-Volcanoverse,https://mytube.terryd3.repl.co/video/CzsUTKcWxxc.m3u8
-Watchers Club,https://mytube.terryd3.repl.co/channel/UCSkaixM5p8mYuBIdy2J0ZHw.m3u8
-Watchers Club,https://mytube.terryd3.repl.co/video/riI3sIZgEMo.m3u8
-Arirang TV,https://mytube.terryd3.repl.co/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8
-Arirang TV,https://mytube.terryd3.repl.co/video/APlvA2wtdKk.m3u8
-beIN SPORTS Türkiye,https://mytube.terryd3.repl.co/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-beIN SPORTS Türkiye,https://mytube.terryd3.repl.co/video/MZ5D6NK5Qqo.m3u8
-BL Football Talks,https://mytube.terryd3.repl.co/channel/UCheoPVfCDFaQs51tDGR7hTA.m3u8
+NatGeo WILD,http://youtube.frogfork.store/youtube/BJ3Yv572V1A
+National Geographic,http://youtube.frogfork.store/youtube/gsA3-3_Cl8s
+iPanda1,http://youtube.frogfork.store/youtube/CXoNSaiw414
+iPanda2,http://youtube.frogfork.store/youtube/MIA8AKVZ0Yk
+中天新聞,http://youtube.frogfork.store/youtube/oIgbl7t0S_w
+中天新聞2台,http://youtube.frogfork.store/youtube/WPfPjbOLNfE
+鏡新聞mnews,http://youtube.frogfork.store/youtube/5n0y6b0Q25o
+寰宇新聞,http://youtube.frogfork.store/youtube/UcTIv4ZaE5Y
+TVBS新闻,http://youtube.frogfork.store/youtube/2mCSYvcfhtc
+東森新聞 CH51,http://youtube.frogfork.store/youtube/S5WOGu2HSes
+民視新聞,http://youtube.frogfork.store/youtube/ylYJSBUgaMA
+中視新聞,http://youtube.frogfork.store/youtube/TCnaIE_SAtM
+台視新聞,http://youtube.frogfork.store/youtube/xL0ch83RAK8
+三立新闻,http://youtube.frogfork.store/youtube/oZdzzvxTfUY
+台視百萬大歌星,http://youtube.frogfork.store/youtube/VFRs7gEoriA
+華視綜藝頻道1,http://youtube.frogfork.store/youtube/p6RuZGgSX8c
+華視綜藝頻道2,http://youtube.frogfork.store/youtube/IsFtLpSuf_g
+中视经典综艺1,http://youtube.frogfork.store/youtube/ADDSmXoPDY8
+中视经典综艺2,http://youtube.frogfork.store/youtube/oCAq-bo0dFI
+我愛冰冰Show,http://youtube.frogfork.store/youtube/RsiJlzZPxjQ
+中视飢餓遊戲,http://youtube.frogfork.store/youtube/A98LJq71BZg
+Al Jazeera English,http://youtube.frogfork.store/youtube/gCNeDWCI0vo
+Listening Practice Level 1,http://youtube.frogfork.store/youtube/F8gbJUXaeo0
+Listening Practice Level 2,http://youtube.frogfork.store/youtube/vuTY4FDAbpA
+Listening Practice Level 4,http://youtube.frogfork.store/youtube/OXmnrfj2ERc
+Daily English Conversation Practice,http://youtube.frogfork.store/youtube/0_A9J3q3SrE
+English Listening Practice with Subtitle,http://youtube.frogfork.store/youtube/06bk6jovtUU
+Learn to Speak English Fluently,http://youtube.frogfork.store/youtube/pl0xlvpon6I
+English Conversation Practice,http://youtube.frogfork.store/youtube/jsDtKdLupQ8
+English Speeches,http://youtube.frogfork.store/youtube/OSXxqH9j8NY
+Earth From Space Live Stream,http://youtube.frogfork.store/youtube/EceyCgxG1c8
+NASA1,http://youtube.frogfork.store/youtube/nA9UZF-SZoQ
+NASA2,http://youtube.frogfork.store/youtube/21X5lGlDOfg
+NASA3,http://youtube.frogfork.store/youtube/P9C25Un7xaM
 
-
-iPanda,https://ythlsgo.onrender.com/video/MIA8AKVZ0Yk.m3u8
-鳳凰資訊,https://ythlsgo.onrender.com/video/if6yQq_JJyY.m3u8
-中天電視 1,https://ythlsgo.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-中天電視 2,https://ythlsgo.onrender.com/video/oIgbl7t0S_w.m3u8
-鏡新聞,https://ythlsgo.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-寰宇新聞 1,https://ythlsgo.onrender.com/video/B7Zp3d6xXWw.m3u8
-寰宇新聞 2,https://ythlsgo.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-TVBS NEWS国际,https://ythlsgo.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-TVBS NEWS国际,https://ythlsgo.onrender.com/video/2mCSYvcfhtc.m3u8
-東森新聞 CH51,https://ythlsgo.onrender.com/video/S5WOGu2HSes.m3u8
-東森新聞 CH51,https://ythlsgo.onrender.com/video/khuZW5GdBXo.m3u8
-民視新聞網,https://ythlsgo.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-民視新聞網,https://ythlsgo.onrender.com/video/ylYJSBUgaMA.m3u8
-中視新聞,https://ythlsgo.onrender.com/channel/UCmH4q-YjeazayYCVHHkGAMA.m3u8
-中視新聞,https://ythlsgo.onrender.com/video/TCnaIE_SAtM.m3u8
-台視新聞,https://ythlsgo.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-台視新聞,https://ythlsgo.onrender.com/video/xL0ch83RAK8.m3u8
-台視新聞,https://ythlsgo.onrender.com/video/t_AVVEoDzkM.m3u8
-三立iNEWS,https://ythlsgo.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-Taiwan SETNEWS Channel,https://ythlsgo.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
-Taiwan SETNEWS Channel,https://ythlsgo.onrender.com/video/jlldIiGA5bU.m3u8
-TaiwanPlus Livestream,https://ythlsgo.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-TaiwanPlus Livestream,https://ythlsgo.onrender.com/video/dZp87qnWelE.m3u8
-新唐人亞太電視台NTDAPTV,https://ythlsgo.onrender.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ.m3u8
-大愛電視 Tzu Chi DaAiVideo,https://ythlsgo.onrender.com/channel/UClrEYreVkBee7ZQYei_6Jqg.m3u8
-东森超视,https://ythlsgo.onrender.com/channel/UCmyVDKnXwdw3McUlcijqmvQ.m3u8
-華視綜藝頻道,https://ythlsgo.onrender.com/channel/UCdpxNQgqL3276yjrK03gMXA.m3u8
-中视经典综艺,https://ythlsgo.onrender.com/video/ADDSmXoPDY8.m3u8
-我愛冰冰Show,https://ythlsgo.onrender.com/video/RsiJlzZPxjQ.m3u8
-飢餓遊戲,https://ythlsgo.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
-歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://ythlsgo.onrender.com/video/gFRtAAmiFbE.m3u8
-CGTN Europe,https://ythlsgo.onrender.com/video/gYUfs9RX95s.m3u8
-CGTN Europe,https://ythlsgo.onrender.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg.m3u8
-ABC News,https://ythlsgo.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
-ABC News,https://ythlsgo.onrender.com/video/w_Ma8oQLmSM.m3u8
-Al Jazeera English,https://ythlsgo.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
-CNA,https://ythlsgo.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-CNA,https://ythlsgo.onrender.com/video/XWq5kBlakcQ.m3u8
-CNBC,https://ythlsgo.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
-CNBC,https://ythlsgo.onrender.com/video/9NyxcX3rhQs.m3u8
-CNN News18,https://ythlsgo.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
-CNN-News18,https://ythlsgo.onrender.com/video/4nNqFV68Kuo.m3u8
-NBC News,https://ythlsgo.onrender.com/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
-NBC2 News,https://ythlsgo.onrender.com/video/MJB6CUxvZcU.m3u8
-NBC2 News,https://ythlsgo.onrender.com/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
-Newsmax,https://ythlsgo.onrender.com/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
-Newsmax,https://ythlsgo.onrender.com/video/HbU2npaxTfU.m3u8
-Bloomberg,https://ythlsgo.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
-Bloomberg Originals,https://ythlsgo.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8
-Bloomberg Originals,https://ythlsgo.onrender.com/video/dp8PhLsUcFE.m3u8
-ABC Learning English 1,https://ythlsgo.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
-ABC Learning English 2,https://ythlsgo.onrender.com/video/0_A9J3q3SrE.m3u8
-ABC Learning English 2,https://ythlsgo.onrender.com/video/F8gbJUXaeo0.m3u8
-English Speeches,https://ythlsgo.onrender.com/channel/UCLyr-hfWVCKHcZjV5fg3jbw.m3u8
-Earth From Space Live Stream,https://ythlsgo.onrender.com/channel/UCToyV-kJ2rHSP1YyeYZS2Iw.m3u8
-Expoza Travel,https://ythlsgo.onrender.com/channel/UC3o_gaqvLoPSRVMc2GmkDrg.m3u8
-Expoza Travel,https://ythlsgo.onrender.com/video/AKimWXUm7UM.m3u8
-France 24 English,https://ythlsgo.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-France 24 English,https://ythlsgo.onrender.com/video/h3MuIUNCCzI.m3u8
-JAPAN 4K,https://ythlsgo.onrender.com/video/cH7VBI4QQzA.m3u8
-親親2o音樂LîvË【中文音樂】,https://ythlsgo.onrender.com/channel/UCcHWhgSsMBemnyLhg6GL1vA.m3u8
-EDM Club,https://ythlsgo.onrender.com/video/J9gFLQak7hY.m3u8
-Enhanced Music,https://ythlsgo.onrender.com/channel/UCGXkgynD9YyoEIVyqpaUElw.m3u8
-Epidemic Pop,https://ythlsgo.onrender.com/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8
-8FM881,https://ythlsgo.onrender.com/channel/UCXKqVoc7khb8cg3ugfrih4g.m3u8
-Chillhop Music 1,https://ythlsgo.onrender.com/video/5yx6BWlEVcY.m3u8
-Chillhop Music 2,https://ythlsgo.onrender.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg.m3u8
-Lofi Girl 1,https://ythlsgo.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
-Lofi Girl 1,https://ythlsgo.onrender.com/video/MVPTGNGiI-4.m3u8
-Lofi Girl 2,https://ythlsgo.onrender.com/video/rUxyKA_-grg.m3u8
-Lofi Girl 3,https://ythlsgo.onrender.com/video/jfKfPfyJRdk.m3u8
-Music Hits 1,https://ythlsgo.onrender.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA.m3u8
-Music Hits 2,https://ythlsgo.onrender.com/video/kwOVzOBaNrE.m3u8
-Music Hits 3,https://ythlsgo.onrender.com/video/hgLi2KVNK6Y.m3u8
-Music Hits 4,https://ythlsgo.onrender.com/video/R6_3OchvW_c.m3u8
-Music Hits 5,https://ythlsgo.onrender.com/video/ZRcPTEYoxwI.m3u8
-Music Hits 6,https://ythlsgo.onrender.com/video/_thKXe8PSXo.m3u8
-Musica Studios,https://ythlsgo.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
-Musica Studios,https://ythlsgo.onrender.com/video/A9bqzYMEsKY.m3u8
-Musica Studios,https://ythlsgo.onrender.com/video/h3aG3pZWDQc.m3u8
-Wild Animals,https://ythls.onrender.com/channel/UCqY4QL6bgWeKLN0MOmJIcUg.m3u8
-Nature Relax,https://ythlsgo.onrender.com/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
-Nature Relaxation Music,https://ythlsgo.onrender.com/video/rw7bxTqkYYs.m3u8
-Nuclear Blast Records,https://ythlsgo.onrender.com/video/lCjVa1c5zKw.m3u8
-Nuclear Blast Records,https://ythlsgo.onrender.com/channel/UCoxg3Kml41wE3IPq-PC-LQw.m3u8
-Peaceful Relaxation 4K 1,https://ythlsgo.onrender.com/channel/UCfhqk1LwYmPBH8ALa3nqAdg.m3u8
-Peaceful Relaxation 4K 2,https://ythlsgo.onrender.com/video/ZB-ClMzZA14.m3u8
-Peaceful Relaxation 4K 3,https://ythlsgo.onrender.com/video/7ZO1r1-QgTE.m3u8
-Pop Radio 101.5,https://ythlsgo.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
-Pop Radio 101.5,https://ythlsgo.onrender.com/video/RfEhh--POhA.m3u8
-THE K-POP,https://ythlsgo.onrender.com/video/JVocS7Yftw8.m3u8
-THE K-POP,https://ythlsgo.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-THE K-POP2,https://ythlsgo.onrender.com/video/9PYFL6OsrZI.m3u8
-THE K-POP3,https://ythlsgo.onrender.com/channel/UCITH7URIRpb8yoshUwGE9jg.m3u8
-THE K-POP4,https://ythlsgo.onrender.com/video/betc0sM3zb0.m3u8
-Thuý Hằng Official,https://ythlsgo.onrender.com/channel/UCLMssMdE_I8g6QpHWyTUqtA.m3u8
-We Are Diamond 1,https://ythlsgo.onrender.com/video/sgEJ4sOwboM.m3u8
-We Are Diamond 2,https://ythlsgo.onrender.com/video/5W3niGQWM10.m3u8
-UPROXX Music,https://ythlsgo.onrender.com/channel/UCI2HI_aQ_S3v4vfDQgNtK1g.m3u8
-NASA,https://ythlsgo.onrender.com/video/21X5lGlDOfg.m3u8
-Nat Geo WILD,https://ythlsgo.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-National Geographic,https://ythlsgo.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
-NCS Arcade,https://ythlsgo.onrender.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g.m3u8
-tvN D ENT,https://ythlsgo.onrender.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA.m3u8
-United Nations TV,https://ythlsgo.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
-Victory Channel,https://ythlsgo.onrender.com/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
-Volcanoverse,https://ythlsgo.onrender.com/video/b0PRz34OtHg.m3u8
-Volcanoverse,https://ythlsgo.onrender.com/video/CzsUTKcWxxc.m3u8
-Watchers Club,https://ythlsgo.onrender.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw.m3u8
-Watchers Club,https://ythlsgo.onrender.com/video/riI3sIZgEMo.m3u8
-Arirang TV,https://ythlsgo.onrender.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8
-Arirang TV,https://ythlsgo.onrender.com/video/APlvA2wtdKk.m3u8
-beIN SPORTS Türkiye,https://ythlsgo.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-beIN SPORTS Türkiye,https://ythlsgo.onrender.com/video/MZ5D6NK5Qqo.m3u8
-BL Football Talks,https://ythlsgo.onrender.com/channel/UCheoPVfCDFaQs51tDGR7hTA.m3u8
-
-
-
-
-❤️央视高清,#genre#
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-CCTV13,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
-CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
-CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-CCTV16,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-
-
-📺卫视高清,#genre#
-JJ斗地主,http://epg.112114.xyz/douyu/488743
-JJ斗地主,http://pull-flv-l26.douyincdn.com/third/stream-113146674288001510_or4.flv?expire=6487d23b&sign=18eb730c340858b48ae7109eb1cc30e6
-JJ斗地主,http://pull-hls-l26.douyincdn.com/third/stream-113146674288001510_or4.m3u8?expire=6487d23b&sign=59b0d2809bde4313cc378f08a5002e4a
-重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
-浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
-天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
-四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
-江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
-吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
-湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
-河南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
-欢笑剧场,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
-快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
-高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-东方财经,https://live.goodiptv.club/api/cqyx.php?id=dfcj
-证券服务,https://live.goodiptv.club/api/cqyx.php?id=jiazheng
-书画,https://live.goodiptv.club/api/cqyx.php?id=shuhua
-新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
-国学频道,https://live.goodiptv.club/api/cqyx.php?id=guoxue
-优优宝贝,https://live.goodiptv.club/api/cqyx.php?id=youxi
-中华特产,https://live.goodiptv.club/api/cqyx.php?id=techan
-环球奇观,https://live.goodiptv.club/api/cqyx.php?id=car
-生态环境,https://live.goodiptv.club/api/cqyx.php?id=shengtai
-四海钓鱼,https://live.goodiptv.club/api/cqyx.php?id=diaoyu
-发现之旅,https://live.goodiptv.club/api/cqyx.php?id=faxian
-车迷,https://live.goodiptv.club/api/cqyx.php?id=doxtv
-法治天地,https://live.goodiptv.club/api/cqyx.php?id=fazhi
-收藏天下,https://live.goodiptv.club/api/cqyx.php?id=soucang
-财富天下,https://live.goodiptv.club/api/cqyx.php?id=caifu
-中学生,https://live.goodiptv.club/api/cqyx.php?id=qicai
-天元围棋,https://live.goodiptv.club/api/cqyx.php?id=weiqi
-先锋乒羽,https://live.goodiptv.club/api/cqyx.php?id=xianfeng
-环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
-老故事,https://live.goodiptv.club/api/cqyx.php?id=gushi
-摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
-靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
 📺电台FM,#genre#
 楚天交通广播,https://lhttp.qtfm.cn/live/1291/64k.mp3?app_id=web&type=湖北
@@ -1246,9 +958,31 @@ BBC World Service,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_worl
 BBC ASIAN NETWORK,https://bbx.xmgspace.me/radio/bbcm3u8/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 BBC ASIAN NETWORK,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 
+👲JJ斗地主,#genre#
+JJ斗地主,http://vercel.frogfork.store/douyin/685317364746
+JJ斗地主,http://vercel.frogfork.store/huya/14079954
+JJ斗地主,http://vercel.frogfork.store/douyu/488743
+JJ斗地主,http://mygo.terryd3.repl.co/huya/14079954
+JJ斗地主,http://159.75.85.63:35455/huya/14079954
+JJ斗地主,http://epg.112114.xyz/douyu/488743
+JJ斗地主,http://159.75.85.63:35455/douyu/488743
+
+
 
 
 ♨️抖音听歌,#genre#
+1,http://vercel.frogfork.store/douyin/453399571493
+2,http://vercel.frogfork.store/douyin/16227368958
+3,http://vercel.frogfork.store/douyin/380034390763
+4,http://vercel.frogfork.store/douyin/706596648103
+5,http://vercel.frogfork.store/douyin/17971512257
+6,http://vercel.frogfork.store/douyin/69252189721
+7,http://vercel.frogfork.store/douyin/590888789469
+8,http://vercel.frogfork.store/douyin/634137499406
+9,http://vercel.frogfork.store/douyin/986798923450
+10,http://vercel.frogfork.store/douyin/916352155507
+
+
 1,http://mygo.terryd3.repl.co/douyin/453399571493
 2,http://mygo.terryd3.repl.co/douyin/16227368958
 3,http://mygo.terryd3.repl.co/douyin/380034390763
@@ -1260,98 +994,49 @@ BBC ASIAN NETWORK,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asia
 9,http://mygo.terryd3.repl.co/douyin/986798923450
 10,http://mygo.terryd3.repl.co/douyin/916352155507
 
-1,http://mygo.zeabur.app/douyin/453399571493
-2,http://mygo.zeabur.app/douyin/16227368958
-3,http://mygo.zeabur.app/douyin/380034390763
-4,http://mygo.zeabur.app/douyin/706596648103
-5,http://mygo.zeabur.app/douyin/17971512257
-6,http://mygo.zeabur.app/douyin/69252189721
-7,http://mygo.zeabur.app/douyin/590888789469
-8,http://mygo.zeabur.app/douyin/634137499406
-9,http://mygo.zeabur.app/douyin/986798923450
-10,http://mygo.zeabur.app/douyin/916352155507
 
 
 
 
 🐆🐅虎牙,#genre#
-JJ斗地主,http://mygo.terryd3.repl.co/huya/14079954
-郭德纲(无唱),http://mygo.terryd3.repl.co/huya/10132155
-郭德纲(有唱),http://mygo.terryd3.repl.co/huya/22809600
-郭德纲相声动画版,http://mygo.terryd3.repl.co/huya/25343324
-易中天品三国,http://mygo.terryd3.repl.co/huya/11602032
-阿斗归来了,http://mygo.terryd3.repl.co/huya/13303478
-罗翔说法,http://mygo.terryd3.repl.co/huya/11601965
-杰森·斯坦森,http://mygo.terryd3.repl.co/huya/21059588
-巨石强森,http://mygo.terryd3.repl.co/huya/21059581
-007系列,http://mygo.terryd3.repl.co/huya/21059585
-周星驰-粤语,http://mygo.terryd3.repl.co/huya/11336587
-星爷经典,http://mygo.terryd3.repl.co/huya/11342412
-林正英,http://mygo.terryd3.repl.co/huya/11342421
-沈腾,http://mygo.terryd3.repl.co/huya/11601968
-甄子丹,http://mygo.terryd3.repl.co/huya/11352935
-成龙,http://mygo.terryd3.repl.co/huya/11342386
-李连杰,http://mygo.terryd3.repl.co/huya/11342390
-周润发,http://mygo.terryd3.repl.co/huya/11342387
-刘德华,http://mygo.terryd3.repl.co/huya/11342424
-洪金宝,http://mygo.terryd3.repl.co/huya/11279251
-黄渤,http://mygo.terryd3.repl.co/huya/11342429
-王晶导演,http://mygo.terryd3.repl.co/huya/11602058
-黑帮系列,http://mygo.terryd3.repl.co/huya/11336719
-警匪系列,http://mygo.terryd3.repl.co/huya/11352886
-喜剧系列,http://mygo.terryd3.repl.co/huya/11602044
-动作大片,http://mygo.terryd3.repl.co/huya/11602077
-玄幻系列,http://mygo.terryd3.repl.co/huya/11352973
-古墓系列,http://mygo.terryd3.repl.co/huya/11352913
-各类经典电影,http://mygo.terryd3.repl.co/huya/27203821
-贺岁喜剧,http://mygo.terryd3.repl.co/huya/11601986
-金庸武侠系列,http://mygo.terryd3.repl.co/huya/11342427
-虎牙斯諾克,http://mygo.terryd3.repl.co/huya/880214
-虎牙斯諾克副舞台,http://mygo.terryd3.repl.co/huya/880625
-丁俊晖1,http://mygo.terryd3.repl.co/huya/880211
-丁俊晖2,http://mygo.terryd3.repl.co/huya/19197127
-奧沙利文,http://mygo.terryd3.repl.co/huya/880237
-特魯姆普,http://mygo.terryd3.repl.co/huya/17455032
+郭德纲(无唱),http://vercel.frogfork.store/huya/10132155
+郭德纲(有唱),http://vercel.frogfork.store/huya/22809600
+郭德纲相声动画版,http://vercel.frogfork.store/huya/25343324
+易中天品三国,http://vercel.frogfork.store/huya/11602032
+阿斗归来了,http://vercel.frogfork.store/huya/13303478
+罗翔说法,http://vercel.frogfork.store/huya/11601965
+杰森·斯坦森,http://vercel.frogfork.store/huya/21059588
+巨石强森,http://vercel.frogfork.store/huya/21059581
+007系列,http://vercel.frogfork.store/huya/21059585
+周星驰-粤语,http://vercel.frogfork.store/huya/11336587
+星爷经典,http://vercel.frogfork.store/huya/11342412
+林正英,http://vercel.frogfork.store/huya/11342421
+沈腾,http://vercel.frogfork.store/huya/11601968
+甄子丹,http://vercel.frogfork.store/huya/11352935
+成龙,http://vercel.frogfork.store/huya/11342386
+李连杰,http://vercel.frogfork.store/huya/11342390
+周润发,http://vercel.frogfork.store/huya/11342387
+刘德华,http://vercel.frogfork.store/huya/11342424
+洪金宝,http://vercel.frogfork.store/huya/11279251
+黄渤,http://vercel.frogfork.store/huya/11342429
+王晶导演,http://vercel.frogfork.store/huya/11602058
+黑帮系列,http://vercel.frogfork.store/huya/11336719
+警匪系列,http://vercel.frogfork.store/huya/11352886
+喜剧系列,http://vercel.frogfork.store/huya/11602044
+动作大片,http://vercel.frogfork.store/huya/11602077
+玄幻系列,http://vercel.frogfork.store/huya/11352973
+古墓系列,http://vercel.frogfork.store/huya/11352913
+各类经典电影,http://vercel.frogfork.store/huya/27203821
+贺岁喜剧,http://vercel.frogfork.store/huya/11601986
+金庸武侠系列,http://vercel.frogfork.store/huya/11342427
+虎牙斯諾克,http://vercel.frogfork.store/huya/880214
+虎牙斯諾克副舞台,http://vercel.frogfork.store/huya/880625
+丁俊晖1,http://vercel.frogfork.store/huya/880211
+丁俊晖2,http://vercel.frogfork.store/huya/19197127
+奧沙利文,http://vercel.frogfork.store/huya/880237
+特魯姆普,http://vercel.frogfork.store/huya/17455032
 
-JJ斗地主,http://mygo.zeabur.app/huya/14079954
-郭德纲(无唱),http://mygo.zeabur.app/huya/10132155
-郭德纲(有唱),http://mygo.zeabur.app/huya/22809600
-郭德纲相声动画版,http://mygo.zeabur.app/huya/25343324
-易中天品三国,http://mygo.zeabur.app/huya/11602032
-阿斗归来了,http://mygo.zeabur.app/huya/13303478
-罗翔说法,http://mygo.zeabur.app/huya/11601965
-杰森·斯坦森,http://mygo.zeabur.app/huya/21059588
-巨石强森,http://mygo.zeabur.app/huya/21059581
-007系列,http://mygo.zeabur.app/huya/21059585
-周星驰-粤语,http://mygo.zeabur.app/huya/11336587
-星爷经典,http://mygo.zeabur.app/huya/11342412
-林正英,http://mygo.zeabur.app/huya/11342421
-沈腾,http://mygo.zeabur.app/huya/11601968
-甄子丹,http://mygo.zeabur.app/huya/11352935
-成龙,http://mygo.zeabur.app/huya/11342386
-李连杰,http://mygo.zeabur.app/huya/11342390
-周润发,http://mygo.zeabur.app/huya/11342387
-刘德华,http://mygo.zeabur.app/huya/11342424
-洪金宝,http://mygo.zeabur.app/huya/11279251
-黄渤,http://mygo.zeabur.app/huya/11342429
-王晶导演,http://mygo.zeabur.app/huya/11602058
-黑帮系列,http://mygo.zeabur.app/huya/11336719
-警匪系列,http://mygo.zeabur.app/huya/11352886
-喜剧系列,http://mygo.zeabur.app/huya/11602044
-动作大片,http://mygo.zeabur.app/huya/11602077
-玄幻系列,http://mygo.zeabur.app/huya/11352973
-古墓系列,http://mygo.zeabur.app/huya/11352913
-各类经典电影,http://mygo.zeabur.app/huya/27203821
-贺岁喜剧,http://mygo.zeabur.app/huya/11601986
-金庸武侠系列,http://mygo.zeabur.app/huya/11342427
-虎牙斯諾克,http://mygo.zeabur.app/huya/880214
-虎牙斯諾克副舞台,http://mygo.zeabur.app/huya/880625
-丁俊晖1,http://mygo.zeabur.app/huya/880211
-丁俊晖2,http://mygo.zeabur.app/huya/19197127
-奧沙利文,http://mygo.zeabur.app/huya/880237
-特魯姆普,http://mygo.zeabur.app/huya/17455032
 
-JJ斗地主,http://159.75.85.63:35455/huya/14079954
 郭德纲(无唱),http://159.75.85.63:35455/huya/10132155
 郭德纲(有唱),http://159.75.85.63:35455/huya/22809600
 郭德纲相声动画版,http://159.75.85.63:35455/huya/25343324
@@ -1390,7 +1075,86 @@ JJ斗地主,http://159.75.85.63:35455/huya/14079954
 特魯姆普,http://159.75.85.63:35455/huya/17455032
 
 
+郭德纲(无唱),http://mygo.terryd3.repl.co/huya/10132155
+郭德纲(有唱),http://mygo.terryd3.repl.co/huya/22809600
+郭德纲相声动画版,http://mygo.terryd3.repl.co/huya/25343324
+易中天品三国,http://mygo.terryd3.repl.co/huya/11602032
+阿斗归来了,http://mygo.terryd3.repl.co/huya/13303478
+罗翔说法,http://mygo.terryd3.repl.co/huya/11601965
+杰森·斯坦森,http://mygo.terryd3.repl.co/huya/21059588
+巨石强森,http://mygo.terryd3.repl.co/huya/21059581
+007系列,http://mygo.terryd3.repl.co/huya/21059585
+周星驰-粤语,http://mygo.terryd3.repl.co/huya/11336587
+星爷经典,http://mygo.terryd3.repl.co/huya/11342412
+林正英,http://mygo.terryd3.repl.co/huya/11342421
+沈腾,http://mygo.terryd3.repl.co/huya/11601968
+甄子丹,http://mygo.terryd3.repl.co/huya/11352935
+成龙,http://mygo.terryd3.repl.co/huya/11342386
+李连杰,http://mygo.terryd3.repl.co/huya/11342390
+周润发,http://mygo.terryd3.repl.co/huya/11342387
+刘德华,http://mygo.terryd3.repl.co/huya/11342424
+洪金宝,http://mygo.terryd3.repl.co/huya/11279251
+黄渤,http://mygo.terryd3.repl.co/huya/11342429
+王晶导演,http://mygo.terryd3.repl.co/huya/11602058
+黑帮系列,http://mygo.terryd3.repl.co/huya/11336719
+警匪系列,http://mygo.terryd3.repl.co/huya/11352886
+喜剧系列,http://mygo.terryd3.repl.co/huya/11602044
+动作大片,http://mygo.terryd3.repl.co/huya/11602077
+玄幻系列,http://mygo.terryd3.repl.co/huya/11352973
+古墓系列,http://mygo.terryd3.repl.co/huya/11352913
+各类经典电影,http://mygo.terryd3.repl.co/huya/27203821
+贺岁喜剧,http://mygo.terryd3.repl.co/huya/11601986
+金庸武侠系列,http://mygo.terryd3.repl.co/huya/11342427
+虎牙斯諾克,http://mygo.terryd3.repl.co/huya/880214
+虎牙斯諾克副舞台,http://mygo.terryd3.repl.co/huya/880625
+丁俊晖1,http://mygo.terryd3.repl.co/huya/880211
+丁俊晖2,http://mygo.terryd3.repl.co/huya/19197127
+奧沙利文,http://mygo.terryd3.repl.co/huya/880237
+特魯姆普,http://mygo.terryd3.repl.co/huya/17455032
+
+
+
 🐆🐅埋堆堆港剧,#genre#
+TVB官方,http://vercel.frogfork.store/huya/23735126
+埋堆堆官方,http://vercel.frogfork.store/huya/23740156
+埋堆堆1,http://vercel.frogfork.store/huya/23749096
+埋堆堆2,http://vercel.frogfork.store/huya/23728660
+埋堆堆3,http://vercel.frogfork.store/huya/23865080
+埋堆堆4,http://vercel.frogfork.store/huya/23864973
+埋堆堆5,http://vercel.frogfork.store/huya/23734169
+埋堆堆6,http://vercel.frogfork.store/huya/23865142
+埋堆堆7,http://vercel.frogfork.store/huya/23863804
+埋堆堆8,http://vercel.frogfork.store/huya/23903130
+埋堆堆9,http://vercel.frogfork.store/huya/23860039
+埋堆堆10,http://vercel.frogfork.store/huya/23903123
+埋堆堆11,http://vercel.frogfork.store/huya/23865171
+埋堆堆12,http://vercel.frogfork.store/huya/23734256
+埋堆堆13,http://vercel.frogfork.store/huya/23903183
+埋堆堆14,http://vercel.frogfork.store/huya/23749083
+埋堆堆15,http://vercel.frogfork.store/huya/23728674
+埋堆堆16,http://vercel.frogfork.store/huya/23903196
+埋堆堆17,http://vercel.frogfork.store/huya/23829543
+埋堆堆18,http://vercel.frogfork.store/huya/23863818
+埋堆堆19,http://vercel.frogfork.store/huya/23734183
+埋堆堆20,http://vercel.frogfork.store/huya/23865058
+埋堆堆21,http://vercel.frogfork.store/huya/23865036
+埋堆堆22,http://vercel.frogfork.store/huya/23829447
+埋堆堆23,http://vercel.frogfork.store/huya/23860049
+埋堆堆24,http://vercel.frogfork.store/huya/23865164
+埋堆堆25,http://vercel.frogfork.store/huya/23865161
+埋堆堆26,http://vercel.frogfork.store/huya/23865179
+埋堆堆27,http://vercel.frogfork.store/huya/23863796
+埋堆堆28,http://vercel.frogfork.store/huya/23824164
+埋堆堆29,http://vercel.frogfork.store/huya/23734176
+埋堆堆30,http://vercel.frogfork.store/huya/23863787
+埋堆堆31,http://vercel.frogfork.store/huya/23863778
+埋堆堆32,http://vercel.frogfork.store/huya/23749068
+埋堆堆33,http://vercel.frogfork.store/huya/23734211
+埋堆堆34,http://vercel.frogfork.store/huya/23746486
+埋堆堆35,http://vercel.frogfork.store/huya/23735153
+埋堆堆36,http://vercel.frogfork.store/huya/23734246
+
+
 TVB官方,http://mygo.terryd3.repl.co/huya/23735126
 埋堆堆官方,http://mygo.terryd3.repl.co/huya/23740156
 埋堆堆1,http://mygo.terryd3.repl.co/huya/23749096
@@ -1473,48 +1237,58 @@ TVB官方,http://diyp.112114.xyz/huya/23735126
 
 
 
-TVB官方,http://live.aptvapp.com/live/huya/23735126
-埋堆堆官方,http://live.aptvapp.com/live/huya/23740156
-埋堆堆1,http://live.aptvapp.com/live/huya/23749096
-埋堆堆2,http://live.aptvapp.com/live/huya/23728660
-埋堆堆3,http://live.aptvapp.com/live/huya/23865080
-埋堆堆4,http://live.aptvapp.com/live/huya/23864973
-埋堆堆5,http://live.aptvapp.com/live/huya/23734169
-埋堆堆6,http://live.aptvapp.com/live/huya/23865142
-埋堆堆7,http://live.aptvapp.com/live/huya/23863804
-埋堆堆8,http://live.aptvapp.com/live/huya/23903130
-埋堆堆9,http://live.aptvapp.com/live/huya/23860039
-埋堆堆10,http://live.aptvapp.com/live/huya/23903123
-埋堆堆11,http://live.aptvapp.com/live/huya/23865171
-埋堆堆12,http://live.aptvapp.com/live/huya/23734256
-埋堆堆13,http://live.aptvapp.com/live/huya/23903183
-埋堆堆14,http://live.aptvapp.com/live/huya/23749083
-埋堆堆15,http://live.aptvapp.com/live/huya/23728674
-埋堆堆16,http://live.aptvapp.com/live/huya/23903196
-埋堆堆17,http://live.aptvapp.com/live/huya/23829543
-埋堆堆18,http://live.aptvapp.com/live/huya/23863818
-埋堆堆19,http://live.aptvapp.com/live/huya/23734183
-埋堆堆20,http://live.aptvapp.com/live/huya/23865058
-埋堆堆21,http://live.aptvapp.com/live/huya/23865036
-埋堆堆22,http://live.aptvapp.com/live/huya/23829447
-埋堆堆23,http://live.aptvapp.com/live/huya/23860049
-埋堆堆24,http://live.aptvapp.com/live/huya/23865164
-埋堆堆25,http://live.aptvapp.com/live/huya/23865161
-埋堆堆26,http://live.aptvapp.com/live/huya/23865179
-埋堆堆27,http://live.aptvapp.com/live/huya/23863796
-埋堆堆28,http://live.aptvapp.com/live/huya/23824164
-埋堆堆29,http://live.aptvapp.com/live/huya/23734176
-埋堆堆30,http://live.aptvapp.com/live/huya/23863787
-埋堆堆31,http://live.aptvapp.com/live/huya/23863778
-埋堆堆32,http://live.aptvapp.com/live/huya/23749068
-埋堆堆33,http://live.aptvapp.com/live/huya/23734211
-埋堆堆34,http://live.aptvapp.com/live/huya/23746486
-埋堆堆35,http://live.aptvapp.com/live/huya/23735153
-埋堆堆36,http://live.aptvapp.com/live/huya/23734246
 
 
 🐳斗鱼,#genre#
-JJ斗地主,http://159.75.85.63:35455/douyu/488743
+赵本山经典小品,http://vercel.frogfork.store/douyu/9817716
+宋小宝小品,http://vercel.frogfork.store/douyu/9817729
+开心麻花经典小品,http://vercel.frogfork.store/douyu/10153463
+辽视欢乐大集锦,http://vercel.frogfork.store/douyu/9403712
+1905国外电影,http://192.168.124.168:5678/1905new.php?id=1905a
+1905国内电影,http://192.168.124.168:5678/1905new.php?id=1905b
+60帧极致画面,http://vercel.frogfork.store/douyu/747764
+科幻 动作 喜剧电影,http://vercel.frogfork.store/douyu/323876
+恐怖/经典/搞笑,http://vercel.frogfork.store/douyu/74374
+史上最佳影片大放送,http://vercel.frogfork.store/douyu/8770422
+译制国语影片,http://vercel.frogfork.store/douyu/2436390
+【贝爷影厅】欧美 日韩 国产 2号厅,http://vercel.frogfork.store/douyu/36337
+【贝爷影厅】经典 科幻 动作 灾难,http://vercel.frogfork.store/douyu/252802
+【贝爷MAX厅】科幻 动作 经典 喜剧,http://vercel.frogfork.store/douyu/4332
+【贝贝】,http://vercel.frogfork.store/douyu/431460
+凛冬将至，夜王之争,http://vercel.frogfork.store/douyu/8945323
+【变种人】除掉任何阻碍我们的人,http://vercel.frogfork.store/douyu/9651304
+粤语【周星驰】【林正英】,http://vercel.frogfork.store/douyu/5033502
+粤语电影⭐周星驰 林正英 经典喜剧,http://vercel.frogfork.store/douyu/6566671
+【粤语电影】吴孟达 达叔 周星驰 经典,http://vercel.frogfork.store/douyu/1226741
+「橙記」「最人气港剧直播间」,http://vercel.frogfork.store/douyu/4549169
+【超清1】经典港剧天地,http://vercel.frogfork.store/douyu/4290711
+【超清2】经典港剧天地,http://vercel.frogfork.store/douyu/5522351
+【超清3】经典港剧天地,http://vercel.frogfork.store/douyu/5261342
+腹黑电影,http://vercel.frogfork.store/douyu/8867878
+好看影视剧,http://vercel.frogfork.store/douyu/8475821
+周末狂欢剧场,http://vercel.frogfork.store/douyu/7476264
+【牛叔】N分钟带你看完大片,http://vercel.frogfork.store/douyu/2758565
+【牛叔2台】N分钟带你看完大片,http://vercel.frogfork.store/douyu/10010651
+小片片说大片,http://vercel.frogfork.store/douyu/4258555
+【大蓝雀】最新神剧爆笑解说,http://vercel.frogfork.store/douyu/8656759
+1900影剧室,http://vercel.frogfork.store/douyu/7796193
+都市夜魔人老王,http://vercel.frogfork.store/douyu/610972
+虫哥说电影,http://vercel.frogfork.store/douyu/8915074
+【科幻Fans】精彩科幻影视解说,http://vercel.frogfork.store/douyu/3508304
+【看电影了没】深度讲解电影,http://vercel.frogfork.store/douyu/9562616
+【史君说剧】史君说尽天下好剧,http://vercel.frogfork.store/douyu/9419771
+看电影，懂生活,http://vercel.frogfork.store/douyu/9573592
+刘老师说电影,http://vercel.frogfork.store/douyu/8317926
+吸奇侠,http://vercel.frogfork.store/douyu/8986636
+PP看动漫,http://vercel.frogfork.store/douyu/9837291
+史剧解说,http://vercel.frogfork.store/douyu/297689
+影视集装箱,http://vercel.frogfork.store/douyu/8651489
+火龙果说电影,http://vercel.frogfork.store/douyu/9559158
+骑毛驴的八戒,http://vercel.frogfork.store/douyu/1979257
+斗鱼最温情电影解说,http://vercel.frogfork.store/douyu/8799435
+【谁语Whospeak】精彩电影解说,http://vercel.frogfork.store/douyu/8705754
+带你5分钟看一部精彩电影,http://vercel.frogfork.store/douyu/6725858
+
 赵本山经典小品,http://159.75.85.63:35455/douyu/9817716
 宋小宝小品,http://159.75.85.63:35455/douyu/9817729
 开心麻花经典小品,http://159.75.85.63:35455/douyu/10153463
@@ -1606,52 +1380,6 @@ PP看动漫,http://mygo.terryd3.repl.co/douyu/9837291
 【谁语Whospeak】精彩电影解说,http://mygo.terryd3.repl.co/douyu/8705754
 带你5分钟看一部精彩电影,http://mygo.terryd3.repl.co/douyu/6725858
 
-
-JJ斗地主,http://mygo.zeabur.app/douyu/488743
-60帧极致画面,http://mygo.zeabur.app/douyu/747764
-科幻 动作 喜剧电影,http://mygo.zeabur.app/douyu/323876
-恐怖/经典/搞笑,http://mygo.zeabur.app/douyu/74374
-史上最佳影片大放送,http://mygo.zeabur.app/douyu/8770422
-译制国语影片,http://mygo.zeabur.app/douyu/2436390
-【贝爷影厅】欧美 日韩 国产 2号厅,http://mygo.zeabur.app/douyu/36337
-【贝爷影厅】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/252802
-【贝爷MAX厅】科幻 动作 经典 喜剧,http://mygo.zeabur.app/douyu/4332
-【贝贝】,http://mygo.zeabur.app/douyu/431460
-凛冬将至，夜王之争,http://mygo.zeabur.app/douyu/8945323
-【变种人】除掉任何阻碍我们的人,http://mygo.zeabur.app/douyu/9651304
-【s1134】经典 科幻 动作 灾难,http://mygo.zeabur.app/douyu/248753
-【粤语电影】吴孟达 达叔 周星驰 经典,http://mygo.zeabur.app/douyu/1226741
-【果条】电脑修好了偶尔陪看,http://mygo.zeabur.app/douyu/6785471
-「橙記」「最人气港剧直播间」,http://mygo.zeabur.app/douyu/4549169
-腹黑电影,http://mygo.zeabur.app/douyu/8867878
-【超清1】经典港剧天地,http://mygo.zeabur.app/douyu/4290711
-【超清2】经典港剧天地,http://mygo.zeabur.app/douyu/5522351
-【超清3】经典港剧天地,http://mygo.zeabur.app/douyu/5261342
-好看影视剧,http://mygo.zeabur.app/douyu/8475821
-周末狂欢剧场,http://mygo.zeabur.app/douyu/7476264
-粤语【周星驰】【林正英】,http://mygo.zeabur.app/douyu/5033502
-粤语电影⭐周星驰 林正英 经典喜剧,http://mygo.zeabur.app/douyu/6566671
-【牛叔】N分钟带你看完大片,http://mygo.zeabur.app/douyu/2758565
-【牛叔2台】N分钟带你看完大片,http://mygo.zeabur.app/douyu/10010651
-小片片说大片,http://mygo.zeabur.app/douyu/4258555
-【大蓝雀】最新神剧爆笑解说,http://mygo.zeabur.app/douyu/8656759
-1900影剧室,http://mygo.zeabur.app/douyu/7796193
-都市夜魔人老王,http://mygo.zeabur.app/douyu/610972
-虫哥说电影,http://mygo.zeabur.app/douyu/8915074
-【科幻Fans】精彩科幻影视解说,http://mygo.zeabur.app/douyu/3508304
-【看电影了没】深度讲解电影,http://mygo.zeabur.app/douyu/9562616
-【史君说剧】史君说尽天下好剧,http://mygo.zeabur.app/douyu/9419771
-看电影，懂生活,http://mygo.zeabur.app/douyu/9573592
-刘老师说电影,http://mygo.zeabur.app/douyu/8317926
-吸奇侠,http://mygo.zeabur.app/douyu/8986636
-PP看动漫,http://mygo.zeabur.app/douyu/9837291
-史剧解说,http://mygo.zeabur.app/douyu/297689
-影视集装箱,http://mygo.zeabur.app/douyu/8651489
-火龙果说电影,http://mygo.zeabur.app/douyu/9559158
-骑毛驴的八戒,http://mygo.zeabur.app/douyu/1979257
-斗鱼最温情电影解说,http://mygo.zeabur.app/douyu/8799435
-【谁语Whospeak】精彩电影解说,http://mygo.zeabur.app/douyu/8705754
-带你5分钟看一部精彩电影,http://mygo.zeabur.app/douyu/6725858
 
 
 
@@ -2147,6 +1875,7 @@ LE 30,http://nv1connect.com:80/tamtam/tjfYkCbP3s/89238
 
 
 🏆红牛频道,#genre#
+红牛TV,https://i.mjh.nz/redbull-tv.m3u8
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 红牛TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
