@@ -971,29 +971,31 @@ JJ斗地主,http://159.75.85.63:35455/douyu/488743
 
 
 ♨️抖音听歌,#genre#
-1,http://vercel.frogfork.store/douyin/453399571493
-2,http://vercel.frogfork.store/douyin/16227368958
-3,http://vercel.frogfork.store/douyin/380034390763
-4,http://vercel.frogfork.store/douyin/706596648103
-5,http://vercel.frogfork.store/douyin/17971512257
-6,http://vercel.frogfork.store/douyin/69252189721
-7,http://vercel.frogfork.store/douyin/590888789469
-8,http://vercel.frogfork.store/douyin/634137499406
-9,http://vercel.frogfork.store/douyin/986798923450
-10,http://vercel.frogfork.store/douyin/916352155507
+1,http://vercel.frogfork.store/douyin/897066474018
+2,http://vercel.frogfork.store/douyin/986798923450
+3,http://vercel.frogfork.store/douyin/182751096044
+4,http://vercel.frogfork.store/douyin/264588833771
+5,http://vercel.frogfork.store/douyin/380034390763
+6,http://vercel.frogfork.store/douyin/985655029371
+7,http://vercel.frogfork.store/douyin/532817200117
+8,http://vercel.frogfork.store/douyin/69252189721
+9,http://vercel.frogfork.store/douyin/590888789469
+10,http://vercel.frogfork.store/douyin/634137499406
+11,http://vercel.frogfork.store/douyin/986798923450
+12,http://vercel.frogfork.store/douyin/442042005727
 
-
-1,http://mygo.terryd3.repl.co/douyin/453399571493
-2,http://mygo.terryd3.repl.co/douyin/16227368958
-3,http://mygo.terryd3.repl.co/douyin/380034390763
-4,http://mygo.terryd3.repl.co/douyin/706596648103
-5,http://mygo.terryd3.repl.co/douyin/17971512257
-6,http://mygo.terryd3.repl.co/douyin/69252189721
-7,http://mygo.terryd3.repl.co/douyin/590888789469
-8,http://mygo.terryd3.repl.co/douyin/634137499406
-9,http://mygo.terryd3.repl.co/douyin/986798923450
-10,http://mygo.terryd3.repl.co/douyin/916352155507
-
+1,http://mygo.terryd3.repl.co/douyin/897066474018
+2,http://mygo.terryd3.repl.co/douyin/986798923450
+3,http://mygo.terryd3.repl.co/douyin/182751096044
+4,http://mygo.terryd3.repl.co/douyin/264588833771
+5,http://mygo.terryd3.repl.co/douyin/380034390763
+6,http://mygo.terryd3.repl.co/douyin/985655029371
+7,http://mygo.terryd3.repl.co/douyin/532817200117
+8,http://mygo.terryd3.repl.co/douyin/69252189721
+9,http://mygo.terryd3.repl.co/douyin/590888789469
+10,http://mygo.terryd3.repl.co/douyin/634137499406
+11,http://mygo.terryd3.repl.co/douyin/986798923450
+12,http://mygo.terryd3.repl.co/douyin/442042005727
 
 
 
