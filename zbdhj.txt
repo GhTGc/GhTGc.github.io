@@ -1304,8 +1304,6 @@ TVB官方,http://diyp.112114.xyz/huya/23735126
 宋小宝小品,http://vercel.frogfork.store/douyu/9817729
 开心麻花经典小品,http://vercel.frogfork.store/douyu/10153463
 辽视欢乐大集锦,http://vercel.frogfork.store/douyu/9403712
-1905国外电影,http://php.frogfork.store/api/1905new.php?id=1905a
-1905国内电影,http://php.frogfork.store/api/1905new.php?id=1905b
 60帧极致画面,http://vercel.frogfork.store/douyu/747764
 科幻 动作 喜剧电影,http://vercel.frogfork.store/douyu/323876
 恐怖/经典/搞笑,http://vercel.frogfork.store/douyu/74374
