@@ -1304,6 +1304,10 @@ TVB官方,http://diyp.112114.xyz/huya/23735126
 宋小宝小品,http://vercel.frogfork.store/douyu/9817729
 开心麻花经典小品,http://vercel.frogfork.store/douyu/10153463
 辽视欢乐大集锦,http://vercel.frogfork.store/douyu/9403712
+1905国外电影,https://qist.cc/live/1905.php?id=1905a
+1905国外电影,http://47.109.155.164/vv/1905.php?id=1905a
+1905国内电影,https://qist.cc/live/1905.php?id=1905b
+1905国内电影,http://47.109.155.164/vv/1905.php?id=1905b
 60帧极致画面,http://vercel.frogfork.store/douyu/747764
 科幻 动作 喜剧电影,http://vercel.frogfork.store/douyu/323876
 恐怖/经典/搞笑,http://vercel.frogfork.store/douyu/74374
@@ -1351,7 +1355,6 @@ PP看动漫,http://vercel.frogfork.store/douyu/9837291
 宋小宝小品,http://159.75.85.63:35455/douyu/9817729
 开心麻花经典小品,http://159.75.85.63:35455/douyu/10153463
 辽视欢乐大集锦,http://159.75.85.63:35455/douyu/9403712
-1905电影台,http://angtv.cn/test/1905.php
 60帧极致画面,http://159.75.85.63:35455/douyu/747764
 科幻 动作 喜剧电影,http://159.75.85.63:35455/douyu/323876
 恐怖/经典/搞笑,http://159.75.85.63:35455/douyu/74374
