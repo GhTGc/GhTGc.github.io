@@ -971,7 +971,7 @@ BBC ASIAN NETWORK,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asia
 
 👲JJ斗地主,#genre#
 JJ斗地主,http://vercel.frogfork.store/douyin/685317364746
-JJ斗地主,http://php.160820.xyz/api/huya.php?id=14079954
+JJ斗地主,http://vercel.160820.xyz/huya/14079954
 JJ斗地主,http://vercel.frogfork.store/douyu/488743
 JJ斗地主,http://mygo.terryd3.repl.co/huya/14079954
 JJ斗地主,http://159.75.85.63:35455/huya/14079954
@@ -1012,42 +1012,42 @@ JJ斗地主,http://159.75.85.63:35455/douyu/488743
 
 
 🐆🐅虎牙,#genre#
-郭德纲(无唱),http://php.160820.xyz/api/huya.php?id=10132155
-郭德纲(有唱),http://php.160820.xyz/api/huya.php?id=22809600
-郭德纲相声动画版,http://php.160820.xyz/api/huya.php?id=25343324
-易中天品三国,http://php.160820.xyz/api/huya.php?id=11602032
-阿斗归来了,http://php.160820.xyz/api/huya.php?id=13303478
-罗翔说法,http://php.160820.xyz/api/huya.php?id=11601965
-杰森·斯坦森,http://php.160820.xyz/api/huya.php?id=21059588
-巨石强森,http://php.160820.xyz/api/huya.php?id=21059581
-007系列,http://php.160820.xyz/api/huya.php?id=21059585
-周星驰-粤语,http://php.160820.xyz/api/huya.php?id=11336587
-星爷经典,http://php.160820.xyz/api/huya.php?id=11342412
-林正英,http://php.160820.xyz/api/huya.php?id=11342421
-沈腾,http://php.160820.xyz/api/huya.php?id=11601968
-甄子丹,http://php.160820.xyz/api/huya.php?id=11352935
-成龙,http://php.160820.xyz/api/huya.php?id=11342386
-李连杰,http://php.160820.xyz/api/huya.php?id=11342390
-周润发,http://php.160820.xyz/api/huya.php?id=11342387
-刘德华,http://php.160820.xyz/api/huya.php?id=11342424
-洪金宝,http://php.160820.xyz/api/huya.php?id=11279251
-黄渤,http://php.160820.xyz/api/huya.php?id=11342429
-王晶导演,http://php.160820.xyz/api/huya.php?id=11602058
-黑帮系列,http://php.160820.xyz/api/huya.php?id=11336719
-警匪系列,http://php.160820.xyz/api/huya.php?id=11352886
-喜剧系列,http://php.160820.xyz/api/huya.php?id=11602044
-动作大片,http://php.160820.xyz/api/huya.php?id=11602077
-玄幻系列,http://php.160820.xyz/api/huya.php?id=11352973
-古墓系列,http://php.160820.xyz/api/huya.php?id=11352913
-各类经典电影,http://php.160820.xyz/api/huya.php?id=27203821
-贺岁喜剧,http://php.160820.xyz/api/huya.php?id=11601986
-金庸武侠系列,http://php.160820.xyz/api/huya.php?id=11342427
-虎牙斯諾克,http://php.160820.xyz/api/huya.php?id=880214
-虎牙斯諾克副舞台,http://php.160820.xyz/api/huya.php?id=880625
-丁俊晖1,http://php.160820.xyz/api/huya.php?id=880211
-丁俊晖2,http://php.160820.xyz/api/huya.php?id=19197127
-奧沙利文,http://php.160820.xyz/api/huya.php?id=880237
-特魯姆普,http://php.160820.xyz/api/huya.php?id=17455032
+郭德纲(无唱),http://vercel.160820.xyz/huya/10132155
+郭德纲(有唱),http://vercel.160820.xyz/huya/22809600
+郭德纲相声动画版,http://vercel.160820.xyz/huya/25343324
+易中天品三国,http://vercel.160820.xyz/huya/11602032
+阿斗归来了,http://vercel.160820.xyz/huya/13303478
+罗翔说法,http://vercel.160820.xyz/huya/11601965
+杰森·斯坦森,http://vercel.160820.xyz/huya/21059588
+巨石强森,http://vercel.160820.xyz/huya/21059581
+007系列,http://vercel.160820.xyz/huya/21059585
+周星驰-粤语,http://vercel.160820.xyz/huya/11336587
+星爷经典,http://vercel.160820.xyz/huya/11342412
+林正英,http://vercel.160820.xyz/huya/11342421
+沈腾,http://vercel.160820.xyz/huya/11601968
+甄子丹,http://vercel.160820.xyz/huya/11352935
+成龙,http://vercel.160820.xyz/huya/11342386
+李连杰,http://vercel.160820.xyz/huya/11342390
+周润发,http://vercel.160820.xyz/huya/11342387
+刘德华,http://vercel.160820.xyz/huya/11342424
+洪金宝,http://vercel.160820.xyz/huya/11279251
+黄渤,http://vercel.160820.xyz/huya/11342429
+王晶导演,http://vercel.160820.xyz/huya/11602058
+黑帮系列,http://vercel.160820.xyz/huya/11336719
+警匪系列,http://vercel.160820.xyz/huya/11352886
+喜剧系列,http://vercel.160820.xyz/huya/11602044
+动作大片,http://vercel.160820.xyz/huya/11602077
+玄幻系列,http://vercel.160820.xyz/huya/11352973
+古墓系列,http://vercel.160820.xyz/huya/11352913
+各类经典电影,http://vercel.160820.xyz/huya/27203821
+贺岁喜剧,http://vercel.160820.xyz/huya/11601986
+金庸武侠系列,http://vercel.160820.xyz/huya/11342427
+虎牙斯諾克,http://vercel.160820.xyz/huya/880214
+虎牙斯諾克副舞台,http://vercel.160820.xyz/huya/880625
+丁俊晖1,http://vercel.160820.xyz/huya/880211
+丁俊晖2,http://vercel.160820.xyz/huya/19197127
+奧沙利文,http://vercel.160820.xyz/huya/880237
+特魯姆普,http://vercel.160820.xyz/huya/17455032
 
 
 郭德纲(无唱),http://159.75.85.63:35455/huya/10132155
@@ -1128,44 +1128,44 @@ JJ斗地主,http://159.75.85.63:35455/douyu/488743
 
 
 🐆🐅埋堆堆港剧,#genre#
-TVB官方,http://php.160820.xyz/api/huya.php?id=23735126
-埋堆堆官方,http://php.160820.xyz/api/huya.php?id=23740156
-埋堆堆1,http://php.160820.xyz/api/huya.php?id=23749096
-埋堆堆2,http://php.160820.xyz/api/huya.php?id=23728660
-埋堆堆3,http://php.160820.xyz/api/huya.php?id=23865080
-埋堆堆4,http://php.160820.xyz/api/huya.php?id=23864973
-埋堆堆5,http://php.160820.xyz/api/huya.php?id=23734169
-埋堆堆6,http://php.160820.xyz/api/huya.php?id=23865142
-埋堆堆7,http://php.160820.xyz/api/huya.php?id=23863804
-埋堆堆8,http://php.160820.xyz/api/huya.php?id=23903130
-埋堆堆9,http://php.160820.xyz/api/huya.php?id=23860039
-埋堆堆10,http://php.160820.xyz/api/huya.php?id=23903123
-埋堆堆11,http://php.160820.xyz/api/huya.php?id=23865171
-埋堆堆12,http://php.160820.xyz/api/huya.php?id=23734256
-埋堆堆13,http://php.160820.xyz/api/huya.php?id=23903183
-埋堆堆14,http://php.160820.xyz/api/huya.php?id=23749083
-埋堆堆15,http://php.160820.xyz/api/huya.php?id=23728674
-埋堆堆16,http://php.160820.xyz/api/huya.php?id=23903196
-埋堆堆17,http://php.160820.xyz/api/huya.php?id=23829543
-埋堆堆18,http://php.160820.xyz/api/huya.php?id=23863818
-埋堆堆19,http://php.160820.xyz/api/huya.php?id=23734183
-埋堆堆20,http://php.160820.xyz/api/huya.php?id=23865058
-埋堆堆21,http://php.160820.xyz/api/huya.php?id=23865036
-埋堆堆22,http://php.160820.xyz/api/huya.php?id=23829447
-埋堆堆23,http://php.160820.xyz/api/huya.php?id=23860049
-埋堆堆24,http://php.160820.xyz/api/huya.php?id=23865164
-埋堆堆25,http://php.160820.xyz/api/huya.php?id=23865161
-埋堆堆26,http://php.160820.xyz/api/huya.php?id=23865179
-埋堆堆27,http://php.160820.xyz/api/huya.php?id=23863796
-埋堆堆28,http://php.160820.xyz/api/huya.php?id=23824164
-埋堆堆29,http://php.160820.xyz/api/huya.php?id=23734176
-埋堆堆30,http://php.160820.xyz/api/huya.php?id=23863787
-埋堆堆31,http://php.160820.xyz/api/huya.php?id=23863778
-埋堆堆32,http://php.160820.xyz/api/huya.php?id=23749068
-埋堆堆33,http://php.160820.xyz/api/huya.php?id=23734211
-埋堆堆34,http://php.160820.xyz/api/huya.php?id=23746486
-埋堆堆35,http://php.160820.xyz/api/huya.php?id=23735153
-埋堆堆36,http://php.160820.xyz/api/huya.php?id=23734246
+TVB官方,http://vercel.160820.xyz/huya/23735126
+埋堆堆官方,http://vercel.160820.xyz/huya/23740156
+埋堆堆1,http://vercel.160820.xyz/huya/23749096
+埋堆堆2,http://vercel.160820.xyz/huya/23728660
+埋堆堆3,http://vercel.160820.xyz/huya/23865080
+埋堆堆4,http://vercel.160820.xyz/huya/23864973
+埋堆堆5,http://vercel.160820.xyz/huya/23734169
+埋堆堆6,http://vercel.160820.xyz/huya/23865142
+埋堆堆7,http://vercel.160820.xyz/huya/23863804
+埋堆堆8,http://vercel.160820.xyz/huya/23903130
+埋堆堆9,http://vercel.160820.xyz/huya/23860039
+埋堆堆10,http://vercel.160820.xyz/huya/23903123
+埋堆堆11,http://vercel.160820.xyz/huya/23865171
+埋堆堆12,http://vercel.160820.xyz/huya/23734256
+埋堆堆13,http://vercel.160820.xyz/huya/23903183
+埋堆堆14,http://vercel.160820.xyz/huya/23749083
+埋堆堆15,http://vercel.160820.xyz/huya/23728674
+埋堆堆16,http://vercel.160820.xyz/huya/23903196
+埋堆堆17,http://vercel.160820.xyz/huya/23829543
+埋堆堆18,http://vercel.160820.xyz/huya/23863818
+埋堆堆19,http://vercel.160820.xyz/huya/23734183
+埋堆堆20,http://vercel.160820.xyz/huya/23865058
+埋堆堆21,http://vercel.160820.xyz/huya/23865036
+埋堆堆22,http://vercel.160820.xyz/huya/23829447
+埋堆堆23,http://vercel.160820.xyz/huya/23860049
+埋堆堆24,http://vercel.160820.xyz/huya/23865164
+埋堆堆25,http://vercel.160820.xyz/huya/23865161
+埋堆堆26,http://vercel.160820.xyz/huya/23865179
+埋堆堆27,http://vercel.160820.xyz/huya/23863796
+埋堆堆28,http://vercel.160820.xyz/huya/23824164
+埋堆堆29,http://vercel.160820.xyz/huya/23734176
+埋堆堆30,http://vercel.160820.xyz/huya/23863787
+埋堆堆31,http://vercel.160820.xyz/huya/23863778
+埋堆堆32,http://vercel.160820.xyz/huya/23749068
+埋堆堆33,http://vercel.160820.xyz/huya/23734211
+埋堆堆34,http://vercel.160820.xyz/huya/23746486
+埋堆堆35,http://vercel.160820.xyz/huya/23735153
+埋堆堆36,http://vercel.160820.xyz/huya/23734246
 
 
 TVB官方,http://mygo.terryd3.repl.co/huya/23735126
